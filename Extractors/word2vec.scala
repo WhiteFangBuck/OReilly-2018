@@ -11,11 +11,11 @@ object word2vec {
     val conf = new SparkConf().setAppName("Word2VecExample")
     val sc = new SparkContext(conf)
 
-    // $example on$
     val input = sc.textFile("data/mllib/sample_lda_data.txt").map(line => line.split(" ").toSeq)
 
     val word2vec = new Word2Vec()
 
+    The model maps each word to a unique fixed-size vector.
     val model = word2vec.fit(input)
 
     val synonyms = model.findSynonyms("1", 5)
@@ -27,7 +27,6 @@ object word2vec {
     // Save and load model
     model.save(sc, "myModelPath")
     val sameModel = Word2VecModel.load(sc, "myModelPath")
-    // $example off$
 
     sc.stop()
   }
