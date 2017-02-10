@@ -5,7 +5,7 @@ import org.apache.spark.sql.functions._
 
 import org.apache.spark.sql.SparkSession
 
-object tokenizer {
+object tokenizerexample {
   def main(args: Array[String]): Unit = {
     val spark = SparkSession
       .builder

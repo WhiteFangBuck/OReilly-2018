@@ -4,7 +4,7 @@ import org.apache.spark.ml.feature.VectorIndexer
 
 import org.apache.spark.sql.SparkSession
 
-object vectorindexer {
+object vectorindexerexample {
   def main(args: Array[String]): Unit = {
     val spark = SparkSession
       .builder

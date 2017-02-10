@@ -5,7 +5,7 @@ import org.apache.spark.ml.feature.{IndexToString, StringIndexer}
 
 import org.apache.spark.sql.SparkSession
 
-object indextostring {
+object indextostringexample {
   def main(args: Array[String]) {
     val spark = SparkSession
       .builder

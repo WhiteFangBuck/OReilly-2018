@@ -4,7 +4,7 @@ import org.apache.spark.ml.feature.{CountVectorizer, CountVectorizerModel}
 
 import org.apache.spark.sql.SparkSession
 
-object CountVectorizerExample {
+object countvectorizerexample {
   def main(args: Array[String]) {
     val spark = SparkSession
       .builder

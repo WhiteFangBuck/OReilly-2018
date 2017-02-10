@@ -3,7 +3,7 @@ package org.cloudera.workshop
 import org.apache.spark.ml.feature.{HashingTF, IDF, Tokenizer}
 import org.apache.spark.sql.SparkSession
 
-
+object tfidfexample {
 def main(args: Array[String]) {
     val spark = SparkSession
       .builder

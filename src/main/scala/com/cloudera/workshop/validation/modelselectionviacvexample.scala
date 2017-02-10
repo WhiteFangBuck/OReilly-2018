@@ -14,12 +14,8 @@ import org.apache.spark.sql.SparkSession
  * A simple example demonstrating model selection using CrossValidator.
  * This example also demonstrates how Pipelines are Estimators.
  *
- * Run with
- * {{{
- * bin/run-example ml.ModelSelectionViaCrossValidationExample
- * }}}
  */
-object modelselectionviacv {
+object modelselectionviacvexample {
 
   def main(args: Array[String]): Unit = {
     val spark = SparkSession

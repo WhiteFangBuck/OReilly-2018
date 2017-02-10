@@ -9,7 +9,7 @@ import org.apache.spark.sql.SparkSession
  * A simple example demonstrating model selection using TrainValidationSplit.
  *
  */
-object modelselectionviasplit {
+object modelselectionviasplitexample {
 
   def main(args: Array[String]): Unit = {
     val spark = SparkSession

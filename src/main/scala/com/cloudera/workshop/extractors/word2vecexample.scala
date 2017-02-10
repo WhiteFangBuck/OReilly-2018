@@ -5,7 +5,7 @@ import org.apache.spark.SparkContext
 
 import org.apache.spark.mllib.feature.{Word2Vec, Word2VecModel}
 
-object word2vec {
+object word2vecexample {
 
   def main(args: Array[String]): Unit = {
 
@@ -16,7 +16,7 @@ object word2vec {
 
     val word2vec = new Word2Vec()
 
-    The model maps each word to a unique fixed-size vector.
+    //The model maps each word to a unique fixed-size vector.
     val model = word2vec.fit(input)
 
     val synonyms = model.findSynonyms("1", 5)
