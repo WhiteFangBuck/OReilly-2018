@@ -1,3 +1,4 @@
+package org.cloudera.workshop
 
 import org.apache.spark.ml.feature.{HashingTF, IDF, Tokenizer}
 import org.apache.spark.sql.SparkSession

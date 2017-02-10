@@ -1,3 +1,4 @@
+package org.cloudera.workshop
 
 import org.apache.spark.ml.feature.{CountVectorizer, CountVectorizerModel}
 
