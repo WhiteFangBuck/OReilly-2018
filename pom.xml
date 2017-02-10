@@ -1,0 +1,182 @@
+<project>
+  <groupId>org.strata.workshop</groupId>
+  <artifactId>spark-strata</artifactId>
+  <modelVersion>4.0.0</modelVersion>
+  <name>strata-2017-sanjose</name>
+  <packaging>jar</packaging>
+  <version>1.0</version>
+
+    <properties>
+        <spark.version>2.1.0</spark.version>
+        <hadoop.version>2.6.0</hadoop.version>
+	    <scala.minor.version>2.11</scala.minor.version>
+        <scala.version>2.11.8</scala.version>
+        <scala.binary.version>2.11</scala.binary.version>
+    </properties>
+
+  <dependencies>
+
+    <dependency> <!-- Spark dependency -->
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-core_2.11</artifactId>
+      <version>${spark.version}</version>
+    </dependency>
+
+    <dependency> <!-- Spark dependency -->
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-streaming_2.11</artifactId>
+      <version>${spark.version}</version>
+    </dependency>
+
+    <dependency> <!-- Spark dependency -->
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-mllib_2.11</artifactId>
+      <version>${spark.version}</version>
+    </dependency>
+
+    <!--<dependency> 
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-sql_2.11</artifactId>
+      <version>${spark.version}</version>
+    </dependency>-->
+
+    <dependency> <!-- Spark dependency -->
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-graphx_2.11</artifactId>
+      <version>${spark.version}</version>
+    </dependency>
+
+
+      <dependency>
+        <groupId>org.scala-lang</groupId>
+        <artifactId>scala-compiler</artifactId>
+        <version>${scala.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.scala-lang</groupId>
+        <artifactId>scala-library</artifactId>
+        <version>${scala.version}</version>
+      </dependency>
+
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-client</artifactId>
+      <version>${hadoop.version}</version>
+
+      <exclusions>
+          <exclusion>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+          </exclusion>
+          <exclusion>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>*</artifactId>
+          </exclusion>
+
+      </exclusions>
+    </dependency>
+
+    <dependency>
+      <groupId>com.github.scopt</groupId>
+      <artifactId>scopt_${scala.binary.version}</artifactId>
+      <version>3.2.0</version>
+    </dependency>
+
+  </dependencies>
+
+  <build>
+    <plugins>
+
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.1</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <groupId>org.scala-tools</groupId>
+        <artifactId>maven-scala-plugin</artifactId>
+        <version>2.15.2</version>
+        <executions>
+          <execution>
+            <goals>
+              <goal>compile</goal>
+              <goal>testCompile</goal>
+            </goals>
+          </execution>
+        </executions>
+        <configuration>
+          <scalaVersion>${scala.version}</scalaVersion>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <version>2.3</version>
+        <configuration>
+          <descriptorRefs>
+            <descriptorRef>jar-with-dependencies</descriptorRef>
+          </descriptorRefs>
+        </configuration>
+        <executions>
+          <execution>
+            <id>make-assembly</id> <!-- this is used for inheritance merges -->
+            <phase>package</phase> <!-- bind to the packaging phase -->
+            <goals>
+              <goal>single</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+
+      <plugin>
+        <groupId>net.alchim31.maven</groupId>
+        <artifactId>scala-maven-plugin</artifactId>
+	<version>3.2.0</version>
+    <executions>
+        <execution>
+            <id>scala-compile-first</id>
+            <phase>process-resources</phase>
+            <goals>
+                <goal>add-source</goal>
+                <goal>compile</goal>
+            </goals>
+        </execution>
+        <execution>
+            <id>scala-test-compile-first</id>
+            <phase>process-test-resources</phase>
+            <goals>
+                <goal>add-source</goal>
+                <goal>testCompile</goal>
+            </goals>
+        </execution>
+    </executions>
+      </plugin>
+
+      <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>2.17</version>
+      </plugin>
+
+      <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-failsafe-plugin</artifactId>
+          <version>2.17</version>
+          <executions>
+            <execution>
+              <goals>
+                <goal>integration-test</goal>
+                <goal>verify</goal>
+              </goals>
+            </execution>
+          </executions>
+      </plugin>
+
+    </plugins>
+  </build>
+
+</project>
