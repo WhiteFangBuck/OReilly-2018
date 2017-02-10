@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.strata.workshop
+package com.cloudera.workshop
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more

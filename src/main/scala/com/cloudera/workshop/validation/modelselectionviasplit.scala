@@ -1,17 +1,13 @@
-// $example on$
+package com.cloudera.workshop
+
 import org.apache.spark.ml.evaluation.RegressionEvaluator
 import org.apache.spark.ml.regression.LinearRegression
 import org.apache.spark.ml.tuning.{ParamGridBuilder, TrainValidationSplit}
-// $example off$
 import org.apache.spark.sql.SparkSession
 
 /**
  * A simple example demonstrating model selection using TrainValidationSplit.
  *
- * Run with
- * {{{
- * bin/run-example ml.ModelSelectionViaTrainValidationSplitExample
- * }}}
  */
 object modelselectionviasplit {
 

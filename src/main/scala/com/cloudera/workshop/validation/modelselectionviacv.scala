@@ -1,3 +1,4 @@
+package com.cloudera.workshop
 
 import org.apache.spark.ml.Pipeline
 import org.apache.spark.ml.classification.LogisticRegression
