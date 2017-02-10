@@ -1,3 +1,5 @@
+package com.cloudera.workshop
+
 import org.apache.spark.ml.attribute.Attribute
 import org.apache.spark.ml.feature.{IndexToString, StringIndexer}
 

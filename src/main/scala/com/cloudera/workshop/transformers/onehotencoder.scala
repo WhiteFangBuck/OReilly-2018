@@ -1,3 +1,5 @@
+package com.cloudera.workshop
+
 import org.apache.spark.ml.feature.{OneHotEncoder, StringIndexer}
 
 import org.apache.spark.sql.SparkSession

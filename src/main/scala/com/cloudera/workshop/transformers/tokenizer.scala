@@ -1,4 +1,4 @@
-
+package com.cloudera.workshop
 
 import org.apache.spark.ml.feature.{RegexTokenizer, Tokenizer}
 import org.apache.spark.sql.functions._

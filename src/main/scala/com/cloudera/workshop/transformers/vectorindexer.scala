@@ -1,3 +1,4 @@
+package com.cloudera.workshop
 
 import org.apache.spark.ml.feature.VectorIndexer
 
