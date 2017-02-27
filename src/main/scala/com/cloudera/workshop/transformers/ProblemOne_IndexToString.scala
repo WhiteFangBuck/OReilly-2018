@@ -2,13 +2,13 @@ package com.cloudera.workshop
 
 import org.apache.spark.sql.SparkSession
 
-object indextostringexample {
+object ProblemOne_IndexToString {
 
   def main(args: Array[String]) {
 
     val spark = SparkSession
       .builder
-      .appName("IndexToStringExample")
+      .appName("ProblemOne_IndexToString")
       .getOrCreate()
 
     //Given the following data set, create a dataset with columns labelled as "id" and "category"\

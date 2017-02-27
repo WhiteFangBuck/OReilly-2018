@@ -2,14 +2,14 @@ package com.cloudera.workshop
 
 import org.apache.spark.sql.SparkSession
 
-object stopwordsremoverexample {
+object ProblemFour_StopwordsRemover {
 
 
   def main(args: Array[String]): Unit = {
 
     val spark = SparkSession
       .builder
-      .appName("StopWordsRemoverExample")
+      .appName("ProblemFour_StopwordsRemover")
       .getOrCreate()
 
     //The Data

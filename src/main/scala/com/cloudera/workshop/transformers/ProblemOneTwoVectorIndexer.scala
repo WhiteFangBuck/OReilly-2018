@@ -4,12 +4,17 @@ import org.apache.spark.ml.feature.VectorIndexer
 
 import org.apache.spark.sql.SparkSession
 
-object vectorindexerexample {
+object ProblemOneTwoVectorIndexer {
+
   def main(args: Array[String]): Unit = {
     val spark = SparkSession
       .builder
-      .appName("VectorIndexerExample")
+      .appName("ProblemOneTwoVectorIndexer")
       .getOrCreate()
+
+    //Either use the previous data or the libsvm data here
+
+    //Init and use a Vector Indexer which combines StringIndexer and OneHotEncoder.
 
     val data = spark.read.format("libsvm").load("data/mllib/sample_libsvm_data.txt")
 

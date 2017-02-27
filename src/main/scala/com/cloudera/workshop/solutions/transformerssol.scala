@@ -1,8 +1,10 @@
 package org.cloudera.workshop
 
 import org.apache.spark.ml.attribute.Attribute
-import org.apache.spark.ml.feature.{IndexToString, OneHotEncoder, StopWordsRemover, StringIndexer}
+import org.apache.spark.ml.feature._
 import org.apache.spark.sql.SparkSession
+import org.apache.spark.sql.functions.{col, udf}
+
 object transformerssol {
 
 
@@ -59,22 +61,73 @@ object transformerssol {
           encoded.show()
 
       /**
+        * Combine above using VectorIndexer
+        */
+      val libSVMData = spark.read.format("libsvm").load("data/mllib/sample_libsvm_data.txt")
+
+      val vIndexer = new VectorIndexer()
+        .setInputCol("features")
+        .setOutputCol("indexed")
+        .setMaxCategories(10)
+
+      val indexerModel = vIndexer.fit(libSVMData)
+
+      val categoricalFeatures: Set[Int] = indexerModel.categoryMaps.keys.toSet
+      println(s"Chose ${categoricalFeatures.size} categorical features: " +
+        categoricalFeatures.mkString(", "))
+
+      // Create new column "indexed" with categorical values transformed to indices
+      val indexedData = indexerModel.transform(libSVMData)
+      indexedData.show()
+
+      /**
+        * Tokenizer
+        */
+      val data = Seq(
+        (0, " It was a bright cold day in April, and the clocks were striking thirteen."),
+        (1, "The sky above the port was the color of television, tuned to a dead channel."),
+        (2, "It was love at first sight.")
+      )
+
+      val sentenceDataFrame = spark.createDataFrame(data).toDF("id", "sentence")
+
+      val tokenizer = new Tokenizer().setInputCol("sentence").setOutputCol("words")
+      val regexTokenizer = new RegexTokenizer()
+        .setInputCol("sentence")
+        .setOutputCol("words")
+        .setPattern("\\W") // alternatively .setPattern("\\w+").setGaps(false)
+
+      val countTokens = udf { (words: Seq[String]) => words.length }
+
+      val tokenized = tokenizer.transform(sentenceDataFrame)
+      tokenized.select("sentence", "words")
+        .withColumn("tokens", countTokens(col("words"))).show(false)
+
+      val regexTokenized = regexTokenizer.transform(sentenceDataFrame)
+      regexTokenized.select("sentence", "words")
+        .withColumn("tokens", countTokens(col("words"))).show(false)
+
+      /**
         * StopWords Removal Example
         */
       //The Data
-      val data = Seq(
-        (0, Seq("It", "was", "a", "bright", "cold", "day", "in", "April", "and", "the", "clocks", "were", "striking", "thirteen")),
-        (1, Seq("The", "sky", "above", "the", "port", "was", "the", "color", "of", "television", "tuned", "to", "a", "dead", "channel")),
-        (2, Seq("It", "was", "love", "at", "first", "sight"))
-      )
+     // val dataT = Seq(
+       // (0, Seq("It", "was", "a", "bright", "cold", "day", "in", "April", "and", "the", "clocks", "were", "striking", "thirteen")),
+        //(1, Seq("The", "sky", "above", "the", "port", "was", "the", "color", "of", "television", "tuned", "to", "a", "dead", "channel")),
+        //(2, Seq("It", "was", "love", "at", "first", "sight"))
+     // )
 
-      val dataSet = spark.createDataFrame(data).toDF("id", "raw")
+      //val dataSet = spark.createDataFrame(data).toDF("id", "raw")
 
       val remover = new StopWordsRemover()
-        .setInputCol("raw")
+        .setInputCol("words")
         .setOutputCol("filtered")
 
-      remover.transform(dataSet).show(false)
+      remover.transform(regexTokenized).show(false)
+
+      /**
+        * Implement the tokenizer
+        */
 
       spark.stop()
     }

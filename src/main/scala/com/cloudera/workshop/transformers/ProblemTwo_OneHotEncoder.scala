@@ -2,14 +2,14 @@ package com.cloudera.workshop
 
 import org.apache.spark.sql.SparkSession
 
-object onehotencoderexample {
+object ProblemTwo_OneHotEncoder {
 
 
   def main(args: Array[String]): Unit = {
 
     val spark = SparkSession
       .builder
-      .appName("OneHotEncoderExample")
+      .appName("ProblemTwo_OneHotEncoder")
       .getOrCreate()
 
     val data = Seq(

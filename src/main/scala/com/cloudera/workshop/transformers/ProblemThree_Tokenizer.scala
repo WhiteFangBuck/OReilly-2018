@@ -5,12 +5,21 @@ import org.apache.spark.sql.functions._
 
 import org.apache.spark.sql.SparkSession
 
-object tokenizerexample {
+object ProblemThree_Tokenizer {
+
+
   def main(args: Array[String]): Unit = {
+
     val spark = SparkSession
       .builder
-      .appName("TokenizerExample")
+      .appName("ProblemThree_Tokenizer")
       .getOrCreate()
+
+    val data = Seq(
+      (0, " It was a bright cold day in April, and the clocks were striking thirteen."),
+      (1, "The sky above the port was the color of television, tuned to a dead channel."),
+      (2, "It was love at first sight.")
+    )
 
     val sentenceDataFrame = spark.createDataFrame(Seq(
       (0, "Hi I heard about Spark"),
