@@ -1,8 +1,7 @@
 package com.cloudera.workshop
 import org.apache.log4j._
 import org.apache.spark.ml.clustering.KMeans
-
-import org.apache.spark.ml.feature.{StandardScaler, VectorAssembler}
+import org.apache.spark.ml.feature.VectorAssembler
 import org.apache.spark.sql.functions._
 
 object kmeans{
@@ -63,7 +62,7 @@ object kmeans{
                           .setInputCols(Array("Saturday","Sunday","Monday","dateFract","Flight"))
                           .setOutputCol("features")
 
-    val featurizedData = assembler.transform(transformedFlight)
+    val featurizedData = assembler.transform(transformedTime)
     featurizedData.printSchema()
     featurizedData.show()
 

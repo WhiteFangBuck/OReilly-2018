@@ -1,50 +1,34 @@
 package com.cloudera.workshop
 
-import org.apache.spark.ml.attribute.Attribute
-import org.apache.spark.ml.feature.{IndexToString, StringIndexer}
-
 import org.apache.spark.sql.SparkSession
 
 object indextostringexample {
+
   def main(args: Array[String]) {
+
     val spark = SparkSession
       .builder
       .appName("IndexToStringExample")
       .getOrCreate()
 
-    val df = spark.createDataFrame(Seq(
+    //Given the following data set, create a dataset with columns labelled as "id" and "category"\
+
+    val data = Seq(
       (0, "a"),
       (1, "b"),
       (2, "c"),
       (3, "a"),
       (4, "a"),
       (5, "c")
-    )).toDF("id", "category")
+    )
 
-    val indexer = new StringIndexer()
-      .setInputCol("category")
-      .setOutputCol("categoryIndex")
-      .fit(df)
-    val indexed = indexer.transform(df)
+    //Step 1:  Create a DataFrame
 
-    println(s"Transformed string column '${indexer.getInputCol}' " +
-        s"to indexed column '${indexer.getOutputCol}'")
-    indexed.show()
+    //Step 2: Transform to a Dataset
 
-    val inputColSchema = indexed.schema(indexer.getOutputCol)
-    println(s"StringIndexer will store labels in output column metadata: " +
-        s"${Attribute.fromStructField(inputColSchema).toString}\n")
+    //Step 3: Initialize a StringIndexer to fit the DataSet
 
-    val converter = new IndexToString()
-      .setInputCol("categoryIndex")
-      .setOutputCol("originalCategory")
-
-    val converted = converter.transform(indexed)
-
-    println(s"Transformed indexed column '${converter.getInputCol}' back to original string " +
-        s"column '${converter.getOutputCol}' using labels in metadata")
-    converted.select("id", "categoryIndex", "originalCategory").show()
-    // $example off$
+    //Step 4: Convert it back to the original String.
 
     spark.stop()
   }

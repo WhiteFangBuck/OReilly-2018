@@ -6,9 +6,9 @@ import org.apache.spark.ml.feature.{Normalizer, VectorAssembler}
 import org.apache.spark.sql.functions._
 
 object clusteringsol {
-    Logger.getRootLogger.setLevel(Level.OFF)
-    Logger.getLogger("org").setLevel(Level.OFF)
-    Logger.getLogger("akka").setLevel(Level.OFF)
+  Logger.getRootLogger.setLevel(Level.OFF)
+  Logger.getLogger("org").setLevel(Level.OFF)
+  Logger.getLogger("akka").setLevel(Level.OFF)
 
   def main(args: Array[String]) {
 
@@ -28,65 +28,66 @@ object clusteringsol {
     //df.show(12)
 
     val chosenData = df.select(
-                               df("GrossReceipts").alias("f1"),
-                               df("Organization501c").getField("_VALUE").alias("f2"),
-                               df("TotalNbrEmployees").alias("f3"),
-                               df("NbrVotingMembersGoverningBody").alias("f4"),
-                               df("NbrIndependentVotingMembers").alias("f5"),
-                               df("TotalNbrVolunteers").alias("f6"),
-                               df("TotalGrossUBI").alias("f7"),
-                               df("NetUnrelatedBusinessTxblIncome").alias("f8"),
-                               df("ContributionsGrantsPriorYear").alias("f9"),
-                               df("ContributionsGrantsCurrentYear").alias("f10"),
-                               df("ProgramServiceRevenuePriorYear").alias("f11"),
-                               df("ProgramServiceRevenueCY").alias("f12"),
-                               df("InvestmentIncomeCurrentYear").alias("f13"),
-                               df("OtherRevenuePriorYear").alias("f14"),
-                               df("OtherRevenueCurrentYear").alias("f15"),
-                               df("TotalRevenuePriorYear").alias("f16"),
-                               df("TotalRevenueCurrentYear").alias("f17"),
-                               df("GrantsAndSimilarAmntsCY").alias("f18"),
-                               df("BenefitsPaidToMembersCY").alias("f19"),
-                               df("SalariesEtcCurrentYear").alias("f20"),
-                               df("TotalProfFundrsngExpCY").alias("f21"),
-                               df("TotalFundrsngExpCurrentYear").alias("f22"),
-                               df("OtherExpensePriorYear").alias("f23"),
-                               df("OtherExpensesCurrentYear").alias("f24"),
-                               df("TotalExpensesPriorYear").alias("f25"),
-                               df("TotalExpensesCurrentYear").alias("f26"),
-                               df("TotalAssetsBOY").alias("f27"),
-                               df("TotalAssetsEOY").alias("f28"),
-                               df("TotalLiabilitiesBOY").alias("f29"),
-                               df("TotalLiabilitiesEOY").alias("f30"),
-                               df("NetAssetsOrFundBalancesBOY").alias("f31"),
-                               df("NetAssetsOrFundBalancesEOY").alias("f32"),
-                               df("School").getField("_VALUE").alias("f33"),
-                               df("ForeignOffice").alias("f34"),
-                               df("ForeignActivities").getField("_VALUE").alias("f35"),
-                               df("MoreThan5000KToOrganizations").getField("_VALUE").alias("f36"),
-                               df("MoreThan5000KToIndividuals").getField("_VALUE").alias("f37"),
-                               df("ProfessionalFundraising").getField("_VALUE").alias("f38"),
-                               df("FundraisingActivities").getField("_VALUE").alias("f39"),
-                               df("Gaming").getField("_VALUE").alias("f40"),
-                               df("Hospital").getField("_VALUE").alias("f41"),
-                               df("GrantsToOrganizations").getField("_VALUE").alias("f42"),
-                               df("GrantsToIndividuals").getField("_VALUE").alias("f43"),
-                               df("ScheduleJRequired").getField("_VALUE").alias("f44"),
-                               df("TaxExemptBonds").getField("_VALUE").alias("f45"),
-                               df("OfficerEntityWithBsnssRltnshp").getField("_VALUE").alias("f46"),
-                               df("Terminated").getField("_VALUE").alias("f47"),
-                               df("PartialLiquidation").getField("_VALUE").alias("f48"),
-                               df("MembersOrStockholders").alias("f49"),
-                               df("ElectionOfBoardMembers").alias("f50")).cache()
+      df("GrossReceipts").alias("f1"),
+      df("Organization501c").getField("_VALUE").alias("f2"),
+      df("TotalNbrEmployees").alias("f3"),
+      df("NbrVotingMembersGoverningBody").alias("f4"),
+      df("NbrIndependentVotingMembers").alias("f5"),
+      df("TotalNbrVolunteers").alias("f6"),
+      df("TotalGrossUBI").alias("f7"),
+      df("NetUnrelatedBusinessTxblIncome").alias("f8"),
+      df("ContributionsGrantsPriorYear").alias("f9"),
+      df("ContributionsGrantsCurrentYear").alias("f10"),
+      df("ProgramServiceRevenuePriorYear").alias("f11"),
+      df("ProgramServiceRevenueCY").alias("f12"),
+      df("InvestmentIncomeCurrentYear").alias("f13"),
+      df("OtherRevenuePriorYear").alias("f14"),
+      df("OtherRevenueCurrentYear").alias("f15"),
+      df("TotalRevenuePriorYear").alias("f16"),
+      df("TotalRevenueCurrentYear").alias("f17"),
+      df("GrantsAndSimilarAmntsCY").alias("f18"),
+      df("BenefitsPaidToMembersCY").alias("f19"),
+      df("SalariesEtcCurrentYear").alias("f20"),
+      df("TotalProfFundrsngExpCY").alias("f21"),
+      df("TotalFundrsngExpCurrentYear").alias("f22"),
+      df("OtherExpensePriorYear").alias("f23"),
+      df("OtherExpensesCurrentYear").alias("f24"),
+      df("TotalExpensesPriorYear").alias("f25"),
+      df("TotalExpensesCurrentYear").alias("f26"),
+      df("TotalAssetsBOY").alias("f27"),
+      df("TotalAssetsEOY").alias("f28"),
+      df("TotalLiabilitiesBOY").alias("f29"),
+      df("TotalLiabilitiesEOY").alias("f30"),
+      df("NetAssetsOrFundBalancesBOY").alias("f31"),
+      df("NetAssetsOrFundBalancesEOY").alias("f32"),
+      df("School").getField("_VALUE").alias("f33"),
+      df("ForeignOffice").alias("f34"),
+      df("ForeignActivities").getField("_VALUE").alias("f35"),
+      df("MoreThan5000KToOrganizations").getField("_VALUE").alias("f36"),
+      df("MoreThan5000KToIndividuals").getField("_VALUE").alias("f37"),
+      df("ProfessionalFundraising").getField("_VALUE").alias("f38"),
+      df("FundraisingActivities").getField("_VALUE").alias("f39"),
+      df("Gaming").getField("_VALUE").alias("f40"),
+      df("Hospital").getField("_VALUE").alias("f41"),
+      df("GrantsToOrganizations").getField("_VALUE").alias("f42"),
+      df("GrantsToIndividuals").getField("_VALUE").alias("f43"),
+      df("ScheduleJRequired").getField("_VALUE").alias("f44"),
+      df("TaxExemptBonds").getField("_VALUE").alias("f45"),
+      df("OfficerEntityWithBsnssRltnshp").getField("_VALUE").alias("f46"),
+      df("Terminated").getField("_VALUE").alias("f47"),
+      df("PartialLiquidation").getField("_VALUE").alias("f48"),
+      df("MembersOrStockholders").alias("f49"),
+      df("ElectionOfBoardMembers").alias("f50")).cache()
 
     chosenData.schema
     chosenData.show(20)
 
     //  Convert String to Numeric
-    val toNum = udf {(x:String) => if (x == null ) -1
-                                   else if (x.equals("false")) 0
-                                   else if (x.equals("true")) 1
-                                   else x.hashCode}
+    val toNum = udf { (x: String) => if (x == null) -1
+    else if (x.equals("false")) 0
+    else if (x.equals("true")) 1
+    else x.hashCode
+    }
 
     val numericDF = chosenData.withColumn("f52", toNum(chosenData("f2"))).drop("f2")
       .withColumn("f53", toNum(chosenData("f33"))).drop("f33")
@@ -107,7 +108,7 @@ object clusteringsol {
       .withColumn("f68", toNum(chosenData("f48"))).drop("f48")
       .withColumn("f69", toNum(chosenData("f49"))).drop("f49")
       .withColumn("f70", toNum(chosenData("f50"))).drop("f50")
-        .na.fill(-1)
+      .na.fill(-1)
 
     numericDF.schema
     numericDF.show(20)
@@ -167,7 +168,7 @@ object clusteringsol {
       .setOutputCol("features")
 
     val featurizedDF = assembler.transform(numericDF)
-                                  .select("features")
+      .select("features")
     featurizedDF.printSchema()
     featurizedDF.show()
 
@@ -194,4 +195,5 @@ object clusteringsol {
 
 
     session.stop()
+  }
 }
