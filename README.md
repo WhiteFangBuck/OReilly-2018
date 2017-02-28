@@ -73,7 +73,7 @@ Have the following downloaded before the session
 
 - JDK installed (> 1.7.x)
 - Spark binaries
-- https://github.com/WhiteFangBuck/strata-2016-singapore
+- https://github.com/WhiteFangBuck/strata-sanjose-2017
 
 
 ## Git
