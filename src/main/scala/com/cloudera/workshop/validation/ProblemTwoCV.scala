@@ -1,20 +1,18 @@
-package org.cloudera.workshop
+package com.cloudera.workshop
 
-import org.apache.spark.ml.Pipeline
-import org.apache.spark.ml.classification.LogisticRegression
-import org.apache.spark.ml.evaluation.BinaryClassificationEvaluator
-import org.apache.spark.ml.feature.{HashingTF, Tokenizer}
-import org.apache.spark.ml.linalg.Vector
-import org.apache.spark.ml.tuning.{CrossValidator, ParamGridBuilder}
-import org.apache.spark.sql.{Row, SparkSession}
+import org.apache.spark.sql.SparkSession
 
-object validationsol {
-
+/**
+ * A simple example demonstrating model selection using CrossValidator.
+ * This example also demonstrates how Pipelines are Estimators.
+ *
+ */
+object ProblemTwoCV {
 
   def main(args: Array[String]): Unit = {
     val spark = SparkSession
       .builder
-      .appName("validationsol")
+      .appName("ProblemTwoCV")
       .getOrCreate()
 
     /**
@@ -40,36 +38,22 @@ object validationsol {
       * Start of the pipeline
       */
 
-    val tokenizer = new Tokenizer()
-      .setInputCol("text")
-      .setOutputCol("words")
 
     /**
       * Use the HashingTF on Tokenizer output
       */
-    val hashingTF = new HashingTF()
-      .setInputCol(tokenizer.getOutputCol)
-      .setOutputCol("features")
 
     /**
       * Initialize a logistic regression model
       */
-    val lr = new LogisticRegression()
-      .setMaxIter(10)
 
     /**
       * Initialize the pipeline using previous three nodes
       */
-    val pipeline = new Pipeline()
-      .setStages(Array(tokenizer, hashingTF, lr))
 
     /**
       * Create the parameter builder using various number of features and different values for the regularizer
       */
-    val paramGrid = new ParamGridBuilder()
-      .addGrid(hashingTF.numFeatures, Array(10, 100, 1000))
-      .addGrid(lr.regParam, Array(0.1, 0.01))
-      .build()
 
     /**
       * Initiate a CrossValidator
@@ -77,16 +61,9 @@ object validationsol {
       * NumberofFolds are 2+.
       */
 
-    val cv = new CrossValidator()
-      .setEstimator(pipeline)
-      .setEvaluator(new BinaryClassificationEvaluator)
-      .setEstimatorParamMaps(paramGrid)
-      .setNumFolds(2)  // Use 3+ in practice
-
     /**
       * Run cross validation
       */
-    val cvModel = cv.fit(training)
 
     /**
       * Prepare the test documents
@@ -101,11 +78,8 @@ object validationsol {
     /**
       * Make predictions on the test documents
       */
-    cvModel.transform(test)
-      .select("id", "text", "probability", "prediction")
-      .collect()
-      .foreach { case Row(id: Long, text: String, prob: Vector, prediction: Double) =>
-        println(s"($id, $text) --> prob=$prob, prediction=$prediction")
-      }
 
+    spark.stop()
+  }
 }
+// scalastyle:on println

@@ -11,7 +11,7 @@ object transformerssol {
     def main(args: Array[String]) {
       val spark = SparkSession
         .builder
-        .appName("IndexToStringExample")
+        .appName("transformerssol")
         .getOrCreate()
 
       val df = spark.createDataFrame(Seq(
