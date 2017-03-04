@@ -17,9 +17,10 @@ object ProblemOneKMeans{
       .getOrCreate()
 
     // Create the DataFrame using csv method
+    val input_data = "data/kmeans/flightinfo/flights_nofeatures.csv"
     val inputData = session.read
         .option("header","true")
-        .option("inferSchema","true").csv(args(0))
+        .option("inferSchema","true").csv(input_data)
 
     inputData.printSchema()
     inputData.show(50)
