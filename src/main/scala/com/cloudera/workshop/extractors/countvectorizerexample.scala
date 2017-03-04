@@ -1,35 +1,29 @@
 package org.cloudera.workshop
 
-import org.apache.spark.ml.feature.{CountVectorizer, CountVectorizerModel}
-
 import org.apache.spark.sql.SparkSession
 
 object countvectorizerexample {
+
   def main(args: Array[String]) {
+
     val spark = SparkSession
       .builder
       .appName("CountVectorizerExample")
       .getOrCreate()
 
-    val df = spark.createDataFrame(Seq(
-      (0, Array("a", "b", "c")),
-      (1, Array("a", "b", "b", "c", "a"))
-    )).toDF("id", "words")
+    val sentenceData = spark.createDataFrame(Seq(
+      (0.0, "It was a bright cold day in April, and the clocks were striking thirteen."),
+      (0.0, "The sky above the port was the color of television, tuned to a dead channel."),
+      (1.0, "It was love at first sight.")
+    )).toDF("label", "sentence")
 
-    // fit a CountVectorizerModel from the corpus
-    val cvModel: CountVectorizerModel = new CountVectorizer()
-      .setInputCol("words")
-      .setOutputCol("features")
-      .setVocabSize(3)
-      .setMinDF(2)
-      .fit(df)
+    /**
+      *  Fit a CountVectorizer Model from the given corpus
+       */
 
-    // alternatively, define CountVectorizerModel with a-priori vocabulary
-    val cvm = new CountVectorizerModel(Array("a", "b", "c"))
-      .setInputCol("words")
-      .setOutputCol("features")
-
-    cvModel.transform(df).show(false)
+    /**
+      * Try this by defining a-priori vocabulary
+      */
 
 
     spark.stop()

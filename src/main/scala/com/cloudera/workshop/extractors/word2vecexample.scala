@@ -9,25 +9,22 @@ object word2vecexample {
 
   def main(args: Array[String]): Unit = {
 
-    val conf = new SparkConf().setAppName("Word2VecExample")
-    val sc = new SparkContext(conf)
+    /**
+      * Read in the data to generate and display the word2vec model
+       */
+    /**
+      * Create the Dataframe to be used for
+      */
 
-    val input = sc.textFile("data/mllib/sample_lda_data.txt").map(line => line.split(" ").toSeq)
+    val sentenceData = spark.createDataFrame(Seq(
+      (0.0, "It was a bright cold day in April, and the clocks were striking thirteen."),
+      (0.0, "The sky above the port was the color of television, tuned to a dead channel."),
+      (1.0, "It was love at first sight.")
+    )).toDF("label", "sentence")
 
-    val word2vec = new Word2Vec()
-
-    //The model maps each word to a unique fixed-size vector.
-    val model = word2vec.fit(input)
-
-    val synonyms = model.findSynonyms("1", 5)
-
-    for((synonym, cosineSimilarity) <- synonyms) {
-      println(s"$synonym $cosineSimilarity")
-    }
-
-    // Save and load model
-    model.save(sc, "myModelPath")
-    val sameModel = Word2VecModel.load(sc, "myModelPath")
+    /**
+      * Generate the word2vec model
+      */
 
     sc.stop()
   }
