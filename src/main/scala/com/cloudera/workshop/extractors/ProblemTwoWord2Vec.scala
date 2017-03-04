@@ -1,15 +1,22 @@
-package org.cloudera.workshop
+package org.cloudera.workshop 
 
 import org.apache.spark.sql.SparkSession
 
-object countvectorizerexample {
+object ProblemTwoWord2Vec {
 
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
 
     val spark = SparkSession
       .builder
-      .appName("CountVectorizerExample")
+      .appName("ProblemTwoWord2Vec")
       .getOrCreate()
+
+    /**
+      * Read in the data to generate and display the word2vec model
+       */
+    /**
+      * Create the Dataframe to be used for
+      */
 
     val sentenceData = spark.createDataFrame(Seq(
       (0.0, "It was a bright cold day in April, and the clocks were striking thirteen."),
@@ -18,15 +25,10 @@ object countvectorizerexample {
     )).toDF("label", "sentence")
 
     /**
-      *  Fit a CountVectorizer Model from the given corpus
-       */
-
-    /**
-      * Try this by defining a-priori vocabulary
+      * Generate the word2vec model
       */
 
-
-    spark.stop()
   }
 }
+
 // scalastyle:on println

@@ -2,13 +2,13 @@ package org.cloudera.workshop
 
 import org.apache.spark.sql.SparkSession
 
-object tfidfexample {
+object ProblemOneCountVectorizer {
 
-def main(args: Array[String]) {
+  def main(args: Array[String]) {
 
     val spark = SparkSession
       .builder
-      .appName("TfIdfExample")
+      .appName("ProblemOneCountVectorizer")
       .getOrCreate()
 
     val sentenceData = spark.createDataFrame(Seq(
@@ -17,25 +17,14 @@ def main(args: Array[String]) {
       (1.0, "It was love at first sight.")
     )).toDF("label", "sentence")
 
-  /**
-    * Tokenize the words
-    */
+    /**
+      *  Fit a CountVectorizer Model from the given corpus
+       */
 
-  /**
-    * Use HashingTF and/or CountVectorizer to generate the IDF
-    *
-    * HashingTF: This is a transformer that takes a set of terms and converts those sets into fixed-length feature vectors.
-    *
-    * CountVectorizer: Converts text documents to vectors of term documents.
-     */
+    /**
+      * Try this by defining a-priori vocabulary
+      */
 
-  /**
-    * Generate the IDF Model
-    */
-
-  /**
-    * Show the transformed data
-    */
 
     spark.stop()
   }
