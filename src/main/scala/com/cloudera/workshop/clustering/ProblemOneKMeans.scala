@@ -4,7 +4,7 @@ import org.apache.spark.ml.clustering.KMeans
 import org.apache.spark.ml.feature.VectorAssembler
 import org.apache.spark.sql.functions._
 
-object kmeans{
+object ProblemOneKMeans{
   Logger.getRootLogger.setLevel(Level.OFF)
   Logger.getLogger("org").setLevel(Level.OFF)
   Logger.getLogger("akka").setLevel(Level.OFF)
@@ -13,7 +13,7 @@ object kmeans{
 
     val session = org.apache.spark.sql.SparkSession.builder().
       master("local[4]")
-      .appName("FlightClustering")
+      .appName("ProblemOneKMeans")
       .getOrCreate()
 
     // Create the DataFrame using csv method

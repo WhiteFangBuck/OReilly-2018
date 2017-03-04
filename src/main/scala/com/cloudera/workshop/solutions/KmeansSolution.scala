@@ -5,7 +5,7 @@ import org.apache.spark.ml.clustering.KMeans
 import org.apache.spark.ml.feature.{Normalizer, VectorAssembler}
 import org.apache.spark.sql.functions._
 
-object clusteringsol {
+object KmeansSolution {
   Logger.getRootLogger.setLevel(Level.OFF)
   Logger.getLogger("org").setLevel(Level.OFF)
   Logger.getLogger("akka").setLevel(Level.OFF)
