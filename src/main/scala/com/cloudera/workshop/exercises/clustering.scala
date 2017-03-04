@@ -22,7 +22,7 @@ object clustering {
     val df = session.read
       .format("com.databricks.spark.xml")
       .option("rowTag", "IRS990")
-      .load("resources/990")
+      .load("data/kmeans/irs990")
 
     // Select your columns here
     // val chosenData = df.select().cache()
