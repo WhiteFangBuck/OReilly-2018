@@ -1,6 +1,9 @@
 package com.cloudera.workshop
 
 import org.apache.spark.sql.SparkSession
+import org.apache.spark.ml.evaluation.RegressionEvaluator
+import org.apache.spark.ml.regression.LinearRegression
+import org.apache.spark.ml.tuning.{ParamGridBuilder, TrainValidationSplit}
 
 /**
  * A simple example demonstrating model selection using TrainValidationSplit.
@@ -26,30 +29,48 @@ object ProblemOneTrainingSplit {
     /**
       * Split into training and testing
      */
+    val Array(training, test) = data.randomSplit(Array(0.9, 0.1), seed = 12345)
+
 
     /**
       * Set the number of iterations
       */
-
+    val lr = new LinearRegression()
+      .setMaxIter(10)
 
     /**
       * Set the parametric grid builder
       * For Regularizer
       * For Intercept
       */
+    val paramGrid = new ParamGridBuilder()
+      .addGrid(lr.regParam, Array(0.1, 0.01))
+      .addGrid(lr.fitIntercept)
+      .addGrid(lr.elasticNetParam, Array(0.0, 0.5, 1.0))
+      .build()
 
     /**
       * Do the TrainValidation model initiation
       * 80-20 split
       */
+    val trainValidationSplit = new TrainValidationSplit()
+      .setEstimator(lr)
+      .setEvaluator(new RegressionEvaluator)
+      .setEstimatorParamMaps(paramGrid)
+      // 80% of the data will be used for training and the remaining 20% for validation.
+      .setTrainRatio(0.8)
 
     /**
       * Generate the model on the training data
       */
+    val model = trainValidationSplit.fit(training)
 
     /**
       * Print out the predictions on the test
       */
+    model.transform(test)
+      .select("features", "label", "prediction")
+      .show()
 
     spark.stop()
   }
