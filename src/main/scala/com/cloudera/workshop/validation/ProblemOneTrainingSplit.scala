@@ -1,5 +1,6 @@
 package com.cloudera.workshop
 
+import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.ml.evaluation.RegressionEvaluator
 import org.apache.spark.ml.regression.LinearRegression
@@ -10,10 +11,14 @@ import org.apache.spark.ml.tuning.{ParamGridBuilder, TrainValidationSplit}
  *
  */
 object ProblemOneTrainingSplit {
+  Logger.getRootLogger.setLevel(Level.OFF)
+  Logger.getLogger("org").setLevel(Level.OFF)
+  Logger.getLogger("akka").setLevel(Level.OFF)
 
   def main(args: Array[String]): Unit = {
     val spark = SparkSession
       .builder
+      .master("local[2]")
       .appName("ProblemOneTrainingSplit")
       .getOrCreate()
 
