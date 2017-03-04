@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T12:25:05-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DLD BOOKKEEPING SOLUTIONS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>5840 QUAIL AVENUE NORTH</AddressLine1>
+        <City>CRYSTAL</City>
+        <State>MN</State>
+        <ZIPCode>554292811</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>411313676</EIN>
+      <Name>
+        <BusinessNameLine1>CAMDEN COMMUNITY NEWS INC</BusinessNameLine1>
+      </Name>
+      <NameControl>CAMD</NameControl>
+      <Phone>6125213060</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 11492</AddressLine1>
+        <City>MINNEAPOLIS</City>
+        <State>MN</State>
+        <ZIPCode>55412</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BAZILLA E BOHN</Name>
+      <Title>CHAIRMAN</Title>
+      <Phone>6125213060</Phone>
+      <DateSigned>2011-08-04</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>DEBRA DABERKOW-WRIGHT</Name>
+      <Phone>7635351978</Phone>
+      <DatePrepared>2011-08-08</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>5934</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>5295</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1</InterestOnSavingsRevAndExpnss>
+        <DividendsRevAndExpnss>1</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>1</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>1</DividendsAdjNetIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <GrossSalesLessReturnsAndAllwnc>200</GrossSalesLessReturnsAndAllwnc>
+        <GrossProfitRevAndExpnss>200</GrossProfitRevAndExpnss>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="OtherIncomeSchedule2">52403</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>57900</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>1</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>1</TotalAdjustedNetIncome>
+        <OthEmplSlrsWgsRevAndExpnss>12000</OthEmplSlrsWgsRevAndExpnss>
+        <AccountingFeesRevAndExpnss>1925</AccountingFeesRevAndExpnss>
+        <OtherProfFeesRevAndExpnss>5900</OtherProfFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="TaxesSchedule">2881</TaxesRevAndExpnss>
+        <PrintingAndPubRevAndExpnss>28968</PrintingAndPubRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">3593</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>55267</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>55267</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>2633</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1</NetInvestmentIncome>
+        <AdjustedNetIncome>1</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1311</CashBOY>
+        <CashEOY>639</CashEOY>
+        <CashEOYFMV>639</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>1990</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>5295</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>5295</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>3301</TotalAssetsBOY>
+        <TotalAssetsEOY>5934</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>5934</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>3301</RetainedEarningsBOY>
+        <RetainedEarningsEOY>5934</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>3301</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>5934</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3301</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>5934</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3301</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>2633</ExcessOfRevenueOverExpenses>
+        <Subtotal>5934</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>5934</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MN</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>false</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>www.camdennews.org</WebsiteAddress>
+        <BooksInCareOfPersonName>JEAN SANOSKI</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6127410576</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5040 SHERIDAN AVENUE NORTH</AddressLine1>
+          <City>MINNEAPOLIS</City>
+          <State>MN</State>
+          <ZIPCode>55430</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BAZILLA BOHN</PersonName>
+          <USAddress>
+            <AddressLine1>3333 FREMONT AVE N</AddressLine1>
+            <City>MINNEAPOLIS</City>
+            <State>MN</State>
+            <ZIPCode>55412</ZIPCode>
+          </USAddress>
+          <Title>Chairman</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHERYL ANDERSON</PersonName>
+          <USAddress>
+            <AddressLine1>4335 NEWTON AVE N</AddressLine1>
+            <City>MINNEAPOLIS</City>
+            <State>MN</State>
+            <ZIPCode>55412</ZIPCode>
+          </USAddress>
+          <Title>Vice-Chairman</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEAN SANOSKI</PersonName>
+          <USAddress>
+            <AddressLine1>5040 SHERIDAN AVE N</AddressLine1>
+            <City>MINNEAPOLIS</City>
+            <State>MN</State>
+            <ZIPCode>55430</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAN LYNCH</PersonName>
+          <USAddress>
+            <AddressLine1>3919 THOMAS AVE N</AddressLine1>
+            <City>MINNEAPOLIS</City>
+            <State>MN</State>
+            <ZIPCode>55412</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Produce and distribute a free community newspapers providig residents with updated news of theirneighborhoods and local businesses.The newspaper is delivered free monthly to over 12,500 households in theCamden Community and mailed to subscribers outside the area.</Description1>
+        <Expenses1>55267</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>Advertisement Sales</Description>
+          <RelatedOrExemptFunctionIncome>52101</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Subscriptions</Description>
+          <RelatedOrExemptFunctionIncome>200</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>1</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>52302</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>52302</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>Advertisements in the Camden Community News inform residents of local businesses organizational services, events and</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>activities which supports our mission of brings community advocated, keeping residents informd, promoting citizen inbolvement</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>reflecting diversity and improving the overall quality of life for Camden residents. Subscriptions cover the cost mailing of issuer</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>to former community residents who want to remain informed about their former community.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <OtherExpensesSchedule documentId="00000002">
+      <OtherExpenses>
+        <Description>Insurance- Workers Comp</Description>
+        <RevenueAndExpensesPerBooks>707</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Insurance-Liability</Description>
+        <RevenueAndExpensesPerBooks>352</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PO Box</Description>
+        <RevenueAndExpensesPerBooks>60</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Membership Dues</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Telephone</Description>
+        <RevenueAndExpensesPerBooks>492</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Supplies</Description>
+        <RevenueAndExpensesPerBooks>844</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Website</Description>
+        <RevenueAndExpensesPerBooks>480</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>47</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Mileage Reimb.</Description>
+        <RevenueAndExpensesPerBooks>511</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000003">
+      <OtherIncome>
+        <Description>Ad Revenue</Description>
+        <RevenueAndExpensesPerBooks>52101</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Reimbursement</Description>
+        <RevenueAndExpensesPerBooks>302</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="00000004">
+      <Taxes>
+        <Category>Payroll taxes</Category>
+        <Amount>1323</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>Sales taxes</Category>
+        <Amount>1558</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

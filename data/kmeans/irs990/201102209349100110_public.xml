@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T12:25:40-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MANGO &amp; HUBER LLC CPAS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11 DUNDAR RD STE 210</AddressLine1>
+        <City>SPRINGFIELD</City>
+        <State>NJ</State>
+        <ZIPCode>070813513</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>223699416</EIN>
+      <Name>
+        <BusinessNameLine1>THE LAURA FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>LAUR</NameControl>
+      <Phone>9086543500</Phone>
+      <USAddress>
+        <AddressLine1>C/O MANGOHUBER LLC 11 DUNDAR RD</AddressLine1>
+        <AddressLine2>ROOM/SUITE 210</AddressLine2>
+        <City>SPRINGFIELD</City>
+        <State>NJ</State>
+        <ZIPCode>07081</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DENISE APICELLA</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>9086543500</Phone>
+      <DateSigned>2011-05-31</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>JOHN HUBER III</Name>
+      <Phone>9732186410</Phone>
+      <DatePrepared>2011-08-08</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1">
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>14606</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>30</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>30</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>30</InterestOnSavingsAdjNetIncm>
+        <TotalRevenueAndExpenses>30</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>30</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>30</TotalAdjustedNetIncome>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc4">30</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>30</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc3">63</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>63</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>93</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>93</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3911</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3911</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>4004</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>93</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>3911</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-3974</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>30</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>18580</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>14606</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>14606</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>18580</TotalAssetsBOY>
+        <TotalAssetsEOY>14606</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>14606</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>18580</UnrestrictedBOY>
+        <UnrestrictedEOY>14606</UnrestrictedEOY>
+        <TotalNetAssetsBOY>18580</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>14606</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>18580</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>14606</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>18580</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-3974</ExcessOfRevenueOverExpenses>
+        <Subtotal>14606</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>14606</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>5035</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>7243</QualifyingDistributionsYear2>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>3911</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NJ</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MANGO HUBER LLC</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9086543500</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>11 DUNDAR ROAD</AddressLine1>
+          <AddressLine2>SUITE 210</AddressLine2>
+          <City>SPRINGFIELD</City>
+          <State>NJ</State>
+          <ZIPCode>07081</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">DENISE APICELLA</PersonName>
+          <USAddress>
+            <AddressLine1>21 CARRIAGE HILL DRIVE</AddressLine1>
+            <City>FAR HILLS</City>
+            <State>NJ</State>
+            <ZIPCode>07931</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">GUY APICELLA</PersonName>
+          <USAddress>
+            <AddressLine1>21 CARRIAGE HILL DRIVE</AddressLine1>
+            <City>FAR HILLS</City>
+            <State>NJ</State>
+            <ZIPCode>07931</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">MICHELLE GINTER</PersonName>
+          <USAddress>
+            <AddressLine1>366 UPPER MTN AVE</AddressLine1>
+            <City>UPPER MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07043</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>3911</ExpensesAndContributions>
+        <QualifyingDistributions>3911</QualifyingDistributions>
+        <AdjQualifyingDistributions>3911</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>7243</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>5035</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>12278</TotalExcessDistriCarryover>
+        <QualifyingDistributions>3911</QualifyingDistributions>
+        <RemainingDistriFromCorpus>3911</RemainingDistriFromCorpus>
+        <TotalCorpus>16189</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>16189</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>7243</ExcessFromYear2>
+        <ExcessFromYear1>5035</ExcessFromYear1>
+        <ExcessFromCurrentYear>3911</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>MICHELLE GINTER</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>366 UPPER MOUNTAIN AVE</AddressLine1>
+            <City>UPPER MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07043</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9086543500</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NO PRESCRIBED FORM</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SANDRA CASTRO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>525 44 STREET APT 2-D</AddressLine1>
+            <City>UNION CITY</City>
+            <State>NJ</State>
+            <ZIPCode>07087</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MEDICATIONS</PurposeOfGrantOrContribution>
+          <Amount>31</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BONGO FAMILY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>13 OAK DRIVE</AddressLine1>
+            <City>CEDAR GROVE</City>
+            <State>NJ</State>
+            <ZIPCode>07009</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CEDAR GROVE ELKS FUNDRAISER</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ST LUKE'S CHURCH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>182 MAIN STREET</AddressLine1>
+            <City>GLADSTONE</City>
+            <State>NJ</State>
+            <ZIPCode>07934</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HAITI RELIEF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PENELOPE RIZZO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>15 SEMINARY</AddressLine1>
+            <City>CHESTER</City>
+            <State>NJ</State>
+            <ZIPCode>07930</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ART OF DANCE</PurposeOfGrantOrContribution>
+          <Amount>228</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CASSIE PENELOPE RIZZO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 305</AddressLine1>
+            <City>OLDWICK</City>
+            <State>NJ</State>
+            <ZIPCode>08858</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>THERAPEUDIC RIDING SESSIONS</PurposeOfGrantOrContribution>
+          <Amount>480</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SANDRA CASTRO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>525 44 STREET APT 2-D</AddressLine1>
+            <City>UNION CITY</City>
+            <State>NJ</State>
+            <ZIPCode>07087</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MEDICATIONS</PurposeOfGrantOrContribution>
+          <Amount>30</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CASSIE PENELOPE RIZZO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 305</AddressLine1>
+            <City>OLDWICK</City>
+            <State>NJ</State>
+            <ZIPCode>08858</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>THERAPEUDIC RIDING SESSIONS</PurposeOfGrantOrContribution>
+          <Amount>635</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PENELOPE RIZZO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2460 LAMINGTON ROAD</AddressLine1>
+            <City>BEDMINSTER</City>
+            <State>NJ</State>
+            <ZIPCode>07921</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUMMER CAMP</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CASSIE PENELOPE RIZZO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 305</AddressLine1>
+            <City>OLDWICK</City>
+            <State>NJ</State>
+            <ZIPCode>08858</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>THERAPEUDIC RIDING SESSIONS</PurposeOfGrantOrContribution>
+          <Amount>635</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PENELOPE RIZZO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4 GOLD MINE ROAD</AddressLine1>
+            <City>FLANDERS</City>
+            <State>NJ</State>
+            <ZIPCode>07836</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CS GYMNASTICS</PurposeOfGrantOrContribution>
+          <Amount>193</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PENELOPE RIZZO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>15 SEMINARY</AddressLine1>
+            <City>CHESTER</City>
+            <State>NJ</State>
+            <ZIPCode>07930</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ART OF DANCE</PurposeOfGrantOrContribution>
+          <Amount>224</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ST LUKE'S CHURCH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>182 MAIN STREET</AddressLine1>
+            <City>GLADSTONE</City>
+            <State>NJ</State>
+            <ZIPCode>07934</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>NEW MINISTRY</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PENELOPE RIZZO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4 GOLD MINE ROAD</AddressLine1>
+            <City>FLANDERS</City>
+            <State>NJ</State>
+            <ZIPCode>07836</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CS GYMNASTICS</PurposeOfGrantOrContribution>
+          <Amount>155</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>3911</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>30</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>30</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>30</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <CompensationExplanation documentId="RetDoc2">
+      <Compensation>
+        <PersonName>DENISE APICELLA</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>GUY APICELLA</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>MICHELLE GINTER</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <OtherExpensesSchedule documentId="RetDoc3">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>63</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>63</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc4">
+      <Taxes>
+        <Category>NJ DIVISION OF CONSUMER AFFAIRS</Category>
+        <Amount>30</Amount>
+        <NetInvestmentIncome>30</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

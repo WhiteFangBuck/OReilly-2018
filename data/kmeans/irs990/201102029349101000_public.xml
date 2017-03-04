@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-21T13:01:55-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>G ROBERT MCLEAN PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 2007</AddressLine1>
+        <City>SAINT PAUL</City>
+        <State>MN</State>
+        <ZIPCode>551020007</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>411926010</EIN>
+      <Name>
+        <BusinessNameLine1>THE HAYWARD FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>HAYW</NameControl>
+      <Phone>9524653331</Phone>
+      <USAddress>
+        <AddressLine1>3800 American Blvd W</AddressLine1>
+        <City>Bloomington</City>
+        <State>MN</State>
+        <ZIPCode>55431</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>TERRENCE KINGSTON</Name>
+      <Title>President</Title>
+      <DateSigned>2011-07-20</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>G ROBERT MCLEAN</Name>
+      <Phone>6516411902</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>39694</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>25</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>570</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>570</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>570</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>112</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1055</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>112</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>707</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>682</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>570</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">115</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>115</AccountingFeesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">175</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>175</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>290</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>290</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>1000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>1000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1290</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>290</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>1000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-583</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>392</NetInvestmentIncome>
+        <AdjustedNetIncome>570</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>75</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>435</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>435</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>31128</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId=" InvestmentsOtherSchedule2">30185</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>39259</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>31203</TotalAssetsBOY>
+        <TotalAssetsEOY>30620</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>39694</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>31203</CapitalStockBOY>
+        <CapitalStockEOY>30620</CapitalStockEOY>
+        <TotalNetAssetsBOY>31203</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>30620</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>31203</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>30620</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>31203</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-583</ExcessOfRevenueOverExpenses>
+        <Subtotal>30620</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>30620</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>112</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>2325</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>31158</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.07462</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>1400</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>37835</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.03700</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>500</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>45457</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.01100</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>6991</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>45274</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.15442</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>1180</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>45352</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.02602</DistributionRatioYear5>
+        <TotalDistributionRatio>0.30306</TotalDistributionRatio>
+        <AverageDistributionRatio>0.06061</AverageDistributionRatio>
+        <NetNoncharitableAssets>36736</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>2227</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>4</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>2231</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>1000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>8</InvestmentIncomeExciseTax>
+        <Subtotal>8</Subtotal>
+        <TaxBasedOnInvestmentIncome>8</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>7</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>7</TotalCreditsAndPayments>
+        <TaxDue>1</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MN</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>TERRENCE E KINGSTON</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>9524653331</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3800 American Blvd W Ste 800</AddressLine1>
+          <City>BLOOMINGTON</City>
+          <State>MN</State>
+          <ZIPCode>55431</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PEGGY KINGSTON</PersonName>
+          <USAddress>
+            <AddressLine1>4035 W 65TH ST</AddressLine1>
+            <City>EDINA</City>
+            <State>MN</State>
+            <ZIPCode>55435</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TERRENCE KINGSTON</PersonName>
+          <USAddress>
+            <AddressLine1>1850 RIVER RIDGE RD</AddressLine1>
+            <City>HUDSON</City>
+            <State>WI</State>
+            <ZIPCode>54016</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>37040</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>255</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>37295</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>37295</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>559</CashDeemedCharitable>
+        <NetNoncharitableAssets>36736</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>1837</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>1837</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>8</TaxBasedOnInvestmentIncome>
+        <TotalTax>8</TotalTax>
+        <DistributableAmountBeforeAdj>1829</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>1829</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>1829</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>1000</ExpensesAndContributions>
+        <QualifyingDistributions>1000</QualifyingDistributions>
+        <AdjQualifyingDistributions>1000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>1829</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>234</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear1>775</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1009</TotalExcessDistriCarryover>
+        <QualifyingDistributions>1000</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>1000</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>829</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>829</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>180</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>180</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>180</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>TERRENCE KINGSTON</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHILDREN'S CANCER RESEARCH FUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7301 OHMS LANE STE 460</AddressLine1>
+            <City>MINNEAPOLIS</City>
+            <State>MN</State>
+            <ZIPCode>55439</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MEDICAL RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>1000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>570</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>112</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>570</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>112</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>682</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>TAX PREPARATION</Category>
+        <Amount>115</Amount>
+        <NetInvestmentIncome>115</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsOther>
+        <CategoryOrItem>STANDARD &amp; POORS DEPOSITORY RECEIPTS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>30185</BookValue>
+        <EOYFMV>39259</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>MN AG REGISTRATION FEE</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>25</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESINVESTMENT MANAGMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>150</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>150</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

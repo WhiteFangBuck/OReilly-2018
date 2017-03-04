@@ -1,0 +1,1912 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T10:16:06-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>PricewaterhouseCoopers LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>185 Asylum Street Suite 2400</AddressLine1>
+        <City>Hartford</City>
+        <State>CT</State>
+        <ZIPCode>061033404</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>222520073</EIN>
+      <Name>
+        <BusinessNameLine1>Holyoke Medical Center Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>HOLY</NameControl>
+      <Phone>4135342667</Phone>
+      <USAddress>
+        <AddressLine1>575 Beech Street</AddressLine1>
+        <City>Holyoke</City>
+        <State>MA</State>
+        <ZIPCode>010402223</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>HANK PORTEN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>4135342667</Phone>
+      <DateSigned>2011-08-08</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>BRIAN J MCCUE 860-241-7040</Name>
+      <Phone>8602417000</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="11">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO">
+      <NameOfPrincipalOfficerPerson>HANK J PORTEN</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>575 BEECH STREET</AddressLine1>
+        <City>HOLYOKE</City>
+        <State>MA</State>
+        <ZIPCode>010402223</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>116402546</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>www.holyokehealth.com</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1984</YearFormation>
+      <StateLegalDomicile>MA</StateLegalDomicile>
+      <ActivityOrMissionDescription>HOLYOKE MEDICAL CENTER, INC. IS AN ACUTE CARE HOSPITAL THAT PROVIDES MEDICAL AND OTHER HEALTHCARE SERVICES TO RESIDENTS OF HOLYOKE, MA AND THE SURROUNDING COMMUNITIES. SEE ATCH 2 FOR ADDITIONAL INFORMATION.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>22</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>15</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>1372</TotalNbrEmployees>
+      <TotalNbrVolunteers>66</TotalNbrVolunteers>
+      <TotalGrossUBI>2815752</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>-81927</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>468409</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>726033</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>112183971</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>109499577</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>107826</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>169436</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>5082280</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>5795454</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>117842486</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>116190500</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>4500</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>3000</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>71697605</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>71371947</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>45061142</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>44127561</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>116763247</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>115502508</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>1079239</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>687992</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>59777902</TotalAssetsBOY>
+      <TotalAssetsEOY>56761214</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>51870683</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>54295308</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>7907219</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>2465906</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>HOLYOKE MEDICAL CENTER, INC. IS AN ACUTE CARE HOSPITAL THAT PROVIDES MEDICAL AND OTHER HEALTHCARE SERVICES TO RESIDENTS OF HOLYOKE, MA AND THE SURROUNDING COMMUNITIES. SEE ATCH 2 FOR ADDITIONAL INFORMATION.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>96195177</Expense>
+      <Grants>3000</Grants>
+      <Revenue>111615523</Revenue>
+      <Description>The mission of Holyoke Medical Center is to serve the health needs of the community in a high quality and efficient manner. To this end, Holyoke Medical Center shall: -Provide compassionate care to all whom it serves and commitment to cultural diversity in our programs and workforce, and the development of cultural competencies in our workforce so that we may better serve our patients; -Identify and serve those needs which are prevalent and substantial in the community as a whole or within major population groups, and which can be adequately met by the provision of basic primary and secondary health care services; -Provide information, education, and expertise to our community in order to promote the general health of its citizens; -Provide an environment of excellence and growth in which health care professionals can use their skills and abilities to the fullest extent possible; -Provide competitive wages and benefits, as well as safe and dignified working conditions, for all employees; -Ensure financial responsibility in the operation of the Medical Center in order to guarantee the future viability of our mission; -Provide a formal, public, and ongoing program of community benefits, in cooperation with community individuals and organizations, to improve the health status of the public including especially the medically and economically vulnerable.</Description>
+      <TotalProgramServiceExpense>96195177</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="IRS990ScheduleA">true</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="IRS990ScheduleB">true</ScheduleBRequired>
+      <PoliticalActivities referenceDocumentId="IRS990ScheduleC">false</PoliticalActivities>
+      <LobbyingActivities referenceDocumentId="IRS990ScheduleC">true</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="IRS990ScheduleD">false</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="IRS990ScheduleD">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="IRS990ScheduleD">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="IRS990ScheduleD">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="IRS990ScheduleD">false</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="IRS990ScheduleD">true</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital referenceDocumentId="IRS990ScheduleH">true</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="IRS990ScheduleJ">true</ScheduleJRequired>
+      <TaxExemptBonds referenceDocumentId="IRS990ScheduleK">true</TaxExemptBonds>
+      <InvestTaxExemptBonds>true</InvestTaxExemptBonds>
+      <EscrowAccount>false</EscrowAccount>
+      <OnBehalfOfIssuer>false</OnBehalfOfIssuer>
+      <ExcessBenefitTransaction referenceDocumentId="IRS990ScheduleL">false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="IRS990ScheduleL">false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="IRS990ScheduleL">false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="IRS990ScheduleL">false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="IRS990ScheduleL">true</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="IRS990ScheduleL">true</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="IRS990ScheduleL">true</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="IRS990ScheduleR">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="IRS990ScheduleR">true</RelatedEntity>
+      <RelatedOrgControlledEntity referenceDocumentId="IRS990ScheduleR">false</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="IRS990ScheduleR">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="IRS990ScheduleR">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>174</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>1372</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>true</UnrelatedBusinessIncome>
+      <Form990-TFiled>true</Form990-TFiled>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>22</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>15</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>true</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>true</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>true</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>true</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>true</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>MA</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>PAUL M SILVA</NamePerson>
+        <TelephoneNumber>4135342667</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>575 BEECH STREET</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010402223</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>HANK PORTEN</NamePerson>
+        <Title>DIRECTOR/PRESIDENT/CLERK</Title>
+        <AverageHoursPerWeek>35.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>623816</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>14093</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KAREN M FERRONI MD</NamePerson>
+        <Title>DIRECTOR/CHIEF OF STAFF/OB-GYN</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>261568</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>15920</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DEBORAH A BUCKLEY</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THOMAS N HAZEN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MANFRED ROSENKRANZ</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARTIN F SCHOENEMANN CPA</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BURTON S RESNIC</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARY E KELLEHER</NamePerson>
+        <Title>DIRECTOR/PRES HMC AUX ASSOC</Title>
+        <AverageHoursPerWeek>36.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>220057</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>8018</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>WILLIAM R ANDREWS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CRAIG L MOORE PHD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICHARD J WELLS</NamePerson>
+        <Title>CHAIR/DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PETER C CONNOR</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>M SALEEM BAJWA MD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARC E JOYCE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DORIS M RANSFORD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CATHERINE M SPATH MD</NamePerson>
+        <Title>DIRECTOR-TERM EXPIRED 12/31/09</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>VIJAY V GANDEVIA MD</NamePerson>
+        <Title>DIR/PRES MED STAFF/ANESTHESIOL</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>380100</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16381</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DONALD L GRAHAM</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PRISCILLA MANDRACHIA</NamePerson>
+        <Title>DIR/VICE CHAIR/CHR FINANCE COM</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID D TUPPONCE MD</NamePerson>
+        <Title>DIRECTOR-TERM EXPIRED 12/31/09</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>167635</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>8587</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRIGID K GLACKIN MD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATHLEEN HANKEL</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANTHONY SOTO</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANGELA WRIGHT</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANTONIO CORREIA</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>33.0</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>277519</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16026</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PAUL M SILVA</NamePerson>
+        <Title>VP FINANCE</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>207114</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16193</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATHY BUCKLEY</NamePerson>
+        <Title>VP SUPPORT SERVICES</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>204089</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16173</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CLARK A FENN</NamePerson>
+        <Title>VP QUALITY &amp; INNOVATION</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>205052</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16112</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JAMES KEEFE</NamePerson>
+        <Title>VP INPATIENT SERVICES</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>190399</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16066</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL A ZWIRKO</NamePerson>
+        <Title>VP OUTPATIENT SERVICES</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>223702</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>15725</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARY E NORRIS MD</NamePerson>
+        <Title>GASTROENTEROLOGIST</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>355477</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>15026</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THEODORE K MLAPAH MD</NamePerson>
+        <Title>HOPITALIST</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>343777</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16559</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>A MASHARN DOANES MD</NamePerson>
+        <Title>THORACIC SURGEON</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>449328</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>8630</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PAUL H COOKE MD</NamePerson>
+        <Title>ANESTHESIOLOGIST</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>333677</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16437</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ZUBEENA M MATEEN MD</NamePerson>
+        <Title>ONCOLOGIST</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>335012</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16410</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>3656930</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>1121392</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>232356</TotalOtherCompensation>
+      <NumberIndividualsGT100K>65</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>true</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>H-C MANAGEMENT SERVICES INC</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>20 HOSPITAL DRIVE</AddressLine1>
+            <City>HOLYOKE</City>
+            <State>MA</State>
+            <ZIPCode>01040</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>MANAGEMENT SERVICES</DescriptionOfServices>
+        <Compensation>1454833</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>COGENT HEALTHCARE INC</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>5410 MARYLAND WAY</AddressLine1>
+            <City>BRENTWOOD</City>
+            <State>TN</State>
+            <ZIPCode>37027</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>HOSPITALIST STAFFING</DescriptionOfServices>
+        <Compensation>1018268</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>QUEST DIAGNOSTICS</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>415 MASSACHUSETTS AVENUE</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02139</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>LABRATORY SERVICES</DescriptionOfServices>
+        <Compensation>821112</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>MEDICUS HOPITALIST SERVICES LLC</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>7 INDUSTRIAL WAY</AddressLine1>
+            <City>SALEM</City>
+            <State>NH</State>
+            <ZIPCode>03079</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>HOSPITALIST STAFFING</DescriptionOfServices>
+        <Compensation>661423</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>UNITEX TEXTILE RENTAL SERVICES</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>161 S MACQUESTEN PKWY</AddressLine1>
+            <City>MT VERNON</City>
+            <State>NY</State>
+            <ZIPCode>10552</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>LAUNDRY SERVICES</DescriptionOfServices>
+        <Compensation>522759</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>22</NumberOfContractorsGT100K>
+      <GovernmentGrants>537855</GovernmentGrants>
+      <AllOtherContributions>188178</AllOtherContributions>
+      <TotalContributions>726033</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>NET PATIENT SERVICE REVENUE</Description>
+        <BusinessCode>621110</BusinessCode>
+        <TotalRevenueColumn>109028691</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>109028691</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>AFFILIATE RENT</Description>
+        <BusinessCode>531120</BusinessCode>
+        <TotalRevenueColumn>470886</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>470886</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>109499577</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>168361</TotalRevenueColumn>
+        <ExclusionAmount>168361</ExclusionAmount>
+      </InvestmentIncome>
+      <IncomeFromInvestBondProceeds>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </IncomeFromInvestBondProceeds>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </RoyaltiesRevenue>
+      <GrossRents>
+        <Real>467009</Real>
+      </GrossRents>
+      <LessRentalExpenses>
+        <Real>101080</Real>
+      </LessRentalExpenses>
+      <RentalIncomeOrLoss>
+        <Real>365929</Real>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>365929</TotalRevenueColumn>
+        <ExclusionAmount>365929</ExclusionAmount>
+      </NetRentalIncomeOrLoss>
+      <GrossAmountSalesAssets>
+        <Other>112041</Other>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Other>110966</Other>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Other>1075</Other>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>1075</TotalRevenueColumn>
+        <ExclusionAmount>1075</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <NetIncomeFromGaming>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromGaming>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeOrLoss>
+      <OtherRevenueMisc>
+        <Description>NON-PATIENT LAB REVENUE</Description>
+        <BusinessCode>621500</BusinessCode>
+        <TotalRevenueColumn>2814385</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>2814385</UnrelatedBusinessRevenue>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>TRANSCRIPTION SERVICES</Description>
+        <BusinessCode>561000</BusinessCode>
+        <TotalRevenueColumn>1367</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>1367</UnrelatedBusinessRevenue>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>FOOD SERVICES/COFFEE SHOP</Description>
+        <BusinessCode>722210</BusinessCode>
+        <TotalRevenueColumn>483206</TotalRevenueColumn>
+        <ExclusionAmount>483206</ExclusionAmount>
+      </OtherRevenueMisc>
+      <MiscellaneousRevenue>
+        <TotalRevenueColumn>2130567</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2115946</RelatedOrExemptFunctionIncome>
+        <ExclusionAmount>14621</ExclusionAmount>
+      </MiscellaneousRevenue>
+      <TotalOtherRevenue>5429525</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>116190500</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>111615523</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>2815752</UnrelatedBusinessRevenue>
+        <ExclusionAmount>1033192</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>3000</Total>
+        <ProgramServices>3000</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>0</Total>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>1839659</Total>
+        <ProgramServices>809303</ProgramServices>
+        <ManagementAndGeneral>1030356</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>56242322</Total>
+        <ProgramServices>48558128</ProgramServices>
+        <ManagementAndGeneral>7684194</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>496625</Total>
+        <ProgramServices>422112</ProgramServices>
+        <ManagementAndGeneral>74513</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>8196466</Total>
+        <ProgramServices>6962629</ProgramServices>
+        <ManagementAndGeneral>1233837</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>4596875</Total>
+        <ProgramServices>3907166</ProgramServices>
+        <ManagementAndGeneral>689709</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>1620267</Total>
+        <ManagementAndGeneral>1620267</ManagementAndGeneral>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>242439</Total>
+        <ProgramServices>9769</ProgramServices>
+        <ManagementAndGeneral>232670</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>160525</Total>
+        <ManagementAndGeneral>160525</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>90048</Total>
+        <ManagementAndGeneral>90048</ManagementAndGeneral>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising>
+        <Total>0</Total>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>0</Total>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>4711504</Total>
+        <ProgramServices>3525249</ProgramServices>
+        <ManagementAndGeneral>1186255</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>114701</Total>
+        <ProgramServices>8085</ProgramServices>
+        <ManagementAndGeneral>106616</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>16306717</Total>
+        <ProgramServices>14955136</ProgramServices>
+        <ManagementAndGeneral>1351581</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>1626688</Total>
+        <ProgramServices>901706</ProgramServices>
+        <ManagementAndGeneral>724982</ManagementAndGeneral>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>2378682</Total>
+        <ProgramServices>1999276</ProgramServices>
+        <ManagementAndGeneral>379406</ManagementAndGeneral>
+      </Occupancy>
+      <Travel>
+        <Total>77199</Total>
+        <ProgramServices>46294</ProgramServices>
+        <ManagementAndGeneral>30905</ManagementAndGeneral>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>0</Total>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>732772</Total>
+        <ManagementAndGeneral>732772</ManagementAndGeneral>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>4422144</Total>
+        <ProgramServices>3509968</ProgramServices>
+        <ManagementAndGeneral>912176</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>2266253</Total>
+        <ProgramServices>1404431</ProgramServices>
+        <ManagementAndGeneral>861822</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>BAD DEBT</Description>
+        <Total>5290477</Total>
+        <ProgramServices>5290477</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PURCHASED STAFFING</Description>
+        <Total>1698602</Total>
+        <ProgramServices>1681001</ProgramServices>
+        <ManagementAndGeneral>17601</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PHYSICIAN FEES</Description>
+        <Total>650057</Total>
+        <ProgramServices>650057</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>UNCOMPENSATED CARE POOL</Description>
+        <Total>514753</Total>
+        <ProgramServices>514753</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LABORATORY TESTS</Description>
+        <Total>1023290</Total>
+        <ProgramServices>1023290</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>200443</Total>
+        <ProgramServices>13347</ProgramServices>
+        <ManagementAndGeneral>187096</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>115502508</Total>
+        <ProgramServices>96195177</ProgramServices>
+        <ManagementAndGeneral>19307331</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>5617232</BOY>
+        <EOY>5912954</EOY>
+      </CashNonInterestBearing>
+      <AccountsReceivable>
+        <BOY>12995120</BOY>
+        <EOY>11669377</EOY>
+      </AccountsReceivable>
+      <OtherNotesLoansReceivableNet>
+        <BOY>179749</BOY>
+        <EOY>76398</EOY>
+      </OtherNotesLoansReceivableNet>
+      <InventoriesForSaleOrUse>
+        <BOY>713558</BOY>
+        <EOY>786085</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>838602</BOY>
+        <EOY>1084613</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>120565025</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>92341506</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>30780697</BOY>
+        <EOY>28223519</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>1764989</BOY>
+        <EOY>1896468</EOY>
+      </InvestmentsPubTradedSecurities>
+      <InvestmentsProgramRelated>
+        <BOY>6278439</BOY>
+        <EOY>6092059</EOY>
+      </InvestmentsProgramRelated>
+      <OtherAssetsTotal>
+        <BOY>609516</BOY>
+        <EOY>1019741</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>59777902</BOY>
+        <EOY>56761214</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>14017450</BOY>
+        <EOY>14176228</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>0</BOY>
+        <EOY>1142857</EOY>
+      </DeferredRevenue>
+      <TaxExemptBondLiabilities>
+        <BOY>10763091</BOY>
+        <EOY>8548671</EOY>
+      </TaxExemptBondLiabilities>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>2319058</BOY>
+        <EOY>2410960</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>24771084</BOY>
+        <EOY>28016592</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>51870683</BOY>
+        <EOY>54295308</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>3521220</BOY>
+        <EOY>-1613287</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>2222459</BOY>
+        <EOY>1853183</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>2163540</BOY>
+        <EOY>2226010</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>7907219</BOY>
+        <EOY>2465906</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>59777902</BOY>
+        <EOY>56761214</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <AuditCommittee>true</AuditCommittee>
+      <FinancialStatementBoth>X</FinancialStatementBoth>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA">
+      <Hospital170b1Aiii>X</Hospital170b1Aiii>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleC documentId="IRS990ScheduleC">
+      <TotalGrassrootsLobbying />
+      <TotalDirectLobbying />
+      <TotalLobbyingExpenditures />
+      <OtherExemptPurposeExpenditures />
+      <TotalExemptPurposeExpenditures />
+      <LobbyingNontaxableAmount />
+      <GrassrootsNontaxableAmount />
+      <TotLobbyingGrassrootMinusNonTx />
+      <TotLobbyExpendMnsLobbyingNontx />
+      <Volunteers>false</Volunteers>
+      <PaidStaffOrManagement>false</PaidStaffOrManagement>
+      <MediaAdvertisements>false</MediaAdvertisements>
+      <MailingsMembers>false</MailingsMembers>
+      <PublicationsOrBroadcast>false</PublicationsOrBroadcast>
+      <GrantsOtherOrganizations>false</GrantsOtherOrganizations>
+      <DirectContactLegislators>true</DirectContactLegislators>
+      <DirectContactLegislatorsAmount>60000</DirectContactLegislatorsAmount>
+      <RalliesDemonstrations>true</RalliesDemonstrations>
+      <RalliesDemonstrationsAmount>30048</RalliesDemonstrationsAmount>
+      <OtherActivities>false</OtherActivities>
+      <TotalLobbyingExpendituresIIB>90048</TotalLobbyingExpendituresIIB>
+      <NotDescribedIn501c3>false</NotDescribedIn501c3>
+      <Form4720Filed4912Tax>false</Form4720Filed4912Tax>
+      <Form990ScheduleCPartIV>
+        <Identifier>LOBBYING ACTIVITIES - PART II-B, LINE 1G &amp; 1H</Identifier>
+        <Explanation>LINE 1G - FOR LEGISLATIVE AND EXECUTIVE AGENT REPRESENTATION: CAPITOL CONSULTING GROUP 30,000 SMITH &amp; RAUSCHENBACH 30,000 ------- TOTAL 60,000 LINE 1H - ASSOCIATION DUES RELATED TO LOBBYING: AMERICAN HOSPITAL ASSOCIATION 6,926 MASSACHUSETTS HOSPITAL ASSOCIATION 23,122 ------- TOTAL 30,048</Explanation>
+      </Form990ScheduleCPartIV>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="IRS990ScheduleD">
+      <ArtPublicExhibitionAmts />
+      <HeldWorksOfArtAmts />
+      <Land>
+        <OtherCostOrOtherBasis>2710635</OtherCostOrOtherBasis>
+        <BookValue>2710635</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>54019134</OtherCostOrOtherBasis>
+        <Depreciation>35534197</Depreciation>
+        <BookValue>18484937</BookValue>
+      </Buildings>
+      <LeaseholdImprovements />
+      <Equipment>
+        <OtherCostOrOtherBasis>62053689</OtherCostOrOtherBasis>
+        <Depreciation>55378110</Depreciation>
+        <BookValue>6675579</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>1781567</OtherCostOrOtherBasis>
+        <Depreciation>1429199</Depreciation>
+        <BookValue>352368</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>28223519</TotalOfBookValueLandBuildings>
+      <InvestmentsProgramRelated>
+        <Description>PHYSICIAN HOSP ORGANIZATION</Description>
+        <BookValue>176326</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>LIMITED USE ASSETS-CURRENT</Description>
+        <BookValue>441019</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>LIMTED USE ASSETS-LONG TERM</Description>
+        <BookValue>1916090</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>BENEFICIAL INTEREST-VHS</Description>
+        <BookValue>3558624</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <TotalOfBookValueProgramRelated>6092059</TotalOfBookValueProgramRelated>
+      <FederalIncomeTaxLiability>0</FederalIncomeTaxLiability>
+      <OtherLiabilities>
+        <Description>ACCRUED PENSION COST</Description>
+        <Amount>27867393</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>ASSET RETIREMENT OBLIGATION</Description>
+        <Amount>149199</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>28016592</TotalOfAmounts>
+      <TotalRevenue>116190500</TotalRevenue>
+      <TotalExpenses>115502508</TotalExpenses>
+      <ExcessOrDeficitForYear>687992</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>86440</NetUnrealizedGLOnInvestments>
+      <OtherAmount>-6215745</OtherAmount>
+      <TotalAdjustments>-6129305</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-5441313</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>116440490</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>86440</NetUnrealizedGainsInvestments>
+      <OtherRevenues>62470</OtherRevenues>
+      <RevenueNotRptdF990>148910</RevenueNotRptdF990>
+      <RevenueSubtotal>116291580</RevenueSubtotal>
+      <OtherRevenuesNotIncluded>-101080</OtherRevenuesNotIncluded>
+      <RevenueNotRptdOnFinStmt>-101080</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>116190500</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>121881803</TotExpensesEtcAuditedFinclStmt>
+      <OtherExpensesIncluded>6379295</OtherExpensesIncluded>
+      <ExpensesNotRptdF990>6379295</ExpensesNotRptdF990>
+      <ExpensesSubtotal>115502508</ExpensesSubtotal>
+      <TotalExpensesPerForm990>115502508</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XI, LINE 8 - OTHER:</Identifier>
+        <Explanation>CONTRIBUTIONS TO AFFILIATES (1,055,295) PENSION ADJUSTMENT (4,994,711) CHANGE IN BENEFICIAL INT-VHS (165,739) ------------ TOTAL (6,215,745)</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XII, LINE 2D - OTHER:</Identifier>
+        <Explanation>CHANGE IN BENEFICIAL INT-VHS 62,470 PART XII, LINE 4B - OTHER RENTAL EXPENSES (101,080)</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XIII, LINE 2D - OTHER:</Identifier>
+        <Explanation>RENTAL EXPENSES 101,080 CONTRIBUTIONS TO AFFILIATES 1,055,295 CHANGE IN BENEFICIAL INT-VHS 228,209 PENSION ADJUSTMENT 4,994,711 ---------- TOTAL 6,379,295</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleH documentId="IRS990ScheduleH">
+      <CharityCarePolicy>true</CharityCarePolicy>
+      <WrittenPolicy>true</WrittenPolicy>
+      <FPGReferenceFreeCare>true</FPGReferenceFreeCare>
+      <Pcent200>X</Pcent200>
+      <FPGReferenceDiscountedCare>true</FPGReferenceDiscountedCare>
+      <Pcent400>X</Pcent400>
+      <FreeDiscCareMedicallyIndigent>true</FreeDiscCareMedicallyIndigent>
+      <AmountsBudgetedForCharityCare>true</AmountsBudgetedForCharityCare>
+      <ExpensesExceededBudget>true</ExpensesExceededBudget>
+      <UnableToProvideCare>false</UnableToProvideCare>
+      <AnnualCommunityBenefitReport>true</AnnualCommunityBenefitReport>
+      <ReportPublicallyAvailable>true</ReportPublicallyAvailable>
+      <CharityCareAtCost>
+        <PersonsServed>3000</PersonsServed>
+        <TotalCommunityBenefitExpense>2955803</TotalCommunityBenefitExpense>
+        <DirectOffsettingRevenue>1336912</DirectOffsettingRevenue>
+        <NetCommunityBenefitExpense>1618891</NetCommunityBenefitExpense>
+        <PercentOfTotalExpense>0.01400</PercentOfTotalExpense>
+      </CharityCareAtCost>
+      <UnreimbursedMedicaid>
+        <PersonsServed>7950</PersonsServed>
+        <TotalCommunityBenefitExpense>12798741</TotalCommunityBenefitExpense>
+        <DirectOffsettingRevenue>10116958</DirectOffsettingRevenue>
+        <NetCommunityBenefitExpense>2681783</NetCommunityBenefitExpense>
+        <PercentOfTotalExpense>0.02320</PercentOfTotalExpense>
+      </UnreimbursedMedicaid>
+      <TotalCharityCare>
+        <PersonsServed>10950</PersonsServed>
+        <TotalCommunityBenefitExpense>15754544</TotalCommunityBenefitExpense>
+        <DirectOffsettingRevenue>11453870</DirectOffsettingRevenue>
+        <NetCommunityBenefitExpense>4300674</NetCommunityBenefitExpense>
+        <PercentOfTotalExpense>0.03720</PercentOfTotalExpense>
+      </TotalCharityCare>
+      <CommunityHealthServices>
+        <NumberOfActivitiesOrPrograms>35</NumberOfActivitiesOrPrograms>
+        <PersonsServed>7784</PersonsServed>
+        <TotalCommunityBenefitExpense>267910</TotalCommunityBenefitExpense>
+        <DirectOffsettingRevenue>4466</DirectOffsettingRevenue>
+        <NetCommunityBenefitExpense>263444</NetCommunityBenefitExpense>
+        <PercentOfTotalExpense>0.00230</PercentOfTotalExpense>
+      </CommunityHealthServices>
+      <HealthProfessionsEducation>
+        <NumberOfActivitiesOrPrograms>6</NumberOfActivitiesOrPrograms>
+        <PersonsServed>212</PersonsServed>
+        <TotalCommunityBenefitExpense>46115</TotalCommunityBenefitExpense>
+        <DirectOffsettingRevenue>325</DirectOffsettingRevenue>
+        <NetCommunityBenefitExpense>45790</NetCommunityBenefitExpense>
+        <PercentOfTotalExpense>0.00040</PercentOfTotalExpense>
+      </HealthProfessionsEducation>
+      <SubsidizedHealthServices>
+        <PersonsServed>18400</PersonsServed>
+        <TotalCommunityBenefitExpense>14623363</TotalCommunityBenefitExpense>
+        <DirectOffsettingRevenue>13016657</DirectOffsettingRevenue>
+        <NetCommunityBenefitExpense>1606706</NetCommunityBenefitExpense>
+        <PercentOfTotalExpense>0.01390</PercentOfTotalExpense>
+      </SubsidizedHealthServices>
+      <CashAndInKindContributions>
+        <NumberOfActivitiesOrPrograms>1</NumberOfActivitiesOrPrograms>
+        <TotalCommunityBenefitExpense>1000000</TotalCommunityBenefitExpense>
+        <NetCommunityBenefitExpense>1000000</NetCommunityBenefitExpense>
+        <PercentOfTotalExpense>0.00870</PercentOfTotalExpense>
+      </CashAndInKindContributions>
+      <TotalOtherBenefits>
+        <NumberOfActivitiesOrPrograms>42</NumberOfActivitiesOrPrograms>
+        <PersonsServed>26396</PersonsServed>
+        <TotalCommunityBenefitExpense>15937388</TotalCommunityBenefitExpense>
+        <DirectOffsettingRevenue>13021448</DirectOffsettingRevenue>
+        <NetCommunityBenefitExpense>2915940</NetCommunityBenefitExpense>
+        <PercentOfTotalExpense>0.02530</PercentOfTotalExpense>
+      </TotalOtherBenefits>
+      <TotalCommunityBenefits>
+        <NumberOfActivitiesOrPrograms>42</NumberOfActivitiesOrPrograms>
+        <PersonsServed>37346</PersonsServed>
+        <TotalCommunityBenefitExpense>31691932</TotalCommunityBenefitExpense>
+        <DirectOffsettingRevenue>24475318</DirectOffsettingRevenue>
+        <NetCommunityBenefitExpense>7216614</NetCommunityBenefitExpense>
+        <PercentOfTotalExpense>0.06250</PercentOfTotalExpense>
+      </TotalCommunityBenefits>
+      <CommunitySupport>
+        <TotalCommunityBuildingExpense>47877</TotalCommunityBuildingExpense>
+        <NetCommunityBuildingExpense>47877</NetCommunityBuildingExpense>
+        <PercentOfTotalExpense>0.00040</PercentOfTotalExpense>
+      </CommunitySupport>
+      <CoalitionBuilding>
+        <NumberOfActivitiesOrPrograms>2</NumberOfActivitiesOrPrograms>
+        <PersonsServed>520</PersonsServed>
+        <TotalCommunityBuildingExpense>1553</TotalCommunityBuildingExpense>
+        <NetCommunityBuildingExpense>1553</NetCommunityBuildingExpense>
+        <PercentOfTotalExpense>0.00000</PercentOfTotalExpense>
+      </CoalitionBuilding>
+      <Total>
+        <NumberOfActivitiesOrPrograms>2</NumberOfActivitiesOrPrograms>
+        <PersonsServed>520</PersonsServed>
+        <TotalCommunityBuildingExpense>49430</TotalCommunityBuildingExpense>
+        <NetCommunityBuildingExpense>49430</NetCommunityBuildingExpense>
+        <PercentOfTotalExpense>0.00040</PercentOfTotalExpense>
+      </Total>
+      <BadDebtExpenseReported>false</BadDebtExpenseReported>
+      <BadDebtExpenseAmount>2086390</BadDebtExpenseAmount>
+      <AmountAttributableTo>0</AmountAttributableTo>
+      <AmountReimbursedByMedicare>38956053</AmountReimbursedByMedicare>
+      <CostOfCareReimbursedByMedicare>39346119</CostOfCareReimbursedByMedicare>
+      <MedicareSurplusOrShortfall>-390066</MedicareSurplusOrShortfall>
+      <CostingMethodologyUsed>
+        <CostToChargeRatio>X</CostToChargeRatio>
+      </CostingMethodologyUsed>
+      <WrittenDebtCollectionPolicy>true</WrittenDebtCollectionPolicy>
+      <ProvisionForCharityCare>true</ProvisionForCharityCare>
+      <Form990ScheduleHPartIV>
+        <NameOfEntity>
+          <BusinessNameLine1>NOT APPLICABLE</BusinessNameLine1>
+        </NameOfEntity>
+      </Form990ScheduleHPartIV>
+      <Form990ScheduleHPartV>
+        <Name>
+          <BusinessNameLine1>HOLYOKE MEDICAL CENTER INC</BusinessNameLine1>
+        </Name>
+        <Address>
+          <AddressLine1>575 BEECH STREET</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>01040</ZIPCode>
+        </Address>
+        <LicensedHospital>X</LicensedHospital>
+        <GeneralMedicalAndSurgical>X</GeneralMedicalAndSurgical>
+        <Er24Hours>X</Er24Hours>
+      </Form990ScheduleHPartV>
+      <Form990ScheduleHPartVI>
+        <IncomeBasedCriteria>NOT APPLICABLE</IncomeBasedCriteria>
+        <AnnualCommunityBenefitExpln>NOT APPLICABLE</AnnualCommunityBenefitExpln>
+        <CostingMethodUsed>Holyoke Medical Center, Inc. used the cost-to-charge ratio method in determining the cost of health services provided. Holyoke Medical Center, Inc. derived this cost-to-charge ratio based on the total patient care expense, after step-down adjustment, divided by gross patient charges per the Medicare 2552 Cost Report.</CostingMethodUsed>
+        <SubsidizedHealthServicesExpln>Included in subsidized health services are emergency room services and behavioral health services. No costs attributable to a physician clinic have been included in subsidized health services.</SubsidizedHealthServicesExpln>
+        <PercentOfTotalExpenseExpln>NOT APPLICABLE</PercentOfTotalExpenseExpln>
+        <BadDebtFootnote>Holyoke Medical Center, Inc. utilizes generally accepted accounting principles in the preparation of its financial statements.</BadDebtFootnote>
+        <ShortfallAsCommunityBenefit>See Part I, Line 7 description for the description of the costing methodology used in determining the Medicare costs.</ShortfallAsCommunityBenefit>
+        <DebtCollectionPolicy>Populations Exempt from Collection Action - The following individuals and patient populations are exempt from any collection actions pursuant to the Massachusetts Health Safety Net Program (HSN) regulations: a. Patients enrolled in, receiving benefits from, or participating in a public health insurance program, including but not limited to MassHealth, Emergency Aid to the Elderly, Disabled and Children (EAEDC), Healthy Start, Children's Medical Security Plan (CMSP (provided the patient's family income is equal to or less than 400% of the FPL)), and low income patients subject to the following: (1) Holyoke Medical Center, Inc. may initiate Collection Action against any patient enrolled in, receiving benefits from, or participating in MassHealth, EAEDC or Healthy Start, and any low income patient, for their required co-payments and deductibles as set forth by each specific program. (2) Holyoke Medical Center, Inc. may also initiate collection action for a patient who alleges that he or she is a participant in MassHealth, EAEDC, Health Start or CMSP but fails to provide proof of such participation. Upon receipt of satisfactory proof that a patient is a participant in such a program (including, in the case of MassHealth, EAEDC or Healthy Start, receipt or verification of a signed application), Holyoke Medical Center, Inc. shall cease billing or collection activities. (3) Low income patients are exempt from Collection Action for Eligible Services (as defined by HSN regulations from time-to-time) they receive during the period for which they have low income patient status. (4) Low income patients with family income between 200% and 400% of FPL are exempt from collection action for the portion of their Holyoke Medical Center, Inc. bill that exceeds the patient's deductible. However, Holyoke Medical Center, Inc. may initiate collection action against patients for their required co-payments and deductibles. (5) Holyoke Medical Center, Inc. may continue collection action on any low income patient for services rendered prior to the low income patient determination, provided that the patient's low income patient status has been terminated or expired. However, once a patient is determined to be eligible and enrolled in the Health Safety Net, MassHealth or certain Commonwealth Care programs, Holyoke Medical Center, Inc. will cease collection action for services rendered prior to the beginning of their eligibility. (6) Holyoke Medical Center, Inc. may pursue collection action against low income patients for services other than eligible services for which the patient has agreed to be responsible, provided Holyoke Medical Center, Inc. obtained the patient's prior written consent to be billed for the services. Holyoke Medical Center, Inc. will not bill low income patients for claims denied by the patient's primary insurer resulting from an administrative or billing error unless the error was initiated by patient / guarantor. (7) Holyoke Medical Center, Inc. will not undertake collection action against an individual who has been approved for ER Bad Debt Medical Hardship or medical hardship under the Massachusetts Health Safety Net Program with respect to the amount of the bill that exceeds the medical hardship contribution. b. With respect to low income patients injured in motor vehicle accidents, Holyoke Medical Center, Inc. will: (1) investigate whether the patient, driver and / or vehicle owner had a motor vehicle liability policy; (2) make every effort to obtain the third party payor information from the patient; (3) if the hospital has prior knowledge and is legally able, attempt to secure assignment on a patient's right to third party coverage on services provided due to an accident; (4) retain documentation of those efforts; (5) where applicable, submit a claim for payment to the motor vehicle liability insurer; and (6) if any portion of the claim was previously billed to the HSN, report any recovery to the HSN. c. Holyoke Medical Center, Inc. will not garnish a low income patient's or their guarantor's wages or execute a lien on the low income patient's or their guarantor's personal residence or motor vehicle unless: (1) Holyoke Medical Center, Inc. can show that the patient or their guarantor has the ability to pay; (2) the patient / guarantor did not respond to HMC requests for information or the patient / guarantor refused to cooperate with HMC to seek an alternative financial assistance program; or (3) for purposes of a lien, it was approved by Holyoke Medical Center, Inc.'s Board of Trustees on an individual case-by-case basis. d. Holyoke Medical Center, Inc. may cease any collection or billing actions against a patient who is unable to pay Holyoke Medical Center, Inc.'s bill at any time during the billing process, if the patient is eligible for assistance under financial assistance programs that HMC may, in its discretion, make available from time-to-time. Holyoke Medical Center, Inc. will keep any and all documentation that shows a patient met the criteria for such programs. e. Holyoke Medical Center, Inc. and its agents shall not continue collection or billing on a patient who is party to bankruptcy proceedings except to secure its rights as a creditor in the appropriate order. f. Holyoke Medical Center, Inc. and its agents will not charge interest on an overdue balance for a low income patient or for patients who are eligible for financial assistance programs that HMC may in its discretion make available from time-to-time.</DebtCollectionPolicy>
+        <NeedsAssessment>Holyoke Medical Center, Inc. conducts a needs assessment of the communities it serves in conjunction with numerous community agencies. These include the United Way of Pioneer Valley, Holyoke Health Center, Inc., our sister organizations River Valley Counseling Center, Inc. and Holyoke Visiting Nurse Association, Inc., as well as Holyoke Community College and a wide variety of education institutions in the Holyoke / Springfield area, including the University of Massachusetts Medical School in Worcester. Partnering with these organizations has allowed HMC to utilize our expertise and assessment of the population we serve to better formulate our community benefit initiatives. Based on the needs assessment, HMC determines which initiatives to continue and which programs to implement within our financial means. This includes a focus on community education and community outreach. It is important not to overlook the substantial contribution that the hospital makes to the community through our many educational programs, free flu shots, and our support of community events. HMC will continue to monitor these programs for their need and effectiveness in the community, and, working with our community partners, assess for gaps in the needs of the community that are not being filled. The formal needs assessment done in 2010 by the United Way of Pioneer Valley, combined with our own data and information of our patient population including what is publicly reported by the Department of Public Health - Massachusetts Community Health Information Profiles and other public sources has enabled us to focus our limited resources to better serve our community.</NeedsAssessment>
+        <PatientEducationAssistance>1) General Principles Holyoke Medical Center, Inc. or its agents will assist uninsured and underinsured patients with the process of applying for available financial assistance programs that may pay for some or all of their hospital bills. In order to help uninsured and underinsured patients find and apply for available financial assistance, Holyoke Medical Center, Inc. will provide all patients with a general notice of the availability of programs by way of posted notices throughout HMC and by way of individual notices to patients. The goal of these notices is to inform patients regarding the availability of financial assistance, as well as assistance with the application process. Holyoke Medical Center, inc. will assist patients with the application process for the following Massachusetts programs: MassHealth, Commonwealth Care, CMSP, Healthy Start, HSN, and Medical Hardship through the Health Safety Net. Holyoke Medical Center, Inc. will provide, upon request, specific information about: (a) the eligibility criteria to be a low income patient under the Massachusetts Health Safety Net program or (b) additional financial assistance programs that HMC may in its discretion make available to low income patients from time-to-time. Holyoke Medical Center, Inc. will also notify the patient about available payment plans that may be available to them pursuant to HSN regulations. 2) Role of Hospital Patient Financial Counselors and Other Finance Staff Holyoke Medical Center, Inc. will attempt to identify available coverage options for patients who may be uninsured or underinsured when the patient is scheduling services, while the patient is at HMC, upon discharge and for a reasonable time following discharge. Holyoke Medical Center, Inc. will direct all patients seeking available coverage options to HMC's Patient Financial Counseling office for eligibility screening and assistance with the application process, including the application process for financial assistance programs that HMC may in its discretion make available to low income patients from time-to-time. Holyoke Medical Center, Inc. will also provide information on how to contact the appropriate staff within the hospital's Finance Department to verify the accuracy of the hospital bill or to dispute certain charges. 3) Notification Practices Holyoke Medical Center, Inc. will post a notice (signs) of availability of financial assistance in the following locations: a. Service delivery areas (e.g., inpatient, clinic, emergency department admission and / or registration areas); b. Patient financial counselor areas; c. Central admission / registration areas; and / or d. Business office areas that are open to patients. Posted signs will be clearly visible and legible to patients visiting these areas. The hospital will also include a notice about the availability of financial assistance in all initial bills. When a patient contacts the hospital, the hospital finance staff will attempt to identify if a patient qualifies for a public financial assistance program or a payment plan. A patient who is enrolled in a public financial assistance program (e.g., MassHealth or the Health Safety Net) may qualify for certain plans. Patients may also qualify for additional assistance based on the hospital's own internal criteria for financial assistance or qualify for coverage of services as a medical hardship based on the patient's documented income and allowable medical expenses. For cases in which the hospital is using the Virtual Gateway application, the hospital will assist the patient in completing the application for MassHealth, Commonwealth Care, Children's Medical Security Plan, Health Start, Health Safety Net, or other forms of financial assistance programs as they become part of the Virtual Gateway program. All signs and notices shall be translated into languages other than English if such language is primarily spoken by 10% or more of the residents in the hospital service area, which is based on the hospital admissions and / or discharge information.</PatientEducationAssistance>
+        <CommunityInformation>While the geographic boundary includes cities and towns in Hampden and Hampshire counties, our organization focuses its resources on the eight cities and towns in our primary service area: Holyoke, Chicopee, South Hadley, Granby, Easthampton, Belchertown, West Springfield and Southampton, with a total population of about 185,000 people. Within this population are subsets of individuals with specific needs such as elderly, poor, and those who exhibit a health profile with higher-than-average morbidity. For example, statistics from the 2009 Massachusetts Department of Public Health Massachusetts Community Health Information Profile show that for the city of Holyoke, where the majority of our patients reside, indicate that: - per capita income is 61% of the state average; - adults over 65-years-old are 109% of the state average; - AFDC Medicaid recipients are 383% of the state average; - Hispanic persons are 591% of the state average; - births to adolescent mothers are 356% of the state average; - Asthma is 222% of the state average; - Gonorrhea is 278% of the state average; - Chlamydia is 352% of the state average; - AIDS / HIV related deaths are 773% of the state average; - Cardiovascular disease deaths are 120% of the state average; - Alcohol and other drug related hospital discharge rate is 246% of the state average. Prioritizing the needs is an ongoing process and is dependent upon a multitude of factors such as the Mission of the organization, the scope and depth of the specific need, and available resources. As the sole acute care provider in this area, we attempt to include the needs of all residents in our decisions, without regard to demographic or health status.</CommunityInformation>
+        <CommunityBuildingActivities>Holyoke Medical Center, Inc. provides a variety of community sponsorships and ongoing relationships with local community organizations. Our goals for those sponsorships and / or team building are to help support cultural and healthy lifestyle events, whether it be to support youth sports teams, celebrate youth academic leaders and their families and teachers, or support of a community celebration. Our intended outcome is to make this a healthier and more lively community. The majority of our community support is a result of requests from civic, social, and athletic groups within our community. As an example, working with three community partners, Holyoke Medical Center, Inc. staff help coordinate a children's grant to specifically assist speech and language screening and education for children and parents in the community for children with speech and hearing difficulties. Working with our partners, this program helps assist families with obtaining public school services for their children. Our ongoing involvement helps oversee budgets and assure flow to appropriate allocation of funds to those community services which will support those children and their families for speech, occupational and physical therapy, behavioral counseling, therapeutic play, hearing screenings, family literacy, and nutrition. In addition, HMC also partners with a variety of local community agencies to help oversee specific grants that have been awarded for the broader community for children with childhood developmental delays in their cognitive speech and hearing. Family support and teaching pre-school and grammar school educational programs for teachers are held to assist in minimizing the delays that these children would otherwise undergo without this service.</CommunityBuildingActivities>
+        <OtherInformation>The impact of Holyoke Medical Center, Inc.'s outreach efforts are evidenced by the fact that countless service agencies rely on HMC to ensure their own success. Among the key accomplishments this year were: - Oversaw emergency ambulance services for the City of Holyoke in conjunction with American Medical Response; - Operated the only Emergency Department in the City of Holyoke, providing emergency medical and behavioral health services to the community 24 hours a day, 7 days a week, 365 days per year; - Provided a variety of behavioral health services, including community liaison work with agencies in the mental health community in order to improve the provision of behavioral health / psychiatric services for community members, education lectures and provided transportation to members of the community who do not have their own transportation and are in need of partial hospitalization or intensive outpatient levels of care for mental health treatment; - Provided numerous outreach classes and services, through the Medical Center's Speech and Hearing department, to members of the community with hearing and speech difficulties. The department has also worked with a variety of long-term care facilities and elder communities to educate elders on hearing loss, hearing aids, medical conditions, speech, and swallowing issues. - Promoted health care career education throughout the community, such as hosting site visits to high school students to expand their knowledge of community hospitals and encourage youth to enter healthcare professions; - Provided numerous educational programs to promote healthy behaviors, encourage routine medical screenings to prevent a variety of common diseases in our community. For example, conducted diabetes education classes, conducted programs that provided information regarding the recognition, treatment, and prevention of stroke, and conducted CPR classes for the community; - Provided education on infectious disease and flu vaccine clinics which administered free flu vaccines to the general public; - Educated and implemented programs to promote access to primary and preventative care, utilizing medical and professional staff to educate the community to encourage routine medical screenings, education on speech and hearing issues, preventing pulmonary disease, and behavioral health issues; - Provided birthing, lactation and parenting skill education classes.</OtherInformation>
+        <AffiliatedHealthCareSystem>Holyoke Medical Center, Inc. (HMC) is an affiliate of Valley Health Systems, Inc. (VHS). The mission of VHS is to enhance the delivery of broadly diverse, high-quality and coordinated healthcare services and products to consumers in a fiscally-sound, efficient and effective manner. To this end, VHS maintains a network of systems, facilities, services, and products that provide compassionate care consistent with its philanthropic purposes. This will be achieved in an environment of growth, dignity, and respect for its employees. VHS is a tax-exempt organization which, through its affiliated organizations, operates a healthcare delivery system in the greater Holyoke / Chicopee area. The services provided by the system include: - Acute inpatient and outpatient services - Inpatient and Outpatient psychiatric services - Home health services - Occupational health services - Primary care services - Hospice services</AffiliatedHealthCareSystem>
+        <ReportsFiledWithStates>MA</ReportsFiledWithStates>
+      </Form990ScheduleHPartVI>
+    </IRS990ScheduleH>
+    <IRS990ScheduleJ documentId="IRS990ScheduleJ">
+      <SeverancePayment>false</SeverancePayment>
+      <SupplementalNonqualRetirePlan>false</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>false</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>false</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>false</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>false</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>false</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>true</AnyNonFixedPayments>
+      <InitialContractException>false</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>HANK PORTEN</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>399701</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>195770</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>28345</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>14093</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>637909</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>ANTONIO CORREIA</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>206786</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>47793</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>22940</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>16026</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>293545</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>KAREN M FERRONI MD</NamePerson>
+        <BaseCompensationFilingOrg>238960</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>22608</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>15920</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>277488</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>PAUL M SILVA</NamePerson>
+        <BaseCompensationFilingOrg>160904</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>29554</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>16656</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>16193</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>223307</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>MARY E NORRIS MD</NamePerson>
+        <BaseCompensationFilingOrg>338477</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>17000</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>15026</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>370503</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>MARY E KELLEHER</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>162622</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>34726</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>22709</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>8018</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>228075</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>THEODORE K MLAPAH MD</NamePerson>
+        <BaseCompensationFilingOrg>343640</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>137</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>16559</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>360336</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>VIJAY V GANDEVIA MD</NamePerson>
+        <BaseCompensationFilingOrg>363264</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>16836</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>16381</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>396481</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>DAVID D TUPPONCE MD</NamePerson>
+        <BaseCompensationFilingOrg>163042</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>4593</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>8587</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>176222</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>KATHY BUCKLEY</NamePerson>
+        <BaseCompensationFilingOrg>150787</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>30952</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>22350</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>16173</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>220262</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>CLARK A FENN</NamePerson>
+        <BaseCompensationFilingOrg>151711</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>30690</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>22651</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>16112</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>221164</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>JAMES KEEFE</NamePerson>
+        <BaseCompensationFilingOrg>141795</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>26281</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>22323</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>16066</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>206465</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>MICHAEL A ZWIRKO</NamePerson>
+        <BaseCompensationFilingOrg>168464</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>32166</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>23072</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>15725</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>239427</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>A MASHARN DOANES MD</NamePerson>
+        <BaseCompensationFilingOrg>432983</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>16345</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>8630</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>457958</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>PAUL H COOKE MD</NamePerson>
+        <BaseCompensationFilingOrg>310969</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>22708</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>16437</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>350114</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>ZUBEENA M MATEEN MD</NamePerson>
+        <BaseCompensationFilingOrg>312700</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>22312</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>16410</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>351422</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <Identifier>PART I, LINE 3:</Identifier>
+        <ReturnReference>H-C MANAGEMENT SERVICES, INC., A RELATED ORGANIZATION OF HOLYOKE MEDICAL</ReturnReference>
+        <Explanation>CENTER, INC., IS THE EMPLOYER OF THE ORGANIZATION'S CEO AND ESTABLISHES THE COMPENSATION OF THE CEO THROUGH THE FOLLOWING MEANS: A COMPENSATION COMMITTEE, AN INDEPENDENT COMPENSATION CONSULTANT, A WRITTEN EMPLOYMENT CONTRACT, A COMPENSATION STUDY/SURVEY, AND APPROVAL BY THE ORGANIZATION'S COMPENSATION COMMITTEE.</Explanation>
+      </Form990ScheduleJPartIII>
+      <Form990ScheduleJPartIII>
+        <Identifier>PART I, LINE 7:</Identifier>
+        <ReturnReference>CERTAIN EMPLOYEES OF HOLYOKE MEDICAL CENTER, INC. PARTICIPATE IN</ReturnReference>
+        <Explanation>INCENTIVE COMPENSATION BASED ON THE ACHIEVEMENT OF GOALS RELATING TO THE BUSINESS PLAN, PATIENT SATISFACTION, QUALITY AND OTHER GOALS AS ESTABLISHED ON AN ANNUAL BASIS. THE COMPENSATION COMMITTEE DETERMINES THE APPROPRIATE AMOUNT OF THE INCENTIVE. THESE INDIVIDUALS, WITH THE EXCEPTION OF THE CEO, ARE NOT MEMBERS OF THE COMPENSATION COMMITTEE AND DO NOT PARTICIPATE IN THE PROCESS. THE CEO IS EXCUSED FROM DISCUSSIONS AND DELIBERATIONS REGARDING HIS INCENTIVE COMPENSATION. THE COMPENSATION COMMITTEE ENGAGES AN OUTSIDE COMPENSATION CONSULTING FIRM TO HELP DETERMINE THE APPROPRIATE LEVEL OF COMPENSATION OF THE CEO, SENIOR MANAGERS AND KEY EMPLOYEES. PART II - HANK PORTEN BONUS AND INCENTIVE COMPENSATION CONSISTS OF THE FOLLOWING: CURRENT YEAR INCENTIVE PAYMENT ................. 124,082 DEFEERRED COMPENSATION PAYMENT PURSUANT TO ARRANGEMENTS PRIOR TO 2003 .................. 71,688 ------- TOTAL 195,770</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleK documentId="IRS990ScheduleK">
+      <Form990ScheduleKPartI>
+        <IssuerName>
+          <BusinessNameLine1>MASS HEALTH AND EDUCATIONAL FACILITIES AUTHORITY</BusinessNameLine1>
+        </IssuerName>
+        <IssuerEIN>042456011</IssuerEIN>
+        <DateIssued>2004-07-14</DateIssued>
+        <IssuePrice>4765000</IssuePrice>
+        <DescriptionOfPurpose>EQUIPMENT</DescriptionOfPurpose>
+        <Defeased>false</Defeased>
+        <OnBehalfOfIssuer>false</OnBehalfOfIssuer>
+      </Form990ScheduleKPartI>
+      <Form990ScheduleKPartI>
+        <IssuerName>
+          <BusinessNameLine1>MASS HEALTH AND DEUCATIONAL FACILITIES AUTHORITY</BusinessNameLine1>
+        </IssuerName>
+        <IssuerEIN>042456011</IssuerEIN>
+        <DateIssued>2006-02-28</DateIssued>
+        <IssuePrice>2257136</IssuePrice>
+        <DescriptionOfPurpose>EQUIPMENT</DescriptionOfPurpose>
+        <Defeased>false</Defeased>
+        <OnBehalfOfIssuer>false</OnBehalfOfIssuer>
+      </Form990ScheduleKPartI>
+      <Form990ScheduleKPartII>
+        <TotalProceeds>4765000</TotalProceeds>
+        <IssuanceCostsFromProceeds>16302</IssuanceCostsFromProceeds>
+        <CapitalExpenditures>4748698</CapitalExpenditures>
+        <YearOfSubstCompletion>2005</YearOfSubstCompletion>
+        <CurrentRefunding>false</CurrentRefunding>
+        <AdvanceRefunding>false</AdvanceRefunding>
+        <FinalAllocationMade>true</FinalAllocationMade>
+        <AdequateBooksAndRecdsMaintaind>true</AdequateBooksAndRecdsMaintaind>
+      </Form990ScheduleKPartII>
+      <Form990ScheduleKPartII>
+        <TotalProceeds>2257136</TotalProceeds>
+        <IssuanceCostsFromProceeds>35529</IssuanceCostsFromProceeds>
+        <CapitalExpenditures>2221607</CapitalExpenditures>
+        <YearOfSubstCompletion>2006</YearOfSubstCompletion>
+        <CurrentRefunding>false</CurrentRefunding>
+        <AdvanceRefunding>false</AdvanceRefunding>
+        <FinalAllocationMade>true</FinalAllocationMade>
+        <AdequateBooksAndRecdsMaintaind>true</AdequateBooksAndRecdsMaintaind>
+      </Form990ScheduleKPartII>
+      <Form990ScheduleKPartIII>
+        <OwningBondFinancedProperty>false</OwningBondFinancedProperty>
+        <AnyLeaseArrangements>false</AnyLeaseArrangements>
+        <MngmentCntrctBondFinancdPrprty>false</MngmentCntrctBondFinancdPrprty>
+        <AnyResearchAgreements>false</AnyResearchAgreements>
+        <PrcntgePrvtBusinessUseByOthers>0.00000</PrcntgePrvtBusinessUseByOthers>
+        <PercentageOfPrvtBusinessReUBI>0.00000</PercentageOfPrvtBusinessReUBI>
+        <TotalPrivateBusinessUse>0.00000</TotalPrivateBusinessUse>
+        <PostIssuanceComplianceProcdrs>true</PostIssuanceComplianceProcdrs>
+      </Form990ScheduleKPartIII>
+      <Form990ScheduleKPartIII>
+        <OwningBondFinancedProperty>false</OwningBondFinancedProperty>
+        <AnyLeaseArrangements>false</AnyLeaseArrangements>
+        <MngmentCntrctBondFinancdPrprty>false</MngmentCntrctBondFinancdPrprty>
+        <AnyResearchAgreements>false</AnyResearchAgreements>
+        <PrcntgePrvtBusinessUseByOthers>0.00000</PrcntgePrvtBusinessUseByOthers>
+        <PercentageOfPrvtBusinessReUBI>0.00000</PercentageOfPrvtBusinessReUBI>
+        <TotalPrivateBusinessUse>0.00000</TotalPrivateBusinessUse>
+        <PostIssuanceComplianceProcdrs>true</PostIssuanceComplianceProcdrs>
+      </Form990ScheduleKPartIII>
+      <Form990ScheduleKPartIV>
+        <Form8038TFiled>false</Form8038TFiled>
+        <VariableRateIssue>false</VariableRateIssue>
+        <HedgeIdentifiedInBooksAndRecds>false</HedgeIdentifiedInBooksAndRecds>
+        <GrossProceedsInvestedInGIC>false</GrossProceedsInvestedInGIC>
+        <GrossProceedsInvested>false</GrossProceedsInvested>
+        <ExceptionToRebate>true</ExceptionToRebate>
+      </Form990ScheduleKPartIV>
+      <Form990ScheduleKPartIV>
+        <Form8038TFiled>true</Form8038TFiled>
+        <VariableRateIssue>false</VariableRateIssue>
+        <HedgeIdentifiedInBooksAndRecds>false</HedgeIdentifiedInBooksAndRecds>
+        <GrossProceedsInvestedInGIC>false</GrossProceedsInvestedInGIC>
+        <GrossProceedsInvested>true</GrossProceedsInvested>
+        <ExceptionToRebate>false</ExceptionToRebate>
+      </Form990ScheduleKPartIV>
+    </IRS990ScheduleK>
+    <IRS990ScheduleL documentId="IRS990ScheduleL">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>GOSS MCLAIN INSURANCE AGENCY INC</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>678713</AmountOfTransaction>
+        <DescriptionOfTransaction>INSURANCE PAYMENTS</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>WANDANA JOSHI DO</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>304493</AmountOfTransaction>
+        <DescriptionOfTransaction>SALARY</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>ADAM FENN</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>31851</AmountOfTransaction>
+        <DescriptionOfTransaction>SALARY</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>HOLYOKE COMMUNITY COLLEGE</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>24000</AmountOfTransaction>
+        <DescriptionOfTransaction>SPACE RENTAL</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>ANNE CORREIA</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>21612</AmountOfTransaction>
+        <DescriptionOfTransaction>SALARY</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>PATRICK KEEFE</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>16614</AmountOfTransaction>
+        <DescriptionOfTransaction>SALARY</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>VALLEY HEALTH PARTNERS INC</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>12600</AmountOfTransaction>
+        <DescriptionOfTransaction>MEMBERSHIP DUES</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>VALLEY HEALTH PARTNERS INC</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>6200</AmountOfTransaction>
+        <DescriptionOfTransaction>MEMBER CAPITAL CONTRIBUTIONS</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="IRS990ScheduleO">
+      <GeneralExplanation>
+        <Identifier>Form 990, Page 6, Part VI, Section A, Line 2 - BUSINESS RELATIONSHIPS:</Identifier>
+        <ReturnReference>Certain officers and directors of the organization are employed by a</ReturnReference>
+        <Explanation>related tax-exempt organization which has some common officers and/or directors. The President (Hank Porten), Treasurer (Antonio Correia), and Director (Mary Kelleher) are employees of H-C Management Services, Inc. and its common officers and/or directors include Hank Porten, Antonio Correia, Priscilla Mandrachia, and Richard Wells. Form 990, Page 6, Part VI, Section A, Line 6: Valley Health Systems, Inc. is the sole member of Holyoke Medical Center, Inc.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Page 6, Part VI, Section A, Line 7a:</Identifier>
+        <ReturnReference>Valley Health Systems, Inc. elects the members of the governing body of</ReturnReference>
+        <Explanation>Holyoke Medical Center, Inc. Form 990, Page 6, Part VI, Section A, Line 7b: Significant decisions of the governing body of Holyoke Medical Center, Inc. are subject to the approval of Valley Health Systems, Inc. as specified in the organization's bylaws. Form 990, Page 6, Part VI, Section B, Line 11a: A copy of Holyoke Medical Center, Inc.'s Federal Form 990 was provided to each voting member of the governing body prior to its filing with the Internal Revenue Service. The Form 990 was prepared with the assistance of PricewaterhouseCoopers LLP. Form 990, Page 6, Part VI, Section B, Line 12c: The conflict of interest policy of Holyoke Medical Center, Inc. is monitored and enforced as part of the Valley Health Systems, Inc. system and is reviewed once a year by the system's conflict of interest committee. HMC board members, officers, and key employees complete and sign a conflict of interest questionnaire annually. All signed questionnaires are then submitted to HMC and to the parent company.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Page 6, Part VI, Section B, Line 15a &amp; 15b:</Identifier>
+        <ReturnReference>The compensation committee engages an outside compensation consulting firm</ReturnReference>
+        <Explanation>to complete a compensation survey for the review, evaluation and ultimate approval of said committee to help determine the appropriate compensation levels of the Chief Executive Officer, senior management and key employees. These individuals, with the exception of the CEO, are not members of the compensation committee and do not participate in this process. The CEO is excused from discussions and deliberations regarding his compensation. This process was last undertaken in 2010. Form 990, Page 6, Part VI, Section C, Line 19: The governing documents, conflict of interest policy, and financial statements of Holyoke Medical Center, Inc. are not available to the public.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Page 7, Part VII, Line 1a, column (B):</Identifier>
+        <ReturnReference>Average hours per week for compensated executive's time devoted to the</ReturnReference>
+        <Explanation>system of related organizations - Holyoke Medical Center (HMC), H-C Management Services (HCM), Masswest Services (MWS), Western Mass Physician Associates (WMPA), Valley Health Systems (VHS), River Valley Counseling Center (RVCC), and Holyoke Visiting Nurse Association (VNA) are as follows: HMC HCM MWS WMPA VHS RVCC VNA TOTAL Hank Porten 35 4.5 .5 1.0 1.5 2.0 .5 45 Antonio Correia 33 4.5 .5 2.5 2.5 1.5 .5 45 Mary Kelleher 36 2.5 0.5 1.0 40 Schedule L, Part IV, Column (b): Deborah Buckley, Director of Holyoke Medical Center, Inc., is President/Owner of Goss &amp; McLain Insurance Agency, Inc. Holyoke Medical Center, Inc. made "pass-through" premium payments (passing through Goss &amp; McLain Insurance Agency, Inc.) to insurance companies for personal lines of insurance coverage purchased by employees of Holyoke Medical Center, Inc. and also for some insurance coverage purchased by Holyoke Medical Center, Inc., obtained through the broker services of Goss &amp; McLain Insurance Agency, Inc. Such "pass-through" premium payments are passed on by Goss &amp; McLain Insurance Agency, Inc. to the insurance companies writing the coverage. Holyoke Medical Center, Inc. also made other insurance premium payments directly to insurance companies for which Goss &amp; McLain Insurance Company, Inc. served as the broker/agent.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Wandana Joshi, D.O., the wife of Vijay Gandevia M.D., Director of</Identifier>
+        <ReturnReference>Holyoke Medical Center, Inc., received compensation as an employee</ReturnReference>
+        <Explanation>(Anesthesiologist) of Holyoke Medical Center, Inc. Adam Fenn, the son of Holyoke Medical Center, Inc. key employee Clark A. Fenn, received compensation as an employee (Mental Health Assistant) of Holyoke Medical Center, Inc. Kathleen Hankel, Director of Holyoke Medical Center, Inc., is Dean of the Department of Health and Life Sciences at Holyoke Community College. Holyoke Medical Center, Inc. made payments to the college for space rental. Anne Correia, the wife of Antonio Correia, Treasurer of Holyoke Medical Center, Inc., received compensation as an employee (Nuclear Medicine Coordinator) of Holyoke Medical Center, Inc. Patrick Keefe, the son of Holyoke Medical Center, Inc. key Employee, James Keefe, received compensation as an employee (Nursing Assistant) of Holyoke Medical Center, Inc. Holyoke Medical Center, Inc. (HMC) made payments to Valley Health Partners, Inc. (VHP) for membership dues and member capital contributions. Hank J. Porten, HMC President, Clerk, and Director, is a Vice President and Director of VHP. Paul M. Silva, HMC Vice President of Finance, is Tresaurer and Director of VHP. Michael A. Zwirko, HMC Vice President, Outpatient Services, is a Director of VHP.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>COMMUNITY HEALTH FDN OF WESTERN MASS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>113 HAMPDEN STREET</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010405105</ZIPCode>
+        </AddressUS>
+        <EIN>222568962</EIN>
+        <PrimaryActivities>HOLDING CO</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>7</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>FALLS NURSING HOME INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>20 HOSPITAL DRIVE</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010406604</ZIPCode>
+        </AddressUS>
+        <EIN>042962879</EIN>
+        <PrimaryActivities>INACTIVE</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11A</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>HCAHR INC - WORKER'S COMPENSATION TRUST</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>20 HOSPITAL DRIVE</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010406604</ZIPCode>
+        </AddressUS>
+        <EIN>046635116</EIN>
+        <PrimaryActivities>WORKERS COMP</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11A</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>H-C MANAGEMENT SERVICES INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>20 HOSPITAL DRIVE</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010406604</ZIPCode>
+        </AddressUS>
+        <EIN>222515981</EIN>
+        <PrimaryActivities>MGMT SERVICES</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11A</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>HOLYOKE VISITING NURSE ASSOCIATION INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>113 HAMPDEN STREET</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010405105</ZIPCode>
+        </AddressUS>
+        <EIN>042104310</EIN>
+        <PrimaryActivities>HEALTHCARE</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>MASSWEST SERVICES INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>575 BEECH STREET</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010402223</ZIPCode>
+        </AddressUS>
+        <EIN>222515964</EIN>
+        <PrimaryActivities>HEALTHCARE</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11A</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>RIVER VALLEY COUNSELING CENTER INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>319 BEECH STREET</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010403968</ZIPCode>
+        </AddressUS>
+        <EIN>042174657</EIN>
+        <PrimaryActivities>HEALTHCARE</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SUMMERFIELD INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>20 HOSPITAL DRIVE</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010406604</ZIPCode>
+        </AddressUS>
+        <EIN>222707930</EIN>
+        <PrimaryActivities>MGMT SERVICES</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11A</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>VALLEY HEALTH SYSTEMS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>20 HOSPITAL DRIVE</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010406604</ZIPCode>
+        </AddressUS>
+        <EIN>042103583</EIN>
+        <PrimaryActivities>HEALTHCARE</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>7</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>WESTERN MASS PHYSICIAN ASSOCIATES INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>15 HOSPITAL DRIVE</AddressLine1>
+          <City>HOLYOKE</City>
+          <State>MA</State>
+          <ZIPCode>010406644</ZIPCode>
+        </AddressUS>
+        <EIN>043202198</EIN>
+        <PrimaryActivities>MEDICAL CARE</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>3</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>true</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>false</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>true</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>false</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>true</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>true</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>true</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>false</SharingOfFacilities>
+      <SharingOfPaidEmployees>false</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>false</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>false</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>true</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

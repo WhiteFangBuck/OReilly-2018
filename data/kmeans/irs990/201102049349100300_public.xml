@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-23T13:22:22-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MOSTAFA M AFR PHD CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>26300 TELEGRAPH RD FL 2</AddressLine1>
+        <City>SOUTHFIELD</City>
+        <State>MI</State>
+        <ZIPCode>48033</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>204172376</EIN>
+      <Name>
+        <BusinessNameLine1>THE HONEST FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>HONE</NameControl>
+      <USAddress>
+        <AddressLine1>5620 KENMOOR RD</AddressLine1>
+        <City>BLOOMFIELD TOWNSHIP</City>
+        <State>MI</State>
+        <ZIPCode>48301</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DR FAL-SAGHIR</Name>
+      <Title>PRESIDENT</Title>
+      <DateSigned>2011-06-22</DateSigned>
+    </Officer>
+    <Preparer>
+      <DatePrepared>2011-06-28</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>30496</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>55000</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <TotalRevenueAndExpenses>55000</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">650</AccountingFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc5">849</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc7">48</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1547</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>24915</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>24915</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>26462</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>24915</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>28538</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1109</CashBOY>
+        <CashEOY>30496</CashEOY>
+        <CashEOYFMV>30496</CashEOYFMV>
+        <LandBuildingAndEquipmentBasis>11460</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>11460</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>849</LandBuildingAndEquipmentBOY>
+        <TotalAssetsBOY>1958</TotalAssetsBOY>
+        <TotalAssetsEOY>30496</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>30496</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>1958</UnrestrictedBOY>
+        <UnrestrictedEOY>30496</UnrestrictedEOY>
+        <TotalNetAssetsBOY>1958</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>30496</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1958</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>30496</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1958</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>28538</ExcessOfRevenueOverExpenses>
+        <Subtotal>30496</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>30496</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>35770</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>48160</QualifyingDistributionsYear2>
+        <QualifyingDistributionsYear3>133615</QualifyingDistributionsYear3>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>24915</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MOSTAFA AFR PC</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2483592308</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>26300 TELEGRAPH RD</AddressLine1>
+          <City>SOUTHFIELD</City>
+          <State>MI</State>
+          <ZIPCode>48033</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">FAHD AL-SAGHIR</PersonName>
+          <USAddress>
+            <AddressLine1>5620 KENMOOR RD</AddressLine1>
+            <City>BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48301</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">SUHA SHARBEK</PersonName>
+          <USAddress>
+            <AddressLine1>5620 KENMOOR RD</AddressLine1>
+            <City>BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48301</ZIPCode>
+          </USAddress>
+          <Title>VIC-PRESI</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">HEBA AL-SAGHIR</PersonName>
+          <USAddress>
+            <AddressLine1>5620KENMOOR RD</AddressLine1>
+            <City>BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48301</ZIPCode>
+          </USAddress>
+          <Title>SECRTARY</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>24915</ExpensesAndContributions>
+        <QualifyingDistributions>24915</QualifyingDistributions>
+        <AdjQualifyingDistributions>24915</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>133615</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>48160</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>35770</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>217545</TotalExcessDistriCarryover>
+        <QualifyingDistributions>24915</QualifyingDistributions>
+        <RemainingDistriFromCorpus>24915</RemainingDistriFromCorpus>
+        <TotalCorpus>242460</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>242460</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>133615</ExcessFromYear3>
+        <ExcessFromYear2>48160</ExcessFromYear2>
+        <ExcessFromYear1>35770</ExcessFromYear1>
+        <ExcessFromCurrentYear>24915</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>IAGD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>879 WAUBURN RD</AddressLine1>
+            <City>ROCHESTER HILLS</City>
+            <State>MI</State>
+            <ZIPCode>48307</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NON PROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ISLAMIC COMMUNITY CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>32605 BELLVINE TRAIL</AddressLine1>
+            <City>BEVERLY HILLS</City>
+            <State>MI</State>
+            <ZIPCode>48025</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NON PROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>12000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE MUSLIM UNITY CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1830 WSQUARE LAKE RD</AddressLine1>
+            <City>BLOOMFIELD HILLS</City>
+            <State>MI</State>
+            <ZIPCode>48302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NON PROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>7140</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MUSLIM CTR OF BL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1830 W SQUARE LAKE RD</AddressLine1>
+            <City>BLOOMFILED HILLS</City>
+            <State>MI</State>
+            <ZIPCode>48302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NONPROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>3600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HUDA CLINIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1605 WEST DAVISON</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>482383651</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NONPROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WAYNE STATE UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5050 GULLEN MALL</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>48202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NONPROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>140</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MUSCULAR DYSTROPHY ASSOCI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3300 E SUNRISE DR</AddressLine1>
+            <City>TUCSON</City>
+            <State>AZ</State>
+            <ZIPCode>85718</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NONPROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NAAMA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>801 S ADAMS RD SUITE 208</AddressLine1>
+            <City>BIRMINGHAM</City>
+            <State>MI</State>
+            <ZIPCode>48009</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NONPROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>185</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NKFM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1169 OAK VALLEY DR</AddressLine1>
+            <City>ANN ARBOR</City>
+            <State>MI</State>
+            <ZIPCode>48108</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NONPROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GLEANERS FOOD BANK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2131 BEAUFAIT</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>48207</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NONPROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>30</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GLOBALGIVING FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1023 15TH ST NW 12TH FL</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NONPROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>60</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OXFAM AMERICA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>226 CAUSEWAY ST 5TH FL</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>021142206</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NONPROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITY</PurposeOfGrantOrContribution>
+          <Amount>60</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>24915</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>650</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc4">
+      <Compensation>
+        <PersonName>FAHD AL-SAGHIR</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>SUHA SHARBEK</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>HEBA AL-SAGHIR</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <DepreciationSchedule documentId="RetDoc5">
+      <Depreciation>
+        <DescriptionOfProperty>AUTO</DescriptionOfProperty>
+        <DateAcquired>2007-01-01</DateAcquired>
+        <CostOrOtherBasis>11460</CostOrOtherBasis>
+        <PriorYearsDepreciation>10611</PriorYearsDepreciation>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>3.0000</Life>
+        <CurrentYearExpense>849</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="RetDoc6">
+      <LandEtc>
+        <CostOrOtherBasis>11460</CostOrOtherBasis>
+        <AccumulatedDepreciation>11460</AccumulatedDepreciation>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>48</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

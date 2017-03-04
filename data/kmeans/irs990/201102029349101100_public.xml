@@ -1,0 +1,1061 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-21T18:28:42-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>WELLSPRING GROUP PS CPAS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>10885 NE 4TH ST SUITE 320</AddressLine1>
+        <City>BELLEVUE</City>
+        <State>WA</State>
+        <ZIPCode>98004</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>916457246</EIN>
+      <Name>
+        <BusinessNameLine1>THOMAS C WRIGHT FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>THOM</NameControl>
+      <Phone>4255764200</Phone>
+      <USAddress>
+        <AddressLine1>5400 CARILLON POINT</AddressLine1>
+        <City>KIRKLAND</City>
+        <State>WA</State>
+        <ZIPCode>980337356</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THOMAS C WRIGHT</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>4255764200</Phone>
+      <DateSigned>2011-07-15</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>MARIE E NOURSE</Name>
+      <Phone>4254628220</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="12">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>5219683</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>50000</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>128689</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>128689</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>287974</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>3413438</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>287974</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">71</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>71</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>466734</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>416734</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>15000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>15000</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">2355</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1177</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>1178</AccountingFeesDsbrsChrtblPrps>
+        <InterestRevAndExpnss>4</InterestRevAndExpnss>
+        <InterestNetInvstIncm>4</InterestNetInvstIncm>
+        <InterestDsbrsChrtblPrps>0</InterestDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">910</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>910</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">4214</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>2097</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>2115</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>22483</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>19188</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>3293</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>230040</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>230040</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>252523</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>19188</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>233333</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>214211</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>397546</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>10747</CashBOY>
+        <CashEOY>10964</CashEOY>
+        <CashEOYFMV>10964</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>458278</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>315618</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>315618</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>747475</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc2210400001">1002748</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>1030257</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>2233491</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">1877112</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1942053</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>1223737</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">1565284</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>1620508</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>241347</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">356914</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>297751</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>3098</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>3098</AccumDeprecLandBldgAndEquip>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">1017</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">2532</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">2532</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>4916092</TotalAssetsBOY>
+        <TotalAssetsEOY>5131172</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>5219683</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>33</AccountsPayableBOY>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">0</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">902</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>33</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>902</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>4916059</RetainedEarningsBOY>
+        <RetainedEarningsEOY>5130270</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>4916059</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>5130270</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>4916092</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>5131172</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>4916059</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>214211</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>5130270</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>5130270</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EXCELSIOR BUYOUT INVESTORS, LLC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-02</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>1632</GrossSalesPrice>
+          <GainOrLoss>1632</GainOrLoss>
+          <GainsMinusExcessOrLosses>1632</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EXCELSIOR BUYOUT INVESTORS, LLC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>10540</GrossSalesPrice>
+          <GainOrLoss>10540</GainOrLoss>
+          <GainsMinusExcessOrLosses>10540</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>WORLDCOM SETTLEMENT FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-05-20</DateSold>
+          <GrossSalesPrice>98</GrossSalesPrice>
+          <GainOrLoss>98</GainOrLoss>
+          <GainsMinusExcessOrLosses>98</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TENET HEALTHCARE SETTLEMENT FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-05-20</DateSold>
+          <GrossSalesPrice>448</GrossSalesPrice>
+          <GainOrLoss>448</GainOrLoss>
+          <GainsMinusExcessOrLosses>448</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VERISIGN SETTLEMENT FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-08-02</DateSold>
+          <GrossSalesPrice>212</GrossSalesPrice>
+          <GainOrLoss>212</GainOrLoss>
+          <GainsMinusExcessOrLosses>212</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>10000 SHS GENERAL ELECTRIC COMPANY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-02</DateAcquired>
+          <DateSold>2010-02-16</DateSold>
+          <GrossSalesPrice>158091</GrossSalesPrice>
+          <CostOrOtherBasis>82608</CostOrOtherBasis>
+          <GainOrLoss>75483</GainOrLoss>
+          <GainsMinusExcessOrLosses>75483</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5000 SHS ISHARES MSCI CDA IDX FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-30</DateAcquired>
+          <DateSold>2010-07-06</DateSold>
+          <GrossSalesPrice>124745</GrossSalesPrice>
+          <CostOrOtherBasis>141752</CostOrOtherBasis>
+          <GainOrLoss>-17007</GainOrLoss>
+          <GainsMinusExcessOrLosses>-17007</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2500 SHS ISHARES TR BARCLAYS BOND FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-02</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>258839</GrossSalesPrice>
+          <CostOrOtherBasis>260779</CostOrOtherBasis>
+          <GainOrLoss>-1940</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1940</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>23563 SHS METROPOLITAN WEST TOTAL RETURN BOND FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-08-20</DateAcquired>
+          <DateSold>2010-12-13</DateSold>
+          <GrossSalesPrice>244109</GrossSalesPrice>
+          <CostOrOtherBasis>250000</CostOrOtherBasis>
+          <GainOrLoss>-5891</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5891</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4000 SHS VANGUARD CORP BOND ETF ST BOND FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-07-15</DateAcquired>
+          <DateSold>2010-12-13</DateSold>
+          <GrossSalesPrice>231170</GrossSalesPrice>
+          <CostOrOtherBasis>231368</CostOrOtherBasis>
+          <GainOrLoss>-198</GainOrLoss>
+          <GainsMinusExcessOrLosses>-198</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4000 SHS VANGUARD INTL EQTY INDEXFTSE ALL WORLD EX US ETF</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-18</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>153326</GrossSalesPrice>
+          <CostOrOtherBasis>174607</CostOrOtherBasis>
+          <GainOrLoss>-21281</GainOrLoss>
+          <GainsMinusExcessOrLosses>-21281</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2000 SHS VANGUARD MATERIALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-08</DateAcquired>
+          <DateSold>2010-02-25</DateSold>
+          <GrossSalesPrice>129559</GrossSalesPrice>
+          <CostOrOtherBasis>91244</CostOrOtherBasis>
+          <GainOrLoss>38315</GainOrLoss>
+          <GainsMinusExcessOrLosses>38315</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>10000 SHS ISHARES OIL &amp; GAS EXPL INDEX FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-24</DateAcquired>
+          <DateSold>2010-11-30</DateSold>
+          <GrossSalesPrice>58082</GrossSalesPrice>
+          <CostOrOtherBasis>40674</CostOrOtherBasis>
+          <GainOrLoss>17408</GainOrLoss>
+          <GainsMinusExcessOrLosses>17408</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25213 SHS LOOMIS SAYLES BOND FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-15</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>336852</GrossSalesPrice>
+          <CostOrOtherBasis>250000</CostOrOtherBasis>
+          <GainOrLoss>86852</GainOrLoss>
+          <GainsMinusExcessOrLosses>86852</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100000 SHS SECTPR SPDR INDL SELECT SHARES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-26</DateAcquired>
+          <DateSold>2010-07-06</DateSold>
+          <GrossSalesPrice>273505</GrossSalesPrice>
+          <CostOrOtherBasis>219268</CostOrOtherBasis>
+          <GainOrLoss>54237</GainOrLoss>
+          <GainsMinusExcessOrLosses>54237</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5730 SHS VANGUARD ENERGY FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-30</DateAcquired>
+          <DateSold>2010-07-06</DateSold>
+          <GrossSalesPrice>297634</GrossSalesPrice>
+          <CostOrOtherBasis>250040</CostOrOtherBasis>
+          <GainOrLoss>47594</GainOrLoss>
+          <GainsMinusExcessOrLosses>47594</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2482 SHS VANGUARD HEALTH CARE FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-30</DateAcquired>
+          <DateSold>2010-07-06</DateSold>
+          <GrossSalesPrice>276315</GrossSalesPrice>
+          <CostOrOtherBasis>250040</CostOrOtherBasis>
+          <GainOrLoss>26275</GainOrLoss>
+          <GainsMinusExcessOrLosses>26275</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7000 SHS VANGUARD INFO TECHNOLOGY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-02-25</DateAcquired>
+          <DateSold>2010-07-06</DateSold>
+          <GrossSalesPrice>348816</GrossSalesPrice>
+          <CostOrOtherBasis>393806</CostOrOtherBasis>
+          <GainOrLoss>-44990</GainOrLoss>
+          <GainsMinusExcessOrLosses>-44990</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4480 SHS VANGUARD INTER-TERM INVESTMENT GRADE FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-16</DateAcquired>
+          <DateSold>2010-11-30</DateSold>
+          <GrossSalesPrice>46060</GrossSalesPrice>
+          <CostOrOtherBasis>38343</CostOrOtherBasis>
+          <GainOrLoss>7717</GainOrLoss>
+          <GainsMinusExcessOrLosses>7717</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6000 SHS VANGUARD INTL EQTY INDEXFTSE ALL WORLD FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-06-13</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>230067</GrossSalesPrice>
+          <CostOrOtherBasis>314070</CostOrOtherBasis>
+          <GainOrLoss>-84003</GainOrLoss>
+          <GainsMinusExcessOrLosses>-84003</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3000 SHS VANGUARD MATERIALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-08</DateAcquired>
+          <DateSold>2010-04-30</DateSold>
+          <GrossSalesPrice>215367</GrossSalesPrice>
+          <CostOrOtherBasis>136865</CostOrOtherBasis>
+          <GainOrLoss>78502</GainOrLoss>
+          <GainsMinusExcessOrLosses>78502</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>17971</GrossSalesPrice>
+          <GainOrLoss>17971</GainOrLoss>
+          <GainsMinusExcessOrLosses>17971</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>287974</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>249766</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>4850155</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.051496</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>178474</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>5392165</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.033099</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>431568</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>5208122</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.082864</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>228585</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>3978721</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.057452</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>41264</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2807874</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.014696</DistributionRatioYear5>
+        <TotalDistributionRatio>0.239607</TotalDistributionRatio>
+        <AverageDistributionRatio>0.047921</AverageDistributionRatio>
+        <NetNoncharitableAssets>5158491</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>247200</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>3975</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>251175</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>233333</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>7951</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>7951</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>7951</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2988</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>5500</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>8488</TotalCreditsAndPayments>
+        <Overpayment>537</Overpayment>
+        <AmountCreditedToNextYear>537</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>WA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THOMAS C WRIGHT</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4255764200</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5400 CARILLON POINT</AddressLine1>
+          <City>KIRKLAND</City>
+          <State>WA</State>
+          <ZIPCode>980337356</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>1</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS C WRIGHT</PersonName>
+          <USAddress>
+            <AddressLine1>5400 CARILLON POINT</AddressLine1>
+            <City>KIRKLAND</City>
+            <State>WA</State>
+            <ZIPCode>980337356</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>G KENNETH PHILLIPS</PersonName>
+          <USAddress>
+            <AddressLine1>5400 CARILLON POINT</AddressLine1>
+            <City>KIRKLAND</City>
+            <State>WA</State>
+            <ZIPCode>980337356</ZIPCode>
+          </USAddress>
+          <Title>EXECUTIVE DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>15000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>4258693</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>978354</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>5237047</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>5237047</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>78556</CashDeemedCharitable>
+        <NetNoncharitableAssets>5158491</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>257925</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>257925</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>7951</TaxBasedOnInvestmentIncome>
+        <TotalTax>7951</TotalTax>
+        <DistributableAmountBeforeAdj>249974</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>249974</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>249974</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>233333</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>233333</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>233333</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>249974</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear3>157617</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear1>9428</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>167045</TotalExcessDistriCarryover>
+        <QualifyingDistributions>233333</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>233333</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>16641</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>16641</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>150404</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>150404</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>140976</ExcessFromYear3>
+        <ExcessFromYear1>9428</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>THOMAS C WRIGHT</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>THOMAS C WRIGHT FOUNDATION</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>5400 CARILLON POINT</AddressLine1>
+            <City>KIRKLAND</City>
+            <State>WA</State>
+            <ZIPCode>98033</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4255764200</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>SUBMIT IN WRITING; INCLUDE 501(C)(3) LETTER; PROPOSAL OF FUNDING REQUIRED.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN INSTITUTE OF PHILANTHROPY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3450 N LAKE SHORE DRIVE</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60657</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY-501-C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>40</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILDREN'S HOSPITAL FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 50020/S-200</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>981455020</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY-501-C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRED HUTCHINSON CANCER RESEARCH CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 19024</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>981091024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY-501-C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>INSTITUTE FOR PROSTATE CANCER RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>100000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOPELINK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>16225 NE 87TH STREET SUITE A-1</AddressLine1>
+            <City>REDMOND</City>
+            <State>WA</State>
+            <ZIPCode>98052</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY-501-C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KINDERING CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>16120 NE 8TH STREET</AddressLine1>
+            <City>BELLEVUE</City>
+            <State>WA</State>
+            <ZIPCode>98008</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY-501-C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>65000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OVERLAKE HOSPITAL FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1035 116TH AVE NE</AddressLine1>
+            <City>BELLEVUE</City>
+            <State>WA</State>
+            <ZIPCode>98004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY-501-C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISTERS OF THE HOLY NAMES OF JESUS &amp; MARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2911 W FT GEORGE DRIVE</AddressLine1>
+            <City>SPOKANE</City>
+            <State>WA</State>
+            <ZIPCode>99224</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY-501-C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STJUDE CHILDREN'S RESEARCH HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>262 DANNY THOMAS PLACE</AddressLine1>
+            <City>MEMPHIS</City>
+            <State>TN</State>
+            <ZIPCode>38105</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY-501-C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>230040</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>128689</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <BusinessCode>900000</BusinessCode>
+          <UnrelatedBusinessIncomeAmount>71</UnrelatedBusinessIncomeAmount>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>287974</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>71</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>416663</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>416734</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>THOMAS C WRIGHT</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>5400 CARILLON POINT</AddressLine1>
+          <City>KIRKLAND</City>
+          <State>WA</State>
+          <ZIPCode>980337356</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>2355</Amount>
+        <NetInvestmentIncome>1177</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1178</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>LOOMIS SAYLES BOND FUND</NameOfBond>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD CONVERTIBLE SECURITIES FUND</NameOfBond>
+        <EOYBookValue>236508</EOYBookValue>
+        <EOYFMV>241162</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD INTERMED TERM INVEST GRADE BOND FUND</NameOfBond>
+        <EOYBookValue>218740</EOYBookValue>
+        <EOYFMV>252794</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>ISHARES TR BARCLAYS BOND</NameOfBond>
+        <EOYBookValue>259956</EOYBookValue>
+        <EOYFMV>268800</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD S/T INVESTMENT</NameOfBond>
+        <EOYBookValue>250000</EOYBookValue>
+        <EOYFMV>263154</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>DODGE &amp; COX INCOME FUND</NameOfBond>
+        <EOYBookValue>250040</EOYBookValue>
+        <EOYFMV>246828</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>JANUS SHORT TERM BD</NameOfBond>
+        <EOYBookValue>250000</EOYBookValue>
+        <EOYFMV>250000</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD HIGH YIELD CORP</NameOfBond>
+        <EOYBookValue>100040</EOYBookValue>
+        <EOYFMV>97770</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD ENERGY</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD INTERNATIONAL EQUITY</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD INFO TECHNOLOGY</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD HEALTH CARE</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AMERICAN INTL GROUP</NameOfStock>
+        <EOYBookValue>119259</EOYBookValue>
+        <EOYFMV>14405</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GENERAL ELECTRIC</NameOfStock>
+        <EOYBookValue>23858</EOYBookValue>
+        <EOYFMV>27435</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SECTOR SPDR INDL SELECT</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD MATERIALS</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>LAZARD EMERGING MARKET</NameOfStock>
+        <EOYBookValue>50000</EOYBookValue>
+        <EOYFMV>78912</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MATTHEWS ASIAN GROWTH AND INC FD</NameOfStock>
+        <EOYBookValue>150000</EOYBookValue>
+        <EOYFMV>170389</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES OIL&amp;GAS EXPL</NameOfStock>
+        <EOYBookValue>196556</EOYBookValue>
+        <EOYFMV>255400</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AUTO DATA PROCESSING</NameOfStock>
+        <EOYBookValue>22318</EOYBookValue>
+        <EOYFMV>23140</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BERKSHIRE HATHAWAY B NEW</NameOfStock>
+        <EOYBookValue>71151</EOYBookValue>
+        <EOYFMV>80110</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CENTRAL FD CDA LTD CLA F</NameOfStock>
+        <EOYBookValue>82479</EOYBookValue>
+        <EOYFMV>103650</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CHEVRON CORPORATION</NameOfStock>
+        <EOYBookValue>42123</EOYBookValue>
+        <EOYFMV>45625</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CISCO SYSTEMS INC</NameOfStock>
+        <EOYBookValue>19247</EOYBookValue>
+        <EOYFMV>20230</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CONOCOPHILLIPS</NameOfStock>
+        <EOYBookValue>24249</EOYBookValue>
+        <EOYFMV>27240</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FIRST REPUBLIC BANK</NameOfStock>
+        <EOYBookValue>27215</EOYBookValue>
+        <EOYFMV>29120</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTEL CORP</NameOfStock>
+        <EOYBookValue>21168</EOYBookValue>
+        <EOYFMV>21030</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JOHNSON &amp; JOHNSON</NameOfStock>
+        <EOYBookValue>24693</EOYBookValue>
+        <EOYFMV>24740</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MICROSOFT CORP</NameOfStock>
+        <EOYBookValue>25378</EOYBookValue>
+        <EOYFMV>27910</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MONSANTO CO NEW DEL</NameOfStock>
+        <EOYBookValue>24092</EOYBookValue>
+        <EOYFMV>27856</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NORTHERN TRUST CORP</NameOfStock>
+        <EOYBookValue>27314</EOYBookValue>
+        <EOYFMV>27705</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PFIZER INCORPORATED</NameOfStock>
+        <EOYBookValue>24652</EOYBookValue>
+        <EOYFMV>26265</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PROCTER &amp; GAMBLE</NameOfStock>
+        <EOYBookValue>24613</EOYBookValue>
+        <EOYFMV>25732</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>US BANCORP DEL NEW</NameOfStock>
+        <EOYBookValue>23968</EOYBookValue>
+        <EOYFMV>26970</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNITED PARCEL SERVICE B</NameOfStock>
+        <EOYBookValue>21099</EOYBookValue>
+        <EOYFMV>21774</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WEYERHAUSER CO</NameOfStock>
+        <EOYBookValue>34692</EOYBookValue>
+        <EOYFMV>37860</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>3M COMPANY</NameOfStock>
+        <EOYBookValue>25253</EOYBookValue>
+        <EOYFMV>25890</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PRIMECAP ODYSSEY GROWTH</NameOfStock>
+        <EOYBookValue>50040</EOYBookValue>
+        <EOYFMV>50294</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD DIVIDEND GROWTH</NameOfStock>
+        <EOYBookValue>200080</EOYBookValue>
+        <EOYFMV>203989</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES MSCI CDA IDX FD</NameOfStock>
+        <EOYBookValue>90429</EOYBookValue>
+        <EOYFMV>93000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES S&amp;P US PFD FUND</NameOfStock>
+        <EOYBookValue>99259</EOYBookValue>
+        <EOYFMV>97000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JP MORGAN EXCH TRADED NT</NameOfStock>
+        <EOYBookValue>109599</EOYBookValue>
+        <EOYFMV>109050</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD EMERGING MARKET</NameOfStock>
+        <EOYBookValue>97985</EOYBookValue>
+        <EOYFMV>96292</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD INFO TECHNOLOGY</NameOfStock>
+        <EOYBookValue>124343</EOYBookValue>
+        <EOYFMV>123040</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtSecuritiesEOYBookValue>1002748</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>1030257</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>0</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>0</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>EXCELSIOR BUYOUT INVESTORS LLC</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>57255</BookValue>
+        <EOYFMV>56661</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>MSB REIT V, INC</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>184451</BookValue>
+        <EOYFMV>102370</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SPDR GOLD TRUST</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>115208</BookValue>
+        <EOYFMV>138720</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>INCOME TAXED NOT YET RECEIVED</Description>
+        <BOYBookValue>1017</BOYBookValue>
+        <EOYBookValue>2532</EOYBookValue>
+        <EOYFMV>2532</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>INVESTMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>60</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>60</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TRAVEL</Description>
+        <RevenueAndExpensesPerBooks>167</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>167</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>1823</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1823</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PORTFOLIO DEDUCTIONS - EXCELSIOR BUYOUT INVESTORS, LLC</Description>
+        <RevenueAndExpensesPerBooks>2037</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2037</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LICENSES AND PERMITS</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SEMINARS</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>100</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EXCELSIOR BUYOUT INVESTORS - N/D EXP</Description>
+        <RevenueAndExpensesPerBooks>2</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>EXCELSIOR BUYOUT INVESTORS, LLC</Description>
+        <RevenueAndExpensesPerBooks>71</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>71</NetInvestmentIncome>
+        <AdjustedNetIncome>71</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>FOREIGN TAX PAYABLE</Description>
+        <BOYBookValue>0</BOYBookValue>
+        <EOYBookValue>902</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FOREIGN TAX</Category>
+        <Amount>910</Amount>
+        <NetInvestmentIncome>910</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

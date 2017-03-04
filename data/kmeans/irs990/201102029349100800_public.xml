@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-21T14:05:10-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LEVIN SILVEY ZELKO &amp; MACKEY PA CPA'S</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2699 STIRLING RD SUITE B-205</AddressLine1>
+        <City>HOLLYWOOD</City>
+        <State>FL</State>
+        <ZIPCode>333126543</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>200288130</EIN>
+      <Name>
+        <BusinessNameLine1>HOLLYWOOD NORTH BEACH ASSOCIATION I</BusinessNameLine1>
+      </Name>
+      <NameControl>HOLL</NameControl>
+      <Phone>9543281907</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 220452</AddressLine1>
+        <City>HOLLYWOOD</City>
+        <State>FL</State>
+        <ZIPCode>330220452</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARY ELLEN REILLY</Name>
+      <Title>TREASURER</Title>
+      <Phone>9543281907</Phone>
+      <DateSigned>2011-05-25</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>BONNIE L MACKEY</Name>
+      <Phone>9549858808</Phone>
+      <DatePrepared>2011-06-18</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1">
+      <InitialReturnFormerPublicChrty>X</InitialReturnFormerPublicChrty>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>173354</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>927</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>927</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>927</InterestOnSavingsAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc5">80</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>80</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>1007</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>927</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>1007</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">2837</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1418</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>1419</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">12664</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>95</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>12569</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>15501</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1513</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>13988</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>15501</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1513</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>13988</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-14494</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>1007</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>9893</CashBOY>
+        <CashEOY>1472</CashEOY>
+        <CashEOYFMV>1472</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>177955</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>171882</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>171882</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>187848</TotalAssetsBOY>
+        <TotalAssetsEOY>173354</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>173354</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>187848</UnrestrictedBOY>
+        <UnrestrictedEOY>173354</UnrestrictedEOY>
+        <TotalNetAssetsBOY>187848</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>173354</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>187848</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>173354</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>187848</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-14494</ExcessOfRevenueOverExpenses>
+        <Subtotal>173354</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>173354</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.HNBACENTRAL.ORG</WebsiteAddress>
+        <BooksInCareOfPersonName>MARY ELLEN REILLY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9549290603</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>351 WALNUT ST</AddressLine1>
+          <City>HOLLYWOOD</City>
+          <State>FL</State>
+          <ZIPCode>33019</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">JOHN PASSALAQUA</PersonName>
+          <USAddress>
+            <AddressLine1>4514 N OCEAN DRIVE</AddressLine1>
+            <City>HOLLYWOOD</City>
+            <State>FL</State>
+            <ZIPCode>33019</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">JEFF SPEAR</PersonName>
+          <USAddress>
+            <AddressLine1>333 FRANKLIN STREET</AddressLine1>
+            <City>HOLLYWOOD</City>
+            <State>FL</State>
+            <ZIPCode>33019</ZIPCode>
+          </USAddress>
+          <Title>V. PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">LAURIE SCHECTER</PersonName>
+          <USAddress>
+            <AddressLine1>4500 N SURF ROAD</AddressLine1>
+            <City>HOLLYWOOD</City>
+            <State>FL</State>
+            <ZIPCode>33019</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">MARY ELLEN REILLY</PersonName>
+          <USAddress>
+            <AddressLine1>351 WALNUT STREET</AddressLine1>
+            <City>HOLLYWOOD</City>
+            <State>FL</State>
+            <ZIPCode>33019</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">CHERYL MITCHELL</PersonName>
+          <USAddress>
+            <AddressLine1>343 PALM STREET</AddressLine1>
+            <City>HOLLYWOOD</City>
+            <State>FL</State>
+            <ZIPCode>33019</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>EXCLUSIVELY FOR EDUCATIONAL AND CHARITABLE PURPOSES TO PROTECT, ENHANCE AND MAINTAIN THE QUALITY OF LIFE AND THE SPECIAL BEACH ENVIRONMENT OF THE HOLLYWOOD NORTH BEACH COMMUNITY AND SURROUNDING PUBLIC PARKS FOR THE BENEFIT OF ALL RESIDENTS AND VISTORS</Description1>
+        <Expenses1>13988</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>174865</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>174865</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>174865</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2623</CashDeemedCharitable>
+        <NetNoncharitableAssets>172242</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>8612</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>8612</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>8612</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>8612</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>8612</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>13988</ExpensesAndContributions>
+        <QualifyingDistributions>13988</QualifyingDistributions>
+        <AdjQualifyingDistributions>13988</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>8612</DistributableAmountAsAdjusted>
+        <QualifyingDistributions>13988</QualifyingDistributions>
+        <AppliedToCurrentYear>8612</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>5376</RemainingDistriFromCorpus>
+        <TotalCorpus>5376</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>5376</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>5376</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <MembershipDuesAndAssessments>
+          <RelatedOrExemptFunctionIncome>80</RelatedOrExemptFunctionIncome>
+        </MembershipDuesAndAssessments>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>927</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>1007</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1007</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>2</LineNumber>
+          <RelationshipStatement>DUES PAID SUPPORTS THE EDUCATIONAL AND CHARITABLE PURPOSE</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>INTEREST EARNED ON CD, FUNDS TO BE USED FOR EXEMPT PURPOSE</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>2837</Amount>
+        <NetInvestmentIncome>1418</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1419</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>JOHN PASSALAQUA</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>JEFF SPEAR</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>LAURIE SCHECTER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>MARY ELLEN REILLY</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>CHERYL MITCHELL</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>35</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>35</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>730</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>730</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MARKETING/EVENTS</Description>
+        <RevenueAndExpensesPerBooks>11718</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>11718</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE &amp; DELIVERY</Description>
+        <RevenueAndExpensesPerBooks>60</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>60</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LICENSES AND PERMITS</Description>
+        <RevenueAndExpensesPerBooks>121</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>121</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc5">
+      <OtherIncome>
+        <Description>MEMBERSHIP DUES</Description>
+        <RevenueAndExpensesPerBooks>80</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>80</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-27T11:38:49-07:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>M &amp; I TRUST CO NA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11270 WEST PARK PLACE SUITE 400</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53224</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>396756635</EIN>
+      <Name>
+        <BusinessNameLine1>DOERR CHAR TR MARY MARTHA &amp; EMMETT J</BusinessNameLine1>
+      </Name>
+      <NameControl>DOER</NameControl>
+      <Phone>4142231493</Phone>
+      <USAddress>
+        <AddressLine1>C/O MI TR CO NA 11270 W PARK PLACE</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53224</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>TRACY STRIZIC</Name>
+      <Title>ASSISTANT VICE PRESIDENT</Title>
+      <Phone>4142231493</Phone>
+      <DateSigned>2011-07-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>TRACY STRIZIC EA</Name>
+      <Phone>4148153500</Phone>
+      <DatePrepared>2011-07-27</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3602622</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>80228</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>80228</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">72602</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>751170</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>72602</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>152830</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>152830</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>28789</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>28789</CompOfcrDirTrstNetInvstIncm>
+        <AccountingFeesRevAndExpnss>750</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>750</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="TaxesSchedule">1935</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>733</TaxesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>31474</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>29522</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>750</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>167000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>167000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>198474</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>29522</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>167750</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-45644</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>123308</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>76567</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>25205</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>25205</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>478560</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>484280</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>626890</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>2349678</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>2349597</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>2947840</InvestmentsCorpBondsEOYFMV>
+        <OtherAssetsBOY>2605</OtherAssetsBOY>
+        <OtherAssetsEOY>2687</OtherAssetsEOY>
+        <OtherAssetsEOYFMV>2687</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>2907410</TotalAssetsBOY>
+        <TotalAssetsEOY>2861769</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3602622</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>2907410</CapitalStockBOY>
+        <CapitalStockEOY>2861769</CapitalStockEOY>
+        <TotalNetAssetsBOY>2907410</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2861769</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2907410</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2861769</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2907410</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-45644</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="00000003" referenceDocumentName="OtherIncreasesSchedule">3</OtherIncreases>
+        <Subtotal>2861769</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>2861769</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>See Attached Schedule</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2011-06-30</DateSold>
+          <GrossSalesPrice>751170</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>678568</CostOrOtherBasis>
+          <GainOrLoss>72602</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>72602</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>72602</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>146750</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>3156294</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.046494</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>197100</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2959440</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.066600</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>192488</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>4004743</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.048065</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>187862</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>4033242</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.046578</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>175926</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>3783502</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.046498</DistributionRatioYear5>
+        <TotalDistributionRatio>0.254235</TotalDistributionRatio>
+        <AverageDistributionRatio>0.050847</AverageDistributionRatio>
+        <NetNoncharitableAssets>3439123</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>174869</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1233</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>176102</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>167750</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>2466</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>2466</Subtotal>
+        <TaxBasedOnInvestmentIncome>2466</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>952</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>952</TotalCreditsAndPayments>
+        <TaxPaidOriginalReturn>952</TaxPaidOriginalReturn>
+        <TaxDue>1514</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>M&amp;I TRUST CO NA</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4142878865</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>111 E KILBOURN AVE</AddressLine1>
+          <City>MILWAUKEE</City>
+          <State>WI</State>
+          <ZIPCode>53202</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM T GAUS</PersonName>
+          <USAddress>
+            <AddressLine1>11441 N CANTERBURY LN</AddressLine1>
+            <City>MEQUON</City>
+            <State>WI</State>
+            <ZIPCode>53092</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>500</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DR EMMETT J DOERR JR</PersonName>
+          <USAddress>
+            <AddressLine1>4030 PEACHTREE DUNWOODY RD</AddressLine1>
+            <City>ATLANT</City>
+            <State>GA</State>
+            <ZIPCode>30342</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN G DOERR</PersonName>
+          <USAddress>
+            <AddressLine1>23 ANNADALE RD</AddressLine1>
+            <City>NASHVILL</City>
+            <State>TN</State>
+            <ZIPCode>37215</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <BusinessName>
+            <BusinessNameLine1>M&amp;I TRUST CO NA</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>111 E KILBOURN AVE</AddressLine1>
+            <City>MILW</City>
+            <State>WI</State>
+            <ZIPCode>53202</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>28289</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>3491495</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3491495</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>3491495</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>52372</CashDeemedCharitable>
+        <NetNoncharitableAssets>3439123</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>171956</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>171956</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2466</TaxBasedOnInvestmentIncome>
+        <TotalTax>2466</TotalTax>
+        <DistributableAmountBeforeAdj>169490</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>169490</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>169490</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>167750</ExpensesAndContributions>
+        <QualifyingDistributions>167750</QualifyingDistributions>
+        <AdjQualifyingDistributions>167750</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>169490</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>156056</UndistributedIncomePriorYear>
+        <QualifyingDistributions>167750</QualifyingDistributions>
+        <AppliedToYear1>156056</AppliedToYear1>
+        <AppliedToCurrentYear>11694</AppliedToCurrentYear>
+        <UndistributedIncomeCY>157796</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>TIM AIK</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>C/O MI TRUST CO NA 111 E KILBOURN A</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4142231493</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN FORM. STATE EXACT AMOUNT REQUESTED.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE, BUT TRUST FOCUSES ON CATHOLIC EDUCATION</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DIOCESE OF MARQUETTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1004 HARBOR HILLS DR</AddressLine1>
+            <City>MARQUETTE</City>
+            <State>MI</State>
+            <ZIPCode>49855</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>n/a</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONTRIBUTIONCHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHARP LITERACY INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>750 N LINCOLN MEMORIAL DRIVE STE 31</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONTRIBUTIONCHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ANDEAN HEALTH &amp; DEVELOPMENT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>14257 WATERS EDGE TRAIL</AddressLine1>
+            <City>NEW BERLIN</City>
+            <State>WI</State>
+            <ZIPCode>53151</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HOSPITAL IN LA MANA,SUPPORT A NEW COMMUNITYECUADOR</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BIG BROTHERS BIG SISTERS OF METRO MILWAUKEE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>788 N JEFFERSON ST STE 600</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CATHOLIC SCHOOLS INMENTORING PROGRAM AT 2MILW ARCHDIOCESE</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MILWAUKEE ACHIEVER LITERACY SERVICES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5566 N 69TH STREET</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53218</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONTRIBUTIONCHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NOTRE DAME MIDDLE SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1420 W SCOTT STREET</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONTRIBUTIONCHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOCTORS WITHOUT BOARDERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 5030</AddressLine1>
+            <City>HAGERSTOWN</City>
+            <State>MD</State>
+            <ZIPCode>21741</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MEDICAL RELIEF TOHEALTH SERVICES &amp;THE POOR</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATIVITY JESUIT MIDDLE SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1515 S 29TH STREET</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONTRIBUTIONCHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OUR LADY OF THE SNOWS CATHOLIC CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4772 W ST IGNACE ROAD</AddressLine1>
+            <City>HESSEL</City>
+            <State>MI</State>
+            <ZIPCode>49745</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONTRIBUTIONCHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MILWAUKEE PUBLIC MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>800 WEST WELLS STREET</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53233</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EXPENSESGENERAL OPERATING</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOLY FAMILY CATHOLIC CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9100 CROCKETT ROAD</AddressLine1>
+            <City>BRENTWOOD</City>
+            <State>TN</State>
+            <ZIPCode>37027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONTRIBUTIONCHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MIDDLEBRIDGE SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1065 WORDENS POND ROAD</AddressLine1>
+            <City>WAKEFIELD</City>
+            <State>RI</State>
+            <ZIPCode>02879</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>A NEW SPECIAL NEEDSSUPPORT IN FUNDINGBOARDING SCHOOL</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATIONAL CATHOLIC COMMITTEE ON SCOUTING</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 152079</AddressLine1>
+            <City>IRVING</City>
+            <State>TX</State>
+            <ZIPCode>75015</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>&amp; FOR GENERALJ DOERR SCHOLARSHIPOPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WHEATON FRANCISCAN HEALTHCARE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ST JOSEPH FDN 5000 W CHAMBERS</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONTRIBUTIONCHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALL SAINTS CATHOLIC CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4060 N 26TH STREET</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53209</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ALL SAINTSFUNDING THECOMMONS PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PHILIPPINE CULTURAL &amp; CIVIC CENTER FDN INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>535 N 27TH STREET</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53208</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>THE FREESUPPORT FORMEDICAL CLINIC</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RED CLOUD INDIAN SCHOOL INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 MISSION DRIVE</AddressLine1>
+            <City>PINE RIDGE</City>
+            <State>SD</State>
+            <ZIPCode>57770</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>VOLUNTEER TEACHERSTIPIEND FOR&amp; ENDOWMENT FUND</PurposeOfGrantOrContribution>
+          <Amount>22500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST ANNE'S SALCATORIAN CAMPUS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3800 N 92ND STREET</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53222</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ST. ANNE'S BENEVOLENTSUPPORT FOR THECARE FUND</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE NATURE CONSERVANCY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2021 21ST AVE SOUTH STE C-400</AddressLine1>
+            <City>NASHVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37212</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROJECTDUCK RIVER</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>167000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>80228</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>72602</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>152830</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>152830</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="00000002">
+      <GainLossSaleOtherAsset>
+        <Name>See Attached Schedule</Name>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2011-06</DateSold>
+        <GrossSalesPrice>751170</GrossSalesPrice>
+        <Basis>678568</Basis>
+        <TotalNet>72602</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <OtherIncreasesSchedule documentId="00000003">
+      <OtherIncreases>
+        <Description>ROUNDING</Description>
+        <Amount>3</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="00000004">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>733</Amount>
+        <NetInvestmentIncome>733</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX</Category>
+        <Amount>250</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL ESTIMATED TAX PMTS</Category>
+        <Amount>952</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

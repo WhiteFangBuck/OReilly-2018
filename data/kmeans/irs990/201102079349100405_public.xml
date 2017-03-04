@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T13:39:22-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Dennis J Carroll CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3019 Brentwood Blvd</AddressLine1>
+        <City>Grand Island</City>
+        <State>NE</State>
+        <ZIPCode>68801</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>470753434</EIN>
+      <Name>
+        <BusinessNameLine1>Merrick Auto Museum</BusinessNameLine1>
+      </Name>
+      <NameControl>MERR</NameControl>
+      <USAddress>
+        <AddressLine1>PO Box 188</AddressLine1>
+        <City>Alda</City>
+        <State>NE</State>
+        <ZIPCode>68810</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Richard J Merrick</Name>
+      <Title>Director</Title>
+      <Phone>3083841780</Phone>
+      <DateSigned>2011-05-10</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Dennis J Carroll</Name>
+      <Phone>3083841780</Phone>
+      <DatePrepared>2011-07-26</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>7190252</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>453268</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>704</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>704</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>704</InterestOnSavingsAdjNetIncm>
+        <TotalRevenueAndExpenses>453972</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>704</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>704</TotalAdjustedNetIncome>
+        <TaxesRevAndExpnss referenceDocumentId="STM110">24</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>24</TaxesDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>3841</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingDsbrsChrtblPrps>3841</TravConfMeetingDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="STM103">88717</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>88717</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>92582</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>92582</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>92582</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>92582</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>361390</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>704</NetInvestmentIncome>
+        <AdjustedNetIncome>704</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>113440</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>106749</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>106749</SavingsAndTempCashInvstEOYFMV>
+        <OtherAssetsBOY>6233392</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="STM120">6601473</OtherAssetsEOY>
+        <OtherAssetsEOYFMV>7083503</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>6346832</TotalAssetsBOY>
+        <TotalAssetsEOY>6708222</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>7190252</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>6346832</UnrestrictedBOY>
+        <UnrestrictedEOY>6708222</UnrestrictedEOY>
+        <TotalNetAssetsBOY>6346832</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>6708222</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>6346832</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>6708222</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>6346832</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>361390</ExcessOfRevenueOverExpenses>
+        <Subtotal>6708222</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>6708222</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>76947</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>138741</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.554609</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>66581</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>153755</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.433033</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>66358</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>138000</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.480855</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>73815</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>131266</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.562331</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>82086</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>129379</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.634462</DistributionRatioYear5>
+        <TotalDistributionRatio>2.66529</TotalDistributionRatio>
+        <AverageDistributionRatio>0.533058</AverageDistributionRatio>
+        <NetNoncharitableAssets>98165</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>52328</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>7</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>52335</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>92582</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>7</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>7</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>7</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>85</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>85</TotalCreditsAndPayments>
+        <Overpayment>78</Overpayment>
+        <AmountToBeRefunded>78</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NE</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfPersonName>Richard J Merrick</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3083841780</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO Box 188</AddressLine1>
+          <City>Alda</City>
+          <State>NE</State>
+          <ZIPCode>68810</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Richard J Merrick</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 188</AddressLine1>
+            <City>Alda</City>
+            <State>NE</State>
+            <ZIPCode>68810</ZIPCode>
+          </USAddress>
+          <Title>PresDir</Title>
+          <AvgHoursPerWkDevotedToPosition>20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Russell J Merrick</PersonName>
+          <USAddress>
+            <AddressLine1>624 Pheasant Pl</AddressLine1>
+            <City>Grand Island</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </USAddress>
+          <Title>SecTrDir</Title>
+          <AvgHoursPerWkDevotedToPosition>5</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Operation of a Museum and related facilities for use by the general public featuring antique vehicles and related artifacts for educational purposes</Description1>
+        <Expenses1>92582</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>None</Description1>
+        <Amount1>0</Amount1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>99660</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>99660</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>99660</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1495</CashDeemedCharitable>
+        <NetNoncharitableAssets>98165</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>4908</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>92582</ExpensesAndContributions>
+        <QualifyingDistributions>92582</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>7</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>92575</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <ExcessDistriCarryoverYear2>66581</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>76947</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>143528</TotalExcessDistriCarryover>
+        <QualifyingDistributions>92582</QualifyingDistributions>
+        <RemainingDistriFromCorpus>92582</RemainingDistriFromCorpus>
+        <TotalCorpus>236110</TotalCorpus>
+        <ExcessDistriCyovToNextYear>236110</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>66581</ExcessFromYear2>
+        <ExcessFromYear1>76947</ExcessFromYear1>
+        <ExcessFromCurrentYear>92582</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>1992-06-05</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>704</CurrentYear>
+          <Year1>541</Year1>
+          <Year2>482</Year2>
+          <Year3>6957</Year3>
+          <Total>8684</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>598</CurrentYear>
+          <Year1>460</Year1>
+          <Year2>410</Year2>
+          <Year3>5913</Year3>
+          <Total>7381</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>92582</CurrentYear>
+          <Year1>76947</Year1>
+          <Year2>66581</Year2>
+          <Year3>66428</Year3>
+          <Total>302538</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>92582</CurrentYear>
+          <Year1>76947</Year1>
+          <Year2>66581</Year2>
+          <Year3>66428</Year3>
+          <Total>302538</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <CurrentYear>6708222</CurrentYear>
+          <Year1>6346832</Year1>
+          <Year2>6052035</Year2>
+          <Year3>5969703</Year3>
+          <Total>25076792</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <CurrentYear>6708222</CurrentYear>
+          <Year1>6346832</Year1>
+          <Year2>6052035</Year2>
+          <Year3>5969703</Year3>
+          <Total>25076792</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>3272</CurrentYear>
+          <Total>3272</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>704</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>704</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>704</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>The Musuem accomplishes the educational purposes for which it is organized by allowing the general public to view antique vehicles and related artifacts Contributions of antique vehicles and related artifacts received furthers the educational purpo</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="990B">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Richard J Merrick</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>2307 Cottonwood Rd</AddressLine1>
+          <City>Grand Island</City>
+          <State>NE</State>
+          <ZIPCode>68801</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>403500</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>TMC Inc</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>PO Box 188</AddressLine1>
+          <City>Alda</City>
+          <State>NE</State>
+          <ZIPCode>68810</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>33683</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>Antique automobiles</NoncashPropertyDescription>
+        <FairMarketValue>332500</FairMarketValue>
+        <DateReceived>2010-01-01</DateReceived>
+      </NoncashProperty>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>2</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>In-kind expenses of office supplies property insurance restoration supplies etc</NoncashPropertyDescription>
+        <FairMarketValue>33683</FairMarketValue>
+        <DateReceived>2010-01-01</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="STM126">
+      <Depreciation>
+        <DescriptionOfProperty>Computer</DescriptionOfProperty>
+        <DateAcquired>1998-06-26</DateAcquired>
+        <CostOrOtherBasis>1837</CostOrOtherBasis>
+        <PriorYearsDepreciation>1837</PriorYearsDepreciation>
+        <ComputationMethod>MSL</ComputationMethod>
+        <Life>3</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Shelf Units &amp; Racks</DescriptionOfProperty>
+        <DateAcquired>1998-07-14</DateAcquired>
+        <CostOrOtherBasis>2178</CostOrOtherBasis>
+        <PriorYearsDepreciation>2178</PriorYearsDepreciation>
+        <ComputationMethod>MSL</ComputationMethod>
+        <Life>7</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Bookcases</DescriptionOfProperty>
+        <DateAcquired>1998-07-20</DateAcquired>
+        <CostOrOtherBasis>2683</CostOrOtherBasis>
+        <PriorYearsDepreciation>2683</PriorYearsDepreciation>
+        <ComputationMethod>MSL</ComputationMethod>
+        <Life>7</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Workbenches shelves dra</DescriptionOfProperty>
+        <DateAcquired>1998-07-30</DateAcquired>
+        <CostOrOtherBasis>1216</CostOrOtherBasis>
+        <PriorYearsDepreciation>1216</PriorYearsDepreciation>
+        <ComputationMethod>MSL</ComputationMethod>
+        <Life>7</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Car Lift</DescriptionOfProperty>
+        <DateAcquired>2002-10-29</DateAcquired>
+        <CostOrOtherBasis>2945</CostOrOtherBasis>
+        <PriorYearsDepreciation>2945</PriorYearsDepreciation>
+        <ComputationMethod>MSL</ComputationMethod>
+        <Life>7</Life>
+      </Depreciation>
+    </DepreciationSchedule>
+    <OtherAssetsSchedule documentId="STM120">
+      <OtherAssets>
+        <Description>Automobiles &amp; related artifacts</Description>
+        <BOYBookValue>6233392</BOYBookValue>
+        <EOYBookValue>6601473</EOYBookValue>
+        <EOYFMV>7083503</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpenses>
+        <Description>Restoration supplies</Description>
+        <RevenueAndExpensesPerBooks>4175</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>4175</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Car transport</Description>
+        <RevenueAndExpensesPerBooks>0</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Library supplies</Description>
+        <RevenueAndExpensesPerBooks>3493</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3493</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Insurance-property</Description>
+        <RevenueAndExpensesPerBooks>27335</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>27335</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Memberships</Description>
+        <RevenueAndExpensesPerBooks>1133</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1133</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Repairs &amp; maintenance</Description>
+        <RevenueAndExpensesPerBooks>430</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>430</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Subscriptions</Description>
+        <RevenueAndExpensesPerBooks>0</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Sales fees &amp; shipping</Description>
+        <RevenueAndExpensesPerBooks>1151</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1151</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Appraisal services</Description>
+        <RevenueAndExpensesPerBooks>0</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Office reimbursement</Description>
+        <RevenueAndExpensesPerBooks>51000</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>51000</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="STM110">
+      <Taxes>
+        <Category>Property taxes cars</Category>
+        <Amount>24</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>24</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

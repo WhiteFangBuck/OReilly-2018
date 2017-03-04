@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T15:05:05-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LAWRENCE A SILVER CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>132 E 35TH ST APT 12F</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>100163892</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>200310818</EIN>
+      <Name>
+        <BusinessNameLine1>FLORENCE BELSKY CHARITABLE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>FLOR</NameControl>
+      <Phone>2126297744</Phone>
+      <USAddress>
+        <AddressLine1>2 PARK AVE</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>100163892</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CHARLOTTE W PFAHL</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>2126297744</Phone>
+      <DateSigned>2011-05-26</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>LAWRENCE A SILVER</Name>
+      <DatePrepared>2011-08-08</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>43294</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>108782</ContriReceivedRevAndExpnss>
+        <GrossRentsRevAndExpnss>90244</GrossRentsRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>199026</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <OccupancyRevAndExpnss>77005</OccupancyRevAndExpnss>
+        <TravConfMeetingRevAndExpnss>1177</TravConfMeetingRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">90254</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>168436</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>11523</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>179959</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>19067</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>3388</CashBOY>
+        <CashEOY>22455</CashEOY>
+        <CashEOYFMV>22455</CashEOYFMV>
+        <InvestmentsOtherBOY>20839</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY>20839</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>20839</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>24227</TotalAssetsBOY>
+        <TotalAssetsEOY>43294</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>43294</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>24227</UnrestrictedBOY>
+        <UnrestrictedEOY>43294</UnrestrictedEOY>
+        <TotalNetAssetsBOY>24227</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>43294</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>24227</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>43294</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>24227</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>19067</ExcessOfRevenueOverExpenses>
+        <Subtotal>43294</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>43294</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <DistributionRatioYear1>0.000000</DistributionRatioYear1>
+        <TotalDistributionRatio>0.000000</TotalDistributionRatio>
+        <AverageDistributionRatio>0.000000</AverageDistributionRatio>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>CHARLOTTE W PFAHL</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2126297744</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2 PARK AVE 19TH FL</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10016</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>true</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLOTTE W PFAHL</PersonName>
+          <USAddress>
+            <AddressLine1>2 PARK AVE 19TH FLOOR</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GUILIO GARI FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>175 WEST 72ND STREET 4F</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10023</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AND LITERARY ARTSSUPPORT PERFORMING</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WOODSTOCK FILM FESTIVAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1406</AddressLine1>
+            <City>WOODSTOCK</City>
+            <State>NY</State>
+            <ZIPCode>12498</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AND LITERARY ARTSSUPPORT PERFORMING</PurposeOfGrantOrContribution>
+          <Amount>2800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BKWSU</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>46 S MIDDLE NECK ROAD</AddressLine1>
+            <City>GREAT NECK</City>
+            <State>NY</State>
+            <ZIPCode>11021</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AND LITERARY ARTSSUPPORT PERFORMING</PurposeOfGrantOrContribution>
+          <Amount>380</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILDREN OF UGANDA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 659</AddressLine1>
+            <City>CHARLES TOWN</City>
+            <State>WV</State>
+            <ZIPCode>25414</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AND LITERARY ARTSSUPPORT PERFORMING</PurposeOfGrantOrContribution>
+          <Amount>984</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FOUNDATION CENTER-NEW YORK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>79 FIFTH AVENUE SECOND FLOOR</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AND LITERARY ARTSSUPPORT PERFORMING</PurposeOfGrantOrContribution>
+          <Amount>170</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JANE ELISSA ATELIER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>451 WEST 46TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AND LITERARY ARTSSUPPORT PERFORMING</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YELE HAITI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 5057</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10185</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AND LITERARY ARTSSUPPORT PERFORMING</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PARIS PRESS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 487</AddressLine1>
+            <City>ASHFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01330</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AND LITERARY ARTSSUPPORT PERFORMING</PurposeOfGrantOrContribution>
+          <Amount>375</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LOURDES FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>621 WEST CENTER STREET</AddressLine1>
+            <City>ROCHESTER</City>
+            <State>MN</State>
+            <ZIPCode>55902</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AND LITERARY ARTSSUPPORT PERFORMING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientFoundationStatus>501(c)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AND LITERARY ARTSSUPPORT PERFORMING</PurposeOfGrantOrContribution>
+          <Amount>514</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>11523</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <NetRentalIncmReDebtFincdProp>
+          <RelatedOrExemptFunctionIncome>90244</RelatedOrExemptFunctionIncome>
+        </NetRentalIncmReDebtFincdProp>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>90244</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>90244</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>NET RENTAL INCOME</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="00000002">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>FLORENCE BELSKY ESTATE</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>2 PARK AVE - 19TH FL</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10016</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>108782</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <OtherExpensesSchedule documentId="00000004">
+      <OtherExpenses>
+        <Description>ADMINISTRATIION</Description>
+        <RevenueAndExpensesPerBooks>20306</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>4561</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES &amp; LICENSES</Description>
+        <RevenueAndExpensesPerBooks>4924</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EVENTS</Description>
+        <RevenueAndExpensesPerBooks>9423</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MARKETING</Description>
+        <RevenueAndExpensesPerBooks>3133</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>2127</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROFESSIONAL ACCOUNTING</Description>
+        <RevenueAndExpensesPerBooks>6772</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROFESSIONAL LEGAL</Description>
+        <RevenueAndExpensesPerBooks>6073</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS &amp; MAINTENANCE</Description>
+        <RevenueAndExpensesPerBooks>14738</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>950</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>UTILITIES</Description>
+        <RevenueAndExpensesPerBooks>10603</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WEBSITE DEVELOPMENT</Description>
+        <RevenueAndExpensesPerBooks>6644</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

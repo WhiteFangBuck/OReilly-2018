@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-22T15:37:16-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>rfarmer llc</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>p o box 1173</AddressLine1>
+        <City>lamar</City>
+        <State>CO</State>
+        <ZIPCode>81052</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>204722946</EIN>
+      <Name>
+        <BusinessNameLine1>Sand and Sage Round-up</BusinessNameLine1>
+      </Name>
+      <NameControl>SAND</NameControl>
+      <Phone>7193368025</Phone>
+      <USAddress>
+        <AddressLine1>301 South Main No 215</AddressLine1>
+        <City>Lamar</City>
+        <State>CO</State>
+        <ZIPCode>81052</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Diane Pool</Name>
+      <Title>President</Title>
+      <Phone>7193368025</Phone>
+      <DateSigned>2011-07-15</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Ronny R Farmer</Name>
+      <Phone>7193367428</Phone>
+      <DatePrepared>2011-07-15</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>Diane Pool</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>301 South Main No 215</AddressLine1>
+        <City>Lamar</City>
+        <State>CO</State>
+        <ZIPCode>81052</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>186234</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>n/a</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2006</YearFormation>
+      <StateLegalDomicile>CO</StateLegalDomicile>
+      <ActivityOrMissionDescription>to promote the Prowers County Fair and Rodeo</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>4</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>17</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>50000</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>50000</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>84181</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>136234</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>0</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>0</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>134181</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>186234</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>0</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>0</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>128072</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>181615</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>128072</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>181615</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>6109</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>4619</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>34603</TotalAssetsBOY>
+      <TotalAssetsEOY>22753</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>34603</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>22753</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>To promote the Prowers County Fair and Rodeo</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>181615</Expense>
+      <Revenue>136234</Revenue>
+      <Description>to promote the Prowers County Fair and Rodeo</Description>
+      <Activity2>
+        <Description>n/a</Description>
+      </Activity2>
+      <Activity3>
+        <Description>n/a</Description>
+      </Activity3>
+      <TotalProgramServiceExpense>181615</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds>0</DonorAdvisedFunds>
+      <ConservationEasements>0</ConservationEasements>
+      <CollectionsOfArt>0</CollectionsOfArt>
+      <CreditCounseling>0</CreditCounseling>
+      <TermOrPermanentEndowments>0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip>0</ReportLandBldgEquip>
+      <ReportInvestOthSecurities>0</ReportInvestOthSecurities>
+      <ReportProgRelInvest>0</ReportProgRelInvest>
+      <ReportOtherAssets>0</ReportOtherAssets>
+      <ReportOtherLiabilities>0</ReportOtherLiabilities>
+      <ReportFin48Footnote>0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt>0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt>0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>37</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>4</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>17</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>0</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>Cindy Bennett</NamePerson>
+        <TelephoneNumber>7196881088</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>8076 County Rd MM 3</AddressLine1>
+          <City>Lamar</City>
+          <State>CO</State>
+          <ZIPCode>81052</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <NoListedPersonsCompensated>X</NoListedPersonsCompensated>
+      <Form990PartVIISectionA>
+        <NamePerson>Diane Pool</NamePerson>
+        <Title>President</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Toni McPherson</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Cindy Bennett</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Mark Dorenkamp</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Lane Malone</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Gary Turpin</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Fred Dorenkamp</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Darla Klotz</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Gerry Jenkins</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Mark Carrigan</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Monte Smith</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Ron Manly</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Brandon Sherwood</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Rod Schwartz</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Scott Brase</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <GovernmentGrants>50000</GovernmentGrants>
+      <TotalContributions>50000</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>Other</Description>
+        <BusinessCode>713990</BusinessCode>
+        <TotalRevenueColumn>99694</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>99694</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Fair BBQ</Description>
+        <BusinessCode>713990</BusinessCode>
+        <TotalRevenueColumn>20629</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>20629</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Advertising</Description>
+        <BusinessCode>713990</BusinessCode>
+        <TotalRevenueColumn>9025</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>9025</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Fair entrance fees</Description>
+        <BusinessCode>713990</BusinessCode>
+        <TotalRevenueColumn>6646</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>6646</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Vendor Booth Rental Fe</Description>
+        <BusinessCode>713990</BusinessCode>
+        <TotalRevenueColumn>240</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>240</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>136234</TotalProgramServiceRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>186234</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>136234</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </TotalRevenue>
+      <Advertising>
+        <Total>7208</Total>
+        <ProgramServices>7208</ProgramServices>
+      </Advertising>
+      <OtherExpenses>
+        <Description>PRCA and Ranch Rodeo</Description>
+        <Total>55627</Total>
+        <ProgramServices>55627</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Fair Supplies</Description>
+        <Total>32250</Total>
+        <ProgramServices>32250</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Entertainment</Description>
+        <Total>25595</Total>
+        <ProgramServices>25595</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BBQ Cookoff</Description>
+        <Total>20383</Total>
+        <ProgramServices>20383</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Transfer to county</Description>
+        <Total>12580</Total>
+        <ProgramServices>12580</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>27972</Total>
+        <ProgramServices>27972</ProgramServices>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>181615</Total>
+        <ProgramServices>181615</ProgramServices>
+        <ManagementAndGeneral>0</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>3449</BOY>
+        <EOY>8064</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>31154</BOY>
+        <EOY>14689</EOY>
+      </SavingsAndTempCashInvestments>
+      <TotalAssets>
+        <BOY>34603</BOY>
+        <EOY>22753</EOY>
+      </TotalAssets>
+      <TotalLiabilities>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>3449</BOY>
+        <EOY>8064</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>31154</BOY>
+        <EOY>14689</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>34603</BOY>
+        <EOY>22753</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>34603</BOY>
+        <EOY>22753</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>4619</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>-16469</ReconcilationOtherChanges>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>0</FSAudited>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus3Years>70820</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>62500</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>50000</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>50000</CurrentTaxYear>
+        <Total>233320</Total>
+      </GiftsGrantsContribReceived170>
+      <Total170>
+        <CurrentTaxYearMinus3Years>70820</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>62500</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>50000</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>50000</CurrentTaxYear>
+        <Total>233320</Total>
+      </Total170>
+      <PublicSupportTotal170>233320</PublicSupportTotal170>
+      <TotalSupport>233320</TotalSupport>
+      <GrossReceiptsFromAdmissionsEtc>382893</GrossReceiptsFromAdmissionsEtc>
+      <PublicSupportPertcentage170>1.00000</PublicSupportPertcentage170>
+      <PublicSupportPertcentPriorYear>1.00000</PublicSupportPertcentPriorYear>
+      <ThirtyThreePercntTestsCY170>X</ThirtyThreePercntTestsCY170>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>a copy of the 990 was provided to the secretary for her review.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 12c</ReturnReference>
+        <Explanation>small organization with members knowing the others</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section C, line 19</ReturnReference>
+        <Explanation>any documents are available upon request a draft copy of the return was reviewed by the secretary for any changes</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>All Other Functional Expenses</Identifier>
+        <ReturnReference>Form 990, Part X, line 24f</ReturnReference>
+        <Explanation>Demolition Derby: Program service expenses 7589. Management and general expenses 0. Fundraising expenses 0. Total expenses 7589. Judges: Program service expenses 4418. Management and general expenses 0. Fundraising expenses 0. Total expenses 4418. Royality: Program service expenses 3145. Management and general expenses 0. Fundraising expenses 0. Total expenses 3145. BBQ : Program service expenses 2185. Management and general expenses 0. Fundraising expenses 0. Total expenses 2185. Carnival: Program service expenses 1919. Management and general expenses 0. Fundraising expenses 0. Total expenses 1919. Family Night: Program service expenses 1561. Management and general expenses 0. Fundraising expenses 0. Total expenses 1561. 4-H banquet: Program service expenses 1406. Management and general expenses 0. Fundraising expenses 0. Total expenses 1406. Livestock barn: Program service expenses 1291. Management and general expenses 0. Fundraising expenses 0. Total expenses 1291. CAFS: Program service expenses 1191. Management and general expenses 0. Fundraising expenses 0. Total expenses 1191. IAFE Convention: Program service expenses 936. Management and general expenses 0. Fundraising expenses 0. Total expenses 936. Postage: Program service expenses 405. Management and general expenses 0. Fundraising expenses 0. Total expenses 405. Short Check: Program service expenses 353. Management and general expenses 0. Fundraising expenses 0. Total expenses 353. Fashion Revue: Program service expenses 265. Management and general expenses 0. Fundraising expenses 0. Total expenses 265. Awards: Program service expenses 200. Management and general expenses 0. Fundraising expenses 0. Total expenses 200. Office: Program service expenses 192. Management and general expenses 0. Fundraising expenses 0. Total expenses 192. Other: Program service expenses 189. Management and general expenses 0. Fundraising expenses 0. Total expenses 189. Horse: Program service expenses 160. Management and general expenses 0. Fundraising expenses 0. Total expenses 160. Gifts: Program service expenses 138. Management and general expenses 0. Fundraising expenses 0. Total expenses 138. Parade: Program service expenses 125. Management and general expenses 0. Fundraising expenses 0. Total expenses 125. Dues: Program service expenses 100. Management and general expenses 0. Fundraising expenses 0. Total expenses 100. Family Clean up night: Program service expenses 69. Management and general expenses 0. Fundraising expenses 0. Total expenses 69. Livestock sale: Program service expenses 50. Management and general expenses 0. Fundraising expenses 0. Total expenses 50. Food: Program service expenses 48. Management and general expenses 0. Fundraising expenses 0. Total expenses 48. Bank Charges: Program service expenses 34. Management and general expenses 0. Fundraising expenses 0. Total expenses 34. Carnival: Program service expenses 29. Management and general expenses 0. Fundraising expenses 0. Total expenses 29. Misc: Program service expenses -26. Management and general expenses 0. Fundraising expenses 0. Total expenses -26.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Changes in Net Assets or Fund Balances:</Identifier>
+        <ReturnReference>Form 990, Part XI, line 5:</ReturnReference>
+        <Explanation>to adjust for accts rec collections -16469. Total to Form 990, Part XI, Line 5: -16469.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Prowers County</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>301 South Main Suite 215</AddressLine1>
+          <City>Lamar</City>
+          <State>CO</State>
+          <ZIPCode>81052</ZIPCode>
+        </AddressUS>
+        <EIN>846000796</EIN>
+        <PrimaryActivities>county government</PrimaryActivities>
+        <LegalDomicileState>CO</LegalDomicileState>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>1</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>0</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>0</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>0</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>0</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>0</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Prowers County Colorado</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>C</TransactionType>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

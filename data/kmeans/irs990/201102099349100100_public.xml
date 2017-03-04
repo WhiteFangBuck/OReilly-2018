@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T05:21:16-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Teipen Selanders Poynter &amp; Ayres PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>7340 E 82nd Street Suite A</AddressLine1>
+        <City>Indianapolis</City>
+        <State>IN</State>
+        <ZIPCode>46256</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>351840702</EIN>
+      <Name>
+        <BusinessNameLine1>Lawrence Township Boys Basketball League</BusinessNameLine1>
+      </Name>
+      <NameControl>LAWR</NameControl>
+      <Phone>3174453959</Phone>
+      <USAddress>
+        <AddressLine1>PO Box 36685</AddressLine1>
+        <City>Indianapolis</City>
+        <State>IN</State>
+        <ZIPCode>46236</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Phil Hutchison</Name>
+      <Title>Treasurer</Title>
+      <DateSigned>2011-07-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Thomas G Ayres CPA</Name>
+      <Phone>3175986700</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>90632</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>1615</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>315</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>315</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>315</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">53572</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>55502</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>315</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>315</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">350</AccountingFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <PrintingAndPubRevAndExpnss>4542</PrintingAndPubRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">46255</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>51147</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>51147</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>4355</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>315</NetInvestmentIncome>
+        <AdjustedNetIncome>315</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>36458</CashBOY>
+        <CashEOY>40787</CashEOY>
+        <CashEOYFMV>40787</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>49830</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>49845</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>49845</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>86288</TotalAssetsBOY>
+        <TotalAssetsEOY>90632</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>90632</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>86288</UnrestrictedBOY>
+        <UnrestrictedEOY>90632</UnrestrictedEOY>
+        <TotalNetAssetsBOY>86288</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>90632</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>86288</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>90632</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>86288</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>4355</ExcessOfRevenueOverExpenses>
+        <Subtotal>90643</Subtotal>
+        <OtherDecreases referenceDocumentId=" OtherDecreasesSchedule">11</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>90632</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>6</InvestmentIncomeExciseTax>
+        <Subtotal>6</Subtotal>
+        <TaxBasedOnInvestmentIncome>6</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>25</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>25</TotalCreditsAndPayments>
+        <Overpayment>19</Overpayment>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+        <AmountToBeRefunded>19</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>IN</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Phil Hutchison</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3178493896</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO Box 36685</AddressLine1>
+          <City>Indianapolis</City>
+          <State>IN</State>
+          <ZIPCode>46236</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jeff Yu</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 36685</AddressLine1>
+            <City>Indianapolis</City>
+            <State>IN</State>
+            <ZIPCode>46236</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Brad Polak</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 36685</AddressLine1>
+            <City>Indianapolis</City>
+            <State>IN</State>
+            <ZIPCode>46236</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Levon Justice</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 36685</AddressLine1>
+            <City>Indianapolis</City>
+            <State>IN</State>
+            <ZIPCode>46236</ZIPCode>
+          </USAddress>
+          <Title>Uniforms</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Mike Freeland</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 36685</AddressLine1>
+            <City>Indianapolis</City>
+            <State>IN</State>
+            <ZIPCode>46236</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Brian Beattie</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 36685</AddressLine1>
+            <City>Indianapolis</City>
+            <State>IN</State>
+            <ZIPCode>46236</ZIPCode>
+          </USAddress>
+          <Title>Referees</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Bryan Dandridge</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 36685</AddressLine1>
+            <City>Indianapolis</City>
+            <State>IN</State>
+            <ZIPCode>46236</ZIPCode>
+          </USAddress>
+          <Title>Special Events</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Richard Wilson</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 36685</AddressLine1>
+            <City>Indianapolis</City>
+            <State>IN</State>
+            <ZIPCode>46236</ZIPCode>
+          </USAddress>
+          <Title>Sponsorship</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Phil Hutchison</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 36685</AddressLine1>
+            <City>Indianapolis</City>
+            <State>IN</State>
+            <ZIPCode>46236</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Mitch Phelps</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 36685</AddressLine1>
+            <City>Indianpolis</City>
+            <State>IN</State>
+            <ZIPCode>46236</ZIPCode>
+          </USAddress>
+          <Title>League Commisio</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Provide youth basketball leagues for approximately 550 participants in Lawrence Township, Indianapolis, Indiana.</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <TaxBasedOnInvestmentIncome>6</TaxBasedOnInvestmentIncome>
+        <TotalTax>6</TotalTax>
+        <DistributableAmountBeforeAdj>6</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>6</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>43170</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>48844</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>39697</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>131711</TotalExcessDistriCarryover>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <TotalCorpus>131711</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>131711</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>43170</ExcessFromYear4>
+        <ExcessFromYear3>48844</ExcessFromYear3>
+        <ExcessFromYear2>39697</ExcessFromYear2>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>Travel league fees</Description>
+          <RelatedOrExemptFunctionIncome>2289</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Sponsorship</Description>
+          <RelatedOrExemptFunctionIncome>5308</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Special Event</Description>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>440</ExclusionAmount>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Registration Fees</Description>
+          <RelatedOrExemptFunctionIncome>45535</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>315</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>755</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>53132</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>53887</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>Youth Basketball Leagues</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1D</LineNumber>
+          <RelationshipStatement>Youth basketball leagues</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1C</LineNumber>
+          <RelationshipStatement>Youth basketball leagues</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1B</LineNumber>
+          <RelationshipStatement>Youth basketball leagues</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>Youth basketball leagues</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>Accounting</Category>
+        <Amount>350</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherDecreases>
+        <Description>Federal Income Taxes Paid from Prior Year</Description>
+        <Amount>11</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Uniforms</Description>
+        <RevenueAndExpensesPerBooks>15785</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Trophies</Description>
+        <RevenueAndExpensesPerBooks>3308</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Telephone</Description>
+        <RevenueAndExpensesPerBooks>1182</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Storage</Description>
+        <RevenueAndExpensesPerBooks>480</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>School Fees</Description>
+        <RevenueAndExpensesPerBooks>1000</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Scholarships</Description>
+        <RevenueAndExpensesPerBooks>2050</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Referees</Description>
+        <RevenueAndExpensesPerBooks>10050</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Post Office Box</Description>
+        <RevenueAndExpensesPerBooks>110</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Office Supplies</Description>
+        <RevenueAndExpensesPerBooks>300</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>NSF Checks</Description>
+        <RevenueAndExpensesPerBooks>30</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>779</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Merchandise Cost</Description>
+        <RevenueAndExpensesPerBooks>1670</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>League fees</Description>
+        <RevenueAndExpensesPerBooks>5835</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Insurance</Description>
+        <RevenueAndExpensesPerBooks>2573</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Equipment</Description>
+        <RevenueAndExpensesPerBooks>322</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Board Expenses</Description>
+        <RevenueAndExpensesPerBooks>391</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank Fees</Description>
+        <RevenueAndExpensesPerBooks>23</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Background Check Fees</Description>
+        <RevenueAndExpensesPerBooks>27</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Advertising</Description>
+        <RevenueAndExpensesPerBooks>340</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>Travel league fees</Description>
+        <RevenueAndExpensesPerBooks>2289</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Sponsorship</Description>
+        <RevenueAndExpensesPerBooks>5308</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Special Event</Description>
+        <RevenueAndExpensesPerBooks>440</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Registration Fees</Description>
+        <RevenueAndExpensesPerBooks>45535</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

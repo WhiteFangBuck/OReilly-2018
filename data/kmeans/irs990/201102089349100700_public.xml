@@ -1,0 +1,861 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2009-10-15T15:15:33+05:00</Timestamp>
+    <TaxPeriodEndDate>2011-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>THOMSON REUTERS (TAX &amp; ACCOUNTING)</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>343 THORNALL ST SUITE 710</AddressLine1>
+        <City>EDISON</City>
+        <State>NJ</State>
+        <ZIPCode>08837</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>156017708</EIN>
+      <Name>
+        <BusinessNameLine1>MARY PECKHAM FBO CHENANGO MEM HOSPITAL 003154</BusinessNameLine1>
+      </Name>
+      <NameControl>PECK</NameControl>
+      <Phone>6073376497</Phone>
+      <USAddress>
+        <AddressLine1>C/O NBT BANK NA 52 S BROAD ST</AddressLine1>
+        <City>NORWICH</City>
+        <State>NY</State>
+        <ZIPCode>13815</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARY ANN SCHEER</Name>
+      <Title>ASSISTANT VP</Title>
+      <Phone>6073376497</Phone>
+      <DateSigned>2011-07-12</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>LOUIS J DEROSE</Name>
+      <Phone>7327679100</Phone>
+      <DatePrepared>2011-07-12</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3402239</FMVAssetsEOY>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>84</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>84</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>104236</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>104818</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-28458</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>234575</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>0</NetSTCGAdjNetIncm>
+        <TotalRevenueAndExpenses>75862</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>104902</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>14736</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>13262</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>1474</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>0</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>0</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftNetInvstIncm>0</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftAdjNetIncm>0</PensionEmplBnftAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSchedule">580</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <InterestDsbrsChrtblPrps>0</InterestDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">2603</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>859</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss>0</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingAdjNetIncm>0</TravConfMeetingAdjNetIncm>
+        <PrintingAndPubRevAndExpnss>3</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubNetInvstIncm>0</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubAdjNetIncm>0</PrintingAndPubAdjNetIncm>
+        <PrintingAndPubDsbrsChrtblPrps>3</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule">250</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>250</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>18172</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>14121</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1727</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>189534</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>189534</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>207706</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>14121</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>191261</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-131844</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>90781</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>442</CashBOY>
+        <CashEOY>531</CashEOY>
+        <CashEOYFMV>531</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>115160</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>157864</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>157864</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivableEOY>0</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>0</AccountsReceivableEOYFMV>
+        <AllwncForDbtflAcctOtherRcvbl>0</AllwncForDbtflAcctOtherRcvbl>
+        <InvestmentsGovtObligBOY>442575</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="InvestmentsGovtObligationsSch">492576</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>544187</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>937819</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestmentsCorpStockSchedule">877669</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1125850</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>295444</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="InvestmentsCorpBondsSchedule">200000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>206382</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>1058772</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="InvestmentsOtherSchedule2">1123062</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>1234092</InvestmentsOtherEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="OtherAssetsSchedule">266667</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="OtherAssetsSchedule">133333</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="OtherAssetsSchedule">133333</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>3116879</TotalAssetsBOY>
+        <TotalAssetsEOY>2985035</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3402239</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>3114990</CapitalStockBOY>
+        <CapitalStockEOY>3045274</CapitalStockEOY>
+        <RetainedEarningsBOY>1889</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-60239</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>3116879</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2985035</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3116879</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2985035</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3116879</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-131844</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>2985035</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>2985035</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1000. AMERICAN INTL GROUP PFD 7.70% #</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-12-11</DateAcquired>
+          <DateSold>2011-01-03</DateSold>
+          <GrossSalesPrice>24310</GrossSalesPrice>
+          <CostOrOtherBasis>25000</CostOrOtherBasis>
+          <GainOrLoss>-690</GainOrLoss>
+          <GainsMinusExcessOrLosses>-690</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1000. BAC CAP TRUST III 7.00% PFD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-08-05</DateAcquired>
+          <DateSold>2010-11-01</DateSold>
+          <GrossSalesPrice>24759</GrossSalesPrice>
+          <CostOrOtherBasis>25000</CostOrOtherBasis>
+          <GainOrLoss>-241</GainOrLoss>
+          <GainsMinusExcessOrLosses>-241</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>225. BP PLC SPONSORED ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-08-25</DateAcquired>
+          <DateSold>2010-06-16</DateSold>
+          <GrossSalesPrice>6866</GrossSalesPrice>
+          <CostOrOtherBasis>11793</CostOrOtherBasis>
+          <GainOrLoss>-4927</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4927</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>55. BP PLC SPONSORED ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-10-30</DateAcquired>
+          <DateSold>2010-06-16</DateSold>
+          <GrossSalesPrice>1678</GrossSalesPrice>
+          <CostOrOtherBasis>4228</CostOrOtherBasis>
+          <GainOrLoss>-2550</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2550</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150. BP PLC SPONSORED ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-08-25</DateAcquired>
+          <DateSold>2010-06-16</DateSold>
+          <GrossSalesPrice>4577</GrossSalesPrice>
+          <CostOrOtherBasis>8501</CostOrOtherBasis>
+          <GainOrLoss>-3924</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3924</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50000. JOHN DEERE CAPITAL CORP MED TERM 4.00 03-15-11</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-20</DateAcquired>
+          <DateSold>2011-03-15</DateSold>
+          <GrossSalesPrice>50000</GrossSalesPrice>
+          <CostOrOtherBasis>50000</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>.222 FRONTIER COMMUNICATIONS COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-05-28</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>2</GrossSalesPrice>
+          <CostOrOtherBasis>2</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>45000. GENL ELEC CAP CORP MED TERM 6.125 02-22-11</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-08-06</DateAcquired>
+          <DateSold>2011-02-22</DateSold>
+          <GrossSalesPrice>45000</GrossSalesPrice>
+          <CostOrOtherBasis>45444</CostOrOtherBasis>
+          <GainOrLoss>-444</GainOrLoss>
+          <GainsMinusExcessOrLosses>-444</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1000. JP MOR 7.00%PFD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-02-05</DateAcquired>
+          <DateSold>2011-01-03</DateSold>
+          <GrossSalesPrice>25300</GrossSalesPrice>
+          <CostOrOtherBasis>25000</CostOrOtherBasis>
+          <GainOrLoss>300</GainOrLoss>
+          <GainsMinusExcessOrLosses>300</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1000. MORGAN STANLEY CP TR IV PFD 6.25%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-04-10</DateAcquired>
+          <DateSold>2011-01-03</DateSold>
+          <GrossSalesPrice>22730</GrossSalesPrice>
+          <CostOrOtherBasis>25000</CostOrOtherBasis>
+          <GainOrLoss>-2270</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2270</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>345. PETROLEO BRASILEIRO SA PETROSPONSORED ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-05-28</DateAcquired>
+          <DateSold>2010-11-01</DateSold>
+          <GrossSalesPrice>11813</GrossSalesPrice>
+          <CostOrOtherBasis>25130</CostOrOtherBasis>
+          <GainOrLoss>-13317</GainOrLoss>
+          <GainsMinusExcessOrLosses>-13317</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>180. PETROLEO BRASILEIRO SA PETROSPONSORED ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-08-25</DateAcquired>
+          <DateSold>2010-11-01</DateSold>
+          <GrossSalesPrice>6163</GrossSalesPrice>
+          <CostOrOtherBasis>9218</CostOrOtherBasis>
+          <GainOrLoss>-3055</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3055</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>120. TOYOTA MOTOR CORP SP ADR REP2COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-29</DateAcquired>
+          <DateSold>2011-03-16</DateSold>
+          <GrossSalesPrice>9679</GrossSalesPrice>
+          <CostOrOtherBasis>8717</CostOrOtherBasis>
+          <GainOrLoss>962</GainOrLoss>
+          <GainsMinusExcessOrLosses>962</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-28458</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>127424</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>2991204</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.0426</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>136403</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2992873</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.045576</DistributionRatioYear2>
+        <TotalDistributionRatio>0.088176</TotalDistributionRatio>
+        <AverageDistributionRatio>0.044088</AverageDistributionRatio>
+        <NetNoncharitableAssets>3210499</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>141544</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>908</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>142452</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>191261</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>908</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>908</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>908</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2024</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>0</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>2024</TotalCreditsAndPayments>
+        <PenaltyForUnderpayment>0</PenaltyForUnderpayment>
+        <Overpayment>1116</Overpayment>
+        <AmountCreditedToNextYear>1116</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>NBT BANK NA</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>6073376497</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>52 S BROAD STREET</AddressLine1>
+          <City>NORWICH</City>
+          <State>NY</State>
+          <ZIPCode>13815</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>true</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NBT BANK NA</PersonName>
+          <USAddress>
+            <AddressLine1>52 SOUTH BROAD STREET</AddressLine1>
+            <City>NORWICH</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>14736</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>3131360</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>128030</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3259390</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>3259390</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>48891</CashDeemedCharitable>
+        <NetNoncharitableAssets>3210499</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>160525</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>160525</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>908</TaxBasedOnInvestmentIncome>
+        <TotalTax>908</TotalTax>
+        <DistributableAmountBeforeAdj>159617</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>159617</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>159617</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>191261</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>191261</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>908</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>190353</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>159617</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>31107</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>0</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>0</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>0</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>0</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>0</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>191261</QualifyingDistributions>
+        <AppliedToYear1>31107</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>159617</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>537</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>537</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>537</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>0</ExcessFromYear4>
+        <ExcessFromYear3>0</ExcessFromYear3>
+        <ExcessFromYear2>0</ExcessFromYear2>
+        <ExcessFromYear1>0</ExcessFromYear1>
+        <ExcessFromCurrentYear>537</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Chenango Memorial</BusinessNameLine1>
+            <BusinessNameLine2>Hospital</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>179 NORTH BROAD STREET</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSES - MEMORY WM PECKHAM</PurposeOfGrantOrContribution>
+          <Amount>189534</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>189534</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>84</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>104236</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-28458</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>75862</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>75862</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps />
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule">
+      <AccountingFees>
+        <Category>TAX PREPARATION FEES</Category>
+        <Amount>580</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CATERPILLAR FIN 5.75% 10/15/11</NameOfBond>
+        <EOYBookValue>50000</EOYBookValue>
+        <EOYFMV>51135</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>BANK OF AMERICA 6.4% 8-15-19</NameOfBond>
+        <EOYBookValue>50000</EOYBookValue>
+        <EOYFMV>52442</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GE CAPITAL 4.4% 4/15/2014</NameOfBond>
+        <EOYBookValue>50000</EOYBookValue>
+        <EOYFMV>51662</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>HOUSEHOLD FIN 6.15% 11/15/2011</NameOfBond>
+        <EOYBookValue>50000</EOYBookValue>
+        <EOYFMV>51143</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule">
+      <InvestmentsCorpStock>
+        <NameOfStock>BANK OF AMERICA CORP</NameOfStock>
+        <EOYBookValue>19389</EOYBookValue>
+        <EOYFMV>19995</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNION PAC CORP</NameOfStock>
+        <EOYBookValue>35540</EOYBookValue>
+        <EOYFMV>39332</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SUNCOR ENERGY INC</NameOfStock>
+        <EOYBookValue>32002</EOYBookValue>
+        <EOYFMV>44840</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ABBOTT LABS</NameOfStock>
+        <EOYBookValue>24873</EOYBookValue>
+        <EOYFMV>23053</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>APPLE INC</NameOfStock>
+        <EOYBookValue>12980</EOYBookValue>
+        <EOYFMV>46003</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>COLGATE PALMOLIVE</NameOfStock>
+        <EOYBookValue>22511</EOYBookValue>
+        <EOYFMV>25036</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CATERPILLAR INC</NameOfStock>
+        <EOYBookValue>42508</EOYBookValue>
+        <EOYFMV>74604</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CISCO SYSTEMS</NameOfStock>
+        <EOYBookValue>31578</EOYBookValue>
+        <EOYFMV>22295</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CONOCOPHILLIPS</NameOfStock>
+        <EOYBookValue>17378</EOYBookValue>
+        <EOYFMV>39930</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DANAHER CORP</NameOfStock>
+        <EOYBookValue>27404</EOYBookValue>
+        <EOYFMV>49305</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EXXON MOBIL CORP</NameOfStock>
+        <EOYBookValue>17649</EOYBookValue>
+        <EOYFMV>25660</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FISERV INC</NameOfStock>
+        <EOYBookValue>23469</EOYBookValue>
+        <EOYFMV>28036</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GENERAL ELECTRIC CO</NameOfStock>
+        <EOYBookValue>37086</EOYBookValue>
+        <EOYFMV>44611</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GOLDMAN SACHS GROUP</NameOfStock>
+        <EOYBookValue>16595</EOYBookValue>
+        <EOYFMV>15067</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HEWLETT PACKARD CO</NameOfStock>
+        <EOYBookValue>19948</EOYBookValue>
+        <EOYFMV>20444</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTL BUSINESS MACHINES</NameOfStock>
+        <EOYBookValue>16269</EOYBookValue>
+        <EOYFMV>29516</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JPMORGAN CHASE</NameOfStock>
+        <EOYBookValue>17495</EOYBookValue>
+        <EOYFMV>18901</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JOHNSON &amp; JOHNSON</NameOfStock>
+        <EOYBookValue>21567</EOYBookValue>
+        <EOYFMV>20441</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>LOWES COS</NameOfStock>
+        <EOYBookValue>34655</EOYBookValue>
+        <EOYFMV>34359</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MICROSOFT CORP</NameOfStock>
+        <EOYBookValue>24237</EOYBookValue>
+        <EOYFMV>22724</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MONSANTO CO</NameOfStock>
+        <EOYBookValue>5901</EOYBookValue>
+        <EOYFMV>13585</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FRONTIER COMMUNICATIONS</NameOfStock>
+        <EOYBookValue>1300</EOYBookValue>
+        <EOYFMV>1093</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BHP BILLITON LTD</NameOfStock>
+        <EOYBookValue>14152</EOYBookValue>
+        <EOYFMV>24353</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GLAXOSMITHKLINE PLC</NameOfStock>
+        <EOYBookValue>24454</EOYBookValue>
+        <EOYFMV>21510</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NOVARTIS A G</NameOfStock>
+        <EOYBookValue>26699</EOYBookValue>
+        <EOYFMV>26360</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PEPSICO INC</NameOfStock>
+        <EOYBookValue>19146</EOYBookValue>
+        <EOYFMV>25442</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PROCTER &amp; GAMBLE CO</NameOfStock>
+        <EOYBookValue>8355</EOYBookValue>
+        <EOYFMV>24517</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PRUDENTIAL FINL</NameOfStock>
+        <EOYBookValue>31560</EOYBookValue>
+        <EOYFMV>22169</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHLUMBERGER LTD</NameOfStock>
+        <EOYBookValue>24594</EOYBookValue>
+        <EOYFMV>46630</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DISNEY WALT CO</NameOfStock>
+        <EOYBookValue>19433</EOYBookValue>
+        <EOYFMV>33179</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TARGET CORP</NameOfStock>
+        <EOYBookValue>12621</EOYBookValue>
+        <EOYFMV>23104</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TOYOTA MOTOR</NameOfStock>
+        <EOYBookValue>9405</EOYBookValue>
+        <EOYFMV>9550</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>US BANCORP</NameOfStock>
+        <EOYBookValue>23416</EOYBookValue>
+        <EOYFMV>20219</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNITED TECHNOLOGIES</NameOfStock>
+        <EOYBookValue>36780</EOYBookValue>
+        <EOYFMV>45711</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VERIZON COMMUNICATIONS</NameOfStock>
+        <EOYBookValue>19693</EOYBookValue>
+        <EOYFMV>21390</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WALGREEN CO</NameOfStock>
+        <EOYBookValue>26749</EOYBookValue>
+        <EOYFMV>29021</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WELLS FARGO &amp; CO</NameOfStock>
+        <EOYBookValue>19016</EOYBookValue>
+        <EOYFMV>19977</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GOOGLE</NameOfStock>
+        <EOYBookValue>22201</EOYBookValue>
+        <EOYFMV>29338</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTEL</NameOfStock>
+        <EOYBookValue>21426</EOYBookValue>
+        <EOYFMV>22299</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PRICE T ROWE GROUP INC</NameOfStock>
+        <EOYBookValue>15635</EOYBookValue>
+        <EOYFMV>22251</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSch">
+      <USGovtSecuritiesEOYBookValue>492576</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>544187</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2">
+      <InvestmentsOther>
+        <CategoryOrItem>ISHARES TR MSCI EMERGING MKTS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>77307</BookValue>
+        <EOYFMV>97437</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ISHARES TR MSCI EAFE INDEX</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>197386</BookValue>
+        <EOYFMV>172310</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ISHARES TR NASDAQ BIO INDEX</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>22801</BookValue>
+        <EOYFMV>27143</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ISHARES RUSSELL 2000</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>153848</BookValue>
+        <EOYFMV>193507</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SPDR S&amp;P MIDCAP 400 ETF TR</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>222507</BookValue>
+        <EOYFMV>291948</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SPDR SERIES KBW REGL BKG</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>28719</BookValue>
+        <EOYFMV>26630</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SELECT SECTOR SPDR MATERIALS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>20864</BookValue>
+        <EOYFMV>21851</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SELECT SECTOR SPDR UTILITIES</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>24615</BookValue>
+        <EOYFMV>19568</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>MARKET VECTORS ETF AGRI</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>25015</BookValue>
+        <EOYFMV>33624</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>DODGE &amp; COX INCOME FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>75000</BookValue>
+        <EOYFMV>76972</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FEDERATED TOTAL RETURN BOND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>125000</BookValue>
+        <EOYFMV>125256</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>VANGUARD GNMA FD ADMIRAL SHS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>75000</BookValue>
+        <EOYFMV>74861</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>VANGUARD INTER TERM TREA</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>75000</BookValue>
+        <EOYFMV>72985</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule">
+      <OtherAssets>
+        <Description>CHENANGO MEM HOSPITAL LOAN 6%</Description>
+        <BOYBookValue>266667</BOYBookValue>
+        <EOYBookValue>133333</EOYBookValue>
+        <EOYFMV>133333</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule">
+      <OtherExpenses>
+        <Description>NYS EPTL FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>250</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>250</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FOREIGN TAX WITHHELD</Category>
+        <Amount>241</Amount>
+        <NetInvestmentIncome>859</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAX 2009 BALANCE</Category>
+        <Amount>338</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>ESTIMATED EXCISE TAX PAID</Category>
+        <Amount>2024</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

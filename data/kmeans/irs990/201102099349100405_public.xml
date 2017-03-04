@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T12:12:31-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Henry R Hortenstine III CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>808 Moorefield Park Drive Suite 200</AddressLine1>
+        <City>Richmond</City>
+        <State>VA</State>
+        <ZIPCode>23236</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>562575750</EIN>
+      <Name>
+        <BusinessNameLine1>Deborah J Johnston Foundation Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>DEBO</NameControl>
+      <USAddress>
+        <AddressLine1>10041 Midlothian Tnpk</AddressLine1>
+        <City>Richmond</City>
+        <State>VA</State>
+        <ZIPCode>23236</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Deborah J Johnston</Name>
+      <Title>Director</Title>
+      <DateSigned>2011-07-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Henry R Hortenstine III CPA</Name>
+      <Phone>8045940450</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>60</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>174000</ContriReceivedRevAndExpnss>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>174000</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">195</LegalFeesRevAndExpnss>
+        <LegalFeesDsbrsChrtblPrps>195</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">1009</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>1009</AccountingFeesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">247</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>247</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1451</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1451</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>173250</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>173250</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>174701</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>174701</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-701</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashEOY>60</CashEOY>
+        <SavingsAndTempCashInvstBOY>761</SavingsAndTempCashInvstBOY>
+        <TotalAssetsBOY>761</TotalAssetsBOY>
+        <TotalAssetsEOY>60</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>60</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>761</RetainedEarningsBOY>
+        <RetainedEarningsEOY>60</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>761</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>60</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>761</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>60</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>761</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-701</ExcessOfRevenueOverExpenses>
+        <Subtotal>60</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>60</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>false</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>false</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Deborah J Johnston</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8043239464</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>10041 Midlothian Tnpk</AddressLine1>
+          <City>Richmond</City>
+          <State>VA</State>
+          <ZIPCode>23236</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Deborah J Johnston</PersonName>
+          <USAddress>
+            <AddressLine1>10041 Midlothian Tnpk</AddressLine1>
+            <City>Richmond</City>
+            <State>VA</State>
+            <ZIPCode>23236</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>412</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>412</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>412</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>6</CashDeemedCharitable>
+        <NetNoncharitableAssets>406</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>20</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>20</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>20</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>20</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>20</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>174701</ExpensesAndContributions>
+        <QualifyingDistributions>174701</QualifyingDistributions>
+        <AdjQualifyingDistributions>174701</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>20</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>49951</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>26400</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>39840</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>45526</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>161717</TotalExcessDistriCarryover>
+        <QualifyingDistributions>174701</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>20</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>174681</RemainingDistriFromCorpus>
+        <TotalCorpus>336398</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>336398</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>49951</ExcessFromYear4>
+        <ExcessFromYear3>26400</ExcessFromYear3>
+        <ExcessFromYear2>39840</ExcessFromYear2>
+        <ExcessFromYear1>45526</ExcessFromYear1>
+        <ExcessFromCurrentYear>174681</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>Care Advantage Inc</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>10041 Midlothian Tnpk</AddressLine1>
+          <City>Richmond</City>
+          <State>VA</State>
+          <ZIPCode>23236</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>174000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>Accounting</Category>
+        <Amount>1009</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1009</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>Legal</Category>
+        <Amount>195</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>195</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Postage</Description>
+        <RevenueAndExpensesPerBooks>9</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>9</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Marketing</Description>
+        <RevenueAndExpensesPerBooks>200</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>200</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Licenses</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank fees</Description>
+        <RevenueAndExpensesPerBooks>13</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>13</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

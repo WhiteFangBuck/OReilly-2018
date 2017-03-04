@@ -1,0 +1,835 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T09:58:48-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LARRY W MCQUEARY CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO DRAWER A - 218 PARK AVENUE</AddressLine1>
+        <City>RATON</City>
+        <State>NM</State>
+        <ZIPCode>87740</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>850446414</EIN>
+      <Name>
+        <BusinessNameLine1>WHITED FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>WHIT</NameControl>
+      <Phone>5754452768</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 1771</AddressLine1>
+        <City>RATON</City>
+        <State>NM</State>
+        <ZIPCode>87740</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARK MORRIS</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>5754452768</Phone>
+      <DateSigned>2011-07-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>LARRY W MCQUEARY CPA</Name>
+      <Phone>5754455596</Phone>
+      <DatePrepared>2011-07-28</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="12">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1445977</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>56</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>56</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>29055</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>29055</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">2057</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>265541</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>2057</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000010" referenceDocumentName="OtherIncomeSchedule2">3332</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>3332</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>34500</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>34500</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>3750</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstDsbrsChrtblPrps>3600</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">1750</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>1750</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="00000011" referenceDocumentName="OtherProfessionalFeesSchedule">11580</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>11580</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="00000012" referenceDocumentName="TaxesSchedule">1881</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>1881</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000009" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">2986</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>2986</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>21947</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>16447</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>5350</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>114744</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>114744</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>136691</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>16447</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>120094</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-102191</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>18053</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>1341</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>68736</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>68736</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>569490</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="00000005" referenceDocumentName="InvestmentsCorpStockSchedule">497350</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>567467</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>849641</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="00000004" referenceDocumentName="InvestmentsCorpBondsSchedule">752195</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>749305</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsLandEtcBOY>60000</InvestmentsLandEtcBOY>
+        <InvestmentsLandEtcEOY>60000</InvestmentsLandEtcEOY>
+        <InvestmentsLandEtcEOYFMV>60000</InvestmentsLandEtcEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="00000006" referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="00000007" referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="00000008" referenceDocumentName="OtherAssetsSchedule">469</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>1480472</TotalAssetsBOY>
+        <TotalAssetsEOY>1378281</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1445977</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1480472</CapitalStockBOY>
+        <CapitalStockEOY>1378281</CapitalStockEOY>
+        <TotalNetAssetsBOY>1480472</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1378281</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1480472</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1378281</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1480472</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-102191</ExcessOfRevenueOverExpenses>
+        <Subtotal>1378281</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1378281</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5785.921DFA 1 YEAR FIXED INCOME</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-09-09</DateAcquired>
+          <DateSold>2010-09-07</DateSold>
+          <GrossSalesPrice>59951</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>59440</CostOrOtherBasis>
+          <GainOrLoss>511</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>511</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5825.243 DFA 2 YR GLOBAL FIXED</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-01-24</DateAcquired>
+          <DateSold>2010-09-07</DateSold>
+          <GrossSalesPrice>59951</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>59205</CostOrOtherBasis>
+          <GainOrLoss>746</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>746</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>278.552 DFA FIVE YEAR GOVT POR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-01-24</DateAcquired>
+          <DateSold>2010-01-12</DateSold>
+          <GrossSalesPrice>2978</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>2881</CostOrOtherBasis>
+          <GainOrLoss>97</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>97</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3505.228 DFA FIVE YEAR GOVT POR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-01-24</DateAcquired>
+          <DateSold>2010-02-02</DateSold>
+          <GrossSalesPrice>37842</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>36371</CostOrOtherBasis>
+          <GainOrLoss>1471</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1471</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1790.510 DFA FIXED INCOM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-09-12</DateAcquired>
+          <DateSold>2010-02-02</DateSold>
+          <GrossSalesPrice>19955</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>19151</CostOrOtherBasis>
+          <GainOrLoss>804</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>804</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>352.113 DFA FIXED INCOM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-12-22</DateAcquired>
+          <DateSold>2010-07-06</DateSold>
+          <GrossSalesPrice>3978</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>3709</CostOrOtherBasis>
+          <GainOrLoss>269</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>269</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3128.911 PIMCO COMM REAL RETURN FU</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-01</DateAcquired>
+          <DateSold>2010-04-06</DateSold>
+          <GrossSalesPrice>24955</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>22571</CostOrOtherBasis>
+          <GainOrLoss>2384</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>2384</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1144.654 PIMCO COMM REAL RETURN FU</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-01</DateAcquired>
+          <DateSold>2010-04-19</DateSold>
+          <GrossSalesPrice>9073</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>8257</CostOrOtherBasis>
+          <GainOrLoss>816</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>816</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1814.083 RYDEX MANAGED FUTURES STR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-30</DateAcquired>
+          <DateSold>2010-04-06</DateSold>
+          <GrossSalesPrice>46858</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>51899</CostOrOtherBasis>
+          <GainOrLoss>-5041</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-5041</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>2057</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>361</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>361</Subtotal>
+        <TaxBasedOnInvestmentIncome>361</TaxBasedOnInvestmentIncome>
+        <TaxPaidOriginalReturn>0</TaxPaidOriginalReturn>
+        <TaxDue>361</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NM</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MARK MORRIS PRESIDENT OF BOARD</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5754452768</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 1771</AddressLine1>
+          <City>RATON</City>
+          <State>NM</State>
+          <ZIPCode>87740</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAN BUTTRAM</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1206 -</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>750</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID WILDEN</PersonName>
+          <USAddress>
+            <AddressLine1>410 S 4TH ST</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>750</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICK TRICE</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 727 -</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>750</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARK MORRIS</PersonName>
+          <USAddress>
+            <AddressLine1>1100 S 6TH ST - RATON</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>750</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN ROBERTSON</PersonName>
+          <USAddress>
+            <AddressLine1>310 S 6TH</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>750</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1337638</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>39711</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1377349</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1377349</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>20660</CashDeemedCharitable>
+        <NetNoncharitableAssets>1356689</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>67834</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>67834</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>361</TaxBasedOnInvestmentIncome>
+        <TotalTax>361</TotalTax>
+        <DistributableAmountBeforeAdj>67473</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>67473</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>67473</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>120094</ExpensesAndContributions>
+        <QualifyingDistributions>120094</QualifyingDistributions>
+        <AdjQualifyingDistributions>120094</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>67473</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>21292</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>34002</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>31814</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>32566</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>94798</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>214472</TotalExcessDistriCarryover>
+        <QualifyingDistributions>120094</QualifyingDistributions>
+        <AppliedToCurrentYear>67473</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>52621</RemainingDistriFromCorpus>
+        <TotalCorpus>267093</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>21292</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>245801</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>34002</ExcessFromYear4>
+        <ExcessFromYear3>31814</ExcessFromYear3>
+        <ExcessFromYear2>32566</ExcessFromYear2>
+        <ExcessFromYear1>94798</ExcessFromYear1>
+        <ExcessFromCurrentYear>52621</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RecipientName>MARK MORRIS</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1771</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5054452768</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN REQUEST EXPLAINING ACTIVITY PLANNED AND BENEFITS TO ACCRUE</FormAndInfoAndMaterials>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RATON ARTS &amp; HUMANITIES COUNCIL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>145 S 1ST ST</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MUSIC APPRECIATIONCONCERT SERIES&amp; ENRICHMENT</PurposeOfGrantOrContribution>
+          <Amount>28600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RATON PUBLIC SCHOOLS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1535 TIGER CIRCLE</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MUSICCOMPUTERSCULLINARY</PurposeOfGrantOrContribution>
+          <Amount>31424</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RATON HIGH SCHOOL ARTS CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1535 TIGER CIRCLE</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Materials forEDUCATIONARTS EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RATON CHAMBER OF COMMERCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 CLAYTON ROAD</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ADVERTISEMENTCO SPONSORARTS PROMOTION</PurposeOfGrantOrContribution>
+          <Amount>820</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SANTA FE SCHOOL OF PERFORMING ARTS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>131 NORTH SECOND ST</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PERFORMING ARTSEDUCATION INARTS ENRICHMENT</PurposeOfGrantOrContribution>
+          <Amount>33000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MUSIC FROM ANGEL FIRE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3365 HWY 434 5</AddressLine1>
+            <City>ANGEL FIRE</City>
+            <State>NM</State>
+            <ZIPCode>87710</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MUSIC AWARENESSRATON NM CONCERTARTS ENRICHMENT</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UNIVERSITY OF NEW MEXICO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SCHOES HALL RM 240</AddressLine1>
+            <City>ALBUQUERQUE</City>
+            <State>NM</State>
+            <ZIPCode>87103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>INDIV</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHLORSHIPDEREK LEININGER</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RATON MAIN STREET</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1481</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ON MAINSTREETSPONSOR MUSICMUSIC APPRECIATION</PurposeOfGrantOrContribution>
+          <Amount>4900</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>EASTERN NM UNIVERSITY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1500 S AVE K</AddressLine1>
+            <City>PORTALES</City>
+            <State>NM</State>
+            <ZIPCode>88130</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHLORSHIPROBERT GARCIA</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>EASTERN NM UNIVERSITY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1500 S AVE K</AddressLine1>
+            <City>PORTALES</City>
+            <State>NM</State>
+            <ZIPCode>88130</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPJAMES JOHNSTON</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEW MEXICO STATE UNIVERSITY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 30001</AddressLine1>
+            <City>LAS CRUSES</City>
+            <State>NM</State>
+            <ZIPCode>88003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLORSHIPANITA ROSE</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TRINIDAD STATE JUNIOR COLLEGE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>600 PROSPECT ST</AddressLine1>
+            <City>TRINIDAD</City>
+            <State>CO</State>
+            <ZIPCode>81082</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLORSHIPSARAH RECORD</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MUSEUM OF NEW MEXICO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>116 LINCOLN AVENUE</AddressLine1>
+            <City>SANTA FE</City>
+            <State>NM</State>
+            <ZIPCode>87501</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DONATIONDONATION</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHORT GRASS MUSIC FESTIVAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 121</AddressLine1>
+            <City>CIMARRON</City>
+            <State>NM</State>
+            <ZIPCode>87714</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PUBLIC MUSIC</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHULER RESTORATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>131 N 2ND</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RESTORE THEATER</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>114744</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>2057</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>2057</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>2057</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFees>
+        <Category>LARRY W MCQUEARY CAP ACCOUTING SERVICES</Category>
+        <Amount>1750</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="00000003">
+      <GainLossSaleOtherAsset>
+        <Name>Stocks &amp; Securities</Name>
+        <HowAcquired>Purchased</HowAcquired>
+        <GrossSalesPrice>265541</GrossSalesPrice>
+        <Basis>263484</Basis>
+        <TotalNet>2057</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="00000004">
+      <InvestmentsCorpBonds>
+        <NameOfBond>Domestic Fixed Income Bonds</NameOfBond>
+        <EOYBookValue>1000</EOYBookValue>
+        <EOYFMV>950</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>ONE-YEAR BONDS</NameOfBond>
+        <EOYBookValue>84618</EOYBookValue>
+        <EOYFMV>84711</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Short Term Bonds</NameOfBond>
+        <EOYBookValue>158757</EOYBookValue>
+        <EOYFMV>157841</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Medium Term Bonds</NameOfBond>
+        <EOYBookValue>73306</EOYBookValue>
+        <EOYFMV>75572</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>LONG TERM BONCS</NameOfBond>
+        <EOYBookValue>56945</EOYBookValue>
+        <EOYFMV>55037</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Foreign Fixed Income Short Term Bonds</NameOfBond>
+        <EOYBookValue>341106</EOYBookValue>
+        <EOYFMV>337783</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Foreign Fixed Income Medium Term Bonds</NameOfBond>
+        <EOYBookValue>36463</EOYBookValue>
+        <EOYFMV>37411</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000005">
+      <InvestmentsCorpStock>
+        <NameOfStock>Domestic Equity Large, Medium, &amp; SmallCap Stock</NameOfStock>
+        <EOYBookValue>317511</EOYBookValue>
+        <EOYFMV>369189</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Foreign Equity Large, Medium, &amp; SmallCap Stock</NameOfStock>
+        <EOYBookValue>154137</EOYBookValue>
+        <EOYFMV>166081</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Alternative Assets - Commodity Index</NameOfStock>
+        <EOYBookValue>25702</EOYBookValue>
+        <EOYFMV>32197</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherAssetsSchedule documentId="00000006">
+      <OtherAssets>
+        <Description>DIVIDENDS RECEIVABLE CHARLES SCHWAB</Description>
+        <EOYFMV>469</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>FOREIGN TAX PAID</Description>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherAssetsSchedule documentId="00000007">
+      <OtherAssets>
+        <Description>DIVIDENDS RECEIVABLE CHARLES SCHWAB</Description>
+        <EOYFMV>469</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>FOREIGN TAX PAID</Description>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherAssetsSchedule documentId="00000008">
+      <OtherAssets>
+        <Description>DIVIDENDS RECEIVABLE CHARLES SCHWAB</Description>
+        <EOYFMV>469</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>FOREIGN TAX PAID</Description>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="00000009">
+      <OtherExpenses>
+        <Description>P.O. BOX RENT</Description>
+        <RevenueAndExpensesPerBooks>60</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>60</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BUILDING M&amp;R</Description>
+        <RevenueAndExpensesPerBooks>143</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>143</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>2557</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2557</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK S/C</Description>
+        <RevenueAndExpensesPerBooks>117</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>117</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>COPY FEES</Description>
+        <RevenueAndExpensesPerBooks>17</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>17</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANOUS</Description>
+        <RevenueAndExpensesPerBooks>92</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>92</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000010">
+      <OtherIncome>
+        <Description>CAPITAL GAINS DISTRIBUTION</Description>
+        <RevenueAndExpensesPerBooks>3332</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>3332</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="00000011">
+      <OtherProfessionalFees>
+        <Category>Charles Schwab Instit INVESTMENT SERVICES</Category>
+        <Amount>11580</Amount>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="00000012">
+      <Taxes>
+        <Category>PROPERTY TAXES</Category>
+        <Amount>423</Amount>
+        <NetInvestmentIncome>423</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>INCOME TAX</Category>
+        <Amount>469</Amount>
+        <NetInvestmentIncome>469</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>FORIGN TAX PAID INVESTMENTS</Category>
+        <Amount>126</Amount>
+        <NetInvestmentIncome>126</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>ACCRUED INTEREST PD ON PURCH</Category>
+        <Amount>863</Amount>
+        <NetInvestmentIncome>863</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

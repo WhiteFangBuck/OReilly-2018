@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-27T12:43:22-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>KARREN HENDRIX STAGG ALLEN &amp; COMPANY</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>111 E BROADWAY STE 250</AddressLine1>
+        <City>SALT LAKE CITY</City>
+        <State>UT</State>
+        <ZIPCode>841115225</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>208047799</EIN>
+      <Name>
+        <BusinessNameLine1>THE FAIRCLOUGH FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>FAIR</NameControl>
+      <Phone>8013231010</Phone>
+      <USAddress>
+        <AddressLine1>111 E BROADWAY STE 1212</AddressLine1>
+        <City>SALT LAKE CITY</City>
+        <State>UT</State>
+        <ZIPCode>84111</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>FRED W FAIRCLOUGH JR</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>8013231010</Phone>
+      <DateSigned>2011-06-30</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>G JOHN RUNIA CPA</Name>
+      <Phone>8015217620</Phone>
+      <DatePrepared>2011-07-27</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>66832</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>500</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>8</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>8</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>508</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>8</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">500</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>500</AccountingFeesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>500</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>500</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>16000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>16000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>16500</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>500</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>16000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-15992</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>82779</CashBOY>
+        <CashEOY>66787</CashEOY>
+        <CashEOYFMV>66787</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>433900</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>433900</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>45</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>516679</TotalAssetsBOY>
+        <TotalAssetsEOY>500687</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>66832</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>516679</UnrestrictedBOY>
+        <UnrestrictedEOY>500687</UnrestrictedEOY>
+        <TotalNetAssetsBOY>516679</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>500687</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>516679</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>500687</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>516679</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-15992</ExcessOfRevenueOverExpenses>
+        <Subtotal>500687</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>500687</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>2500</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>84349</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.029639</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>28000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>192557</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.145411</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>55384</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>347984</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.159157</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>30000</QualifyingDistributionsYear4>
+        <TotalDistributionRatio>0.334207</TotalDistributionRatio>
+        <AverageDistributionRatio>0.111402</AverageDistributionRatio>
+        <NetNoncharitableAssets>66034</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>7356</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>7356</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>16000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>UT</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>FRED FAIRCLOUGH</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8013231010</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>111 EAST BROADWAY SUITE 1250</AddressLine1>
+          <City>SALT LAKE CITY</City>
+          <State>UT</State>
+          <ZIPCode>84111</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">FRED W FAIRCLOUGH JR</PersonName>
+          <USAddress>
+            <AddressLine1>2550 MAYWOOD DRIVE</AddressLine1>
+            <City>SALT LAKE CITY</City>
+            <State>UT</State>
+            <ZIPCode>84109</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">CHRISTINE A FAIRCLOUGH</PersonName>
+          <USAddress>
+            <AddressLine1>2550 MAYWOOD DRIVE</AddressLine1>
+            <City>SALT LAKE CITY</City>
+            <State>UT</State>
+            <ZIPCode>84109</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>CASH DONATIONS: PRIMARY CHILDREN'S MEDICAL HOSPITAL 5,000 CHURCH OF JESUS CHURCH OF LDS 5,000 HEALTH SCIENCES ADVOCATES 5,000 HONARARY COLONELS 1,000 ------- 16,000</Description1>
+        <Expenses1>16000</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>173</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>66867</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>67040</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>67040</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1006</CashDeemedCharitable>
+        <NetNoncharitableAssets>66034</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>3302</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>3302</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>3302</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>3302</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>3302</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>16000</ExpensesAndContributions>
+        <QualifyingDistributions>16000</QualifyingDistributions>
+        <AdjQualifyingDistributions>16000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>3302</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>28285</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>38217</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>18690</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>85192</TotalExcessDistriCarryover>
+        <QualifyingDistributions>16000</QualifyingDistributions>
+        <AppliedToCurrentYear>3302</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>12698</RemainingDistriFromCorpus>
+        <TotalCorpus>97890</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>97890</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>28285</ExcessFromYear4>
+        <ExcessFromYear3>38217</ExcessFromYear3>
+        <ExcessFromYear2>18690</ExcessFromYear2>
+        <ExcessFromCurrentYear>12698</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>FRED CHRISTINE FAIRCLOUGH JR</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PRIMARY CHILDREN'S MEDIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 MARIO CAPECCHI DR</AddressLine1>
+            <City>SALT LAKE CITY</City>
+            <State>UT</State>
+            <ZIPCode>84112</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TREATMENT OF SICK CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHURCH OF JESUS CHRIST OF</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>60 WEST NORTH TEMPLE</AddressLine1>
+            <City>SALT LAKE CITY</City>
+            <State>UT</State>
+            <ZIPCode>84111</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>CHURCH HUMANITARIAN AID</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HEALTH SCIENCE ADVOCATES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>540 ARAPEEN DR STE 120</AddressLine1>
+            <City>SALT LAKE CITY</City>
+            <State>UT</State>
+            <ZIPCode>84108</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>U OF U RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HONARARY COLONELS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4571 S HOLLADAY BLVD</AddressLine1>
+            <City>SALT LAKE CITY</City>
+            <State>UT</State>
+            <ZIPCode>84117</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>ASSIST SALT LAKE POLICE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>16000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>8</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>8</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>8</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>500</Amount>
+        <NetInvestmentIncome>500</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>FRED W FAIRCLOUGH JR</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>CHRISTINE A FAIRCLOUGH</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+  </ReturnData>
+</Return>

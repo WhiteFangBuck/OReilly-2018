@@ -1,0 +1,914 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-22T09:14:59-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Capin Crouse LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>972 Emerson Parkway Ste A</AddressLine1>
+        <City>Greenwood</City>
+        <State>IN</State>
+        <ZIPCode>46143</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>752191528</EIN>
+      <Name>
+        <BusinessNameLine1>Hope for the Heart</BusinessNameLine1>
+      </Name>
+      <NameControl>HOPE</NameControl>
+      <Phone>9722129200</Phone>
+      <USAddress>
+        <AddressLine1>2001 W Plano Parkway No 1000</AddressLine1>
+        <City>Plano</City>
+        <State>TX</State>
+        <ZIPCode>75075</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Mark Lincoln</Name>
+      <Title>CFO</Title>
+      <Phone>9722129200</Phone>
+      <DateSigned>2011-07-22</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Todd Ensign</Name>
+      <Phone>3178852620</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>Brent Ray</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>2001 W Plano Parkway No 1000</AddressLine1>
+        <City>Plano</City>
+        <State>TX</State>
+        <ZIPCode>75075</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>7774354</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>http://www.hopefortheheart.org</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1988</YearFormation>
+      <StateLegalDomicile>TX</StateLegalDomicile>
+      <ActivityOrMissionDescription>Renew minds, heal hearts, bring hope to the hurting &amp; empower Christians to disciple others.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>11</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>10</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>69</TotalNbrEmployees>
+      <TotalNbrVolunteers>50</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>8619798</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>7398117</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>19630</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>3779</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>388448</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>21370</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>158808</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>203293</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>9186684</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>7626559</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>452369</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>115464</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>3631753</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>3732713</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>8449</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>12608</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>529674</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>5138423</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>3951751</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>9230994</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>7812536</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-44310</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-185977</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>4797354</TotalAssetsBOY>
+      <TotalAssetsEOY>4528622</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>542191</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>455574</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>4255163</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>4073048</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>Hope for the Heart is a worldwide ministry with a two-fold mission: providing bible-based counsel to renew minds, heal hearts and bring hope to the hurting, while empowering Christians to disciple others.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>3542652</Expense>
+      <Grants>115464</Grants>
+      <Description>Broadcast-Hope for the Heart presents clearly scriptural solutions to real world problems by using a counseling approach that is based on the ministry's 100 biblical counseling keys. The ministry produces two daily radio programs: Hope for the Heart, a live, 25-minute teaching program which airs on some 65 radio stations nationwide, and Hope in the Night, a live, two-hour call-in counseling program which airs on 163 stations. Hope in the Night provides direct interaction with troubled listeners, whose problems range from depression to wife abuse, and from self esteem to forgiveness.</Description>
+      <Activity2>
+        <Expense>1205354</Expense>
+        <Revenue>162826</Revenue>
+        <Description>Counseling-The counseling call center takes calls from a variety of sources: felt-needs, crisis / suicide, and inbound triage calls from other ministries. In 2010, more than 25,000 call types were received. The call center publishes the monthly partners in prayer letter/calendar to over 1800 prayer partners. Since 2002, the biblical counseling institute has provided God's truth for today's problems to pastors, counselors, chaplains, teachers, and laypeople. In 2010, almost 1,200 attendees received in-depth, interactive teaching based on 100 biblical counseling keys topics. The multimedia format incorporates radio clips of Hope in the Night callers, offering insightful and compassionate answers to life's toughest questions. In June of 2006, Hope for the Heart received accreditation to offer continuing education through the Association of Christian Schools International (ACSI).</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>1448200</Expense>
+        <Description>Global Outreach-Through the efforts of translation teams, our biblical counseling keys are being translated into 21 languages. The counseling keys are now being used in 48 nations. In addition, radio broadcasts sponsored by Hope for the Heart now air in over 26 countries. The Hope for the Heart counseling keys have been named "the best selling Christian resource" in one country alone. In one new country, 40 radio stations are now sharing excerpts of the counseling keys with their listeners. For one station alone, this has prompted up to 300 calls a day from people eager to learn more. Hope for the Heart trains groups and individuals in the use and application of the biblical counseling keys to minister to heart felt needs throughout the world. In the U.S., training includes Chinese and Spanish biblical counseling and equipping pregnancy resource centers. Internationally, training continues to expand in the countries with the counseling keys of other foreign language translations.</Description>
+      </Activity3>
+      <TotalProgramServiceExpense>6196206</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities referenceDocumentId="RetDoc1040500001">0</ForeignActivities>
+      <MoreThan5000KToOrganizations referenceDocumentId="RetDoc1040500001">0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals referenceDocumentId="RetDoc1040500001">0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">1</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt referenceDocumentId="RetDoc1042900001">0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>46</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>69</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <Form1098CFiled>1</Form1098CFiled>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>11</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>10</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>AK</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>AZ</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>FL</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>GA</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>MS</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>NH</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>NC</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>ND</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>TN</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>VA</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>WA</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>WV</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>WI</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>MN</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>The Organization</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>9722129200</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>2001 W Plano Parkway No 1000</AddressLine1>
+          <City>Plano</City>
+          <State>TX</State>
+          <ZIPCode>75075</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>June Hunt</NamePerson>
+        <Title>Chairman</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Linda Paulk</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Jerry Wilson</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Douglas Kiesewetter</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Ashlee Kleiert</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Bill Millet</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Dr Dorothy Patterson</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>David H Wills JD</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>J Keet Lewis</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Mike Tirone</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Vicki Garza</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Brent Ray</NamePerson>
+        <Title>President</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>138114</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>7786</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Mark Lincoln</NamePerson>
+        <Title>Secretary/Treasurer/CFO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>116760</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>7677</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Jack McNairy</NamePerson>
+        <Title>Director of Ministry Outreach</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>108577</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>8325</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Scott Heflin</NamePerson>
+        <Title>Chief Operating Officer</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>123178</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>7227</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>486629</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>31015</TotalOtherCompensation>
+      <NumberIndividualsGT100K>4</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <FundraisingEvents>64589</FundraisingEvents>
+      <AllOtherContributions>7333528</AllOtherContributions>
+      <NoncashContributions>32300</NoncashContributions>
+      <TotalContributions>7398117</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>Registration Fees</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>3779</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>3779</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>3779</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>21370</TotalRevenueColumn>
+        <ExclusionAmount>21370</ExclusionAmount>
+      </InvestmentIncome>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>59051</TotalRevenueColumn>
+        <ExclusionAmount>59051</ExclusionAmount>
+      </RoyaltiesRevenue>
+      <GrossIncomeFundraisingEvents>0</GrossIncomeFundraisingEvents>
+      <CntrbtnsRprtdFundraisingEvents>64589</CntrbtnsRprtdFundraisingEvents>
+      <FundraisingDirectExpenses>14805</FundraisingDirectExpenses>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>-14805</TotalRevenueColumn>
+        <ExclusionAmount>-14805</ExclusionAmount>
+      </NetIncomeFromFundraisingEvents>
+      <GrossSalesOfInventory>292037</GrossSalesOfInventory>
+      <CostOfGoodsSold>132990</CostOfGoodsSold>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>159047</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>159047</RelatedOrExemptFunctionIncome>
+      </NetIncomeOrLoss>
+      <TotalRevenue>
+        <TotalRevenueColumn>7626559</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>162826</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>65616</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>115464</Total>
+        <ProgramServices>115464</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <CompCurrentOfficersDirectors>
+        <Total>270336</Total>
+        <ProgramServices>164267</ProgramServices>
+        <ManagementAndGeneral>96626</ManagementAndGeneral>
+        <Fundraising>9443</Fundraising>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>2850118</Total>
+        <ProgramServices>2107665</ProgramServices>
+        <ManagementAndGeneral>514089</ManagementAndGeneral>
+        <Fundraising>228364</Fundraising>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>370272</Total>
+        <ProgramServices>285819</ProgramServices>
+        <ManagementAndGeneral>58092</ManagementAndGeneral>
+        <Fundraising>26361</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>241987</Total>
+        <ProgramServices>177111</ProgramServices>
+        <ManagementAndGeneral>46099</ManagementAndGeneral>
+        <Fundraising>18777</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>23792</Total>
+        <ProgramServices>16824</ProgramServices>
+        <ManagementAndGeneral>5938</ManagementAndGeneral>
+        <Fundraising>1030</Fundraising>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>25867</Total>
+        <ManagementAndGeneral>25867</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesProfFundraising>
+        <Total>12608</Total>
+        <Fundraising>12608</Fundraising>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesOther>
+        <Total>98558</Total>
+        <ProgramServices>78407</ProgramServices>
+        <ManagementAndGeneral>15809</ManagementAndGeneral>
+        <Fundraising>4342</Fundraising>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>32430</Total>
+        <ProgramServices>24152</ProgramServices>
+        <ManagementAndGeneral>4118</ManagementAndGeneral>
+        <Fundraising>4160</Fundraising>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>340182</Total>
+        <ProgramServices>182351</ProgramServices>
+        <ManagementAndGeneral>79691</ManagementAndGeneral>
+        <Fundraising>78140</Fundraising>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>17734</Total>
+        <ProgramServices>13323</ProgramServices>
+        <ManagementAndGeneral>3499</ManagementAndGeneral>
+        <Fundraising>912</Fundraising>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>325137</Total>
+        <ProgramServices>237451</ProgramServices>
+        <ManagementAndGeneral>63177</ManagementAndGeneral>
+        <Fundraising>24509</Fundraising>
+      </Occupancy>
+      <Travel>
+        <Total>68388</Total>
+        <ProgramServices>55651</ProgramServices>
+        <ManagementAndGeneral>6236</ManagementAndGeneral>
+        <Fundraising>6501</Fundraising>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>51080</Total>
+        <ProgramServices>41390</ProgramServices>
+        <ManagementAndGeneral>6086</ManagementAndGeneral>
+        <Fundraising>3604</Fundraising>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>303407</Total>
+        <ProgramServices>222298</ProgramServices>
+        <ManagementAndGeneral>58110</ManagementAndGeneral>
+        <Fundraising>22999</Fundraising>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>20303</Total>
+        <ProgramServices>14922</ProgramServices>
+        <ManagementAndGeneral>3850</ManagementAndGeneral>
+        <Fundraising>1531</Fundraising>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Broadcast</Description>
+        <Total>1740524</Total>
+        <ProgramServices>1705578</ProgramServices>
+        <Fundraising>34946</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Global Ministry</Description>
+        <Total>590578</Total>
+        <ProgramServices>529668</ProgramServices>
+        <ManagementAndGeneral>37954</ManagementAndGeneral>
+        <Fundraising>22956</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Equipment</Description>
+        <Total>281242</Total>
+        <ProgramServices>204232</ProgramServices>
+        <ManagementAndGeneral>51967</ManagementAndGeneral>
+        <Fundraising>25043</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Media</Description>
+        <Total>32529</Total>
+        <ProgramServices>19633</ProgramServices>
+        <ManagementAndGeneral>9448</ManagementAndGeneral>
+        <Fundraising>3448</Fundraising>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>7812536</Total>
+        <ProgramServices>6196206</ProgramServices>
+        <ManagementAndGeneral>1086656</ManagementAndGeneral>
+        <Fundraising>529674</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>709012</BOY>
+        <EOY>634251</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>1742575</BOY>
+        <EOY>2080062</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>550000</BOY>
+        <EOY>250000</EOY>
+      </PledgesAndGrantsReceivable>
+      <InventoriesForSaleOrUse>
+        <BOY>95440</BOY>
+        <EOY>132665</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>256266</BOY>
+        <EOY>179653</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>2611364</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>1697604</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>1113813</BOY>
+        <EOY>913760</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>264907</BOY>
+        <EOY>272890</EOY>
+      </InvestmentsPubTradedSecurities>
+      <OtherAssetsTotal>
+        <BOY>65341</BOY>
+        <EOY>65341</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>4797354</BOY>
+        <EOY>4528622</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>500313</BOY>
+        <EOY>386574</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>41878</BOY>
+        <EOY>69000</EOY>
+      </DeferredRevenue>
+      <TotalLiabilities>
+        <BOY>542191</BOY>
+        <EOY>455574</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>4183502</BOY>
+        <EOY>3994465</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>71661</BOY>
+        <EOY>78583</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>4255163</BOY>
+        <EOY>4073048</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>4797354</BOY>
+        <EOY>4528622</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>-185977</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>3862</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <SupportingOrganization509a3>X</SupportingOrganization509a3>
+      <SupportingOrg509a3Type1>X</SupportingOrg509a3Type1>
+      <CertificationCheckbox>X</CertificationCheckbox>
+      <WrittenIRSDetermination>X</WrittenIRSDetermination>
+      <ContribByControllingIndividual>0</ContribByControllingIndividual>
+      <ContributionByRelatedParty>0</ContributionByRelatedParty>
+      <ContribBy35ControlledEntity>0</ContribBy35ControlledEntity>
+      <SupportedOrgInformation>
+        <Name>
+          <BusinessNameLine1>National Christian Charitable Foundation Inc</BusinessNameLine1>
+        </Name>
+        <EIN>581493949</EIN>
+        <TypeOfOrganization>Box 7</TypeOfOrganization>
+        <ListedInGoverningDoc>1</ListedInGoverningDoc>
+        <SupportedOrganizationNotified>1</SupportedOrganizationNotified>
+        <OrganizedInUS>1</OrganizedInUS>
+        <Amount>0</Amount>
+      </SupportedOrgInformation>
+      <TotalNumberOfSupportedOrgs>1</TotalNumberOfSupportedOrgs>
+      <SumOfAmounts>0</SumOfAmounts>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Equipment>
+        <OtherCostOrOtherBasis>2611364</OtherCostOrOtherBasis>
+        <Depreciation>1697604</Depreciation>
+        <BookValue>913760</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>913760</TotalOfBookValueLandBuildings>
+      <TotalRevenue>7626559</TotalRevenue>
+      <TotalExpenses>7812536</TotalExpenses>
+      <ExcessOrDeficitForYear>-185977</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>3862</NetUnrealizedGLOnInvestments>
+      <TotalAdjustments>3862</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-182115</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>7778216</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>3862</NetUnrealizedGainsInvestments>
+      <OtherRevenues>147795</OtherRevenues>
+      <RevenueNotRptdF990>151657</RevenueNotRptdF990>
+      <RevenueSubtotal>7626559</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>7626559</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>7960331</TotExpensesEtcAuditedFinclStmt>
+      <OtherExpensesIncluded>147795</OtherExpensesIncluded>
+      <ExpensesNotRptdF990>147795</ExpensesNotRptdF990>
+      <ExpensesSubtotal>7812536</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>7812536</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Description of Uncertain Tax Positions Under FIN 48:</Identifier>
+        <ReturnReference>Part X:</ReturnReference>
+        <Explanation>The financial statement effects of a tax position taken or expected to be taken are recognized in the financial statements when it is more likely than not, based on the technical merits, that the position will be sustained upon examination. Interest and penalties, if any, are included in expenses in the statement of activities. As of December 31, 2010, HFTH had no uncertain tax positions that qualify for recognition or disclosure in the financial statements.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XII, Line 2d - Other Adjustments:</Identifier>
+        <Explanation>Cost of Goods Sold 132,990. Special Event Expenses 14,805.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XIII, Line 2d - Other Adjustments:</Identifier>
+        <Explanation>Cost of Goods Sold 132,990. Special Event Expenses 14,805.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleF documentId="RetDoc1040500001">
+      <AcctsActvsOutUSTable>
+        <Region>East Asia and the Pacific</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>Training and Marketing</SpecificServicesProvided>
+        <TotalExpenditures>10000</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>Europe</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>Broadcasting and Translation</SpecificServicesProvided>
+        <TotalExpenditures>116327</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>North America</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>Media Broadcasting</SpecificServicesProvided>
+        <TotalExpenditures>110667</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>Russia &amp; the Newly Independent States</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>Printing and Training</SpecificServicesProvided>
+        <TotalExpenditures>190530</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>South Asia</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>Bible Translation</SpecificServicesProvided>
+        <TotalExpenditures>46531</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <SubtotalNumberOfEmployees>0</SubtotalNumberOfEmployees>
+      <ContNumberOfEmployees>0</ContNumberOfEmployees>
+      <TotalNumberOfEmployees>0</TotalNumberOfEmployees>
+      <SubtotalAmountSpent>474055</SubtotalAmountSpent>
+      <ContAmountSpent>0</ContAmountSpent>
+      <TotalAmountSpent>474055</TotalAmountSpent>
+      <TransferToForeignCorp>0</TransferToForeignCorp>
+      <InterestInForeignTrust>0</InterestInForeignTrust>
+      <OwnForeignCorp>0</OwnForeignCorp>
+      <PassiveForeignInvestCo>0</PassiveForeignInvestCo>
+      <ForeignPartnership>0</ForeignPartnership>
+      <BoycottCountries>0</BoycottCountries>
+      <Form990ScheduleFPartV>
+        <Identifier>Method Used to Acccount for Expenditures:</Identifier>
+        <Explanation>Schedule F, Part I, Line 3: Foreign Expenditures are accounted for the same as other expenditures of the organization. That is, they are recorded in accordance with the accrual basis of accounting and they are based on appropriate documentation</Explanation>
+      </Form990ScheduleFPartV>
+    </IRS990ScheduleF>
+    <IRS990ScheduleG documentId="RetDoc1041300001">
+      <EventsInformation>
+        <NameOfEvent1>Ride for Life</NameOfEvent1>
+        <GrossReceiptsEvent1>64589</GrossReceiptsEvent1>
+        <CharitableContributionsEvent1>64589</CharitableContributionsEvent1>
+        <OtherDirectExpensesEvent1>14805</OtherDirectExpensesEvent1>
+        <GrossReceiptsTotal>64589</GrossReceiptsTotal>
+        <CharitableContributionsTotal>64589</CharitableContributionsTotal>
+        <OtherDirectExpensesTotalEvents>14805</OtherDirectExpensesTotalEvents>
+        <DirectExpenseSummaryEvents>14805</DirectExpenseSummaryEvents>
+        <NetIncomeSummary>-14805</NetIncomeSummary>
+      </EventsInformation>
+    </IRS990ScheduleG>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Discipleship Library</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>2001 West Plano Pkwy</AddressLine1>
+          <City>Plano</City>
+          <State>TX</State>
+          <ZIPCode>75075</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>263325897</EINOfRecipient>
+        <IRCSection>501(C)(3)</IRCSection>
+        <AmountOfCashGrant>5464</AmountOfCashGrant>
+        <PurposeOfGrant>To promote the organization's effectivness</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>The Navigators</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3820 North 30th St</AddressLine1>
+          <City>Colorado Springs</City>
+          <State>CO</State>
+          <ZIPCode>80904</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>846007896</EINOfRecipient>
+        <IRCSection>501(C)(3)</IRCSection>
+        <AmountOfCashGrant>110000</AmountOfCashGrant>
+        <PurposeOfGrant>To promote the organization's effectivness</PurposeOfGrant>
+      </RecipientTable>
+      <TotalNbrOf501C3AndGovtGrants>2</TotalNbrOf501C3AndGovtGrants>
+      <TotalNbrOfOtherOrganizations>0</TotalNbrOfOtherOrganizations>
+      <Form990ScheduleIPartIV>
+        <Identifier>Procedure for Monitoring Grants in the U.S.:</Identifier>
+        <ReturnReference>Part I, Line 2:</ReturnReference>
+        <Explanation>Schedule I, Part I, Line 2: Hope For The Heart grants funds to other non-profit organizations with the agreement that a brief final narrative and financial report is provided on the use of the funds and a copy of any publications resulting from the grant.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <CarsAndOtherVehicles>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>1</NumberOfContributions>
+        <NoncashContribsRptdF990>32300</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FMV-Similar Sales</MethodOfDeterminingRevenues>
+      </CarsAndOtherVehicles>
+      <AnyPropertyThatMustBeHeld>0</AnyPropertyThatMustBeHeld>
+      <ReviewProcessUnusualNCGifts>1</ReviewProcessUnusualNCGifts>
+      <ThirdPartiesUsed>0</ThirdPartiesUsed>
+      <Form990ScheduleMPartII>
+        <Identifier>Method for Determining Number of Contributors:</Identifier>
+        <ReturnReference>Part I, Column (b):</ReturnReference>
+        <Explanation>The number of contributions reported on Schedule M is the number of contributions received, not necessarily the number of items contributed.</Explanation>
+      </Form990ScheduleMPartII>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>The 990 was prepared by an independent CPA firm, reviewed by the finance department and then emailed to the board for review before it was filed with the IRS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 12c</ReturnReference>
+        <Explanation>The finance team monitors transactions for any potential conflicts of interest. If a conflict of interest is identified, the transaction is brought to management and/or the board. The person with a conflict then excuses his or herself from the decision making process and the board votes on whether the transaction is in the best interests of the organization.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 15</ReturnReference>
+        <Explanation>The board sets the compensation of the president of Hope for the Heart using compensation survey reports for Christian organizations and annual reviews. The Board Chairperson and President set the compensation for the CFO using the compensation survey reports for Christian organizations and annual reviews. Documentation is kept in the minutes.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section C, line 19</ReturnReference>
+        <Explanation>The governing documents, conflict of interest policy, and financial statements are available upon request.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Changes in Net Assets or Fund Balances:</Identifier>
+        <ReturnReference>Form 990, Part XI, line 5:</ReturnReference>
+        <Explanation>Net unrealized gains on investments: 3,862.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>EXPLANATION OF RESPONSIBILITY</Identifier>
+        <ReturnReference>FORM 990, PAGE 12, PART XI, LINE 2C</ReturnReference>
+        <Explanation>The organization has a committee that assumes responsibility for oversight of the audit of its financial statements and selection of an independent accountant. This process has not changed since the prior year.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>National Christian Foundation</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>11625 Rainwater Drive Suite 500</AddressLine1>
+          <City>Alpharetta</City>
+          <State>GA</State>
+          <ZIPCode>30004</ZIPCode>
+        </AddressUS>
+        <EIN>581493949</EIN>
+        <PrimaryActivities>Enabling stewards to give wisely to further the Gospel</PrimaryActivities>
+        <LegalDomicileState>GA</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>Box 7</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>The Hope Center Foundation</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2001 W Plano Parkway</AddressLine1>
+          <City>Plano</City>
+          <State>TX</State>
+          <ZIPCode>75075</ZIPCode>
+        </AddressUS>
+        <EIN>261590757</EIN>
+        <PrimaryActivities>Facilitating other ministries by owning and operating rental space</PrimaryActivities>
+        <LegalDomicileState>TX</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>Private Foundation</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>1</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>0</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>0</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>1</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>0</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </NameOfOtherOrganization>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

@@ -1,0 +1,1053 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-21T13:59:06-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BKD LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2800 Post Oak Blvd Ste 3200</AddressLine1>
+        <City>HOUSTON</City>
+        <State>TX</State>
+        <ZIPCode>77056</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>760584410</EIN>
+      <Name>
+        <BusinessNameLine1>Angels Among Us Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>ANGE</NameControl>
+      <Phone>7136515527</Phone>
+      <USAddress>
+        <AddressLine1>PO Box 591508</AddressLine1>
+        <City>Houston</City>
+        <State>TX</State>
+        <ZIPCode>77259</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Brenda G Chapman</Name>
+      <Title>President</Title>
+      <DateSigned>2011-05-15</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>M Paige Gerich</Name>
+      <Phone>7134994600</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="12">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>298311</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>0</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>8435</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>8435</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-7596</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>116372</GrossSalesPrice>
+        <TotalRevenueAndExpenses>839</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>8435</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss>2050</AccountingFeesRevAndExpnss>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="OthProfFeesSch">2416</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>2416</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">141</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>56</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">2</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>2</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>4609</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2474</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>27500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>27500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>32109</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2474</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>27500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-31270</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>5961</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>7736</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>2712</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>2712</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>178711</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestCorpStockSch">126958</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>153805</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>105573</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="InvestCorpBondsSch">130971</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>141794</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>292020</TotalAssetsBOY>
+        <TotalAssetsEOY>260641</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>298311</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>292020</RetainedEarningsBOY>
+        <RetainedEarningsEOY>260641</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>292020</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>260641</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>292020</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>260641</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>292020</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-31270</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="OtherIncreasesSch">168</OtherIncreases>
+        <Subtotal>260918</Subtotal>
+        <OtherDecreases referenceDocumentId="OtherDecreasesSch">277</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>260641</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25000 SHS FEDERAL HOME LOAN BANKS 2.00%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-13</DateAcquired>
+          <DateSold>2010-04-16</DateSold>
+          <GrossSalesPrice>25000</GrossSalesPrice>
+          <CostOrOtherBasis>25000</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200 SHS FINANCIAL SELECTOR SECTOR SPDR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-01</DateAcquired>
+          <DateSold>2010-01-26</DateSold>
+          <GrossSalesPrice>2864</GrossSalesPrice>
+          <CostOrOtherBasis>2288</CostOrOtherBasis>
+          <GainOrLoss>576</GainOrLoss>
+          <GainsMinusExcessOrLosses>576</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200 SHS FINANCIAL SELECT SECTOR SPDR FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-30</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>2906</GrossSalesPrice>
+          <CostOrOtherBasis>1734</CostOrOtherBasis>
+          <GainOrLoss>1172</GainOrLoss>
+          <GainsMinusExcessOrLosses>1172</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>125 SHS KROGER COMPANY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-16</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>2753</GrossSalesPrice>
+          <CostOrOtherBasis>2678</CostOrOtherBasis>
+          <GainOrLoss>75</GainOrLoss>
+          <GainsMinusExcessOrLosses>75</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>30 SHS MONSANTO COMPANY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-27</DateAcquired>
+          <DateSold>2010-10-22</DateSold>
+          <GrossSalesPrice>1711</GrossSalesPrice>
+          <CostOrOtherBasis>2330</CostOrOtherBasis>
+          <GainOrLoss>-619</GainOrLoss>
+          <GainsMinusExcessOrLosses>-619</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 SHS ADOBE SYSTEMS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-05</DateAcquired>
+          <DateSold>2010-11-12</DateSold>
+          <GrossSalesPrice>735</GrossSalesPrice>
+          <CostOrOtherBasis>793</CostOrOtherBasis>
+          <GainOrLoss>-58</GainOrLoss>
+          <GainsMinusExcessOrLosses>-58</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 SHS AKAMAI TECHNOLOGIES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-23</DateAcquired>
+          <DateSold>2010-01-22</DateSold>
+          <GrossSalesPrice>2624</GrossSalesPrice>
+          <CostOrOtherBasis>3378</CostOrOtherBasis>
+          <GainOrLoss>-754</GainOrLoss>
+          <GainsMinusExcessOrLosses>-754</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 SHS ALBEMARLE CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-16</DateAcquired>
+          <DateSold>2010-01-22</DateSold>
+          <GrossSalesPrice>1848</GrossSalesPrice>
+          <CostOrOtherBasis>1835</CostOrOtherBasis>
+          <GainOrLoss>13</GainOrLoss>
+          <GainsMinusExcessOrLosses>13</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 SHS ALBEMARLE CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-16</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>949</GrossSalesPrice>
+          <CostOrOtherBasis>918</CostOrOtherBasis>
+          <GainOrLoss>31</GainOrLoss>
+          <GainsMinusExcessOrLosses>31</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 SHS COGNIZANT TECHNOLOGY SOLUTIONS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-04-04</DateAcquired>
+          <DateSold>2010-01-22</DateSold>
+          <GrossSalesPrice>1163</GrossSalesPrice>
+          <CostOrOtherBasis>1113</CostOrOtherBasis>
+          <GainOrLoss>50</GainOrLoss>
+          <GainsMinusExcessOrLosses>50</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35 SHS COGNIZANT TECHNOLOGY SOLUTIONS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-04-04</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>1663</GrossSalesPrice>
+          <CostOrOtherBasis>1491</CostOrOtherBasis>
+          <GainOrLoss>172</GainOrLoss>
+          <GainsMinusExcessOrLosses>172</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35 SHS DISNEY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-01-22</DateSold>
+          <GrossSalesPrice>1059</GrossSalesPrice>
+          <CostOrOtherBasis>942</CostOrOtherBasis>
+          <GainOrLoss>117</GainOrLoss>
+          <GainsMinusExcessOrLosses>117</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>15 SHS DISNEY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-10-15</DateAcquired>
+          <DateSold>2010-05-20</DateSold>
+          <GrossSalesPrice>482</GrossSalesPrice>
+          <CostOrOtherBasis>323</CostOrOtherBasis>
+          <GainOrLoss>159</GainOrLoss>
+          <GainsMinusExcessOrLosses>159</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25000 SHS FANNIE MAE 3.00%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-30</DateAcquired>
+          <DateSold>2010-10-29</DateSold>
+          <GrossSalesPrice>25000</GrossSalesPrice>
+          <CostOrOtherBasis>25000</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>18.003 SHS FRONTIER COMMUNICATIONS CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-12</DateAcquired>
+          <DateSold>2010-07-20</DateSold>
+          <GrossSalesPrice>132</GrossSalesPrice>
+          <CostOrOtherBasis>152</CostOrOtherBasis>
+          <GainOrLoss>-20</GainOrLoss>
+          <GainsMinusExcessOrLosses>-20</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>225 SHS GENERAL ELECTRIC CO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-11-15</DateSold>
+          <GrossSalesPrice>3663</GrossSalesPrice>
+          <CostOrOtherBasis>9882</CostOrOtherBasis>
+          <GainOrLoss>-6219</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6219</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 SHS GENZYME CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-10-23</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>2794</GrossSalesPrice>
+          <CostOrOtherBasis>3469</CostOrOtherBasis>
+          <GainOrLoss>-675</GainOrLoss>
+          <GainsMinusExcessOrLosses>-675</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 SHS GOLDMAN SACHS GROUP INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-03-08</DateAcquired>
+          <DateSold>2010-04-20</DateSold>
+          <GrossSalesPrice>4027</GrossSalesPrice>
+          <CostOrOtherBasis>5012</CostOrOtherBasis>
+          <GainOrLoss>-985</GainOrLoss>
+          <GainsMinusExcessOrLosses>-985</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 SHS INTEL CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-01-25</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>1039</GrossSalesPrice>
+          <CostOrOtherBasis>1045</CostOrOtherBasis>
+          <GainOrLoss>-6</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 SHS NIKE INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-04-03</DateAcquired>
+          <DateSold>2010-01-22</DateSold>
+          <GrossSalesPrice>1588</GrossSalesPrice>
+          <CostOrOtherBasis>1331</CostOrOtherBasis>
+          <GainOrLoss>257</GainOrLoss>
+          <GainsMinusExcessOrLosses>257</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>15 SHS NIKE INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-04-03</DateAcquired>
+          <DateSold>2010-05-20</DateSold>
+          <GrossSalesPrice>1049</GrossSalesPrice>
+          <CostOrOtherBasis>798</CostOrOtherBasis>
+          <GainOrLoss>251</GainOrLoss>
+          <GainsMinusExcessOrLosses>251</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35 SHS PEABODY ENERGY CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-23</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>1629</GrossSalesPrice>
+          <CostOrOtherBasis>1066</CostOrOtherBasis>
+          <GainOrLoss>563</GainOrLoss>
+          <GainsMinusExcessOrLosses>563</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35 SHS PEPSICO INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1999-12-15</DateAcquired>
+          <DateSold>2010-11-12</DateSold>
+          <GrossSalesPrice>2266</GrossSalesPrice>
+          <CostOrOtherBasis>1227</CostOrOtherBasis>
+          <GainOrLoss>1039</GainOrLoss>
+          <GainsMinusExcessOrLosses>1039</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 SHS PETSMART INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-08</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>1367</GrossSalesPrice>
+          <CostOrOtherBasis>1035</CostOrOtherBasis>
+          <GainOrLoss>332</GainOrLoss>
+          <GainsMinusExcessOrLosses>332</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 SHS TEREX CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-12</DateAcquired>
+          <DateSold>2010-01-22</DateSold>
+          <GrossSalesPrice>2162</GrossSalesPrice>
+          <CostOrOtherBasis>1555</CostOrOtherBasis>
+          <GainOrLoss>607</GainOrLoss>
+          <GainsMinusExcessOrLosses>607</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 SHS THERMO FISHER SCIENTIFIC INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-08-17</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>1206</GrossSalesPrice>
+          <CostOrOtherBasis>1251</CostOrOtherBasis>
+          <GainOrLoss>-45</GainOrLoss>
+          <GainsMinusExcessOrLosses>-45</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>225 SHS TITANIUM METALS CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-16</DateAcquired>
+          <DateSold>2010-01-22</DateSold>
+          <GrossSalesPrice>2806</GrossSalesPrice>
+          <CostOrOtherBasis>3756</CostOrOtherBasis>
+          <GainOrLoss>-950</GainOrLoss>
+          <GainsMinusExcessOrLosses>-950</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 SHS TRINITY INDUSTRIES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-16</DateAcquired>
+          <DateSold>2010-11-12</DateSold>
+          <GrossSalesPrice>1211</GrossSalesPrice>
+          <CostOrOtherBasis>1336</CostOrOtherBasis>
+          <GainOrLoss>-125</GainOrLoss>
+          <GainsMinusExcessOrLosses>-125</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 SHS VALERO ENERGY CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-01-10</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>1326</GrossSalesPrice>
+          <CostOrOtherBasis>3591</CostOrOtherBasis>
+          <GainOrLoss>-2265</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2265</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>302.106 SHS VANGUARD SMALL CAP INDEX FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-07-06</DateAcquired>
+          <DateSold>2010-01-29</DateSold>
+          <GrossSalesPrice>8030</GrossSalesPrice>
+          <CostOrOtherBasis>7391</CostOrOtherBasis>
+          <GainOrLoss>639</GainOrLoss>
+          <GainsMinusExcessOrLosses>639</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>114.047 SHS VANGUARD SMALL CAP INDEX FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-07-06</DateAcquired>
+          <DateSold>2010-01-29</DateSold>
+          <GrossSalesPrice>3031</GrossSalesPrice>
+          <CostOrOtherBasis>2790</CostOrOtherBasis>
+          <GainOrLoss>241</GainOrLoss>
+          <GainsMinusExcessOrLosses>241</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>253.256 SHS VANGUARD TOTAL INTL IDX FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-03-08</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>3500</GrossSalesPrice>
+          <CostOrOtherBasis>3582</CostOrOtherBasis>
+          <GainOrLoss>-82</GainOrLoss>
+          <GainsMinusExcessOrLosses>-82</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150 SHS WEATHERFORD INTL LTD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-01-21</DateSold>
+          <GrossSalesPrice>2789</GrossSalesPrice>
+          <CostOrOtherBasis>3876</CostOrOtherBasis>
+          <GainOrLoss>-1087</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1087</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-7596</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>27500</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>288176</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.095428</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>27380</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>337901</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.08103</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>27194</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>397317</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.068444</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>27368</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>387068</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.070706</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>27426</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>394844</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.06946</DistributionRatioYear5>
+        <TotalDistributionRatio>0.385068</TotalDistributionRatio>
+        <AverageDistributionRatio>0.077014</AverageDistributionRatio>
+        <NetNoncharitableAssets>300013</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>23105</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>60</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>23165</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>27500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>60</InvestmentIncomeExciseTax>
+        <Subtotal>60</Subtotal>
+        <TaxBasedOnInvestmentIncome>60</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>60</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BKD LLP</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7134994600</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2800 POST OAK BLVD SUITE 3200</AddressLine1>
+          <City>HOUSTON</City>
+          <State>TX</State>
+          <ZIPCode>77056</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRENDA G CHAPMAN</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 591508</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77059</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR/PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CATHERINE L BERRY</PersonName>
+          <USAddress>
+            <AddressLine1>4235 PINE BLOSSOM TRAIL</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77059</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LISA L ENNIS</PersonName>
+          <USAddress>
+            <AddressLine1>14411 SILVER LACE LANE</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77070</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR/SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>279471</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>25111</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>304582</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>304582</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4569</CashDeemedCharitable>
+        <NetNoncharitableAssets>300013</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>15001</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>15001</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>60</TaxBasedOnInvestmentIncome>
+        <TotalTax>60</TotalTax>
+        <DistributableAmountBeforeAdj>14941</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>14941</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>14941</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>27500</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>27500</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>60</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>27440</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>14941</DistributableAmountAsAdjusted>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <ExcessDistriCarryoverYear5>7932</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>8279</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>7940</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>10715</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>13176</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>48042</TotalExcessDistriCarryover>
+        <QualifyingDistributions>27500</QualifyingDistributions>
+        <AppliedToCurrentYear>14941</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>12559</RemainingDistriFromCorpus>
+        <TotalCorpus>60601</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>7932</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>52669</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>8279</ExcessFromYear4>
+        <ExcessFromYear3>7940</ExcessFromYear3>
+        <ExcessFromYear2>10715</ExcessFromYear2>
+        <ExcessFromYear1>13176</ExcessFromYear1>
+        <ExcessFromCurrentYear>12559</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>BRENDA G CHAPMAN</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>The Rose</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>12700 N Featherwood</AddressLine1>
+            <City>Houston</City>
+            <State>TX</State>
+            <ZIPCode>77034</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GOODFELLOWS CLUB OF HOUSTON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>801 TEXAS ST</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77002</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Star of Hope Mission</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6897 ARDMORE</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77054</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Reach Unlimited</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>12777 JONES RD SUITE 103</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77070</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Houston Food Bank</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3811 Eastex Freeway</AddressLine1>
+            <City>Houston</City>
+            <State>TX</State>
+            <ZIPCode>77026</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Sheltering Arms Senior Services</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3838 Aberdeen Way</AddressLine1>
+            <City>Houston</City>
+            <State>TX</State>
+            <ZIPCode>77025</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>27500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst />
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>8435</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-7596</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>839</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>839</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AllOthProgRltdInvestmentsSch documentId="AllOthProgInvSch">
+      <AllOthProgRltdInvestments>
+        <Description>NONE</Description>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpBondsSchedule documentId="InvestCorpBondsSch">
+      <InvestmentsCorpBonds>
+        <NameOfBond>50000 CSX TRANSPORT EQ TR 6.5%</NameOfBond>
+        <EOYBookValue>45645</EOYBookValue>
+        <EOYFMV>56681</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>10000 GOLDMAN SACHS GRP 5.625%</NameOfBond>
+        <EOYBookValue>9928</EOYBookValue>
+        <EOYFMV>10574</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>25000 FED HOME LOAN BANK 2.25%</NameOfBond>
+        <EOYBookValue>25398</EOYBookValue>
+        <EOYFMV>24147</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>10000 FANNIE MAE 2.00%</NameOfBond>
+        <EOYBookValue>10000</EOYBookValue>
+        <EOYFMV>10019</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>15000 FANNIE MAE 2.00%</NameOfBond>
+        <EOYBookValue>15000</EOYBookValue>
+        <EOYFMV>15034</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>25000 FANNIE MAE 2.20%</NameOfBond>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>25339</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS BANK OF NEW YORK</NameOfStock>
+        <EOYBookValue>3071</EOYBookValue>
+        <EOYFMV>3020</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS DISNEY</NameOfStock>
+        <EOYBookValue>2156</EOYBookValue>
+        <EOYFMV>3751</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS EXXON MOBIL CORP</NameOfStock>
+        <EOYBookValue>1648</EOYBookValue>
+        <EOYFMV>3656</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS JOHNSON &amp; JOHNSON</NameOfStock>
+        <EOYBookValue>2587</EOYBookValue>
+        <EOYFMV>3093</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>60 SHS TEVA PHARMACEUTICALS</NameOfStock>
+        <EOYBookValue>2546</EOYBookValue>
+        <EOYFMV>3128</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS ADR NOVARTIS AG SPONS</NameOfStock>
+        <EOYBookValue>2647</EOYBookValue>
+        <EOYFMV>2948</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>40 SHS PEPSICO, INC</NameOfStock>
+        <EOYBookValue>1402</EOYBookValue>
+        <EOYFMV>2613</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>442.200 SHS VANGUARD SMALL CAP</NameOfStock>
+        <EOYBookValue>10819</EOYBookValue>
+        <EOYFMV>15375</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS SCHLUMBERGER, LTD</NameOfStock>
+        <EOYBookValue>1269</EOYBookValue>
+        <EOYFMV>4175</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>665.925 SHS VANGUARD TOTAL INT</NameOfStock>
+        <EOYBookValue>9418</EOYBookValue>
+        <EOYFMV>10495</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>150 SHS ABB LTD</NameOfStock>
+        <EOYBookValue>2703</EOYBookValue>
+        <EOYFMV>3368</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS ADR DIAGEO PCS SPONSORE</NameOfStock>
+        <EOYBookValue>4516</EOYBookValue>
+        <EOYFMV>3717</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>40 SHS COGNIZANT TECHNOLOGY S</NameOfStock>
+        <EOYBookValue>1514</EOYBookValue>
+        <EOYFMV>2932</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>35 SHS NIKE INC CLASS B</NameOfStock>
+        <EOYBookValue>1863</EOYBookValue>
+        <EOYFMV>2990</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 SHS PROCTER &amp; GAMBLE</NameOfStock>
+        <EOYBookValue>4705</EOYBookValue>
+        <EOYFMV>4825</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS THERMO FISHER SCIENTIFI</NameOfStock>
+        <EOYBookValue>2503</EOYBookValue>
+        <EOYFMV>2768</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS ALBEMARLE CORPORATION</NameOfStock>
+        <EOYBookValue>1835</EOYBookValue>
+        <EOYFMV>2789</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>30 SHS BARD, C.R., INC</NameOfStock>
+        <EOYBookValue>2632</EOYBookValue>
+        <EOYFMV>2753</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>150 SHS CISCO SYSTEMS, INC</NameOfStock>
+        <EOYBookValue>3436</EOYBookValue>
+        <EOYFMV>3035</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS INTEL CORP</NameOfStock>
+        <EOYBookValue>2090</EOYBookValue>
+        <EOYFMV>2103</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>25 SHS INTL BUSINESS MACHINES</NameOfStock>
+        <EOYBookValue>3146</EOYBookValue>
+        <EOYFMV>3669</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>65 SHS NATIONAL OILWELL VARCO</NameOfStock>
+        <EOYBookValue>2674</EOYBookValue>
+        <EOYFMV>4371</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>40 SHS PEABODY ENERGY CORP</NameOfStock>
+        <EOYBookValue>1218</EOYBookValue>
+        <EOYFMV>2559</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS PETSMART, INC</NameOfStock>
+        <EOYBookValue>2070</EOYBookValue>
+        <EOYFMV>3982</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS TRINITY INDUSTRIES</NameOfStock>
+        <EOYBookValue>2673</EOYBookValue>
+        <EOYFMV>2661</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 SHS UTILITIES SELECT</NameOfStock>
+        <EOYBookValue>2042</EOYBookValue>
+        <EOYFMV>2351</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 SHS ADOBE SYSTEMS INC</NameOfStock>
+        <EOYBookValue>2380</EOYBookValue>
+        <EOYFMV>2309</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS AON CORP</NameOfStock>
+        <EOYBookValue>2162</EOYBookValue>
+        <EOYFMV>2301</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 SHS BARRICK GOLD CORP</NameOfStock>
+        <EOYBookValue>2548</EOYBookValue>
+        <EOYFMV>3989</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS FTI CONSULTING INC</NameOfStock>
+        <EOYBookValue>2397</EOYBookValue>
+        <EOYFMV>1864</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>25 SHS GILEAD SCIENCES INC</NameOfStock>
+        <EOYBookValue>1204</EOYBookValue>
+        <EOYFMV>906</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1202.405 SHS VANGUARD TOTAL</NameOfStock>
+        <EOYBookValue>12000</EOYBookValue>
+        <EOYFMV>12745</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 SHS VERIZON COMMUNICATIONS</NameOfStock>
+        <EOYBookValue>2259</EOYBookValue>
+        <EOYFMV>2684</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>35 SHS TRANSOCEAN LTD</NameOfStock>
+        <EOYBookValue>2940</EOYBookValue>
+        <EOYFMV>2433</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS ALTRIA GROUP INC</NameOfStock>
+        <EOYBookValue>2021</EOYBookValue>
+        <EOYFMV>2462</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS AUTOMATIC DATA PROCESS</NameOfStock>
+        <EOYBookValue>2277</EOYBookValue>
+        <EOYFMV>2314</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>150 SHS CORNING INC</NameOfStock>
+        <EOYBookValue>2843</EOYBookValue>
+        <EOYFMV>2898</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>35 SHS ILLINOIS TOOL WORKS INC</NameOfStock>
+        <EOYBookValue>1664</EOYBookValue>
+        <EOYFMV>1869</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 SHS JP MORGAN CHASE &amp; CO</NameOfStock>
+        <EOYBookValue>3066</EOYBookValue>
+        <EOYFMV>3182</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 SHS MERCK &amp; CO</NameOfStock>
+        <EOYBookValue>2435</EOYBookValue>
+        <EOYFMV>2703</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>35 SHS TELEFONICA SA</NameOfStock>
+        <EOYBookValue>1992</EOYBookValue>
+        <EOYFMV>2395</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS WASTE MANAGEMENT INC</NameOfStock>
+        <EOYBookValue>1766</EOYBookValue>
+        <EOYFMV>1844</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SHS GENERAL MILLS INC</NameOfStock>
+        <EOYBookValue>1821</EOYBookValue>
+        <EOYFMV>1780</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreases>
+        <Description>INCOME IN TRANSIT</Description>
+        <Amount>277</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>OTHER EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>2</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncome>
+        <Description>Nondividend distribution</Description>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreases>
+        <Description>INCOME POSTED 2010 - REPORTED 2009</Description>
+        <Amount>168</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFees>
+        <Category>MANAGEMENT FEES</Category>
+        <Amount>2416</Amount>
+        <NetInvestmentIncome>2416</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX</Category>
+        <Amount>85</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAX WITHHELD</Category>
+        <Amount>56</Amount>
+        <NetInvestmentIncome>56</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

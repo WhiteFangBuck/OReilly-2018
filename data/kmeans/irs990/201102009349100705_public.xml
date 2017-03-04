@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-19T16:31:26-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>GIFFORD HILLEGASS &amp; INGWERSEN LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>SIX CONCOURSE PARKWAY SUITE 600</AddressLine1>
+        <City>ATLANTA</City>
+        <State>GA</State>
+        <ZIPCode>30328</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>061763582</EIN>
+      <Name>
+        <BusinessNameLine1>GARY E SNYDER FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>GARY</NameControl>
+      <Phone>6785532100</Phone>
+      <USAddress>
+        <AddressLine1>3290 NORTHSIDE PARKWAY</AddressLine1>
+        <AddressLine2>ROOM/SUITE 400</AddressLine2>
+        <City>ATLANTA</City>
+        <State>GA</State>
+        <ZIPCode>30327</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>GARY E SNYDER</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>6785532100</Phone>
+      <DateSigned>2011-07-15</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>GEORGE W HILLEGASS</Name>
+      <Phone>7703961100</Phone>
+      <DatePrepared>2011-07-19</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>153327</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>28000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>784</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>784</InterestOnSavingsNetInvstIncm>
+        <TotalRevenueAndExpenses>28784</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>784</TotalNetInvestmentIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc5">1269</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>1269</OtherProfFeesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>1269</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1269</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>55638</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>55638</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>56907</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1269</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>55638</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-28123</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>75050</CashBOY>
+        <CashEOY>46927</CashEOY>
+        <CashEOYFMV>46927</CashEOYFMV>
+        <InvestmentsCorpStockBOY>112760</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">112760</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>106400</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>187810</TotalAssetsBOY>
+        <TotalAssetsEOY>159687</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>153327</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>187810</RetainedEarningsBOY>
+        <RetainedEarningsEOY>159687</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>187810</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>159687</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>187810</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>159687</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>187810</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-28123</ExcessOfRevenueOverExpenses>
+        <Subtotal>159687</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>159687</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>47937</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>114065</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.420260</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>51306</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>160199</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.320264</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>46763</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>136532</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.342506</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>91112</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>155710</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.585139</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>20278</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>213048</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.095180</DistributionRatioYear5>
+        <TotalDistributionRatio>1.763349</TotalDistributionRatio>
+        <AverageDistributionRatio>0.352670</AverageDistributionRatio>
+        <NetNoncharitableAssets>165888</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>58504</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>58504</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>55638</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>GARY E SNYDER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6785532100</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3290 NORTHSIDE PKWY STE 400</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30327</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">GARY E SNYDER</PersonName>
+          <USAddress>
+            <AddressLine1>3290 NORTHSIDE PKWY STE 400</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>100315</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>68099</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>168414</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>168414</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2526</CashDeemedCharitable>
+        <NetNoncharitableAssets>165888</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>8294</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>8294</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>8294</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>8294</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>8294</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>55638</ExpensesAndContributions>
+        <QualifyingDistributions>55638</QualifyingDistributions>
+        <AdjQualifyingDistributions>55638</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>8294</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>11951</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>83852</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>45056</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>43392</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>42234</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>226485</TotalExcessDistriCarryover>
+        <QualifyingDistributions>55638</QualifyingDistributions>
+        <AppliedToCurrentYear>8294</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>47344</RemainingDistriFromCorpus>
+        <TotalCorpus>273829</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>11951</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>261878</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>83852</ExcessFromYear4>
+        <ExcessFromYear3>45056</ExcessFromYear3>
+        <ExcessFromYear2>43392</ExcessFromYear2>
+        <ExcessFromYear1>42234</ExcessFromYear1>
+        <ExcessFromCurrentYear>47344</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AHAVATH ACHIM SYNAGOGUE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1286</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>B'NAI JESHURUN SYNAGOGUE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>4770</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BALLET THEATER FDN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>13000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BETH ABRAHAM SYNAGOGUE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHAI LIFELINE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>138</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DIABETES ASSOCIATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>EPSTEIN SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1980</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>GALLOWAY SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HAITI RELIEF</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HADASH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HOLOCAUST MUSEUM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>INNOCENCE PROJECT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEWISH EDUCATION ASSOC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KAUFMAN CENTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LAR LUBOVITCH DANCE CO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LEHRMAN CDS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MALIZIA CLINIC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MARCUS JEWISH COM CENTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1560</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MULTIPLE MYELOMA FDN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NATIONAL TRANSPLANTS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEW YORK UNIVERSITY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>OVARIAN CANCER ALLIANCE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RAMAH DAROM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SMILE TRAIN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UNITED WAY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>11250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UNIVERSITY OF MIAMI</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WORLD HARVEST CHURCH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>OTHER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>VARIOUS</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SUPPORT 501</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>(C)(3) ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>229</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>55638</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>784</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>784</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>784</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>GARY E SNYDER</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>3290 NORTHSIDE PARKWAY STE 400</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30327</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>28000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>GARY E SNYDER</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>4,000 SHARES GENTIVA STOCK</NameOfStock>
+        <EOYBookValue>112760</EOYBookValue>
+        <EOYFMV>106400</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc5">
+      <OtherProfessionalFees>
+        <Category>INDIRECT OTHER PROFESSIONAL FEES</Category>
+        <Amount>1269</Amount>
+        <NetInvestmentIncome>1269</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

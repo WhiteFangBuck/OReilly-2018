@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T07:36:07-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SWEITZER HARON &amp; CO CPAS PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>30200 TELEGRAPH RD STE 210</AddressLine1>
+        <City>BINGHAM FARMS</City>
+        <State>MI</State>
+        <ZIPCode>480254502</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>030508912</EIN>
+      <Name>
+        <BusinessNameLine1>GLOBAL VISION FOR PEACE</BusinessNameLine1>
+      </Name>
+      <NameControl>GLOB</NameControl>
+      <Phone>3236622220</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 292269</AddressLine1>
+        <City>LOS ANGELES</City>
+        <State>CA</State>
+        <ZIPCode>90029</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>XORIN BALBES</Name>
+      <Title>SECRETARY</Title>
+      <Phone>3236622220</Phone>
+      <DateSigned>2011-05-11</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>ROBERT J SWEITZER CPA</Name>
+      <Phone>2486477555</Phone>
+      <DatePrepared>2011-06-20</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>1400</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <TotalRevenueAndExpenses>1400</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc4">883</LegalFeesRevAndExpnss>
+        <LegalFeesAdjNetIncm>883</LegalFeesAdjNetIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">800</AccountingFeesRevAndExpnss>
+        <AccountingFeesAdjNetIncm>800</AccountingFeesAdjNetIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc8">20</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">215</OtherExpensesRevAndExpnss>
+        <OtherExpensesAdjNetIncm>215</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>1918</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>1898</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1918</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>1898</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-518</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>8328</CashBOY>
+        <CashEOY>210</CashEOY>
+        <OtherAssetsBOY referenceDocumentId="RetDoc5">70080</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc5">70080</OtherAssetsEOY>
+        <TotalAssetsBOY>78408</TotalAssetsBOY>
+        <TotalAssetsEOY>70290</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc7">10000</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc7">2400</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>10000</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>2400</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>68408</UnrestrictedBOY>
+        <UnrestrictedEOY>67890</UnrestrictedEOY>
+        <TotalNetAssetsBOY>68408</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>67890</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>78408</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>70290</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>68408</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-518</ExcessOfRevenueOverExpenses>
+        <Subtotal>67890</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>67890</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>37977</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>33412</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>137319</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.243317</DistributionRatioYear2>
+        <TotalDistributionRatio>0.243317</TotalDistributionRatio>
+        <AverageDistributionRatio>0.243317</AverageDistributionRatio>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <EstTaxPaymentsAndOverpayment>67</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>67</TotalCreditsAndPayments>
+        <Overpayment>67</Overpayment>
+        <AmountCreditedToNextYear>67</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>GLOBALVISIONFORPEACE.ORG</WebsiteAddress>
+        <BooksInCareOfPersonName>XORIN BALBES</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3236622220</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 292269</AddressLine1>
+          <City>LOS ANGELES</City>
+          <State>CA</State>
+          <ZIPCode>90029</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">XORIN BALBES</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 292269</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90029</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR SEC</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">JASON WORKMAN</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 292269</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90029</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>26579</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>37977</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>64556</TotalExcessDistriCarryover>
+        <TotalCorpus>64556</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>64556</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>26579</ExcessFromYear2>
+        <ExcessFromYear1>37977</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>TO CREATE AWARENESS &amp; EVENTS TO PROMOTE PEACE AND SAFETY</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>800</Amount>
+        <AdjustedNetIncome>800</AdjustedNetIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>XORIN BALBES</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>JASON WORKMAN</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <LegalFeesSchedule documentId="RetDoc4">
+      <LegalFees>
+        <Category>INDIRECT LEGAL FEES</Category>
+        <Amount>883</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc5">
+      <OtherAssets>
+        <Description>PROJECT DEVELOPMENT</Description>
+        <BOYBookValue>70080</BOYBookValue>
+        <EOYBookValue>70080</EOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>215</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>215</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc7">
+      <OtherLiabilities>
+        <Description>NOTE PAYABLE</Description>
+        <BOYBookValue>10000</BOYBookValue>
+        <EOYBookValue>2400</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <Taxes>
+        <Category>INDIRECT TAXES/LICENSES</Category>
+        <Amount>20</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

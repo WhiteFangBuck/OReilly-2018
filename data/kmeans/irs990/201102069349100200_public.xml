@@ -1,0 +1,632 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T08:23:27-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>JANSSEN ACCOUNTING &amp; TAX SERVICE INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>321 W FULTON ST - PO BOX 288</AddressLine1>
+        <City>WAUPACA</City>
+        <State>WI</State>
+        <ZIPCode>54981</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>391982685</EIN>
+      <Name>
+        <BusinessNameLine1>THE ALBERT AND MARY RHOADES MUSEUM</BusinessNameLine1>
+        <BusinessNameLine2>AND CHARITABLE FOUNDATION INC</BusinessNameLine2>
+      </Name>
+      <NameControl>ALBE</NameControl>
+      <Phone>7152584000</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 111 C/O STEVEN D SHAMBEAU</AddressLine1>
+        <City>WAUPACA</City>
+        <State>WI</State>
+        <ZIPCode>54981</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PHILLIP ABENDSCHEIN</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>7152584000</Phone>
+      <DateSigned>2011-07-18</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>GARY E JANSSEN EA</Name>
+      <Phone>7152583325</Phone>
+      <DatePrepared>2011-07-18</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="12">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>6183460</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>41806</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>41806</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>41806</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>96636</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>96636</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>96636</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>209711</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1253636</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>209711</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>5427</NetSTCGAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc10">28</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>28</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>28</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>348181</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>348181</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>143897</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>5000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstDsbrsChrtblPrps>5000</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">3775</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>3775</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc12">9259</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>9259</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc8">33563</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>26654</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>6909</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>51597</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>26654</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>24943</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>236736</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>236736</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>288333</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>26654</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>261679</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>59848</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>321527</NetInvestmentIncome>
+        <AdjustedNetIncome>143897</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>18859</CashBOY>
+        <CashEOY>12667</CashEOY>
+        <CashEOYFMV>12667</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>26177</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>47134</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>47134</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>3171848</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">3128927</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>4285914</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>1433028</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc4">1446520</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>1512745</InvestmentsCorpBondsEOYFMV>
+        <LandBuildingAndEquipmentBasis>325000</LandBuildingAndEquipmentBasis>
+        <LandBuildingAndEquipmentBOY>325000</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc6">325000</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>325000</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>4974912</TotalAssetsBOY>
+        <TotalAssetsEOY>4960248</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>6183460</TotalAssetsEOYFMV>
+        <AccountsPayableEOY>200</AccountsPayableEOY>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc11">-3334</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc11">3097</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>-3334</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>3297</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <PaidInOrCapitalSurplusBOY>137400</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>62688</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>4840846</RetainedEarningsBOY>
+        <RetainedEarningsEOY>4894263</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>4978246</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>4956951</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>4974912</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>4960248</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>4978246</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>59848</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc9">-74712</OtherIncreases>
+        <Subtotal>4963382</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc7">6431</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>4956951</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>M&amp;I TRUST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>106266</GrossSalesPrice>
+          <CostOrOtherBasis>100839</CostOrOtherBasis>
+          <GainOrLoss>5427</GainOrLoss>
+          <GainsMinusExcessOrLosses>5427</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>M&amp;I TRUST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>1147283</GrossSalesPrice>
+          <CostOrOtherBasis>943086</CostOrOtherBasis>
+          <GainOrLoss>204197</GainOrLoss>
+          <GainsMinusExcessOrLosses>204197</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>M&amp;I TRUST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>87</GrossSalesPrice>
+          <GainOrLoss>87</GainOrLoss>
+          <GainsMinusExcessOrLosses>87</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>209711</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>5427</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>true</LiableFor4942Tax>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>6431</InvestmentIncomeExciseTax>
+        <Subtotal>6431</Subtotal>
+        <TaxBasedOnInvestmentIncome>6431</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>3334</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>3000</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>6334</TotalCreditsAndPayments>
+        <TaxDue>97</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>PHILLIP J ABENDSCHEIN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9207220686</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>837 MAPLE STREET</AddressLine1>
+          <City>NEENAH</City>
+          <State>WI</State>
+          <ZIPCode>549570188</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">PHILLIP ABENDSCHEIN</PersonName>
+          <USAddress>
+            <AddressLine1>837 MAPLE ST</AddressLine1>
+            <City>NEENAH</City>
+            <State>WI</State>
+            <ZIPCode>54956</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>5000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">EARL LINDSAY</PersonName>
+          <USAddress>
+            <AddressLine1>6626 HWY 57</AddressLine1>
+            <City>BAILEYS HARBOR</City>
+            <State>WI</State>
+            <ZIPCode>54202</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">GARY E JANSSEN</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 288</AddressLine1>
+            <City>WAUPACA</City>
+            <State>WI</State>
+            <ZIPCode>54981</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">STEVEN D SHAMBEAU</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 111</AddressLine1>
+            <City>WAUPACA</City>
+            <State>WI</State>
+            <ZIPCode>54981</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">TOM REMLEY</PersonName>
+          <USAddress>
+            <AddressLine1>PO VOX 10206</AddressLine1>
+            <City>GREEN BAY</City>
+            <State>WI</State>
+            <ZIPCode>54307</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">TED GALLOWAY</PersonName>
+          <USAddress>
+            <AddressLine1>744 S PARK AVE</AddressLine1>
+            <City>NEENAH</City>
+            <State>WI</State>
+            <ZIPCode>54956</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>DISTRIBUTE SCHOLARSHIPS TO HIGH SCHOOL AND COLLEGE STUDENTS PURSUING DEGREES RELATED TO MINISTERIAL, EDUCATIONAL OR SOCIAL STUDIES.</Description1>
+        <Expenses1>306736</Expenses1>
+        <Description2>ESTABLISH AND MAINTAIN THE ALBERT &amp; MARY RHOADES MUSEUM LOCATED IN NEENAH, WI.</Description2>
+        <Expenses2>21166</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>5643665</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>15763</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>325000</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>5984428</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>5984428</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>89766</CashDeemedCharitable>
+        <NetNoncharitableAssets>5894662</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>294733</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>294733</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>6431</TaxBasedOnInvestmentIncome>
+        <TotalTax>6431</TotalTax>
+        <DistributableAmountBeforeAdj>288302</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>288302</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>288302</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>261679</ExpensesAndContributions>
+        <QualifyingDistributions>261679</QualifyingDistributions>
+        <AdjQualifyingDistributions>261679</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>288302</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>261673</UndistributedIncomePriorYear>
+        <QualifyingDistributions>261679</QualifyingDistributions>
+        <AppliedToYear1>261673</AppliedToYear1>
+        <AppliedToCurrentYear>6</AppliedToCurrentYear>
+        <UndistributedIncomeCY>288296</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GARRETT-EVANGELICAL SEMIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2121 SHERIDAN ROAD</AddressLine1>
+            <City>EVANSTON</City>
+            <State>IL</State>
+            <ZIPCode>60201</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS FOR SEMINARY STUDENTS</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORTH CENTRAL UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>910 ELLIOT AVENUE</AddressLine1>
+            <City>MINNEAPOLIS</City>
+            <State>MN</State>
+            <ZIPCode>55404</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS FOR STUDENTS</PurposeOfGrantOrContribution>
+          <Amount>15660</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PERFORMING ARTS FOR YOUTH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>832 MAPLE ST</AddressLine1>
+            <City>NEENAH</City>
+            <State>WI</State>
+            <ZIPCode>54956</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL OPERATIONS</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>US OILSCHMIDT FAMILY FOU</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>425 BETTER WAY</AddressLine1>
+            <City>APPLETON</City>
+            <State>WI</State>
+            <ZIPCode>54915</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL OPERATIONS</PurposeOfGrantOrContribution>
+          <Amount>100000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CROWN COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8700 COLLEGE VIEW DRIVE</AddressLine1>
+            <City>SAINT BONIFACIUS</City>
+            <State>MN</State>
+            <ZIPCode>55375</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS FOR STUDENTS</PurposeOfGrantOrContribution>
+          <Amount>4576</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SCHOLARSHIPS INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2050 RIVERSIDE DRIVE</AddressLine1>
+            <City>GREEN BAY</City>
+            <State>WI</State>
+            <ZIPCode>54301</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS FOR STUDENTS</PurposeOfGrantOrContribution>
+          <Amount>115000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WAUPACA HIGH SCHOOL SCHOO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>E2325 KING ROAD</AddressLine1>
+            <City>WAUPACA</City>
+            <State>WI</State>
+            <ZIPCode>54981</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS FOR STUDENTS</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BUBOLZ NATURE PRESERVE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4815 N LYNNDALE DRIVE</AddressLine1>
+            <City>APPLETON</City>
+            <State>WI</State>
+            <ZIPCode>54913</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL OPERATIONS</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE ALBERT &amp; MARY RHOADES</BusinessNameLine1>
+            <BusinessNameLine2>MUSEUM &amp; CHARITABLE FOUNDATION INC</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 188</AddressLine1>
+            <City>NEENAH</City>
+            <State>WI</State>
+            <ZIPCode>54956</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BUILDING FUND REDUCTION</PurposeOfGrantOrContribution>
+          <Amount>-70000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>236736</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>41806</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>96636</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <RelatedOrExemptFunctionIncome>28</RelatedOrExemptFunctionIncome>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>209711</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>348181</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>348181</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>3775</Amount>
+        <DisbursementsCharitablePrps>3775</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>PHILLIP ABENDSCHEIN</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>EARL LINDSAY</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>GARY E JANSSEN</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>STEVEN D SHAMBEAU</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>TOM REMLEY</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>TED GALLOWAY</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorpBonds>
+        <NameOfBond>M&amp;I TRUST</NameOfBond>
+        <EOYBookValue>1446520</EOYBookValue>
+        <EOYFMV>1512745</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>M&amp;I TRUST</NameOfStock>
+        <EOYBookValue>3128927</EOYBookValue>
+        <EOYFMV>4285914</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc6">
+      <LandEtc>
+        <CategoryOrItem>LAND &amp; BUILDING</CategoryOrItem>
+        <CostOrOtherBasis>325000</CostOrOtherBasis>
+        <BookValue>325000</BookValue>
+        <EOYFMV>325000</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc7">
+      <OtherDecreases>
+        <Description>FEDERAL INCOME TAX PER BOOKS</Description>
+        <Amount>6431</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>1354</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1354</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>247</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>247</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS &amp; MAINTENANCE</Description>
+        <RevenueAndExpensesPerBooks>2507</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2507</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>509</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>509</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>UTILITIES</Description>
+        <RevenueAndExpensesPerBooks>2292</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2292</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEE</Description>
+        <RevenueAndExpensesPerBooks>30</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>30</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TRUSTEE FEE - M&amp;I</Description>
+        <RevenueAndExpensesPerBooks>26624</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>26624</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc10">
+      <OtherIncome>
+        <Description>OTHER INVESTMENT INCOME</Description>
+        <RevenueAndExpensesPerBooks>28</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>28</NetInvestmentIncome>
+        <AdjustedNetIncome>28</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc9">
+      <OtherIncreases>
+        <Description>BUILDING FUND RESERVE REDUCTION</Description>
+        <Amount>-74712</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc11">
+      <OtherLiabilities>
+        <Description>FEDERAL INCOME TAX PAYABLE</Description>
+        <BOYBookValue>-3334</BOYBookValue>
+        <EOYBookValue>3097</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc12">
+      <Taxes>
+        <Category>REAL ESTATE TAXES</Category>
+        <Amount>9259</Amount>
+        <DisbursementsCharitablePrps>9259</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

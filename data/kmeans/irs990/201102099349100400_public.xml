@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T05:57:01-07:00</Timestamp>
+    <TaxPeriodEndDate>2011-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Kathryn Lundquist</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO Box 1807</AddressLine1>
+        <City>Bonita Springs</City>
+        <State>FL</State>
+        <ZIPCode>341331807</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>133351960</EIN>
+      <Name>
+        <BusinessNameLine1>THE MILTON A SCHIFF FOUNDATION</BusinessNameLine1>
+        <BusinessNameLine2>CO PATRICIA ESTESS</BusinessNameLine2>
+      </Name>
+      <NameControl>MILT</NameControl>
+      <Phone>7188580918</Phone>
+      <USAddress>
+        <AddressLine1>450 CLINTON STREET</AddressLine1>
+        <City>BROOKLYN</City>
+        <State>NY</State>
+        <ZIPCode>11231</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PATRICIA SCHIFF-ESTESS</Name>
+      <Title>President</Title>
+      <DateSigned>2011-07-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Kathryn Lundquist</Name>
+      <Phone>8554553669</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>48299</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>1203</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>1203</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>1203</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>3085</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>21555</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>3085</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>4288</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>4288</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>1203</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">550</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>275</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>275</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">10</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>10</TaxesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">260</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>130</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>130</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>820</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>415</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>405</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>2500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>2500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>3320</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>415</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>2905</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>968</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>3873</NetInvestmentIncome>
+        <AdjustedNetIncome>1203</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>5552</CashBOY>
+        <CashEOY>9513</CashEOY>
+        <CashEOYFMV>9513</CashEOYFMV>
+        <InvestmentsGovtObligBOY>8218</InvestmentsGovtObligBOY>
+        <InvestmentsCorpStockBOY>24619</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>29844</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>38786</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>38389</TotalAssetsBOY>
+        <TotalAssetsEOY>39357</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>48299</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>38389</CapitalStockBOY>
+        <CapitalStockEOY>39357</CapitalStockEOY>
+        <TotalNetAssetsBOY>38389</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>39357</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>38389</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>39357</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>38389</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>968</ExcessOfRevenueOverExpenses>
+        <Subtotal>39357</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>39357</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>3085</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>77</InvestmentIncomeExciseTax>
+        <Subtotal>77</Subtotal>
+        <TaxBasedOnInvestmentIncome>77</TaxBasedOnInvestmentIncome>
+        <TaxDue>77</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>PATRICIA ESTESS</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7188580918</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>450 CLINTON STREET 3J</AddressLine1>
+          <City>BROOKLYN</City>
+          <State>NY</State>
+          <ZIPCode>11231</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ABBEY L ACHS</PersonName>
+          <USAddress>
+            <AddressLine1>c/o FREELING 1326 RUSSELL ST</AddressLine1>
+            <City>BERKELEY</City>
+            <State>CA</State>
+            <ZIPCode>94702</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PATRICIA SCHIFF-ESTESS</PersonName>
+          <USAddress>
+            <AddressLine1>450 CLINTON STREET 3J</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11231</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>SCHOLARSHIPS AWARDED FOR COLLEGE TUITION BASED UPON FINANCIAL NEED. 2 AWARDS THIS FISCAL YEAR.</Description1>
+        <Expenses1>2500</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <TaxBasedOnInvestmentIncome>77</TaxBasedOnInvestmentIncome>
+        <TotalTax>77</TotalTax>
+        <DistributableAmountBeforeAdj>77</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>77</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>2905</ExpensesAndContributions>
+        <QualifyingDistributions>2905</QualifyingDistributions>
+        <AdjQualifyingDistributions>2905</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>3587</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>5655</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>4410</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>3037</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>1789</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>18478</TotalExcessDistriCarryover>
+        <QualifyingDistributions>2905</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <RemainingDistriFromCorpus>2905</RemainingDistriFromCorpus>
+        <TotalCorpus>21383</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>3587</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>17796</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>5655</ExcessFromYear4>
+        <ExcessFromYear3>4410</ExcessFromYear3>
+        <ExcessFromYear2>3037</ExcessFromYear2>
+        <ExcessFromYear1>1789</ExcessFromYear1>
+        <ExcessFromCurrentYear>2905</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>PATRICIA SCHIFF-ESTESS</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>450 CLINTON STREET 3J</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11231</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7188580918</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>SUBMIT A LETTER REQUESTING PREPRINTED APPLICATION</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MIRIAM PIEDADE COLL OF MT ST VINCEN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6301 RIVERDALE AVE</AddressLine1>
+            <City>BRONX</City>
+            <State>NY</State>
+            <ZIPCode>10471</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NO</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP/TUITION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LAURA VALDMANISHOBART WM SMITH COLL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>300 PULTENEY STREET</AddressLine1>
+            <City>GENEVA</City>
+            <State>NY</State>
+            <ZIPCode>14456</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NO</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP/TUITION</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>2500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1203</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>3085</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>1203</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>3085</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>4288</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>kathryn lundquist</Category>
+        <Amount>550</Amount>
+        <NetInvestmentIncome>275</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>275</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>PUBLIC NOTICE</Description>
+        <RevenueAndExpensesPerBooks>125</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>63</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>62</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>NYS FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>12</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>13</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEE</Description>
+        <RevenueAndExpensesPerBooks>110</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>55</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>55</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>FEDERAL EXCISE</Category>
+        <Amount>10</Amount>
+        <NetInvestmentIncome>10</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,797 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-21T14:36:32-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BAKER TILLY VIRCHOW KRAUSE LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>ONE TOWNE SQUARE SUITE 600</AddressLine1>
+        <City>SOUTHFIELD</City>
+        <State>MI</State>
+        <ZIPCode>48076</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>383498771</EIN>
+      <Name>
+        <BusinessNameLine1>PURTAN FAMILY OVARIAN CANCER RESEARCH FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>PURT</NameControl>
+      <Phone>2486262843</Phone>
+      <USAddress>
+        <AddressLine1>6208 RUE DU LAC</AddressLine1>
+        <City>WEST BLOOMFIELD</City>
+        <State>MI</State>
+        <ZIPCode>48323</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>GAIL PURTAN</Name>
+      <Title>SECRETARY</Title>
+      <Phone>2486262843</Phone>
+      <DateSigned>2011-07-14</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>MICHAEL F FENBERG</Name>
+      <Phone>2483727300</Phone>
+      <DatePrepared>2011-07-13</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1345052</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>52864</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>52864</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>60741</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1865922</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>60741</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>113605</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>113605</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>0</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">3185</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1593</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>1592</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">163</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>0</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">8871</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>8484</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>387</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>12219</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>10077</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1979</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>75000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>75000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>87219</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>10077</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>76979</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>26386</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>103528</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>54285</CashBOY>
+        <CashEOY>6392</CashEOY>
+        <CashEOYFMV>6392</CashEOYFMV>
+        <InvestmentsGovtObligBOY>927498</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc2210400001">320445</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>324416</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpBondsBOY>166603</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">910193</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>912195</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>220259</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">101141</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>102049</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>1368645</TotalAssetsBOY>
+        <TotalAssetsEOY>1338171</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1345052</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>1368645</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1338171</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1368645</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1338171</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1368645</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1338171</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1368645</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>26386</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>1395031</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">56860</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1338171</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES COMEX GOLD</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <GrossSalesPrice>187471</GrossSalesPrice>
+          <CostOrOtherBasis>182716</CostOrOtherBasis>
+          <GainOrLoss>4755</GainOrLoss>
+          <GainsMinusExcessOrLosses>4755</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>LONG ISLAND POWER ELEC</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <GrossSalesPrice>539560</GrossSalesPrice>
+          <CostOrOtherBasis>550470</CostOrOtherBasis>
+          <GainOrLoss>-10910</GainOrLoss>
+          <GainsMinusExcessOrLosses>-10910</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>NEW YORK, NY GO BDS</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <GrossSalesPrice>219176</GrossSalesPrice>
+          <CostOrOtherBasis>220272</CostOrOtherBasis>
+          <GainOrLoss>-1096</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1096</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>NEW JERSEY ST TRANSN</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <GrossSalesPrice>37870</GrossSalesPrice>
+          <CostOrOtherBasis>38218</CostOrOtherBasis>
+          <GainOrLoss>-348</GainOrLoss>
+          <GainsMinusExcessOrLosses>-348</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US TREAS NOTES 4.25% 11/15/14</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>44617</GrossSalesPrice>
+          <CostOrOtherBasis>43995</CostOrOtherBasis>
+          <GainOrLoss>622</GainOrLoss>
+          <GainsMinusExcessOrLosses>622</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US TREAS NOTES 4.5% 2/15/16</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>78798</GrossSalesPrice>
+          <CostOrOtherBasis>14975</CostOrOtherBasis>
+          <GainOrLoss>63823</GainOrLoss>
+          <GainsMinusExcessOrLosses>63823</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US TREAS NOTES 4.75% 8/15/17</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>61480</GrossSalesPrice>
+          <CostOrOtherBasis>59882</CostOrOtherBasis>
+          <GainOrLoss>1598</GainOrLoss>
+          <GainsMinusExcessOrLosses>1598</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US TREAS NOTES 4.125% 8/31/12</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>44921</GrossSalesPrice>
+          <CostOrOtherBasis>45226</CostOrOtherBasis>
+          <GainOrLoss>-305</GainOrLoss>
+          <GainsMinusExcessOrLosses>-305</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US TREAS NOTES 4.0% 8/15/18</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>19100</GrossSalesPrice>
+          <CostOrOtherBasis>19475</CostOrOtherBasis>
+          <GainOrLoss>-375</GainOrLoss>
+          <GainsMinusExcessOrLosses>-375</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US TREAS NOTES 1.75% 1/31/14</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>10881</GrossSalesPrice>
+          <CostOrOtherBasis>11033</CostOrOtherBasis>
+          <GainOrLoss>-152</GainOrLoss>
+          <GainsMinusExcessOrLosses>-152</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>AMGEN INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>22732</GrossSalesPrice>
+          <CostOrOtherBasis>20354</CostOrOtherBasis>
+          <GainOrLoss>2378</GainOrLoss>
+          <GainsMinusExcessOrLosses>2378</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BANK OF AMERICA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>6261</GrossSalesPrice>
+          <CostOrOtherBasis>6235</CostOrOtherBasis>
+          <GainOrLoss>26</GainOrLoss>
+          <GainsMinusExcessOrLosses>26</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BARRICK GOLD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>14952</GrossSalesPrice>
+          <CostOrOtherBasis>13347</CostOrOtherBasis>
+          <GainOrLoss>1605</GainOrLoss>
+          <GainsMinusExcessOrLosses>1605</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BERKSHIRE HATHAWAY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>22575</GrossSalesPrice>
+          <CostOrOtherBasis>21348</CostOrOtherBasis>
+          <GainOrLoss>1227</GainOrLoss>
+          <GainsMinusExcessOrLosses>1227</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CITIBANK</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>40253</GrossSalesPrice>
+          <CostOrOtherBasis>40178</CostOrOtherBasis>
+          <GainOrLoss>75</GainOrLoss>
+          <GainsMinusExcessOrLosses>75</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CITIBANK</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>42003</GrossSalesPrice>
+          <CostOrOtherBasis>41912</CostOrOtherBasis>
+          <GainOrLoss>91</GainOrLoss>
+          <GainsMinusExcessOrLosses>91</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>DEVON ENERGY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>15417</GrossSalesPrice>
+          <CostOrOtherBasis>15171</CostOrOtherBasis>
+          <GainOrLoss>246</GainOrLoss>
+          <GainsMinusExcessOrLosses>246</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>DEUTSCHE TELEKOM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>13840</GrossSalesPrice>
+          <CostOrOtherBasis>13683</CostOrOtherBasis>
+          <GainOrLoss>157</GainOrLoss>
+          <GainsMinusExcessOrLosses>157</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FEDERAL HOME LOAN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>28144</GrossSalesPrice>
+          <CostOrOtherBasis>27333</CostOrOtherBasis>
+          <GainOrLoss>811</GainOrLoss>
+          <GainsMinusExcessOrLosses>811</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FEDERAL HOME LOAN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>47335</GrossSalesPrice>
+          <CostOrOtherBasis>45241</CostOrOtherBasis>
+          <GainOrLoss>2094</GainOrLoss>
+          <GainsMinusExcessOrLosses>2094</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FEDERAL NATL MTG ASSOC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>103480</GrossSalesPrice>
+          <CostOrOtherBasis>102138</CostOrOtherBasis>
+          <GainOrLoss>1342</GainOrLoss>
+          <GainsMinusExcessOrLosses>1342</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GENERAL DYNAMICS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>22066</GrossSalesPrice>
+          <CostOrOtherBasis>21912</CostOrOtherBasis>
+          <GainOrLoss>154</GainOrLoss>
+          <GainsMinusExcessOrLosses>154</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GENERAL ELECTRIC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>51610</GrossSalesPrice>
+          <CostOrOtherBasis>51662</CostOrOtherBasis>
+          <GainOrLoss>-52</GainOrLoss>
+          <GainsMinusExcessOrLosses>-52</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>JP MORGAN CHASE 1/20/15</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>14942</GrossSalesPrice>
+          <CostOrOtherBasis>14102</CostOrOtherBasis>
+          <GainOrLoss>840</GainOrLoss>
+          <GainsMinusExcessOrLosses>840</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ORACLE CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>21891</GrossSalesPrice>
+          <CostOrOtherBasis>21735</CostOrOtherBasis>
+          <GainOrLoss>156</GainOrLoss>
+          <GainsMinusExcessOrLosses>156</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PROCTER &amp; GAMBLE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>21608</GrossSalesPrice>
+          <CostOrOtherBasis>21478</CostOrOtherBasis>
+          <GainOrLoss>130</GainOrLoss>
+          <GainsMinusExcessOrLosses>130</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ST. JUDE MEDICAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>15874</GrossSalesPrice>
+          <CostOrOtherBasis>15423</CostOrOtherBasis>
+          <GainOrLoss>451</GainOrLoss>
+          <GainsMinusExcessOrLosses>451</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CHARLES SCHWAB</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>12854</GrossSalesPrice>
+          <CostOrOtherBasis>12663</CostOrOtherBasis>
+          <GainOrLoss>191</GainOrLoss>
+          <GainsMinusExcessOrLosses>191</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TD AMERITRADE HOLDING</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>14277</GrossSalesPrice>
+          <CostOrOtherBasis>14039</CostOrOtherBasis>
+          <GainOrLoss>238</GainOrLoss>
+          <GainsMinusExcessOrLosses>238</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>UNION PACIFIC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <CostOrOtherBasis>2917</CostOrOtherBasis>
+          <GainOrLoss>-2917</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2917</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VERIZON GLOBAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>20373</GrossSalesPrice>
+          <CostOrOtherBasis>20419</CostOrOtherBasis>
+          <GainOrLoss>-46</GainOrLoss>
+          <GainsMinusExcessOrLosses>-46</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VIRGINIA ELECTRIC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>3290</GrossSalesPrice>
+          <CostOrOtherBasis>3097</CostOrOtherBasis>
+          <GainOrLoss>193</GainOrLoss>
+          <GainsMinusExcessOrLosses>193</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>WESTER UNION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>13534</GrossSalesPrice>
+          <CostOrOtherBasis>13321</CostOrOtherBasis>
+          <GainOrLoss>213</GainOrLoss>
+          <GainsMinusExcessOrLosses>213</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FNMA REMIC TRUST 2006</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>7320</GrossSalesPrice>
+          <CostOrOtherBasis>7494</CostOrOtherBasis>
+          <GainOrLoss>-174</GainOrLoss>
+          <GainsMinusExcessOrLosses>-174</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FHLMC REMIC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>6285</GrossSalesPrice>
+          <CostOrOtherBasis>6414</CostOrOtherBasis>
+          <GainOrLoss>-129</GainOrLoss>
+          <GainsMinusExcessOrLosses>-129</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FNMA REMIC TRUST 2007</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>16103</GrossSalesPrice>
+          <CostOrOtherBasis>16852</CostOrOtherBasis>
+          <GainOrLoss>-749</GainOrLoss>
+          <GainsMinusExcessOrLosses>-749</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>WACHOVIA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>23029</GrossSalesPrice>
+          <CostOrOtherBasis>28451</CostOrOtherBasis>
+          <GainOrLoss>-5422</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5422</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>60741</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>20000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>463686</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.043133</DistributionRatioYear1>
+        <TotalDistributionRatio>0.043133</TotalDistributionRatio>
+        <AverageDistributionRatio>0.043133</AverageDistributionRatio>
+        <NetNoncharitableAssets>1334273</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>57551</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1035</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>58586</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>76979</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>1035</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>1035</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>1035</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <PenaltyForUnderpayment>4</PenaltyForUnderpayment>
+        <TaxDue>1039</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MI</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>PAUL R PURTAN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2486262843</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>6208 RUE DU LAC</AddressLine1>
+          <City>WEST BLOOMFIELD</City>
+          <State>MI</State>
+          <ZIPCode>48323</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAUL R PURTAN</PersonName>
+          <USAddress>
+            <AddressLine1>6208 RUE DU LAC</AddressLine1>
+            <City>WEST BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48323</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GAIL PURTAN</PersonName>
+          <USAddress>
+            <AddressLine1>6208 RUE DU LAC</AddressLine1>
+            <City>WEST BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48323</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JENNIFER PURTAN GOLDSTEIN</PersonName>
+          <USAddress>
+            <AddressLine1>6208 RUE DU LAC</AddressLine1>
+            <City>WEST BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48323</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JACQUELINE PURTAN LEVENSON</PersonName>
+          <USAddress>
+            <AddressLine1>6208 RUE DU LAC</AddressLine1>
+            <City>WEST BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48323</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JILL PURTAN SWOISH</PersonName>
+          <USAddress>
+            <AddressLine1>6208 RUE DU LAC</AddressLine1>
+            <City>WEST BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48323</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOANNE PURTAN GUDEMAN</PersonName>
+          <USAddress>
+            <AddressLine1>6208 RUE DU LAC</AddressLine1>
+            <City>WEST BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48323</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JESSICA PURTAN HARRELL</PersonName>
+          <USAddress>
+            <AddressLine1>6208 RUE DU LAC</AddressLine1>
+            <City>WEST BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48323</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JULIE NICOLE PURTAN</PersonName>
+          <USAddress>
+            <AddressLine1>6208 RUE DU LAC</AddressLine1>
+            <City>WEST BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48323</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1324252</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>30340</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1354592</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1354592</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>20319</CashDeemedCharitable>
+        <NetNoncharitableAssets>1334273</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>66714</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>66714</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1035</TaxBasedOnInvestmentIncome>
+        <TotalTax>1035</TotalTax>
+        <DistributableAmountBeforeAdj>65679</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>65679</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>65679</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>76979</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>76979</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>1035</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>75944</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>65679</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>3021</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>76979</QualifyingDistributions>
+        <AppliedToYear1>3021</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>65679</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>8279</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>8279</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>8279</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>8279</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>GAIL PURTAN</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1627 WEST FORT STREET</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>48216</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SUPPORT THE COMMUNITY</PurposeOfGrantOrContribution>
+          <Amount>75000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>75000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>52864</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>60741</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>113605</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>113605</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>LEGAL</Category>
+        <Amount>3185</Amount>
+        <NetInvestmentIncome>1593</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1592</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>910193</EOYBookValue>
+        <EOYFMV>912195</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtSecuritiesEOYBookValue>320445</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>324416</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>0</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>0</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>0</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ASSET BACKED SECURITIES</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>101141</BookValue>
+        <EOYFMV>102049</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>UNREALIZED LOSSES ON INVESTMENTS</Description>
+        <Amount>56860</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>BROKER FEES</Description>
+        <RevenueAndExpensesPerBooks>8096</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>8096</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>STATE OF MI</Description>
+        <RevenueAndExpensesPerBooks>775</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>388</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>387</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX</Category>
+        <Amount>163</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T06:41:34-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Jennings Hawley &amp; Co PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>500 N Shoreline Blvd Ste 1010</AddressLine1>
+        <City>Corpus Christi</City>
+        <State>TX</State>
+        <ZIPCode>784010352</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>742797643</EIN>
+      <Name>
+        <BusinessNameLine1>FAITH CHARITIES INC</BusinessNameLine1>
+      </Name>
+      <NameControl>FAIT</NameControl>
+      <Phone>3618818845</Phone>
+      <USAddress>
+        <AddressLine1>449 LOUISIANA PARKWAY</AddressLine1>
+        <City>CORPUS CHRISTI</City>
+        <State>TX</State>
+        <ZIPCode>78404</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PAUL D LAUDADIO</Name>
+      <Title>Pres/TREAS</Title>
+      <DateSigned>2011-07-26</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>DAVID M HAWLEY CPA</Name>
+      <Phone>3618848894</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>59916</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>66000</ContriReceivedRevAndExpnss>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>66000</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">34</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>34</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>6050</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>6050</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>6084</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>6050</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>59916</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashEOY>59916</CashEOY>
+        <CashEOYFMV>59916</CashEOYFMV>
+        <TotalAssetsEOY>59916</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>59916</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockEOY>59916</CapitalStockEOY>
+        <TotalNetAssetsEOY>59916</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>0</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>59916</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <ExcessOfRevenueOverExpenses>59916</ExcessOfRevenueOverExpenses>
+        <Subtotal>59916</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>59916</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <NoncharitableAssetsYear4>100</NoncharitableAssetsYear4>
+        <QualifyingDistributionsYear5>1800</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>384</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>4.68750</DistributionRatioYear5>
+        <TotalDistributionRatio>4.68750</TotalDistributionRatio>
+        <AverageDistributionRatio>2.34375</AverageDistributionRatio>
+        <NetNoncharitableAssets>17947</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>42063</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>42063</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>6050</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId=" SubstantialContributorsSchedul">true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>PAUL LAUDADIO</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3618848894</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>449 LOUISIANA PARKWAY</AddressLine1>
+          <City>CORPUS CHRISTI</City>
+          <State>TX</State>
+          <ZIPCode>78404</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BROOK JOHNSON</PersonName>
+          <USAddress>
+            <AddressLine1>4948 RIDGESIDE DR</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75244</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANDY PERRY</PersonName>
+          <USAddress>
+            <AddressLine1>2519 SOMERALL</AddressLine1>
+            <City>SAN ANTONIO</City>
+            <State>TX</State>
+            <ZIPCode>78248</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TAMMY PERRY</PersonName>
+          <USAddress>
+            <AddressLine1>2519 SOMERALL</AddressLine1>
+            <City>SAN ANTONIO</City>
+            <State>TX</State>
+            <ZIPCode>78248</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JORGE VELEZ</PersonName>
+          <USAddress>
+            <AddressLine1>6 LOST TIMBERS</AddressLine1>
+            <City>SAN ANTONIO</City>
+            <State>TX</State>
+            <ZIPCode>78248</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TRICIA JOHNSON</PersonName>
+          <USAddress>
+            <AddressLine1>4948 RIDGESIDE DR</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75244</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LINDSAY LAUDADIO</PersonName>
+          <USAddress>
+            <AddressLine1>514 W FOREST DR</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77079</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAUL LAUDADIO II</PersonName>
+          <USAddress>
+            <AddressLine1>514 W FOREST DR</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77079</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOSEPH LOPEZ</PersonName>
+          <USAddress>
+            <AddressLine1>620 LIPAN ST</AddressLine1>
+            <City>CORPUS CHRISTI</City>
+            <State>TX</State>
+            <ZIPCode>78401</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TRACEY VELEZ</PersonName>
+          <USAddress>
+            <AddressLine1>6 LOST TIMBERS</AddressLine1>
+            <City>SAN ANTONIO</City>
+            <State>TX</State>
+            <ZIPCode>78248</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CORNELIUS M HAYES III</PersonName>
+          <USAddress>
+            <AddressLine1>800 N SHORELINE 800</AddressLine1>
+            <City>CORPUS CHRISTI</City>
+            <State>TX</State>
+            <ZIPCode>78401</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAPHNE J LAUDADIO</PersonName>
+          <USAddress>
+            <AddressLine1>449 LOUISIANA PARKWAY</AddressLine1>
+            <City>CORPUS CHRISTI</City>
+            <State>TX</State>
+            <ZIPCode>78404</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAUL D LAUDADIO</PersonName>
+          <USAddress>
+            <AddressLine1>449 LOUISIANA PARKWAY</AddressLine1>
+            <City>CORPUS CHRISTI</City>
+            <State>TX</State>
+            <ZIPCode>78404</ZIPCode>
+          </USAddress>
+          <Title>Pres/TREAS</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>18220</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>18220</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>18220</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>273</CashDeemedCharitable>
+        <NetNoncharitableAssets>17947</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>897</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>897</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>897</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>897</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>897</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>6050</ExpensesAndContributions>
+        <QualifyingDistributions>6050</QualifyingDistributions>
+        <AdjQualifyingDistributions>6050</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>897</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>1781</ExcessDistriCarryoverYear5>
+        <TotalExcessDistriCarryover>1781</TotalExcessDistriCarryover>
+        <QualifyingDistributions>6050</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>897</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>5153</RemainingDistriFromCorpus>
+        <TotalCorpus>6934</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>1781</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>5153</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>5153</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>DAPHNE J LAUDADIO</ContributingManager>
+        <ContributingManager>PAUL D LAUDADIO</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MOST PRECIOUS BLOOD CATHOLIC CHURCH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3502 SARATOGA BLVD</AddressLine1>
+            <City>CORPUS CHRISTI</City>
+            <State>TX</State>
+            <ZIPCode>78415</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>EMPLOYEE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO PROVIDE A SCHOLARSHIP FOR STUDENTS IN NEED.</PurposeOfGrantOrContribution>
+          <Amount>2600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MISSIONARY OF ST ANNE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5830 WILLIAMS DRIVE</AddressLine1>
+            <City>CORPUS CHRISTI</City>
+            <State>TX</State>
+            <ZIPCode>78412</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TO ASSIST IN THE CONSTRUCTION OF AN ADORATION CHAPEL IN SOUTH AFRICA.</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>GIFTS OF LIFE CHARITIES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>179 WHITTIER RD</AddressLine1>
+            <City>CHOCORUA</City>
+            <State>NH</State>
+            <ZIPCode>03890</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PROVIDE LIFE SUSTAINING SERVICES, EDUCATION AND AMENITIES TO PEOPLE LIVING IN EXTREME POVERTY AROUND THE WORLD.</PurposeOfGrantOrContribution>
+          <Amount>450</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>6050</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>PAUL LAUDADIO</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>449 LOUISIANA PARKWAY</AddressLine1>
+          <City>CORPUS CHRISTI</City>
+          <State>TX</State>
+          <ZIPCode>78404</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>23000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>LAUDADIO POLYMERS INC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>449 LOUISIANA PARKWAY</AddressLine1>
+          <City>CORPUS CHRISTI</City>
+          <State>TX</State>
+          <ZIPCode>78404</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>41500</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>34</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="SubstantialContributorsSchedul" softwareId="10000105" softwareVersion="2010v3.2">
+      <SubstantialContributor>
+        <PersonName>LINDSAY LAUDADIO</PersonName>
+        <USAddress>
+          <AddressLine1>514 W FOREST DR</AddressLine1>
+          <City>HOUSTON</City>
+          <State>TX</State>
+          <ZIPCode>77079</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+      <SubstantialContributor>
+        <PersonName>PAUL LAUDADIO II</PersonName>
+        <USAddress>
+          <AddressLine1>514 W FOREST DR</AddressLine1>
+          <City>HOUSTON</City>
+          <State>TX</State>
+          <ZIPCode>77079</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+      <SubstantialContributor>
+        <PersonName>DAPHNE LAUDADIO</PersonName>
+        <USAddress>
+          <AddressLine1>449 LOUISIANA PARKWAY</AddressLine1>
+          <City>CORPUS CHRISTI</City>
+          <State>TX</State>
+          <ZIPCode>78404</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+      <SubstantialContributor>
+        <PersonName>PAUL D LAUDADIO</PersonName>
+        <USAddress>
+          <AddressLine1>449 LOUISIANA PARKWAY</AddressLine1>
+          <City>CORPUS CHRISTI</City>
+          <State>TX</State>
+          <ZIPCode>78404</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

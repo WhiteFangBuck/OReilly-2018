@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-27T16:30:07-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DIANE B WALSH ATTORNEY AT LAW</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>4 VIKING DRIVE</AddressLine1>
+        <City>CODY</City>
+        <State>WY</State>
+        <ZIPCode>82414</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>830322736</EIN>
+      <Name>
+        <BusinessNameLine1>CODY CHANGE ATTITUDES NOW INC</BusinessNameLine1>
+      </Name>
+      <NameControl>CODY</NameControl>
+      <Phone>3078994372</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 41</AddressLine1>
+        <City>CODY</City>
+        <State>WY</State>
+        <ZIPCode>82414</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>KEARA WHITE</Name>
+      <Title>SECRETARY/TREASURER</Title>
+      <Phone>3078994372</Phone>
+      <DateSigned>2011-07-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>DIANE B WALSH</Name>
+      <Phone>3072135020</Phone>
+      <DatePrepared>2011-07-27</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="16">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>622575</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>215100</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>115</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>115</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>115</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>4638</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>4638</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>4638</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc7">27105</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>27105</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc13">-495</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>-495</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>246463</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>4753</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>4258</TotalAdjustedNetIncome>
+        <OthEmplSlrsWgsRevAndExpnss>144700</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>85600</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>5890</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftDsbrsChrtblPrps>5890</PensionEmplBnftDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc10">201</LegalFeesRevAndExpnss>
+        <LegalFeesDsbrsChrtblPrps>201</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">350</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>350</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc14">432</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>432</OtherProfFeesNetInvstIncm>
+        <InterestRevAndExpnss>647</InterestRevAndExpnss>
+        <InterestNetInvstIncm>647</InterestNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc16">173</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>148</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>25</TaxesDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>7110</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingDsbrsChrtblPrps>7110</TravConfMeetingDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc11">44283</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>672</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>43611</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>203786</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1899</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>142787</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>203786</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1899</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>142787</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>42677</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>2854</NetInvestmentIncome>
+        <AdjustedNetIncome>4258</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>26360</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>97607</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>97607</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>394077</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc8">484968</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>484968</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>346470</LandBuildingAndEquipmentBasis>
+        <LandBuildingAndEquipmentBOY>422545</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc9">346470</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>40000</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>842982</TotalAssetsBOY>
+        <TotalAssetsEOY>929045</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>622575</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>26360</CapitalStockBOY>
+        <CapitalStockEOY>97607</CapitalStockEOY>
+        <RetainedEarningsBOY>816622</RetainedEarningsBOY>
+        <RetainedEarningsEOY>831438</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>842982</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>929045</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>842982</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>929045</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>842982</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>42677</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc12">43386</OtherIncreases>
+        <Subtotal>929045</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>929045</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>160228</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>469775</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.341074</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>211105</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>572730</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.368594</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>263232</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>654888</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.401950</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>155531</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>552214</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.281650</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>204373</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>510438</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.400388</DistributionRatioYear5>
+        <TotalDistributionRatio>1.793656</TotalDistributionRatio>
+        <AverageDistributionRatio>0.358731</AverageDistributionRatio>
+        <NetNoncharitableAssets>584171</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>209560</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>29</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>209589</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>148231</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>57</InvestmentIncomeExciseTax>
+        <Subtotal>57</Subtotal>
+        <TaxBasedOnInvestmentIncome>57</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>150</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>150</TotalCreditsAndPayments>
+        <Overpayment>93</Overpayment>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+        <AmountToBeRefunded>93</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc15">true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <WebsiteAddress>WWW.CODYCAN.COM</WebsiteAddress>
+        <BooksInCareOfPersonName>DEBORAH M WHITE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3078994372</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1225 10TH STREET</AddressLine1>
+          <City>CODY</City>
+          <State>WY</State>
+          <ZIPCode>82414</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">GLENN NIELSON</PersonName>
+          <USAddress>
+            <AddressLine1>101 SKYLINE DRIVE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">MARY TAGGART</PersonName>
+          <USAddress>
+            <AddressLine1>1207 SUNSHINE AVE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">KEARA WHITE</PersonName>
+          <USAddress>
+            <AddressLine1>56 APPALOOSA LANE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>SEC/TREAS/DI</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">DOSSIE OVERFIELD</PersonName>
+          <USAddress>
+            <AddressLine1>34 LANE 20</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">CHIP RICHARD</PersonName>
+          <USAddress>
+            <AddressLine1>60 FROST LANE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">BRITTANY MEYERS</PersonName>
+          <USAddress>
+            <AddressLine1>135 SIDDLE DRIVE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">KATRINA FILLERUP</PersonName>
+          <USAddress>
+            <AddressLine1>2329 BERDAHL AVENUE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>VP/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">SINJON RUESCH</PersonName>
+          <USAddress>
+            <AddressLine1>101 NORTH CHUGWATER</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">DEVIN SERLIN</PersonName>
+          <USAddress>
+            <AddressLine1>28 HITCHING POST DRIVE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">GALEN TRIBBLE</PersonName>
+          <USAddress>
+            <AddressLine1>2320 CEDAR DRIVE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">BRADY GULDE</PersonName>
+          <USAddress>
+            <AddressLine1>135 SIDDLE DRIVE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">CARTER NIELSON</PersonName>
+          <USAddress>
+            <AddressLine1>17 PINTO DRIVE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>PRES/DIRECTO</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">MARGARET SINNER</PersonName>
+          <USAddress>
+            <AddressLine1>35 CASPER DRIVE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompensationOfHighestPaidEmpl>
+          <Name referenceDocumentId="RetDoc6">AMOS OLSON</Name>
+          <USAddress>
+            <AddressLine1>3222 SHERIDAN AVE</AddressLine1>
+            <City>CODY</City>
+            <State>WY</State>
+            <ZIPCode>82414</ZIPCode>
+          </USAddress>
+          <Title>TECH SUPPORT</Title>
+          <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+          <Compensation>59100</Compensation>
+        </CompensationOfHighestPaidEmpl>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>THE ORGANIZATION'S PRIMARY EXEMPT PURPOSE IS TO ENCOURAGE CHILDREN TO ABSTAIN FROM THE USE OF ILLEGAL DRUGS. THE ORGANIZATION OPERATES A PROGRAM THAT PROVIDES THE USE OF HIGH-TECH COMPUTERS, SOFTWARE, AND COMPUTER EDUCATION TO HIGH SCHOOL, MIDDLE SCHOOL, &amp; ELEMENTARY SCHOOL STUDENTS WHO SIGN A CONTRACT TO REMAIN DRUG FREE, WHICH CONTRACT IS SIGNED BY EACH PARTICIPATING STUDENT &amp; HIS OR HER PARENT. DURING 2010, THE ORGANIZATION REPLACED AS NEEDED AND MAINTAINED THE ORGANIZATION'S COMPUTERS, SOFTWARE, FURNITURE, PRINTERS, ETC. WHICH ARE IN ALL SCHOOLS IN THE CODY SCHOOL DISTRICT. AT THE END OF 2010, THE TOTAL NUMBER OF COMPUTERS THE ORGANIZATION HADS SERVING IT MEMBERS IN THE CODY SCHOOL SYSTEM WAS APPROXIMATELY 60. AS OF 12/31/10, APPROX. 1300 STUDENTS, AND SCHOOL STAFF MEMBERS, AND COMMUNITY CHILDREN WERE RECEIVING SERVICES FROM THE ORGANIZATION. 2010 WAS A TRANSITION YEAR FOR THE ORGANIZATION AS IT MOVED AWAY FROM PROVIDING COMPUTER USE AS THE REWARD FOR STUDENTS WHO PLEDGE TO ABSTAIN</Description1>
+        <Expenses1>142787</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>478212</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>114855</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>593067</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>593067</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>8896</CashDeemedCharitable>
+        <NetNoncharitableAssets>584171</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>29209</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>142787</ExpensesAndContributions>
+        <AmountsPaidAcqCharitableAssets>5444</AmountsPaidAcqCharitableAssets>
+        <QualifyingDistributions>148231</QualifyingDistributions>
+        <AdjQualifyingDistributions>148231</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <QualifyingDistributions>148231</QualifyingDistributions>
+        <RemainingDistriFromCorpus>148231</RemainingDistriFromCorpus>
+        <TotalCorpus>148231</TotalCorpus>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>4258</CurrentYear>
+          <Year1>6088</Year1>
+          <Year2>8502</Year2>
+          <Year3>8184</Year3>
+          <Total>27032</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>3619</CurrentYear>
+          <Year1>5175</Year1>
+          <Year2>7227</Year2>
+          <Year3>6956</Year3>
+          <Total>22977</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>148231</CurrentYear>
+          <Year1>160228</Year1>
+          <Year2>211105</Year2>
+          <Year3>263232</Year3>
+          <Total>782796</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>148231</CurrentYear>
+          <Year1>160228</Year1>
+          <Year2>211105</Year2>
+          <Year3>263232</Year3>
+          <Total>782796</Total>
+        </QlfyDistriMadeDirectly>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>19473</CurrentYear>
+          <Year1>15659</Year1>
+          <Year2>19091</Year2>
+          <Year3>21829</Year3>
+          <Total>76052</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>115</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>4638</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>27105</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>NET SECTION 988 GAIN/LOSS</Description>
+          <RelatedOrExemptFunctionIncome>-495</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>FROM LINE 11F ARCHON LP K-1</Description>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>31363</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>31363</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>ALLEN COMPANY INCORPORATED</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>711 5TH AVENUE 9TH FLOOR</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10022</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>175000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>MARSHALL ROSE FAMILY FOUNDATION</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>667 MADISON AVE</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10021</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>10000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameIndividual>JEWISH COMMUNAL FUND</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>575 MADISON AVENUE</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10022</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>15000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>4</ContributorNumber>
+        <ContributorNameIndividual>MICHAEL LARSEN</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>2365 CARILLON POINT</AddressLine1>
+          <City>KIRKLAND</City>
+          <State>WA</State>
+          <ZIPCode>98033</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>10000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>350</Amount>
+        <DisbursementsCharitablePrps>350</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc4">
+      <Compensation>
+        <PersonName>GLENN NIELSON</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>MARY TAGGART</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>KEARA WHITE</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>DOSSIE OVERFIELD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>CHIP RICHARD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>BRITTANY MEYERS</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>KATRINA FILLERUP</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>SINJON RUESCH</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>DEVIN SERLIN</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>GALEN TRIBBLE</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>BRADY GULDE</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>CARTER NIELSON</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>MARGARET SINNER</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <DepreciationSchedule documentId="RetDoc5">
+      <Depreciation>
+        <DescriptionOfProperty>16 DESKS &amp; CHAIRS</DescriptionOfProperty>
+        <DateAcquired>1998-03-01</DateAcquired>
+        <CostOrOtherBasis>12827</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>17 WORK STATIONS; 18 CHAIRS</DescriptionOfProperty>
+        <DateAcquired>1998-04-01</DateAcquired>
+        <CostOrOtherBasis>13400</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>POWER SUPPLY</DescriptionOfProperty>
+        <DateAcquired>1998-04-01</DateAcquired>
+        <CostOrOtherBasis>846</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CHAIRS</DescriptionOfProperty>
+        <DateAcquired>1999-01-13</DateAcquired>
+        <CostOrOtherBasis>3471</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DESKS</DescriptionOfProperty>
+        <DateAcquired>1999-04-29</DateAcquired>
+        <CostOrOtherBasis>4330</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DESKS</DescriptionOfProperty>
+        <DateAcquired>1999-04-08</DateAcquired>
+        <CostOrOtherBasis>7122</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DESK</DescriptionOfProperty>
+        <DateAcquired>1999-07-07</DateAcquired>
+        <CostOrOtherBasis>901</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FACILITY IMPROVEMENTS</DescriptionOfProperty>
+        <DateAcquired>1999-11-30</DateAcquired>
+        <CostOrOtherBasis>2921</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DESKS</DescriptionOfProperty>
+        <DateAcquired>1999-01-01</DateAcquired>
+        <CostOrOtherBasis>10360</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SOFTWARE</DescriptionOfProperty>
+        <DateAcquired>2002-06-01</DateAcquired>
+        <CostOrOtherBasis>4289</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>OFFICE</DescriptionOfProperty>
+        <DateAcquired>2002-06-01</DateAcquired>
+        <CostOrOtherBasis>1762</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>PRINTERS</DescriptionOfProperty>
+        <DateAcquired>2002-06-01</DateAcquired>
+        <CostOrOtherBasis>3123</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CARD PRINTER</DescriptionOfProperty>
+        <DateAcquired>2003-06-01</DateAcquired>
+        <CostOrOtherBasis>3635</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>2 AIR CONDITIONERS</DescriptionOfProperty>
+        <DateAcquired>2003-06-01</DateAcquired>
+        <CostOrOtherBasis>1009</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SOFTWARE</DescriptionOfProperty>
+        <DateAcquired>2003-06-01</DateAcquired>
+        <CostOrOtherBasis>980</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CHAIRS</DescriptionOfProperty>
+        <DateAcquired>2003-06-01</DateAcquired>
+        <CostOrOtherBasis>2726</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTERS - BALANCE</DescriptionOfProperty>
+        <DateAcquired>2004-06-01</DateAcquired>
+        <CostOrOtherBasis>43000</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SOFTWARE</DescriptionOfProperty>
+        <DateAcquired>2004-07-01</DateAcquired>
+        <CostOrOtherBasis>5843</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2004-07-01</DateAcquired>
+        <CostOrOtherBasis>1143</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>TRADEMARK</DescriptionOfProperty>
+        <DateAcquired>2004-07-01</DateAcquired>
+        <CostOrOtherBasis>670</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTERS-BALANCE</DescriptionOfProperty>
+        <DateAcquired>1998-04-01</DateAcquired>
+        <CostOrOtherBasis>70395</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTERS</DescriptionOfProperty>
+        <DateAcquired>2005-07-01</DateAcquired>
+        <CostOrOtherBasis>12380</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SOFTWARE</DescriptionOfProperty>
+        <DateAcquired>2005-07-01</DateAcquired>
+        <CostOrOtherBasis>6091</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SOFTWARE</DescriptionOfProperty>
+        <DateAcquired>2006-07-01</DateAcquired>
+        <CostOrOtherBasis>3743</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>HARDWARE</DescriptionOfProperty>
+        <DateAcquired>2006-07-01</DateAcquired>
+        <CostOrOtherBasis>6530</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2006-07-01</DateAcquired>
+        <CostOrOtherBasis>51</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>REMODEL HS LAB</DescriptionOfProperty>
+        <DateAcquired>2006-07-01</DateAcquired>
+        <CostOrOtherBasis>2781</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SOFTWARE</DescriptionOfProperty>
+        <DateAcquired>2007-07-01</DateAcquired>
+        <CostOrOtherBasis>3363</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>HARDWARE - BALANCE</DescriptionOfProperty>
+        <DateAcquired>2007-07-01</DateAcquired>
+        <CostOrOtherBasis>53980</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2007-07-01</DateAcquired>
+        <CostOrOtherBasis>619</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>HARDWARE</DescriptionOfProperty>
+        <DateAcquired>2008-07-01</DateAcquired>
+        <CostOrOtherBasis>52638</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SOFTWARE</DescriptionOfProperty>
+        <DateAcquired>2008-07-01</DateAcquired>
+        <CostOrOtherBasis>2973</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CAMERA EQUIP</DescriptionOfProperty>
+        <DateAcquired>2008-07-01</DateAcquired>
+        <CostOrOtherBasis>299</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTERS</DescriptionOfProperty>
+        <DateAcquired>2009-07-01</DateAcquired>
+        <CostOrOtherBasis>1430</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SOFTWARE</DescriptionOfProperty>
+        <DateAcquired>2009-07-01</DateAcquired>
+        <CostOrOtherBasis>1895</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SOFTWARE</DescriptionOfProperty>
+        <DateAcquired>2010-07-01</DateAcquired>
+        <CostOrOtherBasis>500</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2010-07-01</DateAcquired>
+        <CostOrOtherBasis>190</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER &amp; CAMERA</DescriptionOfProperty>
+        <DateAcquired>2010-07-01</DateAcquired>
+        <CostOrOtherBasis>2254</CostOrOtherBasis>
+      </Depreciation>
+    </DepreciationSchedule>
+    <EmployeeCompensationExpln documentId="RetDoc6">
+      <EmployeeCompExplanation>
+        <EmployeeName>AMOS OLSON</EmployeeName>
+      </EmployeeCompExplanation>
+    </EmployeeCompensationExpln>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc7">
+      <GainLossSaleOtherAsset>
+        <Name>FROM ARCHON PARTNERS K-1</Name>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <GrossSalesPrice>20869</GrossSalesPrice>
+        <TotalNet>20869</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>-</Name>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <GrossSalesPrice>6236</GrossSalesPrice>
+        <TotalNet>6236</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc8">
+      <InvestmentsOther>
+        <CategoryOrItem>ALLEN CAPITAL ARCHON PARTNERS LP</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>484968</BookValue>
+        <EOYFMV>484968</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc9">
+      <LandEtc>
+        <CostOrOtherBasis>346470</CostOrOtherBasis>
+        <BookValue>346470</BookValue>
+        <EOYFMV>40000</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc10">
+      <LegalFees>
+        <Category>INDIRECT LEGAL FEES</Category>
+        <Amount>201</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc11">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>2830</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2830</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE &amp; SHIPPING</Description>
+        <RevenueAndExpensesPerBooks>198</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>198</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE - DIRECTORS &amp; OFFIC</Description>
+        <RevenueAndExpensesPerBooks>900</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>900</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>- HEALTH</Description>
+        <RevenueAndExpensesPerBooks>2166</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2166</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>- OFFICE</Description>
+        <RevenueAndExpensesPerBooks>445</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>445</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PAYMENTS TO SPONSORS</Description>
+        <RevenueAndExpensesPerBooks>1750</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1750</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LAB SUPERVISION</Description>
+        <RevenueAndExpensesPerBooks>7645</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>7645</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROMOTION &amp; MARKETING &amp; EDUCA</Description>
+        <RevenueAndExpensesPerBooks>6110</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>6110</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>4897</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>4897</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEMBER BENEFITS</Description>
+        <RevenueAndExpensesPerBooks>8761</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>8761</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING</Description>
+        <RevenueAndExpensesPerBooks>856</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>856</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EXPENSES FROM K-1</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>- ORD LOSS FROM SEC TRADING</Description>
+        <RevenueAndExpensesPerBooks>672</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>672</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISC</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CONTRACT LABOR</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUBSCRIPTIONS</Description>
+        <RevenueAndExpensesPerBooks>2500</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2500</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WEB HOSTING FEE</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>NOTARY FEES</Description>
+        <RevenueAndExpensesPerBooks>208</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>208</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PENALTIES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROGRAM PRESENTER EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>4345</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>4345</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc13">
+      <OtherIncome>
+        <Description>NET SECTION 988 GAIN/LOSS</Description>
+        <RevenueAndExpensesPerBooks>-495</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>-495</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc12">
+      <OtherIncreases>
+        <Description>ADJ FOR COMPUTER PURCHASES/RETIREMENTS</Description>
+        <Amount>43386</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc14">
+      <OtherProfessionalFees>
+        <Category>INDIRECT OTHER PROFESSIONAL FEES</Category>
+        <Amount>432</Amount>
+        <NetInvestmentIncome>432</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc15">
+      <SubstantialContributor>
+        <PersonName>MICHAEL LARSEN</PersonName>
+        <USAddress>
+          <AddressLine1>2365 CARILLON POINT</AddressLine1>
+          <City>KIRKLAND</City>
+          <State>WA</State>
+          <ZIPCode>98033</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc16">
+      <Taxes>
+        <Category>WY FEE</Category>
+        <Amount>25</Amount>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAXES PAID</Category>
+        <Amount>55</Amount>
+        <NetInvestmentIncome>55</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX 2003 FORM 990</Category>
+        <Amount>93</Amount>
+        <NetInvestmentIncome>93</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

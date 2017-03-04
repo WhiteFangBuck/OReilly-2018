@@ -1,0 +1,864 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-15T12:59:33-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LARSONALLEN LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 217</AddressLine1>
+        <City>AUSTIN</City>
+        <State>MN</State>
+        <ZIPCode>55912</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>460189704</EIN>
+      <Name>
+        <BusinessNameLine1>SIOUX VALLEY SOUTHWESTERN ELECTRIC</BusinessNameLine1>
+        <BusinessNameLine2>COOPERATIVE INC</BusinessNameLine2>
+      </Name>
+      <NameControl>SIOU</NameControl>
+      <Phone>6055343535</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 216</AddressLine1>
+        <City>COLMAN</City>
+        <State>SD</State>
+        <ZIPCode>570170216</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DON MARKER</Name>
+      <Title>GENERAL MANAGER/CEO</Title>
+      <Phone>6055343535</Phone>
+      <DateSigned>2011-06-28</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DEAN ROHNE</Name>
+      <Phone>5074347000</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <DoingBusinessAs>
+        <BusinessNameLine1>SIOUX VALLEY ENERGY</BusinessNameLine1>
+      </DoingBusinessAs>
+      <NameOfPrincipalOfficerPerson>DON MARKER</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>PO BOX 216</AddressLine1>
+        <City>COLMAN</City>
+        <State>SD</State>
+        <ZIPCode>570170216</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>54506108</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="12">X</Organization501c>
+      <WebSite>WWW.SIOUXVALLEYENERGY.COM</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1939</YearFormation>
+      <StateLegalDomicile>SD</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO PROVIDE ELECTRIC UTILITY TO MEMBERS OF THE COOPERATIVE.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>11</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>11</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>117</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>220748</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>47187080</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>50954725</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>204353</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>519338</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>2954742</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>2782493</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>50346175</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>54256556</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>769506</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>484085</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>45802714</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>49963514</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>46572220</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>50447599</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>3773955</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>3808957</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>143168878</TotalAssetsBOY>
+      <TotalAssetsEOY>150128108</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>92025339</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>95989605</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>51143539</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>54138503</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>SIOUX VALLEY ENERGY'S MISSION IS TO BE ITS CUSTOMERS' CHOICE FOR ENERGY AND DIVERSIFIED SERVICES.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Description>RURAL ELECTRIC DISTRIBUTION COOPERATIVE PROVIDING 650,125 MEGAWATT HOURS OF ELECTRICITY TO 18,221 MEMBER OWNERS.</Description>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">1</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">1</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043500001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043500001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>1</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043500001">0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043500001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>131</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>117</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <GrossIncomeFromMembers>51752547</GrossIncomeFromMembers>
+      <GrossIncomeOtherSources>2050574</GrossIncomeOtherSources>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>11</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>11</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>1</MembersOrStockholders>
+      <ElectionOfBoardMembers>1</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>1</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>1</InvestmentInJointVenture>
+      <WrittenPolicyOrProcedure>1</WrittenPolicyOrProcedure>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>BETTY VANDERWERFF</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>6055343535</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>47092 SD HWY 34</AddressLine1>
+          <City>COLMAN</City>
+          <State>SD</State>
+          <ZIPCode>570170216</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>JAN BOBENDRIER</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>6.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>9702</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>HENNING HANSEN</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>8.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>9365</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DIAN HOVEN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>6.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>9391</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>GARY DROST</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>8102</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KEVIN EIGENBERG</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>7652</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARK ROGEN</NamePerson>
+        <Title>VICE PRESIDENT</Title>
+        <AverageHoursPerWeek>6.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>9152</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRUCE MARTINSON</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>7.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>10952</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CURTISS NELSON</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>9375</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ARLYN ZYLSTRA</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>6.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>8802</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RODNEY DEMENT</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>8.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>8652</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARVIN POST</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>6.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>8802</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DON MARKER</NamePerson>
+        <Title>GENERAL MANAGER/CEO</Title>
+        <AverageHoursPerWeek>50.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>161950</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>93513</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BETTY VANDERWERFF</NamePerson>
+        <Title>DIRECTOR OF FIN &amp; ACCTG</Title>
+        <AverageHoursPerWeek>42.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>86967</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>41708</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOEL BRICK</NamePerson>
+        <Title>WIRELESS TECH DIRECTOR</Title>
+        <AverageHoursPerWeek>60.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>117081</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>64827</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THEODORE SMITH</NamePerson>
+        <Title>DIRECTOR OF ENG &amp; OPS</Title>
+        <AverageHoursPerWeek>48.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>107932</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>22245</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>573877</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>222293</TotalOtherCompensation>
+      <NumberIndividualsGT100K>3</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>MAY CONSTRUCTION</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>23484 455TH AVE</AddressLine1>
+            <City>MADISON</City>
+            <State>SD</State>
+            <ZIPCode>57024</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>UTILITY CONSTRUCTION</DescriptionOfServices>
+        <Compensation>396699</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>MINNESOTA VALLEY SERVICES LLC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO BOX 248</AddressLine1>
+            <City>MONTEVIDEO</City>
+            <State>MN</State>
+            <ZIPCode>56265</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>TREE TRIMMING</DescriptionOfServices>
+        <Compensation>391380</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>MASTEC NORTH AMERICA INC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO BOX 70</AddressLine1>
+            <City>SHELVIN</City>
+            <State>MN</State>
+            <ZIPCode>56676</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>UTILITY CONSTRUCTION</DescriptionOfServices>
+        <Compensation>362017</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>ONE CALL LOCATORS LTD</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>6548 PAYSPHERE CIRCLE</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60674</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>UNDERGROUND FACILITY LOCATES</DescriptionOfServices>
+        <Compensation>187532</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>LOOSBROCK DIGGING</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>221 W 4TH STREET</AddressLine1>
+            <City>LISMORE</City>
+            <State>MN</State>
+            <ZIPCode>56155</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>UTILITY CONSTRUCTION</DescriptionOfServices>
+        <Compensation>164869</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>5</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>SALE OF POWER</Description>
+        <BusinessCode>221000</BusinessCode>
+        <TotalRevenueColumn>50954725</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>50954725</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>50954725</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>517723</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>220748</UnrelatedBusinessRevenue>
+        <ExclusionAmount>296975</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossRents>
+        <Real>-421</Real>
+      </GrossRents>
+      <RentalIncomeOrLoss>
+        <Real>-421</Real>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>-421</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>-421</RelatedOrExemptFunctionIncome>
+      </NetRentalIncomeOrLoss>
+      <GrossAmountSalesAssets>
+        <Other>16527</Other>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Other>14912</Other>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Other>1615</Other>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>1615</TotalRevenueColumn>
+        <ExclusionAmount>1615</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <GrossSalesOfInventory>209640</GrossSalesOfInventory>
+      <CostOfGoodsSold>234640</CostOfGoodsSold>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>-25000</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>-25000</RelatedOrExemptFunctionIncome>
+      </NetIncomeOrLoss>
+      <OtherRevenueMisc>
+        <Description>CAPITAL CREDITS</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>2807914</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2807914</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>2807914</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>54256556</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>53737218</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>220748</UnrelatedBusinessRevenue>
+        <ExclusionAmount>298590</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>484085</Total>
+      </CompCurrentOfficersDirectors>
+      <Interest>
+        <Total>4455308</Total>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>3646538</Total>
+      </DepreciationDepletion>
+      <OtherExpenses>
+        <Description>COST OF POWER</Description>
+        <Total>31306684</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DIST EXP - OPERATIONS</Description>
+        <Total>3015331</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADMIN &amp; GENERAL EXPENSE</Description>
+        <Total>2542355</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DIST EXP - MAINTENANCE</Description>
+        <Total>2519317</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CONSUMER ACCT EXPENSE</Description>
+        <Total>977824</Total>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>1500157</Total>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>50447599</Total>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>518233</BOY>
+        <EOY>1234687</EOY>
+      </CashNonInterestBearing>
+      <AccountsReceivable>
+        <BOY>5652305</BOY>
+        <EOY>5973444</EOY>
+      </AccountsReceivable>
+      <InventoriesForSaleOrUse>
+        <BOY>1905801</BOY>
+        <EOY>3214854</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>299026</BOY>
+        <EOY>313297</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>144445413</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>35184761</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>105974837</BOY>
+        <EOY>109260652</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsOtherSecurities>
+        <BOY>3139560</BOY>
+        <EOY>3028062</EOY>
+      </InvestmentsOtherSecurities>
+      <InvestmentsProgramRelated>
+        <BOY>25478669</BOY>
+        <EOY>26886124</EOY>
+      </InvestmentsProgramRelated>
+      <IntangibleAssets>
+        <BOY>1236</BOY>
+        <EOY>1236</EOY>
+      </IntangibleAssets>
+      <OtherAssetsTotal>
+        <BOY>199211</BOY>
+        <EOY>215752</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>143168878</BOY>
+        <EOY>150128108</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>6166401</BOY>
+        <EOY>5946293</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>2707773</BOY>
+        <EOY>1880662</EOY>
+      </DeferredRevenue>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>77795825</BOY>
+        <EOY>87759960</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <UnsecuredNotesLoansPayable>
+        <BOY>5000000</BOY>
+      </UnsecuredNotesLoansPayable>
+      <OtherLiabilities>
+        <BOY>355340</BOY>
+        <EOY>402690</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>92025339</BOY>
+        <EOY>95989605</EOY>
+      </TotalLiabilities>
+      <DoNotFollowSFAS117>X</DoNotFollowSFAS117>
+      <CapStckTrstPrinCurrentFunds>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </CapStckTrstPrinCurrentFunds>
+      <PaidInCapSrplsLandBldgEqpFund>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PaidInCapSrplsLandBldgEqpFund>
+      <RetainedEarningsEndowmentEtc>
+        <BOY>51143539</BOY>
+        <EOY>54138503</EOY>
+      </RetainedEarningsEndowmentEtc>
+      <TotalNetAssetsFundBalances>
+        <BOY>51143539</BOY>
+        <EOY>54138503</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>143168878</BOY>
+        <EOY>150128108</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>3808957</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>-813993</ReconcilationOtherChanges>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>0</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>1</FederalGrantAuditRequired>
+      <FederalGrantAuditPerformed>1</FederalGrantAuditPerformed>
+    </IRS990>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <AgentTrusteeEtc>1</AgentTrusteeEtc>
+      <BeginningBalance>64262</BeginningBalance>
+      <AdditionsDuringYear>85467</AdditionsDuringYear>
+      <DistributionsDuringYear>100250</DistributionsDuringYear>
+      <EndingBalance>49479</EndingBalance>
+      <IncludedOnFS>0</IncludedOnFS>
+      <Land>
+        <OtherCostOrOtherBasis>878428</OtherCostOrOtherBasis>
+        <BookValue>878428</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>6090954</OtherCostOrOtherBasis>
+        <Depreciation>1718007</Depreciation>
+        <BookValue>4372947</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>10220570</OtherCostOrOtherBasis>
+        <Depreciation>6461221</Depreciation>
+        <BookValue>3759349</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>127255461</OtherCostOrOtherBasis>
+        <Depreciation>27005533</Depreciation>
+        <BookValue>100249928</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>109260652</TotalOfBookValueLandBuildings>
+      <InvestmentsProgramRelated>
+        <Description>G&amp;T PATRONAGE CAPITAL</Description>
+        <BookValue>19804063</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>NRUCFC PATRONAGE CAPITAL</Description>
+        <BookValue>1215161</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>PATRONAGE CAPITAL - OTHER</Description>
+        <BookValue>511809</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>NRUCFC CAPITAL TERM CERTS</Description>
+        <BookValue>2042531</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>NRUCFC MEMBER CAPITAL SEC</Description>
+        <BookValue>1000000</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>VALUE ADDED AG LOANS</Description>
+        <BookValue>816592</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>ERC LOANS</Description>
+        <BookValue>1324104</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>OTHER PROGRAM RELATED</Description>
+        <BookValue>171864</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <TotalOfBookValueProgramRelated>26886124</TotalOfBookValueProgramRelated>
+      <OtherLiabilities>
+        <Description>CONSUMER DEPOSITS</Description>
+        <Amount>388636</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>PATRONAGE CAPITAL PAYABLE</Description>
+        <Amount>14054</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>402690</TotalOfAmounts>
+      <Form990ScheduleDPartXIV>
+        <ReturnReference>PART IV, LINE 1B:</ReturnReference>
+        <Explanation>CUSTOMERS HAVE THE OPTION OF PARTICIPATING IN OPERATION ROUND-UP. PARTICIPATING CUSTOMERS ROUND THEIR BILLS UP TO THE NEAREST DOLLAR AND THE DIFFERENCE IS CONTRIBUTED TO THE SIOUX VALLEY ENERGY CUSTOMERS' TRUST, WITH THE FUNDS BEING UTILIZED FOR CHARITABLE GIVING.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF UNCERTAIN TAX POSITIONS UNDER FIN 48:</Identifier>
+        <ReturnReference>PART X:</ReturnReference>
+        <Explanation>THE COOPERATIVE AND ITS SUBSIDIARY ADOPTED THE INCOME TAX STANDARD FOR UNCERTAIN TAX POSITIONS ON JANUARY 1, 2009. AS A RESULT OF IMPLEMENTATION, THE COOPERATIVE EVALUATED ITS TAX POSITIONS AND DETERMINED THAT IT HAS NO UNCERTAIN TAX POSITIONS AS OF DECEMBER 31, 2010. WITH FEW EXCEPTIONS THE COOPERATIVE AND ITS SUBSIDIARY ARE NO LONGER SUBJECT TO FEDERAL, STATE, OR LOCAL INCOME TAX EXAMINATIONS BY TAX AUTHORITIES FOR YEARS BEFORE 2007.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <FirstClassOrCharterTravel>X</FirstClassOrCharterTravel>
+      <WrittenPolicyReTAndEExpenses>1</WrittenPolicyReTAndEExpenses>
+      <SubstantiationRequired>1</SubstantiationRequired>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <Form990ScheduleJPartII>
+        <NamePerson>DON MARKER</NamePerson>
+        <BaseCompensationFilingOrg>161950</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>79526</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>15160</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>256636</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>JOEL BRICK</NamePerson>
+        <BaseCompensationFilingOrg>117081</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>51336</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>14280</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>182697</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <ReturnReference>PART I, LINE 1A</ReturnReference>
+        <Explanation>THE COOPERATIVE OCCASIONALLY PROVIDES CHARTER TRAVEL FOR GROUPS OF ITS DIRECTORS, OFFICERS, AND EMPLOYEES TO ATTEND MEETINGS OF OTHER ORGANIZATIONS WHEN THIS IS MORE COST EFFECTIVE AND EXPEDIENT THAN ARRANGING FOR OTHER COMMERCIALLY AVAILABLE TRAVEL METHODS.</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 6</Identifier>
+        <Explanation>EACH ELECTRIC ACCOUNT IS A MEMBER.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7A</Identifier>
+        <Explanation>COOPERATIVE IS BROKEN INTO 11 DISTRICTS. MEMBERS CAN VOTE FOR THE DIRECTOR FROM THE DISTRICT IN WHICH THE MEMBER IS LOCATED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7B</Identifier>
+        <Explanation>CHANGES TO THE COOPERATIVE BY-LAWS ARE VOTED ON AT THE ANNUAL MEETING IN WHICH EACH MEMBER HAS THE RIGHT TO VOTE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>THE FORM 990 WILL BE PROVIDED TO ALL MEMBERS OF THE BOARD OF DIRECTORS AT A MEETING PRIOR TO FILING. EACH BOARD MEMBER WILL HAVE THE OPPORTUNITY TO REVIEW THE RETURN AT THAT TIME. THE RETURN WILL ALSO BE REVIEWED IN DETAIL BY THE DIRECTOR OF FINANCE AND ACCOUNTING PRIOR TO FILING OF THE RETURN.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>ALL EMPLOYEES, DIRECTORS, THE GENERAL MANAGER/CEO, THE MANAGEMENT STAFF, AND THE ATTORNEY MUST BE FAMILIAR WITH THE CONFLICT OF INTEREST POLICY. EACH IS REQUIRED TO EXECUTE A CONFLICT OF INTEREST STATEMENT THAT THEY ARE IN COMPLIANCE WITH THE POLICY. ANNUALLY THE DIRECTORS, GENERAL MANAGER/CEO, ATTORNEY AND MANAGEMENT STAFF EXECUTE A NEW STATEMENT. EMPLOYEES EXECUTE ONE AT TIME OF EMPLOYMENT AND UPDATE WHEN A CONFLICT ARISES. IF A CONFLICT OF INTEREST EXISTS, THEN THE EMPLOYEE AND SUPERVISOR IN COORDINATION WITH MANAGEMENT SHALL COLLECTIVELY DETERMINE WHAT ACTION SHOULD BE TAKEN. IF A DIRECTOR HAS A CONFLICT OF INTEREST HE/SHE SHALL DISQUALIFY THEMSELVES FROM DECISIONS THAT POSE THE CONFLICT OR THE APPEARANCE OF A CONFLICT OF INTEREST. THE DIRECTOR MAY REQUEST AN OPINION OF THE COOPERATIVE ATTORNEY BEFORE SUCH ACTION IS TAKEN.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>SIOUX VALLEY ENERGY USES A NATIONAL COMPENSATION SURVEY PROVIDED TO US BY OUR NATIONAL ASSOCIATION, NRECA. THE NATIONAL AVERAGE PAY IS USED AS A GUIDANCE FOR ESTABLISHING INITIAL SALARIES AND YEARLY SALARY CHANGES. YEARS OF EXPERIENCE IN A POSITION ARE ALSO FACTORED IN. USING THE SURVEY DATA HELPS TO ENSURE SALARIES REMAIN COMPETITIVE WITH THOSE OFFERED AT OTHER RURAL ELECTRIC COOPERATIVES AND THAT THE DATA REMAINS CONSISTENT FROM YEAR TO YEAR. THIS PROCESS IS USED FOR ALL POSITIONS AT SIOUX VALLEY ENERGY ON AN ANNUAL BASIS. THE LAST YEAR THIS PROCESS WAS UNDERTAKEN WAS 2010.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE COOPERATIVE MAKES ITS GOVERNING DOCUMENTS AND FINANCIAL STATEMENTS AVAILABLE TO THE COOPERATIVE MEMBERS UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CHANGES IN NET ASSETS OR FUND BALANCES:</Identifier>
+        <ReturnReference>FORM 990, PART XI, LINE 5:</ReturnReference>
+        <Explanation>EQUITY IN EARNINGS OF SUBSIDIARY 244,587. RETIREMENT OF CAPITAL CREDITS -1,059,001. CORSON DEVELOPMENT ASSOCIATION, LLP K-1 421. TOTAL TO FORM 990, PART XI, LINE 5: -813,993.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043500001">
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>SIOUX VALLEY RURAL TELEVISION INC</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>PO BOX 216</AddressLine1>
+          <City>COLMAN</City>
+          <State>SD</State>
+          <ZIPCode>57017</ZIPCode>
+        </AddressUS>
+        <EIN>460402369</EIN>
+        <PrimaryActivity>WIRELESS INTERNET SERVICES</PrimaryActivity>
+        <LegalDomicileState>SD</LegalDomicileState>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+        <TypeOfEntity>C</TypeOfEntity>
+        <ShareOfTotalIncome>244587</ShareOfTotalIncome>
+        <ShareOfEOYAssets>3256739</ShareOfEOYAssets>
+        <PercentageOwnership>1.00000</PercentageOwnership>
+      </Form990ScheduleRPartIV>
+      <ReceiptOfIntAnnRentsRoyalties>1</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>0</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>0</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>1</SharingOfFacilities>
+      <SharingOfPaidEmployees>1</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>0</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>1</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>1</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>1</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>SIOUX VALLEY RURAL TELEVISION INC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>A</TransactionType>
+        <AmountInvolved>220748</AmountInvolved>
+        <MethodOfAmtDetermination>ACTUAL AMOUNT</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>SIOUX VALLEY RURAL TELEVISION INC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>R</TransactionType>
+        <AmountInvolved>1097231</AmountInvolved>
+        <MethodOfAmtDetermination>ACTUAL AMOUNT</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>SIOUX VALLEY RURAL TELEVISION INC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>N</TransactionType>
+        <AmountInvolved>821182</AmountInvolved>
+        <MethodOfAmtDetermination>ACTUAL AMOUNT</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>SIOUX VALLEY RURAL TELEVISION INC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>P</TransactionType>
+        <AmountInvolved>141799</AmountInvolved>
+        <MethodOfAmtDetermination>ACTUAL AMOUNT</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T08:47:22-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>COHEN &amp; COMPANY LTD</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>OFFICES LISTED AT</AddressLine1>
+        <City>WWWCOHENCPACOM</City>
+        <State>OH</State>
+        <ZIPCode>44115</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>341882946</EIN>
+      <Name>
+        <BusinessNameLine1>THE JOHN &amp; MARY COYNE CHARITABLE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>JOHN</NameControl>
+      <Phone>2167811980</Phone>
+      <USAddress>
+        <AddressLine1>1428 HAMILTON AVENUE</AddressLine1>
+        <City>CLEVELAND</City>
+        <State>OH</State>
+        <ZIPCode>44114</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN COYNE</Name>
+      <Title>PRESIDENT</Title>
+      <DateSigned>2011-07-31</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>ALANE L BOFFA</Name>
+      <Phone>8002291099</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>317364</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>10900</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>13321</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>13321</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>640</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>640</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>24861</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>13961</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss>624</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">500</TaxesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1124</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>50000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>50000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>51124</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>50000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-26263</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>13961</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>18687</CashBOY>
+        <CashEOY>80381</CashEOY>
+        <CashEOYFMV>80381</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>294286</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>195429</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>195429</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>21846</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestCorpStockSch">32746</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>41554</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>334819</TotalAssetsBOY>
+        <TotalAssetsEOY>308556</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>317364</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>0</AccountsPayableBOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>334819</CapitalStockBOY>
+        <CapitalStockEOY>308556</CapitalStockEOY>
+        <TotalNetAssetsBOY>334819</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>308556</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>334819</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>308556</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>334819</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-26263</ExcessOfRevenueOverExpenses>
+        <Subtotal>308556</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>308556</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses />
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>46600</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>332717</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.140059</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>18520</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>314572</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.058874</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>35174</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>242434</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.145087</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>39425</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>262076</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.150433</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>30911</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>277225</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.111501</DistributionRatioYear5>
+        <TotalDistributionRatio>0.605954</TotalDistributionRatio>
+        <AverageDistributionRatio>0.121191</AverageDistributionRatio>
+        <NetNoncharitableAssets>330855</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>40097</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>140</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>40237</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>50000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>140</InvestmentIncomeExciseTax>
+        <Subtotal>140</Subtotal>
+        <TaxBasedOnInvestmentIncome>140</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>249</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>249</TotalCreditsAndPayments>
+        <Overpayment>109</Overpayment>
+        <AmountCreditedToNextYear>109</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>JOHN P COYNE</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2167811980</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1428 HAMILTON AVENUE</AddressLine1>
+          <City>CLEVELAND</City>
+          <State>OH</State>
+          <ZIPCode>44114</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN COYNE</PersonName>
+          <USAddress>
+            <AddressLine1>1428 HAMILTON AVENUE</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>44114</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY COYNE</PersonName>
+          <USAddress>
+            <AddressLine1>1428 HAMILTON AVENUE</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>44114</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>303350</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>32543</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>335893</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>335893</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>5038</CashDeemedCharitable>
+        <NetNoncharitableAssets>330855</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>16543</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>16543</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>140</TaxBasedOnInvestmentIncome>
+        <TotalTax>140</TotalTax>
+        <DistributableAmountBeforeAdj>16403</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>16403</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>16403</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>50000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>50000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>140</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>49860</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>16403</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <ExcessDistriCarryoverYear5>17328</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>26382</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>23157</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>2971</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>30114</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>99952</TotalExcessDistriCarryover>
+        <QualifyingDistributions>50000</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToCurrentYear>16403</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>33597</RemainingDistriFromCorpus>
+        <TotalCorpus>133549</TotalCorpus>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>17328</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>116221</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>26382</ExcessFromYear4>
+        <ExcessFromYear3>23157</ExcessFromYear3>
+        <ExcessFromYear2>2971</ExcessFromYear2>
+        <ExcessFromYear1>30114</ExcessFromYear1>
+        <ExcessFromCurrentYear>33597</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GESU CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2470 Miramar Blvd</AddressLine1>
+            <City>University Hts</City>
+            <State>OH</State>
+            <ZIPCode>44118</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>42500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF NOTRE DAME</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>302 Grace Hall</AddressLine1>
+            <City>Notre Dame</City>
+            <State>IN</State>
+            <ZIPCode>46556</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>IRISH RADIO - WHK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4 SUMMIT PARK DRIVE SUITE 150</AddressLine1>
+            <City>INDEPENDENCE</City>
+            <State>OH</State>
+            <ZIPCode>44131</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BENEDICTINE HIGH SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2900 Martin Luther King Jr Dr</AddressLine1>
+            <City>Cleveland</City>
+            <State>OH</State>
+            <ZIPCode>441044898</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CLEVELAND PUBLIC ART</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1951 W 26TH ST SUITE 101</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>44113</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOWNTOWN CLEVELAND ALLIANCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>825 TERMINAL TOWER 50 PUBLIC SQUARE</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>44113</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CLEVELAND PUBLIC THEATER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6415 DETROIT AVENUE</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>44102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ROCK AND ROLL HALL OF FAME AND MUSEUM INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1100 ROCK AND ROLL BLVD</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>44114</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OHIO CANAL CORRIDOR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 609479</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>44109</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>50000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>13321</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>640</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry />
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>13961</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>13961</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>JOHN MARY COYNE</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>19040 SHELBURNE RD</AddressLine1>
+          <City>SHAKER HTS</City>
+          <State>OH</State>
+          <ZIPCode>44118</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>10900</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>500 SH ABM INDS INC STOCK</NoncashPropertyDescription>
+        <FairMarketValue>10900</FairMarketValue>
+        <DateReceived>2010-03-15</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorpStock>
+        <NameOfStock>1,580 SHS ABM INDUSTRIES</NameOfStock>
+        <EOYBookValue>32746</EOYBookValue>
+        <EOYFMV>41554</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FEDERAL TAX</Category>
+        <Amount>400</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>OHIO FILING FEE</Category>
+        <Amount>100</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-20T09:21:00-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>John S Trussalo CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>315 North Main Street Suite 200</AddressLine1>
+        <City>Jamestown</City>
+        <State>NY</State>
+        <ZIPCode>14701</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>160743114</EIN>
+      <Name>
+        <BusinessNameLine1>PATTERSON LIBRARY</BusinessNameLine1>
+      </Name>
+      <NameControl>PATT</NameControl>
+      <Phone>7163262154</Phone>
+      <USAddress>
+        <AddressLine1>40 SOUTH PORTAGE STREET</AddressLine1>
+        <City>WESTFIELD</City>
+        <State>NY</State>
+        <ZIPCode>14787</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ELI GUINNEE</Name>
+      <Title>LIBRARY DIRECTOR</Title>
+      <Phone>7163262154</Phone>
+      <DateSigned>2011-07-11</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>KELLY A DAWSON CPA</Name>
+      <Phone>7164872910</Phone>
+      <DatePrepared>2011-07-11</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>ELI GUINNEE</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>40 SOUTH PORTAGE STREET</AddressLine1>
+        <City>WESTFIELD</City>
+        <State>NY</State>
+        <ZIPCode>14787</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>1788649</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.PATTERSONLIBRARY.INFO</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1896</YearFormation>
+      <StateLegalDomicile>NY</StateLegalDomicile>
+      <ActivityOrMissionDescription>THE PATTERSON LIBRARY ADVANCES THE QUALITY OF LIFE IN THE COMMUNITY OF WESTFIELD BY PROVIDING - UNRESTRICTED ACCESS TO INFORMATION AND BY OFFERING MATERIALS GEARED TO USER WANTS AND NEEDS. THE LIBRARY PROVIDES COLLECTIONS, SERVICES AND PROGRAMS THAT SUPPORT THE DEVELOPMENT OF AN INDIVIDUAL'S FULL POTENTIAL AND ASSISTS USERS OF ALL AGES IN THE PURSUIT OF KNOWLEDGE.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>12</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>12</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>11</TotalNbrEmployees>
+      <TotalNbrVolunteers>63</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>184518</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>170596</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>16901</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>22471</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>87453</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>67563</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>15555</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>304427</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>260630</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>176515</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>187530</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>143473</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>120756</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>319988</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>308286</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-15561</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-47656</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>3012045</TotalAssetsBOY>
+      <TotalAssetsEOY>3191024</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>3012045</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>3191024</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>ADVANCES THE QUALITY OF LIFE IN THE COMMUNITY OF WESTFIELD BY PROVIDING UNRESTRICTED ACCESS TO INFORMATION AND BY OFFERING MATERIALS GEARED TO USER WANTS AND NEEDS. THE LIBRARY PROVIDES COLLECTIONS, SERVICES, AND PROGRAMS THAT SUPPORT THE DEVELOPMENT OF AN INDIVIDUAL'S FULL POTENTIAL AND ASSISTS USERS OF ALL AGES IN THE PURSUIT OF KNOWLEDGE.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>60226</Expense>
+      <Description>PATTERSON LIBRARY PROVIDES CRITICAL YOUTH SERVICES TO ENCOURAGE LITERACY, LIFE SKILLS, COMPUTER COMPETENCE, AND THE DEVELOPMENT OF A SELF-MOTIVATED LOVE OF LEARNING IN CHILDREN FROM INFANTS TO TEENAGERS. PATTERSON LIBRARY GIVES SCHOOL AGED CHILDREN A SAFE, POSITIVE, AND EDUCATIONAL ENVIRONMENT DURING THE SUMMER MONTHS AND AFTER SCHOOL HOURS. OUR SUMMER READING PROGRAMS KEEP THE CHILDREN OF WESTFIELD AND SURROUNDING AREAS EXCITED ABOUT READING AND LEARNING THROUGH WEEKLY SPECIAL EVENTS AND ACTIVITY SESSIONS THAT HELP RETURN THEM TO SCHOOL PREPARED FOR THE YEAR AHEAD. AFTER SCHOOL ACTIVITIES PROVIDED AT PATTERSON LIBRARY INCLUDE STORYTIME SESSIONS, ART LESSONS, CRAFTS AND GAME DAYS. SUMMER PROGRAMS INCLUDE ART WORKSHOPS, STORYTIMES, AUTHOR VISITS, AND BOOK DISCUSSION GROUPS. IN 2009, WE HELD 267 CHILDREN'S PROGRAM SESSIONS ATTENDED BY 5,443 CHILDREN. EACH PROGRAM ADDRESSES THE DEVELOPMENTAL NEEDS OF A PARTICULAR AGE GROUP FROM EARLY LITERACY TO COLLEGE AND CAREER PREPARATION.</Description>
+      <Activity2>
+        <Expense>120450</Expense>
+        <Grants>100500</Grants>
+        <Revenue>42749</Revenue>
+        <Description>PATTERSON LIBRARY PROVIDES FREE AND EQUAL ACCESS TO BOOKS, PERIODICALS, REFERENCE MATERIALS, CDs, DVDs AND OTHER MATERIALS FOR CHECKOUT TO RESIDENTS IN OUR 5232 PERSON SERVICE AREA AND TO OVER 3,600 REGISTERD USERS IN WESTFIELD AND BEYOND. IN ADDITION, WE PROVIDE ONLINE ACCESS TO MILLIONS OF VOLUMES OF REFERENCE MATERIALS THROUGH SUBSCRIPTION DATABASES THAT WOULD NOT BE ACCESSIBLE IN THIS AREA. WE HAD OVER 37,000 VISITORS IN 2009, WHO CHECKED OUT 48,913 ITEMS. WE ANSWERED 3,939 REFERENCE QUESTIONS AND PROVIDED COMPUTER WORKSHOPS AND ONE ON ONE TUTORING TO HELP USERS ACCESS ONLING INFORMATION. WE OFFER 15 PUBLIC COMPUTERS WHICH GIVE USERS FREE AND EQUAL ACCESS TO THE INTERNET AND MANY USEFUL SOFTWARE APPLICATIONS.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>60225</Expense>
+        <Description>PATTERSON LIBRARY PROVIDES FREE PROGRAMS FOR ADULTS TO ENCOURAGE LIFE LONG LEARNING, PROMOTE CULTURAL AND ARTISTIC ENRICHMENT, DEVELOP PRACTICAL SKILLS AND TO HELP INDIVIDUALS REACH THEIR FULL POTENTIAL. IN 2009, THE LIBRARY PROVIDED 80 ADULT PROGRAM SESSIONS, ATTENDED BY 2,290 PEOPLE. THESE INCLUDED: TWO BOOK DISCUSSION GROUPS, A TRAVEL TALK SERIES, A MUSIC SERIES, A POLITICAL DISCUSSION GROUP, A FOREIGN FILM DISCUSSION GROUP, EIGHT ART EXHIBITS, HISTORICAL LECTURES, DRAMATIC PERFORMANCES, AND COMPUTER WORKSHOPS. THIS YEAR WE GREATLY INCREASED OUR OFFERING OF HANDS-ON COMPUTER WORKSHOPS TO GIVE RESIDENTS IN WESTFIELD AND SURROUNDING TOWNS AN OPPORTUNITY FOR FREE TECHNOLOGY EDUCATION, GEARED TOWARDS PRACTICAL USES AT HOME, IN THE OFFICE AND AT SCHOOL. FOR BEGINNER COMPUTER USERS, WE CONTINUE TO OFFER FREE TUTORING.</Description>
+      </Activity3>
+      <TotalProgramServiceExpense>240901</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">1</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>11</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>12</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>12</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>0</ConflictOfInterestPolicy>
+      <WhistleblowerPolicy>0</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>0</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>PATTERSON LIBRARY</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>7163262154</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>40 SOUTH PORTAGE STREET</AddressLine1>
+          <City>WESTFIELD</City>
+          <State>NY</State>
+          <ZIPCode>14787</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>DONALD ENO</NamePerson>
+        <Title>TRUSTEE, PRESIDENT</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN PAUL WOLFE</NamePerson>
+        <Title>TRUSTEE, VICE-PRESIDENT</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICHARD BIVENS</NamePerson>
+        <Title>TRUSTEE, TREASURER</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SANDRA BROWN</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SUSAN BAKER</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TERESA L CASLER</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SALLY CATALANO</NamePerson>
+        <Title>TRUSTEE, SECRETARY</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID R CORRELL</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LINDA C DUNN</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATHRYN RICHMOND</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>NORMAN SHOPLAND</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATHY ARCHER</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ELI GUINNEE</NamePerson>
+        <Title>LIBRARY DIRECTOR</Title>
+        <AverageHoursPerWeek>50.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>52814</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>4633</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>52814</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>4633</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <GovernmentGrants>100500</GovernmentGrants>
+      <AllOtherContributions>70096</AllOtherContributions>
+      <TotalContributions>170596</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>LITERACY AND ART PROGR</Description>
+        <BusinessCode>519100</BusinessCode>
+        <TotalRevenueColumn>22471</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>22471</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>22471</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>47285</TotalRevenueColumn>
+        <ExclusionAmount>47285</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossAmountSalesAssets>
+        <Securities>1548297</Securities>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>1528019</Securities>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>20278</Securities>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>20278</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>20278</RelatedOrExemptFunctionIncome>
+      </NetGainOrLossInvestments>
+      <TotalRevenue>
+        <TotalRevenueColumn>260630</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>42749</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>47285</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>52814</Total>
+        <ProgramServices>42252</ProgramServices>
+        <ManagementAndGeneral>10562</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>96593</Total>
+        <ProgramServices>77274</ProgramServices>
+        <ManagementAndGeneral>19319</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>26693</Total>
+        <ProgramServices>21355</ProgramServices>
+        <ManagementAndGeneral>5338</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>11430</Total>
+        <ProgramServices>9144</ProgramServices>
+        <ManagementAndGeneral>2286</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesAccounting>
+        <Total>3030</Total>
+        <ManagementAndGeneral>3030</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesInvstMgmntFees>
+        <Total>11700</Total>
+        <ManagementAndGeneral>11700</ManagementAndGeneral>
+      </FeesForServicesInvstMgmntFees>
+      <OfficeExpenses>
+        <Total>762</Total>
+        <ProgramServices>610</ProgramServices>
+        <ManagementAndGeneral>152</ManagementAndGeneral>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>31225</Total>
+        <ProgramServices>24980</ProgramServices>
+        <ManagementAndGeneral>6245</ManagementAndGeneral>
+      </Occupancy>
+      <DepreciationDepletion>
+        <Total>35163</Total>
+        <ProgramServices>28130</ProgramServices>
+        <ManagementAndGeneral>7033</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <OtherExpenses>
+        <Description>BOOKS &amp; PERIODICALS</Description>
+        <Total>25878</Total>
+        <ProgramServices>25878</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <Total>8599</Total>
+        <ProgramServices>6879</ProgramServices>
+        <ManagementAndGeneral>1720</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROGRAM EXPENSE</Description>
+        <Total>4399</Total>
+        <ProgramServices>4399</ProgramServices>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>308286</Total>
+        <ProgramServices>240901</ProgramServices>
+        <ManagementAndGeneral>67385</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>49867</BOY>
+        <EOY>48654</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>61293</BOY>
+        <EOY>61301</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>2498</BOY>
+      </PledgesAndGrantsReceivable>
+      <LandBuildingsEquipmentBasis>1287774</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>459490</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>805894</BOY>
+        <EOY>828284</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>2092493</BOY>
+        <EOY>2252785</EOY>
+      </InvestmentsPubTradedSecurities>
+      <TotalAssets>
+        <BOY>3012045</BOY>
+        <EOY>3191024</EOY>
+      </TotalAssets>
+      <TotalLiabilities>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>2981215</BOY>
+        <EOY>3191024</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>30830</BOY>
+        <EOY>0</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>3012045</BOY>
+        <EOY>3191024</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>3012045</BOY>
+        <EOY>3191024</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>-47656</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>226635</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus4Years>223459</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>153601</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>163600</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>167617</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>170596</CurrentTaxYear>
+        <Total>878873</Total>
+      </GiftsGrantsContribReceived170>
+      <Total170>
+        <CurrentTaxYearMinus4Years>223459</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>153601</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>163600</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>167617</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>170596</CurrentTaxYear>
+        <Total>878873</Total>
+      </Total170>
+      <PublicSupportTotal170>878873</PublicSupportTotal170>
+      <GrossInvestmentIncome170>
+        <CurrentTaxYearMinus4Years>88724</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>87152</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>61321</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>103683</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>47285</CurrentTaxYear>
+        <Total>388165</Total>
+      </GrossInvestmentIncome170>
+      <TotalSupport>1267038</TotalSupport>
+      <GrossReceiptsFromAdmissionsEtc>114313</GrossReceiptsFromAdmissionsEtc>
+      <PublicSupportPertcentage170>0.69360</PublicSupportPertcentage170>
+      <PublicSupportPertcentPriorYear>0.70510</PublicSupportPertcentPriorYear>
+      <ThirtyThreePercntTestsCY170>X</ThirtyThreePercntTestsCY170>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <CurrentYear>
+        <BeginningOfYearBalance>2092493</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>171992</InvestmentEarningsOrLosses>
+        <AdministrativeExpenses>11700</AdministrativeExpenses>
+        <EndOfYearBalance>2252785</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>1730650</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>372643</InvestmentEarningsOrLosses>
+        <AdministrativeExpenses>10800</AdministrativeExpenses>
+        <EndOfYearBalance>2092493</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <CurrentYearMinus2Years>
+        <BeginningOfYearBalance>2497446</BeginningOfYearBalance>
+        <Contributions>1010</Contributions>
+        <InvestmentEarningsOrLosses>-639646</InvestmentEarningsOrLosses>
+        <OtherExpenditures>113013</OtherExpenditures>
+        <AdministrativeExpenses>15147</AdministrativeExpenses>
+        <EndOfYearBalance>1730650</EndOfYearBalance>
+      </CurrentYearMinus2Years>
+      <BoardDesignatedEOYBalance>1.00000</BoardDesignatedEOYBalance>
+      <EndowmentsHeldByUnrelatedOrgs>0</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>0</EndowmentsHeldByRelatedOrgs>
+      <Buildings>
+        <OtherCostOrOtherBasis>1258713</OtherCostOrOtherBasis>
+        <Depreciation>434667</Depreciation>
+        <BookValue>824046</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>29061</OtherCostOrOtherBasis>
+        <Depreciation>24823</Depreciation>
+        <BookValue>4238</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>828284</TotalOfBookValueLandBuildings>
+      <TotalRevenue>260630</TotalRevenue>
+      <TotalExpenses>308286</TotalExpenses>
+      <ExcessOrDeficitForYear>-47656</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>226635</NetUnrealizedGLOnInvestments>
+      <TotalAdjustments>226635</TotalAdjustments>
+      <ExcessOrDeficitPerFS>178979</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>487265</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>226635</NetUnrealizedGainsInvestments>
+      <RevenueNotRptdF990>226635</RevenueNotRptdF990>
+      <RevenueSubtotal>260630</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>260630</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>308286</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>308286</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>308286</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Description of Intended Use of Endowment Funds:</Identifier>
+        <ReturnReference>Part V, Line 4:</ReturnReference>
+        <Explanation>THE LIBRARY HAS INTENTIONS OF USING THE EARNINGS OF THE ENDOWMENT FUNDS TO ASSIST IN FUNDING OPERATIONS WHILE KEEPING THE CORPUS INTACT.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>THE FORM 990 IS PROVIDED TO THE BOARD FOR REVIEW BEFORE IT IS ELECTRONICALLY FILED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 15b</ReturnReference>
+        <Explanation>THE COMMITTEE COLLECTS AND ANALYZES SALARY DATA FROM OTHER LIBRARIES IN SIMILAR GEOGRAPHICAL AND SERVICE AREAS BEFORE DELIBERATING AND DOCUMENTING THE SALARIES OF THE EXECUTIVE DIRECOR AND OTHER OFFICERS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section C, line 19</ReturnReference>
+        <Explanation>AVAILABLE BY REQUEST AT LIBRARY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Changes in Net Assets or Fund Balances:</Identifier>
+        <ReturnReference>Form 990, Part XI, line 5:</ReturnReference>
+        <Explanation>Net unrealized gains on investments: 226,635.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>AUDITOR SELECTION AND AUDIT REVIEW</Identifier>
+        <ReturnReference>FORM 990, PART XII, LINE 2C</ReturnReference>
+        <Explanation>THERE WERE NO CHANGES IN THE PROCESS FROM THE PRIOR YEAR.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

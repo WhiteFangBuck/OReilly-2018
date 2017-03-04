@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-20T08:15:06-04:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>WOLF &amp; COMPANY PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>99 HIGH STREET 21ST FLOOR</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>02110</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>043484588</EIN>
+      <Name>
+        <BusinessNameLine1>Florence SavingsEasthampton Branch</BusinessNameLine1>
+        <BusinessNameLine2>Charitable Foundation Inc</BusinessNameLine2>
+      </Name>
+      <NameControl>FLOR</NameControl>
+      <Phone>4135871761</Phone>
+      <USAddress>
+        <AddressLine1>85 MAIN STREET</AddressLine1>
+        <City>FLORENCE</City>
+        <State>MA</State>
+        <ZIPCode>01062</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Kevin R Day</Name>
+      <Title>Treasurer</Title>
+      <Phone>4135871761</Phone>
+      <DateSigned>2011-07-07</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jana B Bacon CPA</Name>
+      <Phone>6174399700</Phone>
+      <DatePrepared>2011-06-29</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>755243</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>0</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>53000</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>53000</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>0</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>2725</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>152636</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>2725</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>55725</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>55725</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>0</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSch">2000</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>2000</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="OthProfFeesSch">3000</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>3000</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>0</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">1000</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>0</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>6000</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>3000</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>2000</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>25000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>25000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>31000</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>3000</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>27000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>24725</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>52725</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>0</CashBOY>
+        <CashEOY>0</CashEOY>
+        <CashEOYFMV>0</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>108438</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>32243</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>32243</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>615786</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestCorpStockSch">722000</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>722000</InvestmentsCorpStockEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="OtherAssetsSch">18000</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="OtherAssetsSch">1000</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="OtherAssetsSch">1000</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>742224</TotalAssetsBOY>
+        <TotalAssetsEOY>755243</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>755243</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>0</AccountsPayableBOY>
+        <AccountsPayableEOY>0</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>742224</RetainedEarningsBOY>
+        <RetainedEarningsEOY>755243</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>742224</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>755243</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>742224</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>755243</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>742224</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>24725</ExcessOfRevenueOverExpenses>
+        <Subtotal>766949</Subtotal>
+        <OtherDecreases referenceDocumentId="OtherDecreasesSch">11706</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>755243</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SALE OF SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>152636</GrossSalesPrice>
+          <CostOrOtherBasis>149911</CostOrOtherBasis>
+          <GainOrLoss>2725</GainOrLoss>
+          <GainsMinusExcessOrLosses>2725</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>2725</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>38000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>700958</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.054212</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>45724</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>780511</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.058582</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>44201</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>806374</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.054815</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>44451</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>794429</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.055953</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>46544</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>810240</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.057445</DistributionRatioYear5>
+        <TotalDistributionRatio>0.281007</TotalDistributionRatio>
+        <AverageDistributionRatio>0.056201</AverageDistributionRatio>
+        <NetNoncharitableAssets>734833</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>41298</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>527</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>41825</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>27000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1055</InvestmentIncomeExciseTax>
+        <Subtotal>1055</Subtotal>
+        <TaxBasedOnInvestmentIncome>1055</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1192</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1192</TotalCreditsAndPayments>
+        <PenaltyForUnderpayment>21</PenaltyForUnderpayment>
+        <Overpayment>116</Overpayment>
+        <AmountCreditedToNextYear>116</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>SARAH DARLING</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4135871761</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>85 MAIN STREET</AddressLine1>
+          <City>FLORENCE</City>
+          <State>MA</State>
+          <ZIPCode>01062</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN F HEAPS JR</PersonName>
+          <USAddress>
+            <AddressLine1>65 ENGLEWOOD ROAD</AddressLine1>
+            <City>LONGMEADOW</City>
+            <State>MA</State>
+            <ZIPCode>01106</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SARAH E DARLING</PersonName>
+          <USAddress>
+            <AddressLine1>788 COLRAIN ROAD</AddressLine1>
+            <City>GREENFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01301</ZIPCode>
+          </USAddress>
+          <Title>ASSISTANT TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DOUGLAS H BURR</PersonName>
+          <USAddress>
+            <AddressLine1>1339 TINKHAM ROAD</AddressLine1>
+            <City>WILBRAHAM</City>
+            <State>MA</State>
+            <ZIPCode>01095</ZIPCode>
+          </USAddress>
+          <Title>CLERK</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT F EBERT</PersonName>
+          <USAddress>
+            <AddressLine1>LINE STREET</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>IRVING R ROSAZZA</PersonName>
+          <USAddress>
+            <AddressLine1>101 HOWARD STREET</AddressLine1>
+            <City>BELCHERTOWN</City>
+            <State>MA</State>
+            <ZIPCode>01007</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS WHITELEY</PersonName>
+          <USAddress>
+            <AddressLine1>46 MAPLE STREET</AddressLine1>
+            <City>SOUTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01073</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS C MCCARTHY</PersonName>
+          <USAddress>
+            <AddressLine1>325 MAIN STREET</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>VIRGINIA L SMITH</PersonName>
+          <USAddress>
+            <AddressLine1>9 LAUREL HILL ROAD</AddressLine1>
+            <City>WESTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DONALD LAPLANTE</PersonName>
+          <USAddress>
+            <AddressLine1>355 MAIN STREET</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NANCY LABOMBARD</PersonName>
+          <USAddress>
+            <AddressLine1>10 PAUL STREET</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KEVIN R DAY</PersonName>
+          <USAddress>
+            <AddressLine1>10 FOX RUN</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>746023</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>746023</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>746023</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>11190</CashDeemedCharitable>
+        <NetNoncharitableAssets>734833</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>36742</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>36742</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1055</TaxBasedOnInvestmentIncome>
+        <TotalTax>1055</TotalTax>
+        <DistributableAmountBeforeAdj>35687</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>35687</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>35687</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>27000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>27000</QualifyingDistributions>
+        <AdjQualifyingDistributions>27000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>35687</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>7014</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>5998</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>5050</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>7750</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>4012</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>29824</TotalExcessDistriCarryover>
+        <QualifyingDistributions>27000</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToCurrentYear>27000</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>8687</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>8687</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>21137</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>21137</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>4325</ExcessFromYear4>
+        <ExcessFromYear3>5050</ExcessFromYear3>
+        <ExcessFromYear2>7750</ExcessFromYear2>
+        <ExcessFromYear1>4012</ExcessFromYear1>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>NA</ContributingManager>
+        <ShareholderManager>NA</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>Sarah Darling</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>85 Main Street</AddressLine1>
+            <City>Florence</City>
+            <State>MA</State>
+            <ZIPCode>01062</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4135871761</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATION AVAILABLE AT ABOVE ADDRESS</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>SEE APPLICATION FOR DEADLINES</SubmissionDeadlines>
+          <RestrictionsOnAwards>ONLY TO TAX EXEMPT ORGANIZATIONS THAT QUALIFY AS AN IRC SECTION 501(C)(3) ENTITY AND SERVE PRIMARILY THE EASTHAMPTON COMMUNITY AND ITS VICINITY.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RIVERSIDE INDUSTRIES INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ONE COTTAGE STREET</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SILENT AND LIVE AUCTION</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EASTHAMPTON LEARNING FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6 CAMPUS LANE</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EXEMPT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EASTHAMPTON CITY ARTS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>50 PAYSON AVENUE</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ARTS PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EASTHAMPTON CHAMBER OF COMMERCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>33 UNION STREET</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>STRATEGIC PLANNING PROCESS</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LIONS CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 92</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ENDOWMENT GIFT</PurposeOfGrantOrContribution>
+          <Amount>4500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EMILY WILLISTON LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9 PARK STREET</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMPUTERS</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HAMPSHIRE EDUCATIONAL COLLABORATIVE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>70 WILLISTON AVE</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EXEMPT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EASTHAMPTON MICKEY MANTLE BASEBALL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 DALEY FIELD ROAD</AddressLine1>
+            <City>EASTAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNIFORMS, EQUIPMENT AND FEES</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EASTHAMPTON COMMUNITY CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>12 CLARK STREET</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HANDICAPPED ACCESSIBLE RAMP</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WHITE BROOK SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>200 PARK STREET</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RENOVATE MIDDLE SCHOOL GYM</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>25000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst />
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>53000</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>2725</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>55725</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>55725</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFees>
+        <Category>WOLF &amp; COMPANY</Category>
+        <Amount>2000</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2000</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUNDS</NameOfStock>
+        <EOYBookValue>722000</EOYBookValue>
+        <EOYFMV>722000</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssets>
+        <Description>ACCRUAL OF INTEREST</Description>
+        <BOYBookValue>17000</BOYBookValue>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>ACCRUAL OF TAXES</Description>
+        <BOYBookValue>1000</BOYBookValue>
+        <EOYBookValue>1000</EOYBookValue>
+        <EOYFMV>1000</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreases>
+        <Description>CHANGE IN MARKET VALUE OF INVESTMENTS</Description>
+        <Amount>11706</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT ADVISORY FEE</Category>
+        <Amount>3000</Amount>
+        <NetInvestmentIncome>3000</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX</Category>
+        <Amount>1000</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

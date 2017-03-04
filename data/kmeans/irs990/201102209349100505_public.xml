@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T10:25:16-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Webb Smith and Cole PLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO Box 180123</AddressLine1>
+        <City>Fort Smith</City>
+        <State>AR</State>
+        <ZIPCode>729180123</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>260238914</EIN>
+      <Name>
+        <BusinessNameLine1>Crossroads Rodeo Ministries</BusinessNameLine1>
+      </Name>
+      <NameControl>CROS</NameControl>
+      <USAddress>
+        <AddressLine1>7434 N State Hwy 78</AddressLine1>
+        <City>Ravenna</City>
+        <State>TX</State>
+        <ZIPCode>75476</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Mike Haughton</Name>
+      <Title>Director</Title>
+      <DateSigned>2011-08-04</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>J T Smith CPA</Name>
+      <Phone>4797823513</Phone>
+      <DatePrepared>2011-08-04</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>5998</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>20770</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <TotalRevenueAndExpenses>20770</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="STM108">475</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>475</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="STM103">1593</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>1593</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>2068</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>2068</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>30566</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>30566</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>32634</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>32634</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-11864</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>17862</CashBOY>
+        <CashEOY>5998</CashEOY>
+        <CashEOYFMV>5998</CashEOYFMV>
+        <TotalAssetsBOY>17862</TotalAssetsBOY>
+        <TotalAssetsEOY>5998</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>5998</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>17862</UnrestrictedBOY>
+        <UnrestrictedEOY>5998</UnrestrictedEOY>
+        <TotalNetAssetsBOY>17862</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>5998</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>17862</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>5998</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>17862</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-11864</ExcessOfRevenueOverExpenses>
+        <Subtotal>5998</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>5998</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <AdjustedNoncharitableAssets>0</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfPersonName>Michael J Haughton</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9036404718</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO Box 90</AddressLine1>
+          <City>Ravenna</City>
+          <State>TX</State>
+          <ZIPCode>75476</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Michael J Haughton</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 90</AddressLine1>
+            <City>Ravenna</City>
+            <State>TX</State>
+            <ZIPCode>75476</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>5</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Sherry Haughton</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 90</AddressLine1>
+            <City>Ravenna</City>
+            <State>TX</State>
+            <ZIPCode>75476</ZIPCode>
+          </USAddress>
+          <Title>Board Member</Title>
+          <AvgHoursPerWkDevotedToPosition>2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jared Haughton</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 90</AddressLine1>
+            <City>Ravenna</City>
+            <State>TX</State>
+            <ZIPCode>75476</ZIPCode>
+          </USAddress>
+          <Title>Board Member</Title>
+          <AvgHoursPerWkDevotedToPosition>2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Peggy Hill</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 90</AddressLine1>
+            <City>Ravenna</City>
+            <State>TX</State>
+            <ZIPCode>75476</ZIPCode>
+          </USAddress>
+          <Title>Board Member</Title>
+          <AvgHoursPerWkDevotedToPosition>2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>H J Weeden</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 90</AddressLine1>
+            <City>Ravenna</City>
+            <State>TX</State>
+            <ZIPCode>75476</ZIPCode>
+          </USAddress>
+          <Title>Board Member</Title>
+          <AvgHoursPerWkDevotedToPosition>2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Kings Trail Cowboy Church</Description1>
+        <Expenses1>6000</Expenses1>
+        <Description2>ShilohFourTwelve Ministries</Description2>
+        <Expenses2>14500</Expenses2>
+        <Description3>Guitar Center Ministries</Description3>
+        <Expenses3>4516</Expenses3>
+        <Description4>Tommy Cook Ministries</Description4>
+        <Expenses4>2700</Expenses4>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NA</Description1>
+        <Amount1>0</Amount1>
+        <Description2>NA</Description2>
+        <Amount2>0</Amount2>
+        <AllOthProgRltdInvestmentsTotal referenceDocumentId="STM142">0</AllOthProgRltdInvestmentsTotal>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>32634</ExpensesAndContributions>
+        <QualifyingDistributions>32634</QualifyingDistributions>
+        <AdjQualifyingDistributions>32634</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <UndistributedIncomePriorYear>17862</UndistributedIncomePriorYear>
+        <QualifyingDistributions>32634</QualifyingDistributions>
+        <AppliedToYear1>17862</AppliedToYear1>
+        <RemainingDistriFromCorpus>14772</RemainingDistriFromCorpus>
+        <TotalCorpus>14772</TotalCorpus>
+        <ExcessDistriCyovToNextYear>14772</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>14772</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>2007-05-25</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <QualifyingDistributions>
+          <CurrentYear>32634</CurrentYear>
+          <Year1>10353</Year1>
+          <Total>42987</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>32634</CurrentYear>
+          <Year1>10353</Year1>
+          <Total>42987</Total>
+        </QlfyDistriMadeDirectly>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Shiloh-FourTwelve Ministries</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 1777</AddressLine1>
+            <City>Mansfield</City>
+            <State>TX</State>
+            <ZIPCode>76063</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>Charity</RecipientRelationship>
+          <RecipientFoundationStatus>Non Profit</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Music andChristianMinistry</PurposeOfGrantOrContribution>
+          <Amount>14500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Kings Trail Cowboy Church</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2620 CR 1106</AddressLine1>
+            <City>Anna</City>
+            <State>TX</State>
+            <ZIPCode>75409</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>Chairty</RecipientRelationship>
+          <RecipientFoundationStatus>Non Profit</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ChristianMinistry</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>20500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="STM108">
+      <AccountingFees>
+        <Category>Accounting Fees</Category>
+        <Amount>475</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>475</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="STM142">
+      <AllOthProgRltdInvestments>
+        <Description>NA</Description>
+        <Amount>0</Amount>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpenses>
+        <Description>Supplies</Description>
+        <RevenueAndExpensesPerBooks>1593</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1593</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

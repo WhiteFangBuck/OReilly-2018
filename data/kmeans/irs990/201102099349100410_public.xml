@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T15:45:31-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HELLMAN ACCOUNTING</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>621 GRANT STREET</AddressLine1>
+        <City>WATERLOO</City>
+        <State>IA</State>
+        <ZIPCode>50702</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>426504587</EIN>
+      <Name>
+        <BusinessNameLine1>TESTAMENTARY TRUST FIRST</BusinessNameLine1>
+        <BusinessNameLine2>PRESBYTERIAN CHURCH</BusinessNameLine2>
+      </Name>
+      <NameControl>TEST</NameControl>
+      <USAddress>
+        <AddressLine1>682 PALISADES ACCESS ROAD</AddressLine1>
+        <City>ELY</City>
+        <State>IA</State>
+        <ZIPCode>52227</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THOMAS VAVRA</Name>
+      <Title>PRESIDENT</Title>
+      <DateSigned>2011-07-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>STEVEN HELLMAN</Name>
+      <Phone>3192354450</Phone>
+      <DatePrepared>2011-07-28</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>2</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>2</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>2174</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2174</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>2176</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>2176</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">488</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>488</AccountingFeesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>488</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>488</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>488</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>488</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>1688</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1688</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>6118</CashBOY>
+        <CashEOY>6726</CashEOY>
+        <InvestmentsCorpStockBOY>130882</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">125701</InvestmentsCorpStockEOY>
+        <TotalAssetsBOY>137000</TotalAssetsBOY>
+        <TotalAssetsEOY>132427</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <GrantsPayableBOY>23047</GrantsPayableBOY>
+        <GrantsPayableEOY>28741</GrantsPayableEOY>
+        <TotalLiabilitiesBOY>23047</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>28741</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>113953</RetainedEarningsBOY>
+        <RetainedEarningsEOY>103686</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>113953</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>103686</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>137000</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>132427</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>113953</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>1688</ExcessOfRevenueOverExpenses>
+        <Subtotal>115641</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc5">11955</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>103686</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>11890</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>178898</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.066462</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>15415</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>245012</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.062915</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>24075</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>240112</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.100266</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>23330</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>275895</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.084561</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>22440</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>272345</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.082395</DistributionRatioYear5>
+        <TotalDistributionRatio>0.396599</TotalDistributionRatio>
+        <AverageDistributionRatio>0.079320</AverageDistributionRatio>
+        <NetNoncharitableAssets>186581</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>14800</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>17</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>14817</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>11955</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>34</InvestmentIncomeExciseTax>
+        <Subtotal>34</Subtotal>
+        <TaxBasedOnInvestmentIncome>34</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>200</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>200</TotalCreditsAndPayments>
+        <Overpayment>166</Overpayment>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+        <AmountToBeRefunded>166</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>IA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THOMAS VAVRA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3198487604</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>682 PALISADES ACCESS ROAD</AddressLine1>
+          <City>ELY</City>
+          <State>IA</State>
+          <ZIPCode>52227</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>true</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">THOMAS VAVRA</PersonName>
+          <USAddress>
+            <AddressLine1>682 PALISADES ACCESS ROAD</AddressLine1>
+            <City>ELY</City>
+            <State>IA</State>
+            <ZIPCode>52227</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">LUMIR ZAHRADNIK</PersonName>
+          <USAddress>
+            <AddressLine1>682 PALISADES ACCESS ROAD</AddressLine1>
+            <City>ELY</City>
+            <State>IA</State>
+            <ZIPCode>52227</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">W DAVID FALTIS</PersonName>
+          <USAddress>
+            <AddressLine1>682 PALISADES ACCESS ROAD</AddressLine1>
+            <City>ELY</City>
+            <State>IA</State>
+            <ZIPCode>52227</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>187411</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>2011</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>189422</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>189422</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2841</CashDeemedCharitable>
+        <NetNoncharitableAssets>186581</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>9329</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>9329</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>34</TaxBasedOnInvestmentIncome>
+        <TotalTax>34</TotalTax>
+        <DistributableAmountBeforeAdj>9295</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>9295</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>9295</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+        <AmountsSetAsideCashDistriTest>11955</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>11955</QualifyingDistributions>
+        <AdjQualifyingDistributions>11955</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>9295</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>93</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>112</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>81</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>128</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>3022</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>3436</TotalExcessDistriCarryover>
+        <QualifyingDistributions>11955</QualifyingDistributions>
+        <AppliedToCurrentYear>9295</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>2660</RemainingDistriFromCorpus>
+        <TotalCorpus>6096</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>93</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>6003</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>112</ExcessFromYear4>
+        <ExcessFromYear3>81</ExcessFromYear3>
+        <ExcessFromYear2>128</ExcessFromYear2>
+        <ExcessFromYear1>3022</ExcessFromYear1>
+        <ExcessFromCurrentYear>2660</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>TOM VAVRA</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>682 PALISADES ACCESS ROAD</AddressLine1>
+            <City>ELY</City>
+            <State>IA</State>
+            <ZIPCode>52227</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>3198487604</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NONE</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>LIMITED TO TUITION COSTS</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2174</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>2176</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>2176</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>488</Amount>
+        <NetInvestmentIncome>488</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>THOMAS VAVRA</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>LUMIR ZAHRADNIK</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>W DAVID FALTIS</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>NEW COVENANT BALANCED GROWTH FUND</NameOfStock>
+        <EOYBookValue>125701</EOYBookValue>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc5">
+      <OtherDecreases>
+        <Description>SCHOLARSHIPS AWARDED</Description>
+        <Amount>11955</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+  </ReturnData>
+</Return>

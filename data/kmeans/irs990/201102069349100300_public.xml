@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T08:44:24-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>TAMMINGA &amp; LEVERING ACCTS INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11304 EDGEWATER DRIVE SUITE C</AddressLine1>
+        <City>ALLENDALE</City>
+        <State>MI</State>
+        <ZIPCode>49401</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>383502922</EIN>
+      <Name>
+        <BusinessNameLine1>KERKSTRA FAMILY</BusinessNameLine1>
+        <BusinessNameLine2>CHARITABLE FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>KERK</NameControl>
+      <USAddress>
+        <AddressLine1>8609 CEDAR LAKE DRIVE</AddressLine1>
+        <City>JENISON</City>
+        <State>MI</State>
+        <ZIPCode>494289559</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>LAWRENCE D KERKSTRA</Name>
+      <Title>PRESIDENT</Title>
+      <DateSigned>2011-07-11</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>DANIEL L CURTIS CPA</Name>
+      <Phone>6168956126</Phone>
+      <DatePrepared>2011-07-11</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>234822</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>5720</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>26</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>5720</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>2195</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2195</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>2195</DividendsAdjNetIncm>
+        <TotalRevenueAndExpenses>7915</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>2221</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>7915</TotalAdjustedNetIncome>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">2088</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>2088</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>2088</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2088</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>19900</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>19900</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>21988</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2088</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>19900</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-14073</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>133</NetInvestmentIncome>
+        <AdjustedNetIncome>7915</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>68358</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>44238</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>44238</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>180736</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">190782</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>190584</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>249094</TotalAssetsBOY>
+        <TotalAssetsEOY>235020</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>234822</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>249094</RetainedEarningsBOY>
+        <RetainedEarningsEOY>235020</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>249094</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>235020</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>249094</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>235020</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>249094</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-14073</ExcessOfRevenueOverExpenses>
+        <Subtotal>235021</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc5">1</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>235020</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>52643</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>286971</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.183444</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>15000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>360855</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.041568</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>22250</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>454848</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.048917</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>21000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>472041</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.044488</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>24075</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>375321</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.064145</DistributionRatioYear5>
+        <TotalDistributionRatio>0.382562</TotalDistributionRatio>
+        <AverageDistributionRatio>0.076512</AverageDistributionRatio>
+        <NetNoncharitableAssets>252225</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>19298</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>19299</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>19900</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>1</InvestmentIncomeExciseTax>
+        <Subtotal>1</Subtotal>
+        <TaxBasedOnInvestmentIncome>1</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2345</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>2345</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId="RetDoc2">X</Form2220Attached>
+        <Overpayment>2344</Overpayment>
+        <AmountCreditedToNextYear>2344</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>LAWRENCE D KERKSTRA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6168956126</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>8609 CEDAR LAKE DRIVE</AddressLine1>
+          <City>JENISON</City>
+          <State>MI</State>
+          <ZIPCode>494289559</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">LAWRENCE D KERKSTRA</PersonName>
+          <USAddress>
+            <AddressLine1>8609 CEDAR LAKE DRIVE</AddressLine1>
+            <City>JENISON</City>
+            <State>MI</State>
+            <ZIPCode>494289559</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">VIRGINIA KERKSTRA</PersonName>
+          <USAddress>
+            <AddressLine1>8609 CEDAR LAKE DRIVE</AddressLine1>
+            <City>JENISON</City>
+            <State>MI</State>
+            <ZIPCode>494289559</ZIPCode>
+          </USAddress>
+          <Title>SEC/TREAS.</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>DONATIONS TO RELIGIOUS OUTREACH ORGANIZATIONS 9,500 -EIGHT ORGANIZATIONS INCLUDED-</Description1>
+        <Description2>DONATIONS TO COMMUNITY OUTREACH ORGANIZATIONS 6,900 -TEN ORGANIZATIONS INCLUDED-</Description2>
+        <Description3>DONATIONS TO EDUCATION OUTREACH ORGANIZATIONS 2,500 -THREE ORGANIZATIONS INCLUDED-</Description3>
+        <Description4>DONATIONS TO MEDICAL RESEARCH ORGANIZATIONS 1,000 -ONE ORGANIZATION INCLUDED-</Description4>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>192524</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>63542</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>256066</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>256066</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3841</CashDeemedCharitable>
+        <NetNoncharitableAssets>252225</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>12611</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>12611</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1</TaxBasedOnInvestmentIncome>
+        <TotalTax>1</TotalTax>
+        <DistributableAmountBeforeAdj>12610</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>12610</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>12610</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>19900</ExpensesAndContributions>
+        <QualifyingDistributions>19900</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>1</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>19899</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>12610</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>6986</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear3>2263</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear1>38508</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>47757</TotalExcessDistriCarryover>
+        <QualifyingDistributions>19900</QualifyingDistributions>
+        <AppliedToCurrentYear>12610</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>7290</RemainingDistriFromCorpus>
+        <TotalCorpus>55047</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>6986</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>48061</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>2263</ExcessFromYear3>
+        <ExcessFromYear1>38508</ExcessFromYear1>
+        <ExcessFromCurrentYear>7290</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>LAWRENCE KERKSTRA</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>8609 CEDAR LAKE DRIVE</AddressLine1>
+            <City>JENISON</City>
+            <State>MI</State>
+            <ZIPCode>494289559</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6168956126</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN APPLICATION INCLUDING ALL PERTINENT INFORMATION CONCERNING THE ORGANIZATION.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>SEPTEMBER 30</SubmissionDeadlines>
+          <RestrictionsOnAwards>ALL AWARDS ARE AT THE DISCRETION OF THE DIRECTORS/OFFICERS.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ADOPTION ASSOCIATES INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1338 BALDWIN STREET</AddressLine1>
+            <City>JENISON</City>
+            <State>MI</State>
+            <ZIPCode>49428</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COMMUNITY OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOYS AND GIRLS CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>235 STRAIGHT AVE NW</AddressLine1>
+            <City>GRAND RAPIDS</City>
+            <State>MI</State>
+            <ZIPCode>49504</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COMMUNITY OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ECHO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>17391 DURRANCE ROAD</AddressLine1>
+            <City>N FORT MYERS</City>
+            <State>FL</State>
+            <ZIPCode>33917</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COMMUNITY OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FOCUS ON THE FAMILY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>N/A</AddressLine1>
+            <City>COLORADO SPRINGS</City>
+            <State>CO</State>
+            <ZIPCode>80995</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COMMUNITY OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GRAND RPDS COMM FOUNDATIO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>185 OAKES ST SW</AddressLine1>
+            <City>GRAND RAPIDS</City>
+            <State>MI</State>
+            <ZIPCode>49503</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COMMUNITY OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARBOR HOUSE MATERNITY HM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 357</AddressLine1>
+            <City>CELINA</City>
+            <State>OH</State>
+            <ZIPCode>458220357</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COMMUNITY OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOLLAND RESCUE MISSION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>356 FAIRBANKS AVENUE</AddressLine1>
+            <City>HOLLAND</City>
+            <State>MI</State>
+            <ZIPCode>49423</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COMMUNITY OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOPE FOR KIDS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>150 N RADNOR CHESTER RD</AddressLine1>
+            <AddressLine2>SUITE F-200</AddressLine2>
+            <City>RADNOR</City>
+            <State>PA</State>
+            <ZIPCode>19087</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COMMUNITY OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LOVE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3300 VAN BUREN</AddressLine1>
+            <City>HUDSONVILLE</City>
+            <State>MI</State>
+            <ZIPCode>49426</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COMMUNITY OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SUNSET ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>725 BALDWIN ST</AddressLine1>
+            <City>JENISON</City>
+            <State>MI</State>
+            <ZIPCode>49428</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COMMUNITY OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GRANDVILLE CHR SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3934 WILSON AVE</AddressLine1>
+            <City>GRANDVILLE</City>
+            <State>MI</State>
+            <ZIPCode>49418</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>EDUCATION OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KUYPER COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3333 EAST BELTLINE NE</AddressLine1>
+            <City>GRAND RAPIDS</City>
+            <State>MI</State>
+            <ZIPCode>49525</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>EDUCATION OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRINITY CHRISTIAN COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6601 W COLLEGE DRIVE</AddressLine1>
+            <City>PALOS HEIGHTS</City>
+            <State>IL</State>
+            <ZIPCode>60463</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>EDUCATION OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VAN ANDEL INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>333 BOSTWICK AVE NE</AddressLine1>
+            <City>GRAND RAPIDS</City>
+            <State>MI</State>
+            <ZIPCode>49503</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>MEDICAL RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BIBLICAL COUNSELING CTR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6621 ENCHANTED DRIVE</AddressLine1>
+            <City>YPSILANTI</City>
+            <State>MI</State>
+            <ZIPCode>48197</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COVENANT REF CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1>259 ALBION RD</AddressLine1>
+            <City>TORONTO</City>
+            <ProvinceOrState>ONTARIO</ProvinceOrState>
+            <Country>CA</Country>
+          </RecipientForeignAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CROSSROADS MINISTRIES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>14701 US HIGHWAY 27 NORTH</AddressLine1>
+            <City>MARSHALL</City>
+            <State>MI</State>
+            <ZIPCode>49068</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GREATER EUROPE MISSION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>18950 BASE CAMP ROAD</AddressLine1>
+            <City>MONUMENT</City>
+            <State>CO</State>
+            <ZIPCode>80132</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ITEM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 31456</AddressLine1>
+            <City>ST LOUIS</City>
+            <State>MO</State>
+            <ZIPCode>631310456</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MESSIAH'S REF FELLOWSHIP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2064 E 67TH STREET</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11234</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE BIBLE LEAGUE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>16801 VAN DAM RD</AddressLine1>
+            <City>SOUTH HOLLAND</City>
+            <State>IL</State>
+            <ZIPCode>60473</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUTH FOR CHRIST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3523 LOUSMA DRIVE SE</AddressLine1>
+            <City>GRAND RAPIDS</City>
+            <State>MI</State>
+            <ZIPCode>495482268</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS OUTREACH</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>19900</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5720</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2195</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>7915</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>7915</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>LAWRENCE D KERKSTRA</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>VIRGINIA KERKSTRA</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>POWERSHARES INSURED NATL MUNI BOND</NameOfStock>
+        <EOYBookValue>50034</EOYBookValue>
+        <EOYFMV>48010</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES 3000 VALUE FUND</NameOfStock>
+        <EOYBookValue>29987</EOYBookValue>
+        <EOYFMV>34100</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES BARCLAYS TIPS BOND FUND</NameOfStock>
+        <EOYBookValue>49932</EOYBookValue>
+        <EOYFMV>50534</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EATON VANCE INS MI MU BD FUND</NameOfStock>
+        <EOYBookValue>50783</EOYBookValue>
+        <EOYFMV>46878</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES MSCI EAFE INDEX FUND</NameOfStock>
+        <EOYBookValue>10046</EOYBookValue>
+        <EOYFMV>11062</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc5">
+      <OtherDecreases>
+        <Description>ROUNDING</Description>
+        <Amount>1</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT ACCOUNT FEES</Description>
+        <RevenueAndExpensesPerBooks>2088</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2088</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

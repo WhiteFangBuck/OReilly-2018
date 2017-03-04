@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T06:17:58-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>RRB Accounting Consulting &amp; Tax Services LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>4651 Roswell Rd Suite I-804</AddressLine1>
+        <City>Atlanta</City>
+        <State>GA</State>
+        <ZIPCode>30342</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>581486620</EIN>
+      <Name>
+        <BusinessNameLine1>ANDREW &amp; EULA CARLOS FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>ANDR</NameControl>
+      <Phone>4048123811</Phone>
+      <USAddress>
+        <AddressLine1>750 PARK AVE</AddressLine1>
+        <City>ATLANTA</City>
+        <State>GA</State>
+        <ZIPCode>30326</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>EULA CARLOS</Name>
+      <Title>President</Title>
+      <DateSigned>2011-07-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>J RICHARD BERNSTEIN</Name>
+      <Phone>4042550200</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>11803</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>6</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>6</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>6</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>6</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>6</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>6</TotalAdjustedNetIncome>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">30</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>30</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>30</TaxesAdjNetIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">12</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>12</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>12</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>42</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>42</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>42</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3850</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3850</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>3892</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>42</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>42</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>3850</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-3886</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>2769</CashBOY>
+        <CashEOY>1913</CashEOY>
+        <CashEOYFMV>1913</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>12890</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>9890</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>9890</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>15659</TotalAssetsBOY>
+        <TotalAssetsEOY>11803</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>11803</TotalAssetsEOYFMV>
+        <OtherLiabilitiesEOY referenceDocumentId=" OtherLiabilitiesSchedule">30</OtherLiabilitiesEOY>
+        <TotalLiabilitiesEOY>30</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>15659</UnrestrictedBOY>
+        <UnrestrictedEOY>11773</UnrestrictedEOY>
+        <TotalNetAssetsBOY>15659</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>11773</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>15659</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>11803</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>15659</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-3886</ExcessOfRevenueOverExpenses>
+        <Subtotal>11773</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>11773</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>85325</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>15716</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>5.42918</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>46720</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>16806</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>2.77996</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>96748</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>25292</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>3.82524</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>84066</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>95939</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.87624</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>1353566</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>268078</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>5.04915</DistributionRatioYear5>
+        <TotalDistributionRatio>17.95978</TotalDistributionRatio>
+        <AverageDistributionRatio>3.59196</AverageDistributionRatio>
+        <NetNoncharitableAssets>15314</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>55007</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>55007</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>3850</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <EstTaxPaymentsAndOverpayment>50</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>50</TotalCreditsAndPayments>
+        <Overpayment>50</Overpayment>
+        <AmountCreditedToNextYear>50</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>HELEN CARLOS</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4048707171</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>75 14TH STREET</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30339</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EULA CARLOS</PersonName>
+          <USAddress>
+            <AddressLine1>750 PARK AVE 15SE</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30326</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>THE FOUNDATION DOES NOT HAVE ANY DIRECT CHARITABLE ACTIVITIES. ALL CONTRIBUTIONS ARE MADE TO EXEMPT ORGANIZATIONS.</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>15547</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>15547</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>15547</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>233</CashDeemedCharitable>
+        <NetNoncharitableAssets>15314</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>766</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>766</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>766</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>766</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>766</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>3850</ExpensesAndContributions>
+        <QualifyingDistributions>3850</QualifyingDistributions>
+        <AdjQualifyingDistributions>3850</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>766</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>1340206</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>79282</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>95485</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>45880</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>84539</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1645392</TotalExcessDistriCarryover>
+        <QualifyingDistributions>3850</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>766</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>3084</RemainingDistriFromCorpus>
+        <TotalCorpus>1648476</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>1340206</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>308270</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>79282</ExcessFromYear4>
+        <ExcessFromYear3>95485</ExcessFromYear3>
+        <ExcessFromYear2>45880</ExcessFromYear2>
+        <ExcessFromYear1>84539</ExcessFromYear1>
+        <ExcessFromCurrentYear>3084</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>EULA CARLOS</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAINT BASIL ACCADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>79 SAINT BASIL ROAD</AddressLine1>
+            <City>GARRISON</City>
+            <State>NY</State>
+            <ZIPCode>10524</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DIAKONIA RETREAT CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>455 QUAIL RIDGE ROAD</AddressLine1>
+            <City>SALEM</City>
+            <State>SC</State>
+            <ZIPCode>29678</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HELLENIC COLLEGE OFF VOCATION MINISTRY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>50 GODDARD AVE</AddressLine1>
+            <City>BROOKLINE</City>
+            <State>MA</State>
+            <ZIPCode>02445</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MAKE A WISH FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1775 THE EXCHANGE 200</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30339</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ORTHODOX CHRISTIAN MISSION CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>220 MASON MANATEE WAY</AddressLine1>
+            <City>ST AUGUSTINE</City>
+            <State>FL</State>
+            <ZIPCode>32086</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ATLANTA UNION MISSION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>165 ALEXANDER STREET</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30301</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ATLANTA FOOD BANK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>732 JOSEPH E LOWERY BLVD</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30318</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST MICHAELS HOME</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3 LEHMAN TERRACE</AddressLine1>
+            <City>YONKERS</City>
+            <State>NY</State>
+            <ZIPCode>10705</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STS RAPHAEL MICOLAS &amp; IRENE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 588</AddressLine1>
+            <City>CUMMING</City>
+            <State>GA</State>
+            <ZIPCode>30028</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>religious</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EMPTY STOCKING FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1975 CENTURY BLVD SUITE 16</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30345</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FOCUS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3050 PRESIDENTAL DR</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30340</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INTL OXTHODOX CHARITIES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 W ROAD 360</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 5378</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>31107</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HELLENIC COLLEGE&amp; HOLY CROSS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>50 GODDARD AVE</AddressLine1>
+            <City>BROOKLINE</City>
+            <State>MA</State>
+            <ZIPCode>02445</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GREEK ORTH DIOCESE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2480 CLAIRMONT ROAD</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30329</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN RED CROSS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1955 MONROE DRIVE</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30324</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>3850</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>6</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>6</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>6</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>ALL INCOME FROM TEMPORARY INVESTMENTS ARE USED FOR CHARITABLE DONATIONS.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>12</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>12</NetInvestmentIncome>
+        <AdjustedNetIncome>12</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherLiabilities>
+        <Description>due for corp registration</Description>
+        <EOYBookValue>30</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>SECRETARY OF STATE CORP REGISTRATION</Category>
+        <Amount>30</Amount>
+        <NetInvestmentIncome>30</NetInvestmentIncome>
+        <AdjustedNetIncome>30</AdjustedNetIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

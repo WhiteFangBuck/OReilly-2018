@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T10:14:19-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MARGARET RM GUENOUN CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>100 W 89TH STREET 2E</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10024</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>261576412</EIN>
+      <Name>
+        <BusinessNameLine1>THE BENDIT FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>BEND</NameControl>
+      <Phone>2127247698</Phone>
+      <USAddress>
+        <AddressLine1>40 WEST 74TH STREET</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10023</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>KARYN K BENDIT</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>2127247698</Phone>
+      <DateSigned>2011-08-01</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MARGARET R GUENOUN</Name>
+      <Phone>2127247698</Phone>
+      <DatePrepared>2011-08-08</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1490936</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>58776</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>58776</DividendsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>44974</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>58776</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>103750</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss>1000</AccountingFeesRevAndExpnss>
+        <OtherProfFeesRevAndExpnss>9654</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>9654</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="00000007" referenceDocumentName="TaxesSchedule">850</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000005" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">250</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>11754</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>9654</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>294765</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>294765</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>306519</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>9654</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>294765</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-247743</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>94096</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>1590145</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>43826</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>43826</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherEOY referenceDocumentId="00000003" referenceDocumentName="InvestmentsOtherSchedule2">1342799</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>1446360</InvestmentsOtherEOYFMV>
+        <OtherAssetsEOY>750</OtherAssetsEOY>
+        <OtherAssetsEOYFMV>750</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>1590145</TotalAssetsBOY>
+        <TotalAssetsEOY>1387375</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1490936</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>1590145</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1387375</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1590145</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1387375</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1590145</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1387375</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1590145</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-247743</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="00000006" referenceDocumentName="OtherIncreasesSchedule">44974</OtherIncreases>
+        <Subtotal>1387376</Subtotal>
+        <OtherDecreases referenceDocumentId="00000004" referenceDocumentName="OtherDecreasesSchedule">1</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1387375</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <GrossSalesPrice>407007</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>362033</CostOrOtherBasis>
+          <GainOrLoss>44974</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>44974</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>44974</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>165350</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1600975</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.103281</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>204430</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1677609</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.121858</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>10000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2018000</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.004955</DistributionRatioYear3>
+        <TotalDistributionRatio>0.230094</TotalDistributionRatio>
+        <AverageDistributionRatio>0.076698</AverageDistributionRatio>
+        <NetNoncharitableAssets>1525407</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>116996</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>941</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>117937</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>294765</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>941</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>941</Subtotal>
+        <TaxBasedOnInvestmentIncome>941</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1000</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1000</TotalCreditsAndPayments>
+        <OriginalReturnOverpayment>-1000</OriginalReturnOverpayment>
+        <Form2220Attached referenceDocumentId="00000002" referenceDocumentName="IRS2220">X</Form2220Attached>
+        <Overpayment>59</Overpayment>
+        <AmountCreditedToNextYear>59</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>KARYN BENDIT</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2127247698</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>40 WEST 74TH ST</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10023</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLES R BENDIT</PersonName>
+          <USAddress>
+            <AddressLine1>40 WEST 74TH ST 2</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10024</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KARYN K BENDIT</PersonName>
+          <USAddress>
+            <AddressLine1>40 WEST 74TH ST 2</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10023</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1322948</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>225689</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1548637</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1548637</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>23230</CashDeemedCharitable>
+        <NetNoncharitableAssets>1525407</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>76270</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>76270</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>941</TaxBasedOnInvestmentIncome>
+        <TotalTax>941</TotalTax>
+        <DistributableAmountBeforeAdj>75329</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>75329</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>75329</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>294765</ExpensesAndContributions>
+        <QualifyingDistributions>294765</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>941</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>293824</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>75329</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>10000</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>204870</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>165350</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>380220</TotalExcessDistriCarryover>
+        <QualifyingDistributions>294765</QualifyingDistributions>
+        <RemainingDistriFromCorpus>294765</RemainingDistriFromCorpus>
+        <TotalCorpus>674985</TotalCorpus>
+        <UndistributedIncomeCY>75329</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>674985</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>10000</ExcessFromYear3>
+        <ExcessFromYear2>204870</ExcessFromYear2>
+        <ExcessFromYear1>165350</ExcessFromYear1>
+        <ExcessFromCurrentYear>294765</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>CHARLES KARYN BENDIT TRUSTEES</ContributingManager>
+        <ShareholderManager>NOT APPLICABLE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN JEWISH COMMITTEE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>165 EAST 56TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>4300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN JEWISH WORLD SERVICE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>45 WEST 36TH ST</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10018</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>11000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BROWN RISD HILLEL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>80 BROWN STREET</AddressLine1>
+            <City>PROVIDENCE</City>
+            <State>RI</State>
+            <ZIPCode>02906</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BROWN UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>110 ELM STREET</AddressLine1>
+            <City>PROVIDENCE</City>
+            <State>RI</State>
+            <ZIPCode>02912</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ENDOWED FINANCIALBENDITY FAMILYAID FUND</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CENTER FOR AMERICAN PROGRESS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1333 H STREET NW 10TH FL</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CITY FUTURES INC DBA CTR FOR URB FTR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>120 WALL STREET FL 20</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHAI LIFELINE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>151 WEST 30TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CIVIC BUILDERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>304 HUDSON STREET FL3</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10013</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CONGREGATION RODEPH SHOLOM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7 WEST 83RD ST</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>10180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS OF RODEPH SHOLOM SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7 WEST 83RD STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GEORGE JACKSON ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>104 ST MARKS PLACE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10009</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GEORGE WASHINGTON UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2201 G STREET NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20052</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FORBENDIT FUNDREAL ESTATE</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GEORGE WASHINGTON UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2201 G STREET NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20052</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>REAL ESTATE &amp;CENTER FORURBAN ANALYSIS</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE JCC IN MANHATTAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>334 AMSTERDAM AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10023</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>4700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LITTLE RED SCHOOL HOUSE &amp; E IRWIN HS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>272 SIXTH AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10014</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MANHATTAN THEATRE CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>311 WEST 43RD STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10036</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEW JERSEY Y CAMPS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>21 PLYMOUTH STREET</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>NJ</State>
+            <ZIPCode>07004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ORCHESTRA OF ST LUKE'S</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>450 WEST 37TH ST STE 502</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10018</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PARTNERS IN HEALTH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>888 COMMONWEALTH AVE FL3</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PENCIL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>30 WEST 26TH ST 5TH FL</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10010</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>35650</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SCOVILLE MEMORIAL LIBRARY ASSN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>38 MAIN STREET</AddressLine1>
+            <City>SALISBURY</City>
+            <State>CT</State>
+            <ZIPCode>06068</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALISBURY FIREHOUSE CAMPAIGN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>232 INDIAN MTN ROAD</AddressLine1>
+            <City>LAKEVILLE</City>
+            <State>CT</State>
+            <ZIPCode>06039</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FIREHOUSENEWFUND</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALISBURY VOLUNTEER AMBULANCE SERVICE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 582 UNDERMOUNTAIN RD</AddressLine1>
+            <City>SALISBURY</City>
+            <State>CT</State>
+            <ZIPCode>06068</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALISBURY WINTER SPORTS ASSN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 196</AddressLine1>
+            <City>SALISBURY</City>
+            <State>CT</State>
+            <ZIPCode>06068</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THYROID HEAD &amp; NECK CANCER FDTN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>304 PARK AVE SO 11TH FL</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10010</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TURNAROUND FOR CHILDREN INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>25 WEST 45TH ST 6TH FL</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10036</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1085</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UJA FEDERATION OF NEW YORK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>130 EAST 59TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE PURPOSEGENERALOF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>69550</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>294765</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsOtherSchedule2 documentId="00000003">
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS</CategoryOrItem>
+        <BookValue>1341066</BookValue>
+        <EOYFMV>1444627</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>REINVESTED FUNDS</CategoryOrItem>
+        <BookValue>1733</BookValue>
+        <EOYFMV>1733</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="00000004">
+      <OtherDecreases>
+        <Description>ROUNDING</Description>
+        <Amount>1</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="00000005">
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>250</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="00000006">
+      <OtherIncreases>
+        <Description>REALIZED CAPITAL GAINS</Description>
+        <Amount>44974</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="00000007">
+      <Taxes>
+        <Category>FEDERAL TAX 2009</Category>
+        <Amount>850</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,830 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-19T07:48:54-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ROSENSTEIN HALPER &amp; MASELLI LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>27 DRYDEN LANE</AddressLine1>
+        <City>PROVIDENCE</City>
+        <State>RI</State>
+        <ZIPCode>02904</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>050397612</EIN>
+      <Name>
+        <BusinessNameLine1>CHARLES SAMDPERIL HUMANITARIAN</BusinessNameLine1>
+        <BusinessNameLine2>MEMORIAL FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>CHAR</NameControl>
+      <Phone>5614836705</Phone>
+      <USAddress>
+        <AddressLine1>C/O ROSENSTEIN 27 DRYDEN LANE</AddressLine1>
+        <City>PROVIDENCE</City>
+        <State>RI</State>
+        <ZIPCode>02904</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARCIA MEYERS</Name>
+      <Title>TREASURER</Title>
+      <Phone>5614836705</Phone>
+      <DateSigned>2011-06-06</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>JAY N ROSENSTEIN CPA</Name>
+      <Phone>4013316851</Phone>
+      <DatePrepared>2011-06-06</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>784748</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>24183</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>21926</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>9440</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>9440</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-795</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>129125</GrossSalesPrice>
+        <TotalRevenueAndExpenses>32828</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>31366</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1000</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>1000</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">961</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>911</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>50</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1961</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>911</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1050</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>35325</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>35325</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>37286</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>911</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>36375</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-4458</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>30455</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>56097</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>20852</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>20852</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>405526</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">420373</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>383811</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>374024</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc4">390619</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>380085</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>835647</TotalAssetsBOY>
+        <TotalAssetsEOY>831844</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>784748</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc8">15000</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc8">15000</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>15000</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>15000</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>820647</RetainedEarningsBOY>
+        <RetainedEarningsEOY>816844</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>820647</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>816844</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>835647</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>831844</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>820647</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-4458</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc7">655</OtherIncreases>
+        <Subtotal>816844</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>816844</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FEDERAL FARM CREDIT BANK</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-19</DateAcquired>
+          <DateSold>2010-06-04</DateSold>
+          <GrossSalesPrice>15000</GrossSalesPrice>
+          <CostOrOtherBasis>14833</CostOrOtherBasis>
+          <GainOrLoss>167</GainOrLoss>
+          <GainsMinusExcessOrLosses>167</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BANK OF NY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-04-02</DateAcquired>
+          <DateSold>2010-10-15</DateSold>
+          <GrossSalesPrice>25000</GrossSalesPrice>
+          <CostOrOtherBasis>25000</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BANK OF NY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-07-30</DateAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>25000</GrossSalesPrice>
+          <CostOrOtherBasis>25000</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GEORGIA POWER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-05-18</DateAcquired>
+          <DateSold>2010-09-27</DateSold>
+          <GrossSalesPrice>19125</GrossSalesPrice>
+          <CostOrOtherBasis>20087</CostOrOtherBasis>
+          <GainOrLoss>-962</GainOrLoss>
+          <GainsMinusExcessOrLosses>-962</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MERILL LYNCH</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-09-17</DateAcquired>
+          <DateSold>2010-09-22</DateSold>
+          <GrossSalesPrice>10000</GrossSalesPrice>
+          <CostOrOtherBasis>10000</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>UPS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-04-14</DateAcquired>
+          <DateSold>2010-04-15</DateSold>
+          <GrossSalesPrice>15000</GrossSalesPrice>
+          <CostOrOtherBasis>15000</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>UPS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-01-20</DateAcquired>
+          <DateSold>2010-01-15</DateSold>
+          <GrossSalesPrice>20000</GrossSalesPrice>
+          <CostOrOtherBasis>20000</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-795</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>167</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>35450</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>669136</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.052979</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>40497</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>808849</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.050067</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>33279</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>916340</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.036317</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>34595</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>869401</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.039792</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>83199</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>904003</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.092034</DistributionRatioYear5>
+        <TotalDistributionRatio>0.271189</TotalDistributionRatio>
+        <AverageDistributionRatio>0.054238</AverageDistributionRatio>
+        <NetNoncharitableAssets>746597</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>40494</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>305</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>40799</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>36375</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>609</InvestmentIncomeExciseTax>
+        <Subtotal>609</Subtotal>
+        <TaxBasedOnInvestmentIncome>609</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>458</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>761</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>1219</TotalCreditsAndPayments>
+        <Overpayment>610</Overpayment>
+        <AmountCreditedToNextYear>610</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>RI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MARCIA MEYERS</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5614836705</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>7485 BONDSBERRY COURT</AddressLine1>
+          <City>BOCA RATON</City>
+          <State>FL</State>
+          <ZIPCode>33434</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">MARCIA MEYERS</PersonName>
+          <USAddress>
+            <AddressLine1>7485 BONDSBERRY COURT</AddressLine1>
+            <City>BOCA RATON</City>
+            <State>FL</State>
+            <ZIPCode>33434</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>CHARITABLE DONATIONS</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>703137</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>54829</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>757966</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>757966</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>11369</CashDeemedCharitable>
+        <NetNoncharitableAssets>746597</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>37330</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>37330</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>609</TaxBasedOnInvestmentIncome>
+        <TotalTax>609</TotalTax>
+        <DistributableAmountBeforeAdj>36721</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>36721</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>36721</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>36375</ExpensesAndContributions>
+        <QualifyingDistributions>36375</QualifyingDistributions>
+        <AdjQualifyingDistributions>36375</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>36721</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>20481</UndistributedIncomePriorYear>
+        <QualifyingDistributions>36375</QualifyingDistributions>
+        <AppliedToYear1>20481</AppliedToYear1>
+        <AppliedToCurrentYear>15894</AppliedToCurrentYear>
+        <UndistributedIncomeCY>20827</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ANTI DEFAMATION LEAGUE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1 PARK PLACE</AddressLine1>
+            <City>BOCA RATON</City>
+            <State>FL</State>
+            <ZIPCode>33434</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AUTISM SPEAKS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1 EAST 33RD STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BIRTHRIGHT ISRAEL FNDTN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1784</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10156</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BOCA RATON REGIONAL HOSPI</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>800 8TH STREET</AddressLine1>
+            <City>BOCA RATON</City>
+            <State>FL</State>
+            <ZIPCode>33486</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BOCA WEST CANCER RESEARCH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>19860 PLANTERS BLVD</AddressLine1>
+            <City>BOCA RATON</City>
+            <State>FL</State>
+            <ZIPCode>33434</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHINA ADOPTION WITH LOVE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>251 HARVARD STREET</AddressLine1>
+            <City>BROOKLINE</City>
+            <State>MA</State>
+            <ZIPCode>02446</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CONG BNAI ISRAEL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2710 PARK AVE</AddressLine1>
+            <City>BRIDGEPORT</City>
+            <State>CT</State>
+            <ZIPCode>06604</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>7940</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CULTURAL ALLIANNCE FFLD</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>70 SANFORD ST</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06824</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CURTAIN CALL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1349 NEWFIELD AVE</AddressLine1>
+            <City>STAMFORD</City>
+            <State>CT</State>
+            <ZIPCode>06905</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>EQUAL JUSTICE INITIATIVE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>122 COMMERCE STREET</AddressLine1>
+            <City>MONTGOMERY</City>
+            <State>AL</State>
+            <ZIPCode>36104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>IRVING MORIN SCHOLARSHIP</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>527 TORLSOME HILL RD</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06825</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEWISH FEDERATION -PALM B</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4601 COMMUNITY DRIVE</AddressLine1>
+            <City>WEST PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33417</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MOSES BROWN SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>250 LLOYD AVE</AddressLine1>
+            <City>PROVIDENCE</City>
+            <State>RI</State>
+            <ZIPCode>02906</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEW HAMPSHIRE CHARITABLE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>446 MARKET STREET</AddressLine1>
+            <City>PORTSMOUTH</City>
+            <State>NH</State>
+            <ZIPCode>03801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PROVIDENCE ANTHENAEUM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>251 BENEFIT STREET</AddressLine1>
+            <City>PROVIDENCE</City>
+            <State>RI</State>
+            <ZIPCode>02906</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PROVIDENCE PUBLIC LIBRARY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>150 EMPIRE STREET</AddressLine1>
+            <City>PROVIDENCE</City>
+            <State>RI</State>
+            <ZIPCode>02903</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RABBIS DISCRECITIONARY FU</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2710 PARK AVE</AddressLine1>
+            <City>BRIDGEPORT</City>
+            <State>CT</State>
+            <ZIPCode>06604</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SHARE OUR STRENGTH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 758979</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21275</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SOUTHERN CTR HUMAN RIGHTS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>83 POPLAR STREET NW</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30303</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TEMPLE BETH EL OF BOCA RA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>333 SW 4TH AVE</AddressLine1>
+            <City>BOCA RATON</City>
+            <State>FL</State>
+            <ZIPCode>33432</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>885</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TEMPLE HABONIM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>165 NEW MEADOW RD</AddressLine1>
+            <City>BARRINGTON</City>
+            <State>RI</State>
+            <ZIPCode>02806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE CENTER FOR WOMAN AND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>733 FAIRFIELD AVE</AddressLine1>
+            <City>BRIDGEPORT</City>
+            <State>CT</State>
+            <ZIPCode>06604</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE GORDON SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>45 MAXFIELD AVE</AddressLine1>
+            <City>EAST PROVIDENCE</City>
+            <State>RI</State>
+            <ZIPCode>02914</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE WHEELER SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>216 HOPE STREET</AddressLine1>
+            <City>PROVIDENCE</City>
+            <State>RI</State>
+            <ZIPCode>02906</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TS ALLIANCE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>801 ROEDER AVE</AddressLine1>
+            <City>SILVER SPRING</City>
+            <State>MD</State>
+            <ZIPCode>20910</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UJA FEDERATION OF EASTERN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4201 PARK AVE</AddressLine1>
+            <City>BRIDGEPORT</City>
+            <State>CT</State>
+            <ZIPCode>06604</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>2100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>35325</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>24183</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>9440</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>-795</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>32828</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>32828</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>1000</Amount>
+        <DisbursementsCharitablePrps>1000</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>MARCIA MEYERS</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorpBonds>
+        <NameOfBond>BANK AMER CRP SUBORDINATED INTERNOTE</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>BANK OF NY CO INC CORE NOTE</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>BANK OF NY CO INC CORE NOTE</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>BERKSHIRE HATHAWAY GUARNT CALLABLE</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>CENTRAL PUGET SOUND WA</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GENERAL ELEC CAP CORP INTERNOTES</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GENERAL ELEC CAP CORP INTERNOTES</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GENERAL ELEC CAP CORP INTERNOTES</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GENERAL ELEC CAP CORP INTERNOTES-5.2</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>LASALLE FUNDING LLC</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>LEHMAN BROTHERS HOLDING INC</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>MERRILL LYNCH &amp; CO NTS</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>SOUTHERN CO SENIOR NOTES</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>UNITED PARCEL SERVICE INC (4%)</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>UNITED PARCEL SERVICE INC (5%)</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>WAL MART GLOBAL NOTES</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>WASHOE COUNTY NV PARK</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>WALMART STORES SR UNSECURED</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FEDERAL FARM CREDIT BANKS</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FIXED INCOME SECURITIES</NameOfBond>
+        <EOYBookValue>390619</EOYBookValue>
+        <EOYFMV>380085</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>350 SHRS-ALTRIA GROUP</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>800 SHRS-CITIGROUP CAPITAL TRUST IX</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>6000 SHRS-GENERAL ELECTRIC CO.</NameOfStock>
+        <EOYBookValue>150000</EOYBookValue>
+        <EOYFMV>109740</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 SHRS FPL GROUP 8.75%</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>800 SHRS-GENERAL ELECT CAP 6%</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>765 SHRS-GEORGIA POWER</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>400 SHRS-HARRIS PFD CAPITAL SER A</NameOfStock>
+        <EOYBookValue>10000</EOYBookValue>
+        <EOYFMV>10084</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1284 SHRS-HONEYWELL INTL INC.</NameOfStock>
+        <EOYBookValue>60990</EOYBookValue>
+        <EOYFMV>68257</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 SHRS-ML CAPITAL TRUST</NameOfStock>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>23880</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>350 SHS -PHILIP MORRIS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>625 SHS PUBLIC STORAGE 7.25%</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>900 SHRS-ROYAL BANK SCOTLAND 7.25%</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>500-SHRS NUVEEN MULTI CURRENCY</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CORP STOCK</NameOfStock>
+        <EOYBookValue>51228</EOYBookValue>
+        <EOYFMV>55199</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUNDS</NameOfStock>
+        <EOYBookValue>20000</EOYBookValue>
+        <EOYFMV>16020</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PREFERREDS/FIXED RATE</NameOfStock>
+        <EOYBookValue>103155</EOYBookValue>
+        <EOYFMV>100631</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>50</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK &amp; INVESTMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>911</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>911</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc7">
+      <OtherIncreases>
+        <Description>NON DIVIDEND DISTRIBUTION</Description>
+        <Amount>655</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc8">
+      <OtherLiabilities>
+        <Description>EXCHANGE</Description>
+        <BOYBookValue>15000</BOYBookValue>
+        <EOYBookValue>15000</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+  </ReturnData>
+</Return>

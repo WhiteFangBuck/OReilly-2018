@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T10:06:13-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BRUCE H SOBEL CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>270 MADISON AVE SUITE 1500</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>100160601</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>237416723</EIN>
+      <Name>
+        <BusinessNameLine1>HENRY GREENSPAN FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>HENR</NameControl>
+      <Phone>2123705990</Phone>
+      <USAddress>
+        <AddressLine1>C/O BRUCE H SOBEL CPA PC</AddressLine1>
+        <AddressLine2>270 MADISON AVENUE</AddressLine2>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10016</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>HENRY GREENSPAN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>7349940727</Phone>
+      <DateSigned>2011-08-01</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>BRUCE H SOBEL</Name>
+      <Phone>2123705990</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>187393</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>0</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>1877</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>1877</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>69957</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>87079</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>69957</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>71834</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>71834</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss>1625</AccountingFeesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">409</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>2034</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>10500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>10500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>12534</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>10500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>59300</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>71834</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>4970</CashBOY>
+        <CashEOY>7926</CashEOY>
+        <CashEOYFMV>7926</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>62888</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>135031</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>135031</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>30897</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>13984</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>39436</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>5000</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>5000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>5000</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>103755</TotalAssetsBOY>
+        <TotalAssetsEOY>161941</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>187393</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="OtherLiabSch">1114</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="OtherLiabSch">0</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>1114</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <PaidInOrCapitalSurplusBOY>626838</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>626838</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>-524197</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-464897</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>102641</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>161941</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>103755</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>161941</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>102641</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>59300</ExcessOfRevenueOverExpenses>
+        <Subtotal>161941</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>161941</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1798 SHS BP AMACO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1955-01-01</DateAcquired>
+          <DateSold>2010-05-03</DateSold>
+          <GrossSalesPrice>87079</GrossSalesPrice>
+          <CostOrOtherBasis>17122</CostOrOtherBasis>
+          <GainOrLoss>69957</GainOrLoss>
+          <GainsMinusExcessOrLosses>69957</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>69957</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>11935</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>190774</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.062561</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>11879</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>230105</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.051624</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>13404</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>258937</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.051765</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>11422</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>260471</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.043851</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>11873</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>245218</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.048418</DistributionRatioYear5>
+        <TotalDistributionRatio>0.258219</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051644</AverageDistributionRatio>
+        <NetNoncharitableAssets>188824</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>9752</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>718</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>10470</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>10500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>718</InvestmentIncomeExciseTax>
+        <Subtotal>718</Subtotal>
+        <TaxBasedOnInvestmentIncome>718</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>64</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>100</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>164</TotalCreditsAndPayments>
+        <TaxDue>554</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>HENRY GREENSPAN</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7349940727</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>369 HILLDALE DR</AddressLine1>
+          <City>ANN ARBOR</City>
+          <State>MI</State>
+          <ZIPCode>481091245</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <RelyingCurrNoticeDisasterAsst1>X</RelyingCurrNoticeDisasterAsst1>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RelyingCurrNoticeDisasterAsst2>X</RelyingCurrNoticeDisasterAsst2>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HENRY GREENSPAN</PersonName>
+          <USAddress>
+            <AddressLine1>369 HILLDALE DRIVE</AddressLine1>
+            <City>ANN ARBOR</City>
+            <State>MI</State>
+            <ZIPCode>48105</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>73814</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>117886</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>191700</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>191700</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2876</CashDeemedCharitable>
+        <NetNoncharitableAssets>188824</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>9441</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>9441</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>718</TaxBasedOnInvestmentIncome>
+        <TotalTax>718</TotalTax>
+        <DistributableAmountBeforeAdj>8723</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>8723</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>8723</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>10500</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>10500</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>718</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>9782</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>8723</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>8202</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <ExcessDistriCarryoverYear1>0</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>10500</QualifyingDistributions>
+        <AppliedToYear1>8202</AppliedToYear1>
+        <AppliedToCurrentYear>2298</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <UndistributedIncomeCY>6425</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>0</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>ALBERT GREENSPAN DECEASED 1293</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VOICE VISION ARCHIVE U-MICHIGAN - DEARBORN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4901 EVERGREEN ROAD</AddressLine1>
+            <City>DEARBORN</City>
+            <State>MI</State>
+            <ZIPCode>48128</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY,509 A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF MICHIGAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2215 ANGELL HALL</AddressLine1>
+            <AddressLine2>435 SOUTH STATE STREET</AddressLine2>
+            <City>ANN ARBOR</City>
+            <State>MI</State>
+            <ZIPCode>481091003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY,509 A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>10500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst />
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1877</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>69957</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>71834</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>71834</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>359</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>NYS FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilities>
+        <Description>ADVANCE</Description>
+        <BOYBookValue>1114</BOYBookValue>
+        <EOYBookValue>0</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX</Category>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

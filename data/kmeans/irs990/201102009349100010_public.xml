@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-19T12:45:47-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LONG MULHEARN &amp; CRISTE PC CPAS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>500 EAST HIGH STREET</AddressLine1>
+        <City>EBENSBURG</City>
+        <State>PA</State>
+        <ZIPCode>15931</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>237455794</EIN>
+      <Name>
+        <BusinessNameLine1>THE ACOMB FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>ACOM</NameControl>
+      <Phone>7158520520</Phone>
+      <USAddress>
+        <AddressLine1>3628 GOLDRIDGE ROAD</AddressLine1>
+        <City>EAU CLAIRE</City>
+        <State>WI</State>
+        <ZIPCode>54701</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BRUCE D ACOMB</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7158520520</Phone>
+      <DateSigned>2011-06-21</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>THOMAS P CRISTE</Name>
+      <Phone>8144725345</Phone>
+      <DatePrepared>2011-07-19</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1">
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>676427</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>9191</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>9191</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>9191</InterestOnSavingsAdjNetIncm>
+        <TotalRevenueAndExpenses>9191</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>9191</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>9191</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>6329</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>5064</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>5064</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>1265</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1515</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1515</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>1515</AccountingFeesAdjNetIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">1377</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>1377</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>1377</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>9221</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>7956</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>7956</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1265</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>33425</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>33425</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>42646</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>7956</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>7956</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>34690</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-33455</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1235</NetInvestmentIncome>
+        <AdjustedNetIncome>1235</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>24205</CashBOY>
+        <CashEOY>10005</CashEOY>
+        <CashEOYFMV>10005</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>685272</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>665660</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>665660</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>405</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>762</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>762</PrepaidExpensesEOYFMV>
+        <TotalAssetsBOY>709882</TotalAssetsBOY>
+        <TotalAssetsEOY>676427</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>676427</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>709882</CapitalStockBOY>
+        <CapitalStockEOY>676427</CapitalStockEOY>
+        <TotalNetAssetsBOY>709882</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>676427</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>709882</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>676427</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>709882</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-33455</ExcessOfRevenueOverExpenses>
+        <Subtotal>676427</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>676427</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>35771</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>699234</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.051157</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>35809</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>720533</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.049698</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>22191</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>736100</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.030147</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>26178</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>760454</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.034424</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>41224</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>792368</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.052026</DistributionRatioYear5>
+        <TotalDistributionRatio>0.217452</TotalDistributionRatio>
+        <AverageDistributionRatio>0.043490</AverageDistributionRatio>
+        <NetNoncharitableAssets>666280</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>28977</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>12</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>28989</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>34690</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>12</InvestmentIncomeExciseTax>
+        <Subtotal>12</Subtotal>
+        <TaxBasedOnInvestmentIncome>12</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>762</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>762</TotalCreditsAndPayments>
+        <Overpayment>750</Overpayment>
+        <AmountCreditedToNextYear>750</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>BRUCE D ACOMB</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7158520520</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3628 GOLDRIDGE ROAD</AddressLine1>
+          <City>EAU CLAIRE</City>
+          <State>WI</State>
+          <ZIPCode>54701</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">DOLORES INGIANNI</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 288</AddressLine1>
+            <City>COLVER</City>
+            <State>PA</State>
+            <ZIPCode>15927</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2110</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">GUY B MAXFIELD</PersonName>
+          <USAddress>
+            <AddressLine1>40 WASHINGTON SQUARE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10019</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2110</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">BRUCE D ACOMB</PersonName>
+          <USAddress>
+            <AddressLine1>3628 GOLD RIDGE ROAD</AddressLine1>
+            <City>EAU CLAIRE</City>
+            <State>WI</State>
+            <ZIPCode>54701</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2109</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>675664</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>762</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>676426</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>676426</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>10146</CashDeemedCharitable>
+        <NetNoncharitableAssets>666280</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>33314</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>33314</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>12</TaxBasedOnInvestmentIncome>
+        <TotalTax>12</TotalTax>
+        <DistributableAmountBeforeAdj>33302</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>33302</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>33302</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>34690</ExpensesAndContributions>
+        <QualifyingDistributions>34690</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>12</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>34678</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>33302</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>33421</UndistributedIncomePriorYear>
+        <QualifyingDistributions>34690</QualifyingDistributions>
+        <AppliedToYear1>33421</AppliedToYear1>
+        <AppliedToCurrentYear>1269</AppliedToCurrentYear>
+        <UndistributedIncomeCY>32033</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HIS MANSION MINISTRIES I</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 40</AddressLine1>
+            <City>HILLSBORO</City>
+            <State>NH</State>
+            <ZIPCode>03244</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMP BEREA INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>68 BEREA ROAD</AddressLine1>
+            <City>HEBRON</City>
+            <State>NH</State>
+            <ZIPCode>03241</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHRISTIAN MISS MANY LAND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 13</AddressLine1>
+            <City>SPRING LAKE</City>
+            <State>NJ</State>
+            <ZIPCode>07762</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHIPPEWA VALLEY FREE CLIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 231</AddressLine1>
+            <City>EAU CLAIRE</City>
+            <State>WI</State>
+            <ZIPCode>54702</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEALTH &amp; WELFARE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE NAVIGATORS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 6000</AddressLine1>
+            <City>COLORADO SPRINGS</City>
+            <State>CO</State>
+            <ZIPCode>80934</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>1200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE BRIDGE CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2309 EAGLE SUMMIT</AddressLine1>
+            <City>STEVENS POINT</City>
+            <State>WI</State>
+            <ZIPCode>54481</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GOOD NEWS JAIL MINISTRY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 9760</AddressLine1>
+            <City>HENRICO</City>
+            <State>VA</State>
+            <ZIPCode>23228</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOPE GOSPEL MISSION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1127</AddressLine1>
+            <City>EAU CLAIRE</City>
+            <State>WI</State>
+            <ZIPCode>54702</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEAM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 969</AddressLine1>
+            <City>WHEATON</City>
+            <State>IL</State>
+            <ZIPCode>60187</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>2700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEGACY CHRISTIAN SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>420 ALLEGAN CIRCLE</AddressLine1>
+            <City>SAN JOSE</City>
+            <State>CA</State>
+            <ZIPCode>95123</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>2125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MISS AVIATION FELLOWSHIP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 47</AddressLine1>
+            <City>NAMPA</City>
+            <State>ID</State>
+            <ZIPCode>83653</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>1200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SIM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 7900</AddressLine1>
+            <City>CHARLOTTE</City>
+            <State>NC</State>
+            <ZIPCode>28241</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>1200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>33425</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>9191</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>9191</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>9191</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>LONG, MULHEARN &amp; CRISTE PC CPAS</Category>
+        <Amount>1515</Amount>
+        <NetInvestmentIncome>1515</NetInvestmentIncome>
+        <AdjustedNetIncome>1515</AdjustedNetIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>DOLORES INGIANNI</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>GUY B MAXFIELD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>BRUCE D ACOMB</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE</Description>
+        <RevenueAndExpensesPerBooks>144</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>144</NetInvestmentIncome>
+        <AdjustedNetIncome>144</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>1090</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1090</NetInvestmentIncome>
+        <AdjustedNetIncome>1090</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PRIOR YEAR TAX EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>143</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>143</NetInvestmentIncome>
+        <AdjustedNetIncome>143</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

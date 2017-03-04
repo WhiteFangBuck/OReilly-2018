@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T08:15:00-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Crowe Horwath LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>350 East Las Olas Blvd Suite 1420</AddressLine1>
+        <City>Fort Lauderdale</City>
+        <State>FL</State>
+        <ZIPCode>333014216</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>311808921</EIN>
+      <Name>
+        <BusinessNameLine1>THE STILES FAMILY FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>STIL</NameControl>
+      <Phone>9546279300</Phone>
+      <USAddress>
+        <AddressLine1>300 SE 2ND STREET</AddressLine1>
+        <City>FORT LAUDERDALE</City>
+        <State>FL</State>
+        <ZIPCode>33301</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Terry W Stiles</Name>
+      <Title>President</Title>
+      <DateSigned>2011-06-10</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DANIEL BREUNING</Name>
+      <Phone>9542028600</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>25000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>1</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1</InterestOnSavingsNetInvstIncm>
+        <TotalRevenueAndExpenses>25001</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>1</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <OthEmplSlrsWgsRevAndExpnss>21517</OthEmplSlrsWgsRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSch">1200</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>600</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>600</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">361</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>361</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>23078</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>600</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>961</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>5800</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>5800</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>28878</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>600</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>6761</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-3877</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>4582</CashBOY>
+        <CashEOY>613</CashEOY>
+        <TotalAssetsBOY>4582</TotalAssetsBOY>
+        <TotalAssetsEOY>613</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>713</AccountsPayableBOY>
+        <AccountsPayableEOY>621</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>713</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>621</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>3869</UnrestrictedBOY>
+        <UnrestrictedEOY>-8</UnrestrictedEOY>
+        <TotalNetAssetsBOY>3869</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>-8</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>4582</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>613</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3869</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-3877</ExcessOfRevenueOverExpenses>
+        <Subtotal>-8</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>-8</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses />
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>56850</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>9823</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>5.787438</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>180000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>9617</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>18.716856</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>140400</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>11515</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>12.192792</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>103550</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>14387</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>7.19747</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>33123</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2673</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>12.391695</DistributionRatioYear5>
+        <TotalDistributionRatio>56.286251</TotalDistributionRatio>
+        <AverageDistributionRatio>11.25725</AverageDistributionRatio>
+        <NetNoncharitableAssets>2071</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>23314</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>23314</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>6761</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <Subtotal>0</Subtotal>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>false</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>CARRIE TIDWELL</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>9546279300</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>300 SE 2ND STREET</AddressLine1>
+          <City>FT LAUDERDALE</City>
+          <State>FL</State>
+          <ZIPCode>33301</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TERRY W STILES</PersonName>
+          <USAddress>
+            <AddressLine1>300 SE 2ND STREET</AddressLine1>
+            <City>FORT LAUDERDALE</City>
+            <State>FL</State>
+            <ZIPCode>33301</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>2103</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>2103</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>2103</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>32</CashDeemedCharitable>
+        <NetNoncharitableAssets>2071</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>104</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>104</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>104</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>104</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>104</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>6761</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>6761</QualifyingDistributions>
+        <AdjQualifyingDistributions>6761</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>104</DistributableAmountAsAdjusted>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <ExcessDistriCarryoverYear5>32989</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>102831</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>139824</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>179519</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>56359</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>511522</TotalExcessDistriCarryover>
+        <QualifyingDistributions>6761</QualifyingDistributions>
+        <AppliedToCurrentYear>104</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>6657</RemainingDistriFromCorpus>
+        <TotalCorpus>518179</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>32989</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>485190</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>102831</ExcessFromYear4>
+        <ExcessFromYear3>139824</ExcessFromYear3>
+        <ExcessFromYear2>179519</ExcessFromYear2>
+        <ExcessFromYear1>56359</ExcessFromYear1>
+        <ExcessFromCurrentYear>6657</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation />
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII />
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry />
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>1</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>TERRY W STILES</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>300 SE 2ND STREET</AddressLine1>
+          <City>FT LAUDERDALE</City>
+          <State>FL</State>
+          <ZIPCode>33301</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>25000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>1200</Amount>
+        <NetInvestmentIncome>600</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>600</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>MISCELLANEOUS FEES</Description>
+        <RevenueAndExpensesPerBooks>361</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>361</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

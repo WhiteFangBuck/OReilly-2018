@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T10:43:48-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>COUNCILOR BUCHANAN &amp; MITCHELL PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>7910 WOODMONT AVENUE SUITE 500</AddressLine1>
+        <City>BETHESDA</City>
+        <State>MD</State>
+        <ZIPCode>20814</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>521942551</EIN>
+      <Name>
+        <BusinessNameLine1>LA CLINICA DEL PUEBLO INC</BusinessNameLine1>
+      </Name>
+      <NameControl>LACL</NameControl>
+      <Phone>2024640141</Phone>
+      <USAddress>
+        <AddressLine1>2831 15TH STREET NW</AddressLine1>
+        <City>WASHINGTON</City>
+        <State>DC</State>
+        <ZIPCode>20009</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ALICIA WILSON</Name>
+      <Title>EXECUTIVE DIRECTOR</Title>
+      <Phone>2024640141</Phone>
+      <DateSigned>2011-08-01</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DANIEL L WEAVER</Name>
+      <Phone>3019860600</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>ALICIA WILSON</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>2831 15TH STREET NW</AddressLine1>
+        <City>WASHINGTON</City>
+        <State>DC</State>
+        <ZIPCode>20009</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>6677530</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.LCDP.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1983</YearFormation>
+      <StateLegalDomicile>DC</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO PROVIDE FREE, CULTURALLY APPROPRIATE HEALTH SERVICES IN THE LATINO COMMUNITY.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>14</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>14</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>95</TotalNbrEmployees>
+      <TotalNbrVolunteers>6</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>4660293</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>4999912</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>1139712</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>1676914</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>1250</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>704</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>5801255</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>6677530</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>3422624</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>3827862</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>110501</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>2182328</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>2770417</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>5604952</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>6598279</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>196303</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>79251</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>3706990</TotalAssetsBOY>
+      <TotalAssetsEOY>3895095</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>1582685</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>1327201</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>2124305</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>2567894</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>TO PROVIDE FREE, CULTURALLY APPROPRIATE HEALTH SERVICES IN THE LATINO COMMUNITY, REGARDLESS OF THEIR ABILITY TO PAY.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>1284004</Expense>
+      <Description>COMMUNITY HEALTH ACTION - THE COMMUNITY HEALTH ACTION DEPARTMENT ASSESSES HEALTH NEEDS WITHIN THE COMMUNITY AS A WHOLE, AND DEVELOPS STRATEGIES GROUNDED IN PUBLIC HEALTH AND COMMUNITY MOBILIZATION TO ADDRESS THESE NEEDS AT THE INDIVIDUAL, FAMILY, GROUP, COMMUNITY, OR STRUCTURAL LEVEL AS APPROPRIATE. THE DEPARTMENT CONCENTRATES ON HEALTH ISSUES/NEEDS MOST PREVALENT WITH LA CLINICA'S PATIENT POPULATION, INCLUDING, BUT NOT LIMITED TO, DIABETES, HIV, CARDIOVASCULAR DISEASES, MENTAL HEALTH/SUBSTANCE ABUSE, REPRODUCTIVE HEALTH, ACCESS TO CARE, CULTURALLY COMPETENT CARE, AND OTHER HEALTH ISSUES AS THEY EMERGE. THE DEPARTMENT EXISTS TO FULFILL LA CLINICA'S ROLE AS A LEADING VOICE FOR LATINO HEALTH WITHIN THE COMMUNITY WHO IS LOOKED TO BY COMMUNITY MEMBERS AND THE HEALTH COMMUNITY FOR LEADERSHIP AROUND KEY PUBLIC HEALTH ISSUES.THE DEPARTMENT INCLUDES LA CLINICA'S COMMUNITY HEALTH FAIRS AND EDUCATION, HIV PREVENTION PROGRAMS FROM OUTREACH TO SCREENING AND LINKAGE TO CARE, AND TRAINING FOR PROMOTORES DE SALUD, OR COMMUNITY HEALTH FAIRS.</Description>
+      <Activity2>
+        <Expense>1708200</Expense>
+        <Revenue>1515996</Revenue>
+        <Description>PATIENT SERVICES - LA CLINICA SERVES PATIENTS THROUGH ALL STAGES OF LIFE, FROM PRENATAL TO GERIATRIC CARE. THE MEDICAL SERVICES UNIT PROVIDES ADULT, PEDIATRIC, PRENATAL, AND ADOLESCENT PRIMARY CARE, AS WELL AS DIABETIC AND REPRODUCTIVE HEALTH CARE. DOCTORS AND OTHER HEALTH PROFESSIONALS PROVIDE EVALUATIONS, EDUCATION, IMMUNIZATIONS, DIAGNOSIS, AND TREATMENT, AS WELL AS REFERRALS WHEN NEEDED. AS PART OF LA CLINICA'S MISSION TO PROVIDE CULTURALLY APPROPRIATE HEALTH CARE, TRADITIONAL LATIN AMERICAN HERBAL AND NUTRITIONAL REMEDIES HAVE BEEN INCORPORATED INTO THE DELIVERY OF COMPREHENSIVE HEALTH CARE SERVICES.WE OFFER SERVICES REGARDLESS OF A PERSON'S ABILITY TO PAY AND CHARGE PATIENTS ON A SLIDING SCALE, BASED ON INCOME.THIS DEPARTMENT PLAYS A CRITICAL ROLE IN HELPING TO BREAK DOWN THE BARRIERS TO HEALTH CARE FACED BY LOW-INCOME PATIENTS, UNINSURED AND UNDERINSURED LATINOS AND OTHER INDIVIDUALS IN NEED THAT COME TO LA CLINICA. SERVICES INCLUDE; HIV CASE MANAGEMENT; ENTITLEMENTS ASSISTANCE; HOUSING ASSISTANCE, REFERRALS FOR FOOD, CLOTHING, MEDICINE, AND MEDICAL EQUIPMENT. THE PATIENT SUPPORT SERVICES UNIT STAFF EDUCATES AND ENROLLS ELIGIBLE CLIENTS INTO MEDICAID, MEDICARE AND OTHER PROGRAMS, AND HELPS PATIENTS APPLY FOR PHARMACEUTICAL COMPANY ASSISTANCE PROGRAMS.IN ADDITION, THE UNIT PROVIDES DIRECT HEALTH EDUCATION SERVICES TARGETING MOSTLY PATIENTS WITH DIABETES, OVERWEIGHT AND OBESITY PROBLEMS. PATIENTS WITH OR AT RISK OF CHRONIC DISEASES SUCH AS DIABETES AND/OR OBESITY HAVE THE OPPORTUNITY TO ATTEND COOKING CLASSES, SUPPORT GROUPS AND EXERCISE SESSIONS THAT HELP THEM IMPROVE THEIR HEALTH AND TO ADOPT HEALTHIER LIFE STYLES.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>798232</Expense>
+        <Revenue>80918</Revenue>
+        <Description>INTERPRETER SERVICES - OVER TEN PERCENT OF PEOPLE IN THE DC METRO AREA HAVE LIMITED ENGLISH PROFICIENCY. VERY FEW DOCTORS AND CARE PROVIDERS ARE TRAINED BILINGUAL MEDICAL STAFF, WHICH CAN CREATE A HUGE DIVIDE BETWEEN PATIENTS AND THEIR PROVIDERS. LA CLINICA PROVIDES MEDICAL INTERPRETATION IN OVER EIGHT LANGUAGES ON-SITE AND FOR ALL MEDICAL FACILITIES IN THE AREA TO HELP BREAK DOWN THAT DIVIDE.ANY DC RESIDENTS WITH MANAGED CARE CAN USE OUR INTERPRETERS' SERVICES. THE INTERPRETER SERVICES' UNIT IS ALWAYS LOOKING FOR NEW VOLUNTEERS TO HELP IN THEIR WORK TOWARDS EQUAL LANGUAGE ACCESS.LA CLINICA AND ITS INTERPRETERS RECENTLY EMBARKED ON A NEW INITIATIVE, THE LANGUAGE ACCESS FOR ALL PROGRAM, WHICH TRAINS MEDICAL INTERPRETERS TO PROVIDE BILINGUAL SERVICES IN HEALTH CLINICS AROUND THE DISTRICT, SPREADING LA CLINICA'S CULTURALLY-APPROPRIATE WORK TO OTHER COMMUNITIES.</Description>
+      </Activity3>
+      <ActivityOther>
+        <Expense>529874</Expense>
+        <Description>BEHAVIORAL HEALTH - LA CLINICA'S HOLISTIC APPROACH TO HEALTHCARE VIEWS MENTAL HEALTH AS A VITAL COMPONENT TO HEALTHY LIVING, AND STAFF WORK TO DE-STIGMATIZE THERAPEUTIC CARE IN THE EYES OF LA CLINICA'S PATIENTS AND THE BROADER LATINO IMMIGRANT COMMUNITY.WE PROVIDE INDIVIDUAL, COUPLE, AND FAMILY COUNSELING SERVICES FOR A BROAD RANGE OF PSYCHOLOGICAL PROBLEMS. WE ALSO OFFER PSYCHO-EDUCATIONAL SUPPORT GROUPS THAT REACH A BROAD RANGE OF PATIENTS. COMPREHENSIVE OUTPATIENT SUBSTANCE ABUSE TREATMENT SERVICES ARE AVAILABLE, INCLUDING SUPPORT GROUPS AND REFERRALS TO DETOXIFICATION AND RESIDENTIAL PROGRAMS.</Description>
+      </ActivityOther>
+      <ActivityOther>
+        <Description>BUILDING A HEALTHY FUTURE FUND</Description>
+      </ActivityOther>
+      <ActivityOther>
+        <Description>GENERAL CAPACITY BUILDING</Description>
+      </ActivityOther>
+      <TotalOfOtherProgramServiceExp>529874</TotalOfOtherProgramServiceExp>
+      <TotalProgramServiceExpense>4320310</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <SubjectToProxyTax>0</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">1</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>90</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>95</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>14</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>14</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>0</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>THE ORGANIZATION</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2024640141</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>2831 15TH STREET NW</AddressLine1>
+          <City>WASHINGTON</City>
+          <State>DC</State>
+          <ZIPCode>20009</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>ANA I TELLEZ</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BESSIE ANAYA</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CLARA MOJOLLA</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>HERBERT BAIRES</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JUAN BLANCO</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARIA QUINTANILLA</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MAURICE KURLAND</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>NICOLAS GOMEZ</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PAULA VASQUEZ</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RUBEN BERMUDEZ</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>XOCHILT YANEZ</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ISABEL FRIEDENZOHN</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>1.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LEONEL FLORES</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>1.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MAURICIO SILVA</NamePerson>
+        <Title>VICE-PRESIDENT</Title>
+        <AverageHoursPerWeek>1.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROBERT FREE</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>1.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ALICIA WILSON</NamePerson>
+        <Title>EXECUTIVE DIRECTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>97222</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>4865</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ENRIQUE COBHAM</NamePerson>
+        <Title>FORMER CHIEF ADMINISTRATOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>50022</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>4865</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MEREDITH JOSEPHS</NamePerson>
+        <Title>CHIEF MEDICAL OFFICER</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>136682</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>4865</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TESSIE AIKARA</NamePerson>
+        <Title>FAMILY PHYSICIAN</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>102984</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>386910</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>14595</TotalOtherCompensation>
+      <NumberIndividualsGT100K>2</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>RAFFA</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>1899 L STREET NW SUITE 900</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20036</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>ACCOUNTING CONSULTANTS</DescriptionOfServices>
+        <Compensation>164086</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>NEVAEH</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>8708 PROSPECT AVE SUITE D13</AddressLine1>
+            <City>CHESTNUT</City>
+            <State>PA</State>
+            <ZIPCode>19118</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>MANAGEMENT CONSULTANTS</DescriptionOfServices>
+        <Compensation>133198</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>PRIORITY MANAGEMENT GROUP</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>700 SCHOOL STREET</AddressLine1>
+            <City>PAWTUCKET</City>
+            <State>RI</State>
+            <ZIPCode>02860</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>BILLING CONTRACTOR</DescriptionOfServices>
+        <Compensation>121547</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>3</NumberOfContractorsGT100K>
+      <GovernmentGrants>4036494</GovernmentGrants>
+      <AllOtherContributions>963418</AllOtherContributions>
+      <TotalContributions>4999912</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>PATIENT SERVICES</Description>
+        <BusinessCode>621400</BusinessCode>
+        <TotalRevenueColumn>1595996</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1595996</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>INTERPRETER SERVICES A</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>80918</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>80918</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>1676914</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>704</TotalRevenueColumn>
+        <ExclusionAmount>704</ExclusionAmount>
+      </InvestmentIncome>
+      <TotalRevenue>
+        <TotalRevenueColumn>6677530</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1676914</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>704</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>401505</Total>
+        <ProgramServices>294770</ProgramServices>
+        <ManagementAndGeneral>97492</ManagementAndGeneral>
+        <Fundraising>9243</Fundraising>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>2858646</Total>
+        <ProgramServices>2098713</ProgramServices>
+        <ManagementAndGeneral>694125</ManagementAndGeneral>
+        <Fundraising>65808</Fundraising>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>332302</Total>
+        <ProgramServices>243964</ProgramServices>
+        <ManagementAndGeneral>80688</ManagementAndGeneral>
+        <Fundraising>7650</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>235409</Total>
+        <ProgramServices>172829</ProgramServices>
+        <ManagementAndGeneral>57161</ManagementAndGeneral>
+        <Fundraising>5419</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesAccounting>
+        <Total>210137</Total>
+        <ManagementAndGeneral>210137</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>1479930</Total>
+        <ProgramServices>976516</ProgramServices>
+        <ManagementAndGeneral>500749</ManagementAndGeneral>
+        <Fundraising>2665</Fundraising>
+      </FeesForServicesOther>
+      <OfficeExpenses>
+        <Total>164912</Total>
+        <ProgramServices>60908</ProgramServices>
+        <ManagementAndGeneral>87038</ManagementAndGeneral>
+        <Fundraising>16966</Fundraising>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>221725</Total>
+        <ProgramServices>58295</ProgramServices>
+        <ManagementAndGeneral>163152</ManagementAndGeneral>
+        <Fundraising>278</Fundraising>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>152396</Total>
+        <ProgramServices>113158</ProgramServices>
+        <ManagementAndGeneral>39238</ManagementAndGeneral>
+      </Occupancy>
+      <Travel>
+        <Total>48717</Total>
+        <ProgramServices>46773</ProgramServices>
+        <ManagementAndGeneral>1944</ManagementAndGeneral>
+      </Travel>
+      <Interest>
+        <Total>55435</Total>
+        <ProgramServices>2</ProgramServices>
+        <ManagementAndGeneral>55433</ManagementAndGeneral>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>123980</Total>
+        <ProgramServices>432</ProgramServices>
+        <ManagementAndGeneral>123548</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>12423</Total>
+        <ProgramServices>2017</ProgramServices>
+        <ManagementAndGeneral>10406</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>CLIENT SERVICES</Description>
+        <Total>232656</Total>
+        <ProgramServices>230455</ProgramServices>
+        <ManagementAndGeneral>2201</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PAYROLL SERVICE FEES</Description>
+        <Total>21214</Total>
+        <ProgramServices>0</ProgramServices>
+        <ManagementAndGeneral>21214</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <Total>18913</Total>
+        <ProgramServices>15769</ProgramServices>
+        <ManagementAndGeneral>672</ManagementAndGeneral>
+        <Fundraising>2472</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES AND MEMBERSHIPS</Description>
+        <Total>17484</Total>
+        <ProgramServices>3098</ProgramServices>
+        <ManagementAndGeneral>14386</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LICENSES AND FEES</Description>
+        <Total>10495</Total>
+        <ProgramServices>2611</ProgramServices>
+        <ManagementAndGeneral>7884</ManagementAndGeneral>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>6598279</Total>
+        <ProgramServices>4320310</ProgramServices>
+        <ManagementAndGeneral>2167468</ManagementAndGeneral>
+        <Fundraising>110501</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>235</BOY>
+        <EOY>421</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>245833</BOY>
+        <EOY>273244</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>440303</BOY>
+        <EOY>753476</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>631288</BOY>
+        <EOY>543068</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>24895</BOY>
+        <EOY>23931</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>3030025</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>734606</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>2360346</BOY>
+        <EOY>2295419</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsOtherSecurities>
+        <BOY>2412</BOY>
+        <EOY>3858</EOY>
+      </InvestmentsOtherSecurities>
+      <OtherAssetsTotal>
+        <BOY>1678</BOY>
+        <EOY>1678</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>3706990</BOY>
+        <EOY>3895095</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>446558</BOY>
+        <EOY>468723</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>294668</BOY>
+        <EOY>50594</EOY>
+      </DeferredRevenue>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>841459</BOY>
+        <EOY>807884</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <TotalLiabilities>
+        <BOY>1582685</BOY>
+        <EOY>1327201</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>2068681</BOY>
+        <EOY>2452352</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>55624</BOY>
+        <EOY>115542</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>2124305</BOY>
+        <EOY>2567894</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>3706990</BOY>
+        <EOY>3895095</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>79251</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>364338</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>1</FederalGrantAuditRequired>
+      <FederalGrantAuditPerformed>1</FederalGrantAuditPerformed>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>4115407</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>4725951</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>5390202</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>4660293</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>4999912</CurrentTaxYear>
+        <Total>23891765</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>643989</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>781091</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1027997</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1139712</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1676914</CurrentTaxYear>
+        <Total>5269703</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>4759396</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>5507042</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>6418199</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>5800005</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>6676826</CurrentTaxYear>
+        <Total>29161468</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <Total>0</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>29161468</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>7275</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>3191</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>2905</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>784</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>704</CurrentTaxYear>
+        <Total>14859</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>7275</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>3191</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>2905</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>784</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>704</CurrentTaxYear>
+        <Total>14859</Total>
+      </InvestmentIncomeAndUBTI>
+      <OtherIncome509>
+        <CurrentTaxYearMinus4Years>1857</CurrentTaxYearMinus4Years>
+        <Total>1857</Total>
+      </OtherIncome509>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>4768528</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>5510233</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>6421104</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>5800789</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>6677530</CurrentTaxYear>
+        <Total>29178184</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.99940</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.99920</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00050</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.00050</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <CurrentYear>
+        <BeginningOfYearBalance>55624</BeginningOfYearBalance>
+        <Contributions>136250</Contributions>
+        <OtherExpenditures>76332</OtherExpenditures>
+        <EndOfYearBalance>115542</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>122575</BeginningOfYearBalance>
+        <Contributions>294588</Contributions>
+        <OtherExpenditures>361539</OtherExpenditures>
+        <EndOfYearBalance>55624</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <CurrentYearMinus2Years>
+        <BeginningOfYearBalance>278909</BeginningOfYearBalance>
+        <Contributions>318391</Contributions>
+        <OtherExpenditures>474725</OtherExpenditures>
+        <EndOfYearBalance>122575</EndOfYearBalance>
+      </CurrentYearMinus2Years>
+      <TermEndowmentEOYBalance>1.00000</TermEndowmentEOYBalance>
+      <EndowmentsHeldByUnrelatedOrgs>0</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>0</EndowmentsHeldByRelatedOrgs>
+      <Land>
+        <OtherCostOrOtherBasis>108000</OtherCostOrOtherBasis>
+        <BookValue>108000</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>2299464</OtherCostOrOtherBasis>
+        <Depreciation>404784</Depreciation>
+        <BookValue>1894680</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>622561</OtherCostOrOtherBasis>
+        <Depreciation>329822</Depreciation>
+        <BookValue>292739</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>2295419</TotalOfBookValueLandBuildings>
+      <TotalRevenue>6677530</TotalRevenue>
+      <TotalExpenses>6598279</TotalExpenses>
+      <ExcessOrDeficitForYear>79251</ExcessOrDeficitForYear>
+      <PriorPeriodAdjustments>364338</PriorPeriodAdjustments>
+      <TotalAdjustments>364338</TotalAdjustments>
+      <ExcessOrDeficitPerFS>443589</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>6768870</TotRevenueEtcAuditedFinclStmt>
+      <DonatedSrvcAndUseOfFacilities>91340</DonatedSrvcAndUseOfFacilities>
+      <RevenueNotRptdF990>91340</RevenueNotRptdF990>
+      <RevenueSubtotal>6677530</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>6677530</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>6689619</TotExpensesEtcAuditedFinclStmt>
+      <DonatedServicesUseOfFacilities>91340</DonatedServicesUseOfFacilities>
+      <ExpensesNotRptdF990>91340</ExpensesNotRptdF990>
+      <ExpensesSubtotal>6598279</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>6598279</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF INTENDED USE OF ENDOWMENT FUNDS:</Identifier>
+        <ReturnReference>PART V, LINE 4:</ReturnReference>
+        <Explanation>THESE FUNDS ARE TEMPORARILY RESTRICTED BY THE DONORS AND LA CLINICA RELEASES THE FUNDS FROM RESTRICTION ONCE THE INTENDED PURPOSE OF THE GIFT IS SATISFIED.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>MANAGEMENT PROVIDES COPIES TO THE FINANCE COMMITTEE FOR THEIR REVIEW AND APPROVAL. THE FINANCE COMMITTEE THEN REPORTS TO THE FULL BOARD.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12</ReturnReference>
+        <Explanation>WE CURRENTLY DO NOT HAVE A PROCEDURE IN PLACE FOR MONITORING AND ENFORCING COMPLIANCE WITH OUR CONFLICT OF INTEREST POLICY. DURING THE 1ST HALF OF 2011 THE BOARD WILL PRIORITIZE THE DEVELOPMENT OF A MECHANISM FOR THE MONITORING AND ENFORCING COMPLIANCE WITH OUR CONFLICT OF INTEREST POLICY. THE MECHANISM WILL INCLUDE THE SIGNING OF A STATEMENT ANNUALLY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>THE BOARD OF DIRECTORS REVIEWS AND APPROVES THE EXECUTIVE DIRECTOR'S COMPENSATION ANNUALLY, INCLUDING THE USAGE OF A COMPENSATION SURVEY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>OUR FINANCIAL STATEMENTS, GOVERNING DOCUMENTS AND CONFLICT OF INTEREST POLICY ARE AVAILABLE IN OUR OFFICES AND WILL BE MADE AVAILABLE TO ANY ONE REQUESTING COPIES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CHANGES IN NET ASSETS OR FUND BALANCES:</Identifier>
+        <ReturnReference>FORM 990, PART XI, LINE 5:</ReturnReference>
+        <Explanation>PRIOR PERIOD ADJUSTMENTS: 364,338.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART XI, LINE 2C</ReturnReference>
+        <Explanation>THE COMMITTEE HAS NOT CHANGED ITS PROCESS FROM PRIOR YEARS FOR THE OVERSIGHT OF THE AUDITED FINANCIAL STATEMENTS AND THE SELECTION OF AN INDEPENDENT ACCOUNTANT.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

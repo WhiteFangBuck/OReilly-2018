@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-27T07:53:57-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>E SHAWN DANLEY CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2336 WISTERIA DR STE 220</AddressLine1>
+        <City>SNELLVILLE</City>
+        <State>GA</State>
+        <ZIPCode>30078</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>582303133</EIN>
+      <Name>
+        <BusinessNameLine1>PUCKETT FAMILY FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>PUCK</NameControl>
+      <Phone>7709499000</Phone>
+      <USAddress>
+        <AddressLine1>3844 HIGHWAY 166</AddressLine1>
+        <City>DOUGLASVILLE</City>
+        <State>GA</State>
+        <ZIPCode>30135</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CJ PUCKETT</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>7709499000</Phone>
+      <DateSigned>2011-07-15</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>E SHAWN DANLEY CPA PC</Name>
+      <Phone>6783440150</Phone>
+      <DatePrepared>2011-07-27</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3591</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>3000</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>9</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>9</InterestOnSavingsNetInvstIncm>
+        <TotalRevenueAndExpenses>3009</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>9</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">750</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>750</AccountingFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc5">26</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>26</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">40</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>40</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>816</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>816</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>2000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>2000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>2816</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>816</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>2000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>193</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>3398</CashBOY>
+        <CashEOY>3591</CashEOY>
+        <CashEOYFMV>3591</CashEOYFMV>
+        <TotalAssetsBOY>3398</TotalAssetsBOY>
+        <TotalAssetsEOY>3591</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3591</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>3398</UnrestrictedBOY>
+        <UnrestrictedEOY>3591</UnrestrictedEOY>
+        <TotalNetAssetsBOY>3398</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>3591</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3398</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>3591</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3398</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>193</ExcessOfRevenueOverExpenses>
+        <Subtotal>3591</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>3591</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <NoncharitableAssetsYear1>3398</NoncharitableAssetsYear1>
+        <QualifyingDistributionsYear2>8100</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>4129</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>1.961734</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>8250</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>12411</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.664733</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>1350</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>3640</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.370879</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>55000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>502</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>109.56175</DistributionRatioYear5>
+        <TotalDistributionRatio>112.55909</TotalDistributionRatio>
+        <AverageDistributionRatio>28.139775</AverageDistributionRatio>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>2000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>false</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>C J PUCKETT</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7709499000</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3844 HWY 166</AddressLine1>
+          <City>DOUGLASVILLE</City>
+          <State>GA</State>
+          <ZIPCode>30135</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">CJ PUCKETT</PersonName>
+          <USAddress>
+            <AddressLine1>3844 HWY 166</AddressLine1>
+            <City>DOUGLASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>30135</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">PEGGY A PUCKETT</PersonName>
+          <USAddress>
+            <AddressLine1>3844 HWY 166</AddressLine1>
+            <City>DOUGLASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>30135</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">J NEVIN SMITH</PersonName>
+          <USAddress>
+            <AddressLine1>MAIN STREET</AddressLine1>
+            <City>CARROLLTON</City>
+            <State>GA</State>
+            <ZIPCode>30133</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>2000</ExpensesAndContributions>
+        <QualifyingDistributions>2000</QualifyingDistributions>
+        <AdjQualifyingDistributions>2000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>55000</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>1350</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>8250</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>8100</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>72700</TotalExcessDistriCarryover>
+        <QualifyingDistributions>2000</QualifyingDistributions>
+        <RemainingDistriFromCorpus>2000</RemainingDistriFromCorpus>
+        <TotalCorpus>74700</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>55000</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>19700</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>1350</ExcessFromYear4>
+        <ExcessFromYear3>8250</ExcessFromYear3>
+        <ExcessFromYear2>8100</ExcessFromYear2>
+        <ExcessFromCurrentYear>2000</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <FormAndInfoAndMaterials>APPLICANTS SHOULD SUBMIT A GRANT REQUEST WITH PROPOSAL FOR USE OF FUNDS,AND ACCOUNTABILITY OF USE OF FUNDS</FormAndInfoAndMaterials>
+          <RestrictionsOnAwards>PREFERENCE IS GIVEN TO CHARITABLE ORGANIZATIONS INVOLVED WITH HEALTHCARE OF ELDERLY, EDUCATION AND RELIGIOUS ACTIVI</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHURCH AT CHAPEL HILL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>CHAPEL HILL RD</AddressLine1>
+            <City>DOUGLASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>30116</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>2000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>9</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>9</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>9</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>TAX RETURN PREP</Category>
+        <Amount>750</Amount>
+        <NetInvestmentIncome>750</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>CJ PUCKETT</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>PEGGY A PUCKETT</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>J NEVIN SMITH</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>40</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>40</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <Taxes>
+        <Category>INDIRECT TAXES/LICENSES</Category>
+        <Amount>26</Amount>
+        <NetInvestmentIncome>26</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

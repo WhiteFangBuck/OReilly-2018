@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T06:14:32-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Mayer Rispler &amp; Co CPAS PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>18 Heyward Street</AddressLine1>
+        <City>Brooklyn</City>
+        <State>NY</State>
+        <ZIPCode>11211</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>113519105</EIN>
+      <Name>
+        <BusinessNameLine1>B O FUND</BusinessNameLine1>
+        <BusinessNameLine2>CO AVI OKSENBERG</BusinessNameLine2>
+      </Name>
+      <NameControl>BOFU</NameControl>
+      <Phone>6467085949</Phone>
+      <USAddress>
+        <AddressLine1>1748 EAST 29TH STREET</AddressLine1>
+        <City>BROOKLYN</City>
+        <State>NY</State>
+        <ZIPCode>11229</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ABRAHAM OKSENBERG</Name>
+      <Title>Trustee</Title>
+      <DateSigned>2011-07-26</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MICHAEL FRIEDMAN CPA</Name>
+      <Phone>7188529200</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>169934</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>10000</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>174</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>174</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>174</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">890</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>890</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>890</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>11064</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>1064</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>1064</TotalAdjustedNetIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">4600</OtherProfFeesRevAndExpnss>
+        <InterestRevAndExpnss>70</InterestRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">58</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>58</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>58</TaxesAdjNetIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">305</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">3727</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>50</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>50</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>8760</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>108</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>108</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>73805</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>73805</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>82565</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>108</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>108</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>73805</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-71501</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>956</NetInvestmentIncome>
+        <AdjustedNetIncome>956</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>148416</CashBOY>
+        <CashEOY>4943</CashEOY>
+        <CashEOYFMV>4943</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>8851</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>81666</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>81666</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>83512</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY>82974</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>82974</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>7300</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>6949</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>656</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId=" LandEtcSchedule2">351</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>351</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>241435</TotalAssetsBOY>
+        <TotalAssetsEOY>169934</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>169934</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>241435</UnrestrictedBOY>
+        <UnrestrictedEOY>169934</UnrestrictedEOY>
+        <TotalNetAssetsBOY>241435</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>169934</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>241435</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>169934</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>241435</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-71501</ExcessOfRevenueOverExpenses>
+        <Subtotal>169934</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>169934</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>187592</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>316152</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.59336</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>186421</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>168329</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>1.10748</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>106086</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>170194</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.62332</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>55786</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>179821</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.31023</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>35874</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>147276</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.24358</DistributionRatioYear5>
+        <TotalDistributionRatio>2.87798</TotalDistributionRatio>
+        <AverageDistributionRatio>0.57560</AverageDistributionRatio>
+        <NetNoncharitableAssets>202184</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>116376</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>10</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>116386</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>73805</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>19</InvestmentIncomeExciseTax>
+        <Subtotal>19</Subtotal>
+        <TaxBasedOnInvestmentIncome>19</TaxBasedOnInvestmentIncome>
+        <TaxDue>19</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BO FUND</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1748 EAST 29TH STREET</AddressLine1>
+          <City>BROOKLYN</City>
+          <State>NY</State>
+          <ZIPCode>11229</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ZVI OKSENBERG</PersonName>
+          <USAddress>
+            <AddressLine1>1748 EAST 29TH STREET</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11229</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ABRAHAM OKSENBERG</PersonName>
+          <USAddress>
+            <AddressLine1>1748 EAST 29TH STREET</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11229</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>121938</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>83325</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>205263</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>205263</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3079</CashDeemedCharitable>
+        <NetNoncharitableAssets>202184</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>10109</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>10109</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>19</TaxBasedOnInvestmentIncome>
+        <TotalTax>19</TotalTax>
+        <DistributableAmountBeforeAdj>10090</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>10090</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>10090</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>73805</ExpensesAndContributions>
+        <QualifyingDistributions>73805</QualifyingDistributions>
+        <AdjQualifyingDistributions>73805</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>10090</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>28510</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>46879</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>97682</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>178075</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>171800</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>522946</TotalExcessDistriCarryover>
+        <QualifyingDistributions>73805</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>10090</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>63715</RemainingDistriFromCorpus>
+        <TotalCorpus>586661</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>28510</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>558151</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>46879</ExcessFromYear4>
+        <ExcessFromYear3>97682</ExcessFromYear3>
+        <ExcessFromYear2>178075</ExcessFromYear2>
+        <ExcessFromYear1>171800</ExcessFromYear1>
+        <ExcessFromCurrentYear>63715</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>ABRAHAM OKSENBERG</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Team Life</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>291 Rt 34</AddressLine1>
+            <City>Colts Neck</City>
+            <State>NJ</State>
+            <ZIPCode>07722</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PROSPECT PARK YESHIVA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1784 E 17th st</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11229</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>YESHIVAS OHR YITZCHAK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1214 E 15th st</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11230</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>9600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MISCELLANEOUS CHARITIES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>c/o Avi Oksenberg 1748 E 29th st</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11229</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>4925</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>YESHIVA CHAIM BERLIN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1605 Coney Island Ave</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11230</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>32300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>YESHIVA OHR YISRAEL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2899 Nostrand Ave</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11229</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1680</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KHAL BRIZDUVITZ</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1721 58th st</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>16800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>73805</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>174</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <OtherRevenueDescribed>
+          <Description>FLOW-THRU FROM INVESTMENT</Description>
+          <RelatedOrExemptFunctionIncome>890</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>1064</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1064</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER</DescriptionOfProperty>
+        <DateAcquired>2007-07-22</DateAcquired>
+        <CostOrOtherBasis>2036</CostOrOtherBasis>
+        <PriorYearsDepreciation>1450</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1152</Rate>
+        <CurrentYearExpense>235</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER</DescriptionOfProperty>
+        <DateAcquired>2005-07-28</DateAcquired>
+        <CostOrOtherBasis>1215</CostOrOtherBasis>
+        <PriorYearsDepreciation>1145</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.0576</Rate>
+        <CurrentYearExpense>70</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <LandEtc>
+        <CategoryOrItem>Machinery and Equipment</CategoryOrItem>
+        <CostOrOtherBasis>7300</CostOrOtherBasis>
+        <AccumulatedDepreciation>6949</AccumulatedDepreciation>
+        <BookValue>351</BookValue>
+        <EOYFMV>351</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>OFFICE EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>3563</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>164</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+        <AdjustedNetIncome>50</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>FLOW-THRU FROM INVESTMENT</Description>
+        <RevenueAndExpensesPerBooks>890</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>890</NetInvestmentIncome>
+        <AdjustedNetIncome>890</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherProfessionalFees>
+        <Category>Accounting</Category>
+        <Amount>4600</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>NY State</Category>
+        <Amount>50</Amount>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+        <AdjustedNetIncome>50</AdjustedNetIncome>
+      </Taxes>
+      <Taxes>
+        <Category>Federal</Category>
+        <Amount>8</Amount>
+        <NetInvestmentIncome>8</NetInvestmentIncome>
+        <AdjustedNetIncome>8</AdjustedNetIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

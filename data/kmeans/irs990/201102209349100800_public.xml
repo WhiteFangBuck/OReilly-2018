@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T11:00:42-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CARLSON ADVISORS LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>7101 NORTHLAND CIRCLE STE 123</AddressLine1>
+        <City>MINNEAPOLIS</City>
+        <State>MN</State>
+        <ZIPCode>55428</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>205221379</EIN>
+      <Name>
+        <BusinessNameLine1>ANIMAL BEHAVIOR RESOURCES INSTITUTE INC</BusinessNameLine1>
+        <BusinessNameLine2>C/O TOM HARA ATTORNEY</BusinessNameLine2>
+      </Name>
+      <NameControl>ANIM</NameControl>
+      <Phone>6122091578</Phone>
+      <USAddress>
+        <AddressLine1>10650 COUNTY ROAD 81</AddressLine1>
+        <City>MAPLE GROVE</City>
+        <State>MN</State>
+        <ZIPCode>55369</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RICHARD RUNBECK</Name>
+      <Title>CHIEF EXECUTIVE OFFICER</Title>
+      <Phone>6122963594</Phone>
+      <DateSigned>2011-07-18</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DEA JOHNSON CPA</Name>
+      <Phone>7635358150</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>9894</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>12500</ContriReceivedRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">8250</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>20750</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">2979</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">2000</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc2203000001">993</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <TravConfMeetingRevAndExpnss>4562</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingDsbrsChrtblPrps>4562</TravConfMeetingDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">3997</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>3496</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>14531</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>8058</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>14531</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>8058</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>6219</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>222</CashBOY>
+        <CashEOY>1034</CashEOY>
+        <CashEOYFMV>1034</CashEOYFMV>
+        <ReceivablesFromOfficersEOY>6400</ReceivablesFromOfficersEOY>
+        <ReceivablesFromOfficersEOYFMV>6400</ReceivablesFromOfficersEOYFMV>
+        <LandBuildingAndEquipmentBasis>6425</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>3965</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>3453</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc2059000001">2460</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>2460</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>3675</TotalAssetsBOY>
+        <TotalAssetsEOY>9894</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>9894</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>3675</UnrestrictedBOY>
+        <UnrestrictedEOY>9894</UnrestrictedEOY>
+        <TotalNetAssetsBOY>3675</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>9894</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3675</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>9894</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3675</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>6219</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>9894</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>9894</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>10004</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>441</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>22.684807</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>44008</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1785</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>24.654342</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>44532</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>12641</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>3.522823</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>57492</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>5727</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>10.038764</DistributionRatioYear4>
+        <TotalDistributionRatio>60.900736</TotalDistributionRatio>
+        <AverageDistributionRatio>15.225184</AverageDistributionRatio>
+        <NetNoncharitableAssets>853</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>12987</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>12987</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>8058</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MN</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>1</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.ABRIONLINE.ORG</WebsiteAddress>
+        <BooksInCareOfPersonName>CARLSON ADVISORS LLC</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7635358150</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>7101 NORTHLAND CIRCLE STE 123</AddressLine1>
+          <City>MINNEAPOLIS</City>
+          <State>MN</State>
+          <ZIPCode>55428</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>1</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICHARD RUNBECK</PersonName>
+          <USAddress>
+            <AddressLine1>48 EAST GOLDEN LAKE ROAD</AddressLine1>
+            <City>CIRCLE PINES</City>
+            <State>MN</State>
+            <ZIPCode>55014</ZIPCode>
+          </USAddress>
+          <Title>CHIEF EXECUTIVE OFFICER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT K ANDERSON</PersonName>
+          <USAddress>
+            <AddressLine1>1666 COFFMAN STREET 128</AddressLine1>
+            <City>FALCON HEIGHTS</City>
+            <State>MN</State>
+            <ZIPCode>55108</ZIPCode>
+          </USAddress>
+          <Title>CHAIRMAN</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS I HARA</PersonName>
+          <USAddress>
+            <AddressLine1>10650 COUNTY ROAD B 103</AddressLine1>
+            <City>MAPLE GROVE</City>
+            <State>MN</State>
+            <ZIPCode>55369</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LINDA MCCANN</PersonName>
+          <USAddress>
+            <AddressLine1>3328 FRANCE AVENUE SOUTH</AddressLine1>
+            <City>MINNEAPOLIS</City>
+            <State>MN</State>
+            <ZIPCode>55416</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>DEVELOPMENT OF VIDEOS AND PODCASTS FOR EDUCATION AND TRAINING ARE POSTED ON THE WEBSITE. THE MISSION OF ANIMAL BEHAVIOR RESOURCES INSTITUTE, INC. IS TO ENHANCE HUMAN ANIMAL RELATIONSHIPS AND IMPROVE THE QUALITY OF LIFE FOR PEOPLE AND ANIMALS BY PROVIDING EDUCATION AND ANIMAL BEHAVIOR RESOURCES. TO FULFILL THIS MISSION, THE INSTITUTE HAS DEVELOPED A WEBSITE THAT FEATURES FREE VIDEOS, ARTICLES, PODCASTS, AND OTHER RESOURCES TO THE COMMUNITY OF COMPANION ANIMAL PROFESSIONALS.</Description1>
+        <Expenses1>3497</Expenses1>
+        <Description2>TRAVEL EXPENSES TO CONFERENCES WHERE ANIMAL BEHAVIOR EDUCATION IS PRESENTED.</Description2>
+        <Expenses2>4561</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>866</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>866</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>866</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>13</CashDeemedCharitable>
+        <NetNoncharitableAssets>853</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>43</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>8058</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>8058</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>8058</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>2009-03-16</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>8058</CurrentYear>
+          <Year1>10004</Year1>
+          <Year2>44008</Year2>
+          <Year3>44532</Year3>
+          <Total>106602</Total>
+        </QualifyingDistributions>
+        <QlfyDistriNotUsedDirectly>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </QlfyDistriNotUsedDirectly>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>8058</CurrentYear>
+          <Year1>10004</Year1>
+          <Year2>44008</Year2>
+          <Year3>44532</Year3>
+          <Total>106602</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <Total>0</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <Total>0</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>29</CurrentYear>
+          <Year1>15</Year1>
+          <Year2>59</Year2>
+          <Year3>421</Year3>
+          <Total>524</Total>
+        </TwoThirdsMinInvstReturn>
+        <TotalSupport>
+          <Total>0</Total>
+        </TotalSupport>
+        <PublicSupport>
+          <Total>0</Total>
+        </PublicSupport>
+        <LargestSupportFromEO>
+          <Total>0</Total>
+        </LargestSupportFromEO>
+        <GrossInvestmentIncome>
+          <Total>0</Total>
+        </GrossInvestmentIncome>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <ContributingManager>ROBERT K ANDERSON</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <TotGrantOrContriPaidDuringYear>0</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>WEBSITE SPONSORSHIP</Description>
+          <RelatedOrExemptFunctionIncome>8250</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>8250</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>8250</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>WEBSITE SPONSORSHIPS GENERATE INCOME TO SUPPORT EDUCATION</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>THROUGH THE WEBSITE.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>AMERICAN HUMANE ASSOCIATION</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>1400 16TH STREET NW STE 360</AddressLine1>
+          <City>WASHINGTON</City>
+          <State>DC</State>
+          <ZIPCode>20036</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>12500</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>2000</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <Depreciation>
+        <DescriptionOfProperty>MACROMEDIA STUDIO 8</DescriptionOfProperty>
+        <DateAcquired>2006-08-03</DateAcquired>
+        <CostOrOtherBasis>1171</CostOrOtherBasis>
+        <PriorYearsDepreciation>1171</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>3.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>TRADESHOW DISPLAY SCREEN</DescriptionOfProperty>
+        <DateAcquired>2007-04-10</DateAcquired>
+        <CostOrOtherBasis>1013</CostOrOtherBasis>
+        <PriorYearsDepreciation>471</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>145</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FIREWIRE 800 750GB DRIVE</DescriptionOfProperty>
+        <DateAcquired>2007-08-06</DateAcquired>
+        <CostOrOtherBasis>661</CostOrOtherBasis>
+        <PriorYearsDepreciation>385</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>132</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>HARD DRIVES</DescriptionOfProperty>
+        <DateAcquired>2007-11-26</DateAcquired>
+        <CostOrOtherBasis>385</CostOrOtherBasis>
+        <PriorYearsDepreciation>199</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>77</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CAMERA</DescriptionOfProperty>
+        <DateAcquired>2009-04-24</DateAcquired>
+        <CostOrOtherBasis>3195</CostOrOtherBasis>
+        <PriorYearsDepreciation>746</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>639</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtc>
+        <CategoryOrItem>MACROMEDIA STUDIO 8</CategoryOrItem>
+        <CostOrOtherBasis>1171</CostOrOtherBasis>
+        <AccumulatedDepreciation>1171</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>TRADESHOW DISPLAY SCREEN</CategoryOrItem>
+        <CostOrOtherBasis>1013</CostOrOtherBasis>
+        <AccumulatedDepreciation>616</AccumulatedDepreciation>
+        <BookValue>397</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>FIREWIRE 800 750GB DRIVE</CategoryOrItem>
+        <CostOrOtherBasis>661</CostOrOtherBasis>
+        <AccumulatedDepreciation>517</AccumulatedDepreciation>
+        <BookValue>144</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>HARD DRIVES</CategoryOrItem>
+        <CostOrOtherBasis>385</CostOrOtherBasis>
+        <AccumulatedDepreciation>276</AccumulatedDepreciation>
+        <BookValue>109</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>CAMERA</CategoryOrItem>
+        <CostOrOtherBasis>3195</CostOrOtherBasis>
+        <AccumulatedDepreciation>1385</AccumulatedDepreciation>
+        <BookValue>1810</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>LEGAL</Category>
+        <Amount>2979</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>65</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INTERNET SERVICES</Description>
+        <RevenueAndExpensesPerBooks>583</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>583</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>335</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE &amp; DELIVERY</Description>
+        <RevenueAndExpensesPerBooks>37</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>AUTO EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>39</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>COMPUTER SOFTWARE</Description>
+        <RevenueAndExpensesPerBooks>139</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>139</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PRODUCTION SERVICES &amp; SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>2774</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>2774</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>WEBSITE SPONSORSHIP</Description>
+        <RevenueAndExpensesPerBooks>8250</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>8250</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributor>
+        <PersonName>DR ROBERT K ANDERSON</PersonName>
+        <USAddress>
+          <AddressLine1>1666 COFFMAN STREET 128</AddressLine1>
+          <City>FALCON HEIGHTS</City>
+          <State>MN</State>
+          <ZIPCode>55108</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+      <SubstantialContributor>
+        <PersonName>DUFFER SCHULTZ</PersonName>
+        <USAddress>
+          <AddressLine1>410 EDGEWOOD AVE NO</AddressLine1>
+          <City>GOLDEN VALLEY</City>
+          <State>MN</State>
+          <ZIPCode>55427</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+      <SubstantialContributor>
+        <BusinessName>
+          <BusinessNameLine1>AMERICAN HUMANE ASSOCIATION</BusinessNameLine1>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1>63 INVERNESS DRIVE EAST</AddressLine1>
+          <City>ENGLEWOOD</City>
+          <State>CO</State>
+          <ZIPCode>80112</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

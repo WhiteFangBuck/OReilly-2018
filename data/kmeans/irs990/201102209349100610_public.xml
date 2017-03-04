@@ -1,0 +1,734 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T13:09:43-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Sattell Johnson Appel &amp; Co SC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>800 Woodland Prime Suite 100</AddressLine1>
+        <City>Menomonee Falls</City>
+        <State>WI</State>
+        <ZIPCode>530514481</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>391837448</EIN>
+      <Name>
+        <BusinessNameLine1>Pelz Family Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>PELZ</NameControl>
+      <Phone>2622413374</Phone>
+      <USAddress>
+        <AddressLine1>318 W Seacroft Ct</AddressLine1>
+        <City>Mequon</City>
+        <State>WI</State>
+        <ZIPCode>530922561</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Harry Pelz</Name>
+      <Title>President</Title>
+      <Phone>2622413374</Phone>
+      <DateSigned>2011-08-04</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Steven Feurer CPA</Name>
+      <Phone>4142730500</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>708948</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>206403</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>48</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>48</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>11232</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>11232</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>15572</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>322704</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>67317</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>233255</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>78597</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">3902</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>3902</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">3832</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>7734</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>3902</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>127150</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>127150</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>134884</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>3902</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>127150</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>98371</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>74695</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>116262</CashBOY>
+        <CashEOY>95046</CashEOY>
+        <CashEOYFMV>95046</CashEOYFMV>
+        <InvestmentsCorpStockBOY>7143</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">7143</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>0</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>462527</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">582114</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>613902</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>585932</TotalAssetsBOY>
+        <TotalAssetsEOY>684303</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>708948</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>24745</CapitalStockBOY>
+        <CapitalStockEOY>24745</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>561187</RetainedEarningsBOY>
+        <RetainedEarningsEOY>659558</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>585932</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>684303</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>585932</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>684303</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>585932</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>98371</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>684303</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>684303</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Publicly traded securities</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>319864</GrossSalesPrice>
+          <CostOrOtherBasis>255387</CostOrOtherBasis>
+          <GainOrLoss>64477</GainOrLoss>
+          <GainsMinusExcessOrLosses>64477</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Capital Gains Dividends</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>2840</GrossSalesPrice>
+          <GainOrLoss>2840</GainOrLoss>
+          <GainsMinusExcessOrLosses>2840</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>67317</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>144600</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>483176</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.299270</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>83907</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>706556</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.118755</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>187411</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>724670</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.258616</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>233195</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>690771</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.337587</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>148577</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>573056</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.259271</DistributionRatioYear5>
+        <TotalDistributionRatio>1.273499</TotalDistributionRatio>
+        <AverageDistributionRatio>0.254700</AverageDistributionRatio>
+        <NetNoncharitableAssets>504420</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>128476</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>747</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>129223</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>127150</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1494</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>1494</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>1494</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2080</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>2080</TotalCreditsAndPayments>
+        <Overpayment>586</Overpayment>
+        <AmountCreditedToNextYear>586</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>Harry Pelz</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4149671800</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>318 W Seacroft Court</AddressLine1>
+          <City>Mequon</City>
+          <State>WI</State>
+          <ZIPCode>530923561</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Harry Pelz</PersonName>
+          <USAddress>
+            <AddressLine1>318 W Seacroft Ct 118 N</AddressLine1>
+            <City>Mequon</City>
+            <State>WI</State>
+            <ZIPCode>53092</ZIPCode>
+          </USAddress>
+          <Title>President, Treasurer, Dire</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Marilyn Pelz</PersonName>
+          <USAddress>
+            <AddressLine1>318 W Seacroft Ct 118 N</AddressLine1>
+            <City>Mequon</City>
+            <State>WI</State>
+            <ZIPCode>53092</ZIPCode>
+          </USAddress>
+          <Title>Secretary, Director</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jason Pelz</PersonName>
+          <USAddress>
+            <AddressLine1>318 W Seacroft Ct 118 N</AddressLine1>
+            <City>Mequon</City>
+            <State>WI</State>
+            <ZIPCode>53092</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>David Pelz</PersonName>
+          <USAddress>
+            <AddressLine1>318 W Seacroft Ct 118 N</AddressLine1>
+            <City>Mequon</City>
+            <State>WI</State>
+            <ZIPCode>53092</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Mara Lappin</PersonName>
+          <USAddress>
+            <AddressLine1>318 W Seacroft Ct 118 N</AddressLine1>
+            <City>Mequon</City>
+            <State>WI</State>
+            <ZIPCode>53092</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Daniel Pelz</PersonName>
+          <USAddress>
+            <AddressLine1>318 W Seacroft Ct 118 N</AddressLine1>
+            <City>Mequon</City>
+            <State>WI</State>
+            <ZIPCode>53092</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>490512</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>21590</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>512102</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>512102</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>7682</CashDeemedCharitable>
+        <NetNoncharitableAssets>504420</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>25221</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>25221</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1494</TaxBasedOnInvestmentIncome>
+        <TotalTax>1494</TotalTax>
+        <DistributableAmountBeforeAdj>23727</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>23727</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>23727</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>127150</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>127150</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>127150</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>23727</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>123014</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>202301</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>154410</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>48782</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>124545</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>653052</TotalExcessDistriCarryover>
+        <QualifyingDistributions>127150</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>23727</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>103423</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>756475</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>123014</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>633461</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>202301</ExcessFromYear4>
+        <ExcessFromYear3>154410</ExcessFromYear3>
+        <ExcessFromYear2>48782</ExcessFromYear2>
+        <ExcessFromYear1>124545</ExcessFromYear1>
+        <ExcessFromCurrentYear>103423</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Harry Pelz</ContributingManager>
+        <ContributingManager>Marilyn Pelz</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Children's Hospital and Health System</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 1997</AddressLine1>
+            <City>Milwaukee</City>
+            <State>WI</State>
+            <ZIPCode>532011997</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Congregation Agudas Achim Chabad</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2233 West Mequon Road</AddressLine1>
+            <City>Mequon</City>
+            <State>WI</State>
+            <ZIPCode>53092</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>18000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Generation After co Jeanette Peckerman</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6580 N Atwahl Drive</AddressLine1>
+            <City>Milwaukee</City>
+            <State>WI</State>
+            <ZIPCode>53209</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Jewish Community Center</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6255 N Santa Monica Blvd</AddressLine1>
+            <City>Milwaukee</City>
+            <State>WI</State>
+            <ZIPCode>532174353</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>2550</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Jewish Family Services</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1300 North Jackson Street</AddressLine1>
+            <City>Milwaukee</City>
+            <State>WI</State>
+            <ZIPCode>53202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Jewish National Fund</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>42 East 69th Street</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10021</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Milwaukee Jewish Federation (Pelz Holocost Education &amp; Research Center)</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1360 North Prospect Avenue</AddressLine1>
+            <City>Milwaukee</City>
+            <State>WI</State>
+            <ZIPCode>532023094</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Milwaukee Jewish Federation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1360 North Prospect Avenue</AddressLine1>
+            <City>Milwaukee</City>
+            <State>WI</State>
+            <ZIPCode>532023094</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PAVE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>135 West Wells Street Suite 850</AddressLine1>
+            <City>Milwaukee</City>
+            <State>WI</State>
+            <ZIPCode>53203</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Remember Us The Holocaust Bnai Mitzvah Project</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2777 Yulupa Avenue 273</AddressLine1>
+            <City>Santa Rosa</City>
+            <State>CA</State>
+            <ZIPCode>95405</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Stand Up to Cancer</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1201 W 5th Street Suite T-700</AddressLine1>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <ZIPCode>90017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>127150</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>48</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>11232</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>15572</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>26852</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>26852</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Harry Marilyn Pelz</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>318 Seacroft Ct</AddressLine1>
+          <City>Mequon</City>
+          <State>WI</State>
+          <ZIPCode>530923561</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>206403</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>155 sh Apple, Inc. FMV = 50,496; 850 sh US Oil FMV = 33,061 and 600 sh Kraft FMV = 19,014</NoncashPropertyDescription>
+        <FairMarketValue>102571</FairMarketValue>
+        <DateReceived>2010-12-30</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>2,000 American Telecom</NameOfStock>
+        <EOYBookValue>7143</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>Mutual Global Discovery</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>16299</BookValue>
+        <EOYFMV>17415</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Janus Invt Fd</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>39046</BookValue>
+        <EOYFMV>40744</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Dodge &amp; Cox International Stock</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>27703</BookValue>
+        <EOYFMV>29804</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>T Rowe Price Growth Stock Fund</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>35092</BookValue>
+        <EOYFMV>41330</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Heartland Group Select Value</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>20174</BookValue>
+        <EOYFMV>23968</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Fairholm Funds</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>24719</BookValue>
+        <EOYFMV>29744</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>William Blair International Growth Fund</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>26642</BookValue>
+        <EOYFMV>30959</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FPA Fds Tr Cresecnet Port Instl</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>32403</BookValue>
+        <EOYFMV>34546</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Vanguard Fixed Income Short Term</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>131993</BookValue>
+        <EOYFMV>133589</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Aston Funds</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>11503</BookValue>
+        <EOYFMV>13892</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Longleaf Partners</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>23113</BookValue>
+        <EOYFMV>24021</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Primecap Odyssey Funds</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>13447</BookValue>
+        <EOYFMV>14082</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Oakmark International Small Cap Fund</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>14916</BookValue>
+        <EOYFMV>16459</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Loomis Sayles Bond Fund</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>25019</BookValue>
+        <EOYFMV>25300</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Pimco Funds</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>20009</BookValue>
+        <EOYFMV>18531</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Ridgeworth Funds</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>85018</BookValue>
+        <EOYFMV>84797</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Templeton Global Bond Fund</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>35018</BookValue>
+        <EOYFMV>34721</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>Management fees</Category>
+        <Amount>3902</Amount>
+        <NetInvestmentIncome>3902</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>Tax on net investment income</Category>
+        <Amount>3832</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

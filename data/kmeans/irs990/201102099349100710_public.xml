@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T16:08:27-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>GETTLESON WITZER &amp; O'CONNOR</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>9350 WILSHIRE BLVD STE 250</AddressLine1>
+        <City>BEVERLY HILLS</City>
+        <State>CA</State>
+        <ZIPCode>90212</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>133534434</EIN>
+      <Name>
+        <BusinessNameLine1>CLARA ELIZABETH JACKSON CARTER FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>CLAR</NameControl>
+      <Phone>3012773159</Phone>
+      <USAddress>
+        <AddressLine1>4206 DECATUR STREET</AddressLine1>
+        <City>HYATTSVILLE</City>
+        <State>MD</State>
+        <ZIPCode>20781</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DAVID C DRISKELL</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>3012773159</Phone>
+      <DateSigned>2011-07-08</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>LAWRENCE L WITZER</Name>
+      <Phone>3102889970</Phone>
+      <DatePrepared>2011-07-06</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1989418</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>0</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>61</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>61</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>118390</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>118390</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>118451</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>118451</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>56300</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>56300</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>19165</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>19165</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSch">2500</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>2500</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">3372</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>3372</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="DepreciationSch">2362</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">10788</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>10788</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>94487</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>92125</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>102500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>102500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>196987</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>194625</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-78536</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>118451</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>187464</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>108290</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>108290</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>991</AccountsReceivable>
+        <AccountsReceivableBOY>691</AccountsReceivableBOY>
+        <AccountsReceivableEOY>991</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>991</AccountsReceivableEOYFMV>
+        <InvestmentsGovtObligBOY>927892</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="InvGovtObligSch">927892</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>918509</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpBondsBOY>925741</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="InvestCorpBondsSch">925741</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>948678</InvestmentsCorpBondsEOYFMV>
+        <LandBuildingAndEquipmentBasis>21914</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>8964</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>12612</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="LandEtcSch2">12950</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>12950</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>2054400</TotalAssetsBOY>
+        <TotalAssetsEOY>1975864</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1989418</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>0</AccountsPayableBOY>
+        <AccountsPayableEOY>0</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>2054400</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1975864</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>2054400</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1975864</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2054400</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1975864</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2054400</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-78536</ExcessOfRevenueOverExpenses>
+        <Subtotal>1975864</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1975864</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses />
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>178908</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>2068326</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.086499</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>179777</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2201109</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.081676</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>187697</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2447135</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.076701</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>203088</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2540788</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.079931</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>297422</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2566972</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.115865</DistributionRatioYear5>
+        <TotalDistributionRatio>0.440672</TotalDistributionRatio>
+        <AverageDistributionRatio>0.088134</AverageDistributionRatio>
+        <NetNoncharitableAssets>2062068</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>181738</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1185</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>182923</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>194625</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>1185</InvestmentIncomeExciseTax>
+        <Subtotal>1185</Subtotal>
+        <TaxBasedOnInvestmentIncome>1185</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2586</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>2586</TotalCreditsAndPayments>
+        <Overpayment>1401</Overpayment>
+        <AmountCreditedToNextYear>1401</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>DE</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>CLARA ELIZ JACKSON CARTER FDN</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3012773159</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>4206 DECATUR STREET</AddressLine1>
+          <City>HYATTSVILLE</City>
+          <State>MD</State>
+          <ZIPCode>20781</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>true</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID C DRISKELL</PersonName>
+          <USAddress>
+            <AddressLine1>4206 DECATUR STREET</AddressLine1>
+            <City>HYATTSVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20781</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT/TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>20.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>25900</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRENDA HILL</PersonName>
+          <USAddress>
+            <AddressLine1>4206 DECATUR STREET</AddressLine1>
+            <City>HYATTSVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20781</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EDWARD LEWIS</PersonName>
+          <USAddress>
+            <AddressLine1>4206 DECATUR STREET</AddressLine1>
+            <City>HYATTSVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20781</ZIPCode>
+          </USAddress>
+          <Title>ASSISTANT TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STEPHANIE PHILLIPPS</PersonName>
+          <USAddress>
+            <AddressLine1>4206 DECATUR STREET</AddressLine1>
+            <City>HYATTSVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20781</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DOROTHY HEIGHT</PersonName>
+          <USAddress>
+            <AddressLine1>4206 DECATUR STREET</AddressLine1>
+            <City>HYATTSVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20781</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALVIN POUSSAINT</PersonName>
+          <USAddress>
+            <AddressLine1>4206 DECATUR STREET</AddressLine1>
+            <City>HYATTSVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20781</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLAYNE HUNTER-GAULT</PersonName>
+          <USAddress>
+            <AddressLine1>4206 DECATUR STREET</AddressLine1>
+            <City>HYATTSVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20781</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAPHNE COLES</PersonName>
+          <USAddress>
+            <AddressLine1>4206 DECATUR STREET</AddressLine1>
+            <City>HYATTSVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20781</ZIPCode>
+          </USAddress>
+          <Title>ADMINISTRATIVE ASSISTANT</Title>
+          <AvgHoursPerWkDevotedToPosition>40.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>30400</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1913542</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>179928</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>2093470</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>2093470</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>31402</CashDeemedCharitable>
+        <NetNoncharitableAssets>2062068</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>103103</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>103103</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1185</TaxBasedOnInvestmentIncome>
+        <TotalTax>1185</TotalTax>
+        <DistributableAmountBeforeAdj>101918</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>101918</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>101918</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>194625</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>194625</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>1185</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>193440</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>101918</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>170960</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>78536</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>67820</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>71561</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>78071</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>466948</TotalExcessDistriCarryover>
+        <QualifyingDistributions>194625</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToCurrentYear>101918</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>92707</RemainingDistriFromCorpus>
+        <TotalCorpus>559655</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>170960</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>388695</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>78536</ExcessFromYear4>
+        <ExcessFromYear3>67820</ExcessFromYear3>
+        <ExcessFromYear2>71561</ExcessFromYear2>
+        <ExcessFromYear1>78071</ExcessFromYear1>
+        <ExcessFromCurrentYear>92707</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FAMILY SERVICE OF GREATER NEW ORLEANS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2515 CANAL STREET 201</AddressLine1>
+            <City>NEW ORLEANS</City>
+            <State>LA</State>
+            <ZIPCode>70119</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) - PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>40000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CORRECTIONAL EDUCATION ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8182 LARK BROWN ROAD SUITE 202</AddressLine1>
+            <City>ELKRIDGE</City>
+            <State>MD</State>
+            <ZIPCode>21075</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) - PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEDDY BEAR CLINIC FOR ABUSED CHILDREN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1>POSTNET STE 320 PRIVATE BAG X30500</AddressLine1>
+            <City>HOUGHTON</City>
+            <ProvinceOrState>JOHANNESBURG GAUTENG</ProvinceOrState>
+            <Country>SF</Country>
+            <PostalCode>2041</PostalCode>
+          </RecipientForeignAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)-PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INSTITUTE FOR RESPONSIBLE CITIZENSHIP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1227 25TH STREET NW 6TH FLOOR</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20037</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)- PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HAITIAN RELIEF FUND INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>48-D ATLANTIC AVENUE</AddressLine1>
+            <City>LYNBROOK</City>
+            <State>NY</State>
+            <ZIPCode>11563</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)-PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>102500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>61</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>118390</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry />
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>118451</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>118451</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFees>
+        <Category>GETTLESON, WITZER &amp; O'CONNOR</Category>
+        <Amount>2500</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>2500</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch">
+      <Depreciation>
+        <DescriptionOfProperty>VACUUM</DescriptionOfProperty>
+        <DateAcquired>2005-03-18</DateAcquired>
+        <CostOrOtherBasis>1960</CostOrOtherBasis>
+        <PriorYearsDepreciation>1862</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5</Life>
+        <CurrentYearExpense>98</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DELL COMPUTER</DescriptionOfProperty>
+        <DateAcquired>2005-05-13</DateAcquired>
+        <CostOrOtherBasis>824</CostOrOtherBasis>
+        <PriorYearsDepreciation>824</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>3</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>AIR CONDITIONER</DescriptionOfProperty>
+        <DateAcquired>2005-08-10</DateAcquired>
+        <CostOrOtherBasis>458</CostOrOtherBasis>
+        <PriorYearsDepreciation>406</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5</Life>
+        <CurrentYearExpense>52</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DELL COMPUTER</DescriptionOfProperty>
+        <DateAcquired>2005-08-25</DateAcquired>
+        <CostOrOtherBasis>741</CostOrOtherBasis>
+        <PriorYearsDepreciation>741</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>3</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DELL COMPUTER</DescriptionOfProperty>
+        <DateAcquired>2005-12-14</DateAcquired>
+        <CostOrOtherBasis>977</CostOrOtherBasis>
+        <PriorYearsDepreciation>977</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>3</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BLINDS</DescriptionOfProperty>
+        <DateAcquired>2006-05-24</DateAcquired>
+        <CostOrOtherBasis>1046</CostOrOtherBasis>
+        <PriorYearsDepreciation>534</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7</Life>
+        <CurrentYearExpense>149</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>OFFICE FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2009-04-29</DateAcquired>
+        <CostOrOtherBasis>13207</CostOrOtherBasis>
+        <PriorYearsDepreciation>1258</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7</Life>
+        <CurrentYearExpense>1887</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>OFFICE FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2010-06-22</DateAcquired>
+        <CostOrOtherBasis>1350</CostOrOtherBasis>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7</Life>
+        <CurrentYearExpense>96</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>OFFICE FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2010-07-26</DateAcquired>
+        <CostOrOtherBasis>1350</CostOrOtherBasis>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7</Life>
+        <CurrentYearExpense>80</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestCorpBondsSch">
+      <InvestmentsCorpBonds>
+        <NameOfBond>JP MORGAN TOTAL RETURN FUND</NameOfBond>
+        <EOYBookValue>925741</EOYBookValue>
+        <EOYFMV>948678</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvGovtObligSch">
+      <USGovtSecuritiesEOYBookValue>927892</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>918509</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <LandEtcSchedule2 documentId="LandEtcSch2">
+      <LandEtc>
+        <CategoryOrItem>VACUUM</CategoryOrItem>
+        <CostOrOtherBasis>1960</CostOrOtherBasis>
+        <AccumulatedDepreciation>1960</AccumulatedDepreciation>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>DELL COMPUTER</CategoryOrItem>
+        <CostOrOtherBasis>824</CostOrOtherBasis>
+        <AccumulatedDepreciation>824</AccumulatedDepreciation>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>AIR CONDITIONER</CategoryOrItem>
+        <CostOrOtherBasis>458</CostOrOtherBasis>
+        <AccumulatedDepreciation>458</AccumulatedDepreciation>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>DELL COMPUTER</CategoryOrItem>
+        <CostOrOtherBasis>741</CostOrOtherBasis>
+        <AccumulatedDepreciation>741</AccumulatedDepreciation>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>DELL COMPUTER</CategoryOrItem>
+        <CostOrOtherBasis>977</CostOrOtherBasis>
+        <AccumulatedDepreciation>977</AccumulatedDepreciation>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BLINDS</CategoryOrItem>
+        <CostOrOtherBasis>1046</CostOrOtherBasis>
+        <AccumulatedDepreciation>683</AccumulatedDepreciation>
+        <BookValue>363</BookValue>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>OFFICE FURNITURE</CategoryOrItem>
+        <CostOrOtherBasis>13207</CostOrOtherBasis>
+        <AccumulatedDepreciation>3145</AccumulatedDepreciation>
+        <BookValue>10062</BookValue>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>OFFICE FURNITURE</CategoryOrItem>
+        <CostOrOtherBasis>1350</CostOrOtherBasis>
+        <AccumulatedDepreciation>96</AccumulatedDepreciation>
+        <BookValue>1254</BookValue>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>OFFICE FURNITURE</CategoryOrItem>
+        <CostOrOtherBasis>1350</CostOrOtherBasis>
+        <AccumulatedDepreciation>80</AccumulatedDepreciation>
+        <BookValue>1270</BookValue>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>FILING FEES-DE</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE</Description>
+        <RevenueAndExpensesPerBooks>2244</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>2244</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SHIPPING/POSTAGE</Description>
+        <RevenueAndExpensesPerBooks>1598</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1598</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>STORAGE</Description>
+        <RevenueAndExpensesPerBooks>2520</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>2520</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>4401</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>4401</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>CITY OF HYATTSVILLE</Category>
+        <Amount>35</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>35</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>PRINCE GEORGE'S COUNTY</Category>
+        <Amount>87</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>87</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX</Category>
+        <Amount>3250</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>3250</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

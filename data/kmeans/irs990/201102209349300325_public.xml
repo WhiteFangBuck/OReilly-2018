@@ -1,0 +1,877 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T10:10:16-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LARSONALLEN LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>6810 INTERNATIONAL CENTER BLVD</AddressLine1>
+        <City>FORT MYERS</City>
+        <State>FL</State>
+        <ZIPCode>33912</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>650803040</EIN>
+      <Name>
+        <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING III INC</BusinessNameLine1>
+      </Name>
+      <NameControl>SOUT</NameControl>
+      <Phone>2399952106</Phone>
+      <USAddress>
+        <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+        <City>NORTH FORT MYERS</City>
+        <State>FL</State>
+        <ZIPCode>33917</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JEAN DEVEREAUX</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2399952106</Phone>
+      <DateSigned>2011-08-02</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>MARTIN REDOVAN CPA</Name>
+      <Phone>2392269900</Phone>
+      <DatePrepared>2011-07-25</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>JEAN DEVEREAUX</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+        <City>NORTH FORT MYERS</City>
+        <State>FL</State>
+        <ZIPCode>33917</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>64836</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>N/A</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1997</YearFormation>
+      <StateLegalDomicile>FL</StateLegalDomicile>
+      <ActivityOrMissionDescription>PROVIDING HUD SPONSORED INDEPENDENT LIVING FACILITIES FOR LOW INCOME DISABLED INDIVIDUALS.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>10</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>10</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>8</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>39041</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>40737</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>27648</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>22691</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>6</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>9</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>1287</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>1399</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>67982</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>64836</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>11896</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>19009</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>88880</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>83109</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>100776</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>102118</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-32794</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-37282</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>759771</TotalAssetsBOY>
+      <TotalAssetsEOY>723565</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>1056658</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>1057734</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>-296887</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>-334169</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>PROVIDING HUD SPONSORED INDEPENDENT LIVING FACILITIES FOR LOW INCOME DISABLED INDIVIDUALS.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>95508</Expense>
+      <Revenue>24090</Revenue>
+      <Description>OPERATION OF 12 RESIDENTIAL RENTAL APARTMENTS IN SOUTHWEST FLORIDA DESIGNATED SPECIFICALLY FOR THE OCCUPANCY OF DISABLED PERSONS.</Description>
+      <TotalProgramServiceExpense>95508</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <Form8899Filed>0</Form8899Filed>
+      <Form1098CFiled>0</Form1098CFiled>
+      <ExcessBusinessHoldings>0</ExcessBusinessHoldings>
+      <TaxableDistributions>0</TaxableDistributions>
+      <DistributionToDonor>0</DistributionToDonor>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>10</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>10</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>1</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>0</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>0</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <OtherWebsite>X</OtherWebsite>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>THE COLUMBIA PROPERTY GROUP INC</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2288182566</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>701 BIENVILLE BLVD</AddressLine1>
+          <City>OCEAN SPRINGS</City>
+          <State>MS</State>
+          <ZIPCode>39564</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <InfoInScheduleOPartVII>X</InfoInScheduleOPartVII>
+      <NoListedPersonsCompensated>X</NoListedPersonsCompensated>
+      <Form990PartVIISectionA>
+        <NamePerson>JEAN DEVEREAUX</NamePerson>
+        <Title>CHAIR</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DALE SCHNEIDER</NamePerson>
+        <Title>VICE CHAIR</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAN ADAMS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>WILLIAM J BARRETT</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SHERRI DENNING</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROGER HARRISON</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RAYMOND HOLLAND</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>NANCY GREEN IRWIN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RAY V POTTORF</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL SULLIVAN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <GovernmentGrants>40737</GovernmentGrants>
+      <TotalContributions>40737</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>TENANT RENT REVENUE</Description>
+        <BusinessCode>531110</BusinessCode>
+        <TotalRevenueColumn>22691</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>22691</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>22691</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>9</TotalRevenueColumn>
+        <ExclusionAmount>9</ExclusionAmount>
+      </InvestmentIncome>
+      <OtherRevenueMisc>
+        <Description>LAUNDRY AND VENDING RE</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>1078</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1078</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>TENANT CHARGES</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>321</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>321</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>1399</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>64836</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>24090</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>9</ExclusionAmount>
+      </TotalRevenue>
+      <OtherSalariesAndWages>
+        <Total>12173</Total>
+        <ProgramServices>12173</ProgramServices>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>5685</Total>
+        <ProgramServices>5685</ProgramServices>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>1151</Total>
+        <ProgramServices>1151</ProgramServices>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>7053</Total>
+        <ProgramServices>7053</ProgramServices>
+      </FeesForServicesManagement>
+      <FeesForServicesAccounting>
+        <Total>6610</Total>
+        <ManagementAndGeneral>6610</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <OfficeExpenses>
+        <Total>2114</Total>
+        <ProgramServices>2114</ProgramServices>
+      </OfficeExpenses>
+      <ConferencesMeetings>
+        <Total>284</Total>
+        <ProgramServices>284</ProgramServices>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>37521</Total>
+        <ProgramServices>37521</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>6265</Total>
+        <ProgramServices>6265</ProgramServices>
+      </Insurance>
+      <OtherExpenses>
+        <Description>CONTRACTS</Description>
+        <Total>6826</Total>
+        <ProgramServices>6826</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SEWER</Description>
+        <Total>5207</Total>
+        <ProgramServices>5207</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WATER</Description>
+        <Total>3587</Total>
+        <ProgramServices>3587</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>GARBAGE AND TRASH REMOV</Description>
+        <Total>2144</Total>
+        <ProgramServices>2144</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISC ADMIN EXPENSES</Description>
+        <Total>1401</Total>
+        <ProgramServices>1401</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>4097</Total>
+        <ProgramServices>4097</ProgramServices>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>102118</Total>
+        <ProgramServices>95508</ProgramServices>
+        <ManagementAndGeneral>6610</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>3009</BOY>
+        <EOY>773</EOY>
+      </CashNonInterestBearing>
+      <AccountsReceivable>
+        <BOY>46</BOY>
+        <EOY>109</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>1132</BOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>1043468</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>337048</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>743941</BOY>
+        <EOY>706420</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>11643</BOY>
+        <EOY>16263</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>759771</BOY>
+        <EOY>723565</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>8260</BOY>
+        <EOY>9560</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>400</BOY>
+        <EOY>14</EOY>
+      </DeferredRevenue>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>1014048</BOY>
+        <EOY>1014048</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>33950</BOY>
+        <EOY>34112</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>1056658</BOY>
+        <EOY>1057734</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>-296887</BOY>
+        <EOY>-334169</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>-296887</BOY>
+        <EOY>-334169</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>759771</BOY>
+        <EOY>723565</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>-37282</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>0</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>1</FederalGrantAuditRequired>
+      <FederalGrantAuditPerformed>1</FederalGrantAuditPerformed>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus1Year>39041</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>40737</CurrentTaxYear>
+        <Total>79778</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>59608</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>51470</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>53563</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>28935</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>22691</CurrentTaxYear>
+        <Total>216267</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>59608</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>51470</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>53563</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>67976</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>63428</CurrentTaxYear>
+        <Total>296045</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <Total>0</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>296045</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>322</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>5</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>4</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>6</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>9</CurrentTaxYear>
+        <Total>346</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>322</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>5</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>4</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>6</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>9</CurrentTaxYear>
+        <Total>346</Total>
+      </InvestmentIncomeAndUBTI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>59930</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>51475</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>53567</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>67982</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>63437</CurrentTaxYear>
+        <Total>296391</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.99880</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.99700</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00120</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.00300</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>60000</OtherCostOrOtherBasis>
+        <BookValue>60000</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>960253</OtherCostOrOtherBasis>
+        <BookValue>960253</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>23215</OtherCostOrOtherBasis>
+        <BookValue>23215</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <Depreciation>337048</Depreciation>
+        <BookValue>-337048</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>706420</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>TENANT/PATIENT DEPOSITS HELD IN TRUST</Description>
+        <Amount>2736</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>DUE TO RELATED ENTITIES</Description>
+        <Amount>31376</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>34112</TotalOfAmounts>
+      <TotalRevenue>64836</TotalRevenue>
+      <TotalExpenses>102118</TotalExpenses>
+      <ExcessOrDeficitForYear>-37282</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-37282</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>64836</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>64836</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>64836</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>102118</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>102118</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>102118</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF UNCERTAIN TAX POSITIONS UNDER FIN 48:</Identifier>
+        <ReturnReference>PART X:</ReturnReference>
+        <Explanation>THE PROJECT QUALIFIES AS A TAX-EXEMPT ORGANIZATION UNDER SECTION 501(C)(3) OF THE INTERNAL REVENUE CODE. THEREFORE, NO PROVISION FOR INCOME TAXES HAS BEEN MADE IN THESE FINANCIAL STATEMENTS. THE PROJECT IS NOT A PRIVATE FOUNDATION, AND CONTRIBUTIONS TO THE PROJECT QUALIFY AS A CHARITABLE TAX DEDUCTION BY THE CONTRIBUTOR. THE PROJECT'S 2008-2010 INCOME TAX RETURNS ARE SUBJECT TO EXAMINATION BY FEDERAL AND STATE AUTHORITIES IN ACCORDANCE WITH PRESCRIBED STATUES. THE PROJECT HAS NOT BEEN EXAMINED FOR ANY OPEN YEARS.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 3</Identifier>
+        <Explanation>THE MANAGEMENT COMPANY HANDLES ALL THE DAY TO DAY ACTIVITIES FOR THE ORGANIZATION. IT ALSO PROVIDES ALL THE NECESSARY MONTHLY ACCOUNTING AND BOOKKEEPING SERVICES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>THE FORM 990 IS REVIEWED BY THE DIRECTOR OF FINANCE OF THE SPONSOR ORGANIZATION. AFTER THE RETURN IS APPROVED BY THE DIRECTOR, IT IS PRESENTED TO THE VICE PRESIDENT OF ADMINISTRATION AND THE PRESIDENT /CEO OF THE SPONSOR ORGANIZATION FOR FINAL REVIEW. ONCE IT IS APPROVED, IT IS SIGNED BY THE PRESIDENT OF THE ORGANIZATION AND IT IS READY FOR FILING.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>OTHER ORGANIZATION DOCUMENTS ARE AVAILABLE UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>FORM 990, PART V, LINE 2A FORM 990, PART VI, SECTION B, LINE 15 FORM 990, PART IX, LINE 7 &amp; 10 - STATEMENT OF FUNCTIONAL EXPENSES COMPENSATION: THE ORGANIZATION HAS NO EMPLOYEES. ALL COMPENSATION COSTS ARE ALLOCATED FROM THE EMPLOYEES OF THE MANAGEMENT COMPANY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART XII, LINE 2C:</ReturnReference>
+        <Explanation>THE PROCESS OF ASSUMING RESPONSIBILITY FOR OVERSIGHT OF THE AUDIT OF THE ORGANIZATION'S FINANCIAL STATEMENTS AND SELECTION OF AN INDEPENDENT ACCOUNTANT HAS NOT CHANGED FROM THE PRIOR YEAR.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>GOODWILL INDUSTRIES OF SW FLORIDA INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>596196141</EIN>
+        <PrimaryActivities>EVALUATION TRAINING &amp; EMPLOYMNET OF DISABLED PERSONS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 11A, I</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>311469227</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING II INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>311502533</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING IV INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>650914344</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING V INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>650914341</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING VI INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>650976594</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING VII INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>651090671</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING VIII INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>651157318</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING IX INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>651157322</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING X INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>510530426</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING XI INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>571232683</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING XII INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>134351873</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING XIII INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>261548130</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SOUTHWEST FLORIDA GWI HOUSING XIV INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>4940 BAYLINE DRIVE</AddressLine1>
+          <City>NORT FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33917</ZIPCode>
+        </AddressUS>
+        <EIN>264310189</EIN>
+        <PrimaryActivities>HOUSING FOR LOW INCOME DISABLED INDIVIDUALS</PrimaryActivities>
+        <LegalDomicileState>FL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>1</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>1</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>0</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>1</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>1</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>1</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>0</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

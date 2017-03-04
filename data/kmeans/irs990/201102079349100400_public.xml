@@ -1,0 +1,577 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T08:25:51-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>RAICH ENDE MALTER &amp; CO LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1375 BROADWAY</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10018</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>205117734</EIN>
+      <Name>
+        <BusinessNameLine1>LDB FOUNDATION CO LEON D BLACK</BusinessNameLine1>
+      </Name>
+      <NameControl>LDBF</NameControl>
+      <Phone>2125153205</Phone>
+      <USAddress>
+        <AddressLine1>9 WEST 57TH ST NO 43RD</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10019</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>LEON BLACK</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2129444433</Phone>
+      <DateSigned>2011-07-11</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>THOMAS TURRIN</Name>
+      <Phone>2129444433</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>68479</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>360000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>149</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>149</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>149</InterestOnSavingsAdjNetIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>0</NetSTCGAdjNetIncm>
+        <TotalRevenueAndExpenses>360149</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>149</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>149</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">13358</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>134</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>0</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>13224</LegalFeesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc2203000001">219</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <DeprecAndDepletionAdjNetIncm>219</DeprecAndDepletionAdjNetIncm>
+        <TravConfMeetingRevAndExpnss>37143</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingAdjNetIncm>0</TravConfMeetingAdjNetIncm>
+        <TravConfMeetingDsbrsChrtblPrps>37143</TravConfMeetingDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>146705</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubNetInvstIncm>0</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubAdjNetIncm>0</PrintingAndPubAdjNetIncm>
+        <PrintingAndPubDsbrsChrtblPrps>146705</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">233360</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>230248</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>430785</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>134</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>219</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>427320</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>430785</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>134</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>219</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>427320</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-70636</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>15</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>138567</CashBOY>
+        <CashEOY>49900</CashEOY>
+        <CashEOYFMV>49900</CashEOYFMV>
+        <LandBuildingAndEquipmentBasis>1370</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>1041</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>548</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc2059000001">329</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>329</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">0</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">18250</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">18250</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>139115</TotalAssetsBOY>
+        <TotalAssetsEOY>68479</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>68479</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>139115</UnrestrictedBOY>
+        <UnrestrictedEOY>68479</UnrestrictedEOY>
+        <TotalNetAssetsBOY>139115</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>68479</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>139115</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>68479</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>139115</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-70636</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>68479</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>68479</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>661485</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>84808</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>7.799795</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>1045334</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>77625</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>13.466461</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>783624</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>176542</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>4.438740</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>0</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>59178</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.0</DistributionRatioYear4>
+        <TotalDistributionRatio>25.704996</TotalDistributionRatio>
+        <AverageDistributionRatio>6.426249</AverageDistributionRatio>
+        <NetNoncharitableAssets>98136</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>630646</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>630646</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>427320</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>59</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>59</TotalCreditsAndPayments>
+        <Overpayment>59</Overpayment>
+        <AmountCreditedToNextYear>59</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>1</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THOMAS TURRIN CPA CO RAICH ENDE M</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2129444433</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1375 BROADWAY</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10019</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LEON D BLACK</PersonName>
+          <USAddress>
+            <AddressLine1>760 PARK AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10021</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR AND PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JONATHAN D LEVINE</PersonName>
+          <USAddress>
+            <AddressLine1>304 EAST 49TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR AND SECRETARY/TRE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DEBRA BLACK</PersonName>
+          <USAddress>
+            <AddressLine1>760 PARK AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10021</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR AND ASSISTANT TRE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RALPH E LERNER</PersonName>
+          <USAddress>
+            <AddressLine1>1065 PARK AVE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10128</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR AND ASSISTANT SEC</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompensationOfHghstPaidCntrct>
+          <PersonName>ANITA SHAPIRA</PersonName>
+          <ForeignAddress>
+            <AddressLine1>64 PINKAS ST APT 301</AddressLine1>
+            <City>TEL AVIV</City>
+            <Country>IS</Country>
+          </ForeignAddress>
+          <TypeOfService>EDITOR/WRITER</TypeOfService>
+          <Compensation>65000</Compensation>
+        </CompensationOfHghstPaidCntrct>
+        <CompensationOfHghstPaidCntrct>
+          <PersonName>STEVEN ZIPPERSTEIN</PersonName>
+          <USAddress>
+            <AddressLine1>1078 PINE STREET</AddressLine1>
+            <City>MENLO PARK</City>
+            <State>CA</State>
+            <ZIPCode>94025</ZIPCode>
+          </USAddress>
+          <TypeOfService>EDITOR/WRITER</TypeOfService>
+          <Compensation>60000</Compensation>
+        </CompensationOfHghstPaidCntrct>
+        <CompensationOfHghstPaidCntrct>
+          <PersonName>LINDA KURTZ</PersonName>
+          <USAddress>
+            <AddressLine1>931 CASANUEVA PLACE</AddressLine1>
+            <City>STANFORD</City>
+            <State>CA</State>
+            <ZIPCode>94305</ZIPCode>
+          </USAddress>
+          <TypeOfService>EDITOR/WRITER</TypeOfService>
+          <Compensation>50001</Compensation>
+        </CompensationOfHghstPaidCntrct>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>THE PRINCIPAL ACTIVITY OF THE FOUNDATION IS THE PUBLICATION OF EDUCATIONAL BIOGRAPHIES IN COOPERATION WITH YALE UNIVERSITY PRESS (ALSO A 501(C)(3) ORG.) ALSO SEE RIDER ATTACHED.</Description1>
+        <Expenses1>370592</Expenses1>
+        <Description2>AMONG THE OTHER PRINICPAL ACTIVITIES OF THE FOUNDATION IS THE HOSTING OF SEMINARS, CONFERENCES AND SIMILAR ACTIVITIES TO SUPPORT AND FURTHER EDUCATE THE GENERAL PUBLIC ABOUT THE LIVES OF IMPORTANT JEWISH FIGURES.</Description2>
+        <Expenses2>45705</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>99630</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>99630</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>99630</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1494</CashDeemedCharitable>
+        <NetNoncharitableAssets>98136</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>4907</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>427320</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>427320</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>427320</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>2007-12-06</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Year1>59</Year1>
+          <Year2>942</Year2>
+          <Year3>3053</Year3>
+          <Total>4054</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>0</CurrentYear>
+          <Year1>50</Year1>
+          <Year2>801</Year2>
+          <Year3>2595</Year3>
+          <Total>3446</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>427320</CurrentYear>
+          <Year1>661486</Year1>
+          <Year2>1045343</Year2>
+          <Year3>783655</Year3>
+          <Total>2917804</Total>
+        </QualifyingDistributions>
+        <QlfyDistriNotUsedDirectly>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </QlfyDistriNotUsedDirectly>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>427320</CurrentYear>
+          <Year1>661486</Year1>
+          <Year2>1045343</Year2>
+          <Year3>783655</Year3>
+          <Total>2917804</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <Year3>108312</Year3>
+          <Total>108312</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <Year3>108312</Year3>
+          <Total>108312</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>3271</CurrentYear>
+          <Year1>2827</Year1>
+          <Year2>2587</Year2>
+          <Year3>5885</Year3>
+          <Total>14570</Total>
+        </TwoThirdsMinInvstReturn>
+        <TotalSupport>
+          <Year3>645000</Year3>
+          <Total>645000</Total>
+        </TotalSupport>
+        <PublicSupport>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </PublicSupport>
+        <LargestSupportFromEO>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </LargestSupportFromEO>
+        <GrossInvestmentIncome>
+          <Year3>3053</Year3>
+          <Total>3053</Total>
+        </GrossInvestmentIncome>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <ContributingManager>LEON D BLACK</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <TotGrantOrContriPaidDuringYear>0</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>149</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>149</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>149</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>LEON D BLACK</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>760 PARK AVENUE</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10021</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>360000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER &amp; PERIPHERALS</DescriptionOfProperty>
+        <DateAcquired>2009-01-27</DateAcquired>
+        <CostOrOtherBasis>1370</CostOrOtherBasis>
+        <PriorYearsDepreciation>137</PriorYearsDepreciation>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>219</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>219</AdjustedNetIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtc>
+        <CategoryOrItem>COMPUTER &amp; PERIPHERALS</CategoryOrItem>
+        <CostOrOtherBasis>1370</CostOrOtherBasis>
+        <AccumulatedDepreciation>1041</AccumulatedDepreciation>
+        <BookValue>329</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>PROFESSIONAL FEES</Category>
+        <Amount>13358</Amount>
+        <NetInvestmentIncome>134</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>13224</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>DEPOSIT-WEBSITE DEVELOPEMENT COSTS</Description>
+        <EOYBookValue>18250</EOYBookValue>
+        <EOYFMV>18250</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>EDITORIAL</Description>
+        <RevenueAndExpensesPerBooks>175001</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>175001</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BOOKS AND PERIODICALS</Description>
+        <RevenueAndExpensesPerBooks>1177</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1177</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>1779</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1779</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE AND DELIVERY</Description>
+        <RevenueAndExpensesPerBooks>86</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>86</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING</Description>
+        <RevenueAndExpensesPerBooks>6988</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3700</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PAYROLL SERVICES</Description>
+        <RevenueAndExpensesPerBooks>873</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>873</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FEES AND LICENSES</Description>
+        <RevenueAndExpensesPerBooks>122</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>122</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS EDITOR EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>1465</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1465</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>71</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>247</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SPONSORED-CONFERENCE EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>45705</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>45705</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>93</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>93</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

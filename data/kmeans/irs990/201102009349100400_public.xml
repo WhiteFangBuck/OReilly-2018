@@ -1,0 +1,1809 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-15T08:48:06-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-02-28</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Taylor ApplegateHughes &amp; Assoc Ltd</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>629 E High St</AddressLine1>
+        <City>Springfield</City>
+        <State>OH</State>
+        <ZIPCode>45505</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-03-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>311534056</EIN>
+      <Name>
+        <BusinessNameLine1>The Llewellyn Foundation co Hugh Barnett</BusinessNameLine1>
+      </Name>
+      <NameControl>LLEW</NameControl>
+      <Phone>9373245541</Phone>
+      <USAddress>
+        <AddressLine1>1 South Limestone Street</AddressLine1>
+        <City>Springfield</City>
+        <State>OH</State>
+        <ZIPCode>45501</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Sarah H Lupfer</Name>
+      <Title>Trustee/President</Title>
+      <Phone>9373245541</Phone>
+      <DateSigned>2011-07-19</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Kathleen M Hughes</Name>
+      <Phone>9373251538</Phone>
+      <DatePrepared>2011-07-19</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="11">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>12794801</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>121136</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>118465</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>170182</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>170182</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-53688</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>3692752</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>237630</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>288647</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>0</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">163</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>82</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>0</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>81</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">1395</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>698</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>697</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">53185</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>53185</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>0</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">9724</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>9724</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>0</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">495</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>248</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>247</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>64962</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>63937</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1025</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>559000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>559000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>623962</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>63937</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>560025</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-386332</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>224710</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>21134</CashBOY>
+        <CashEOY>5380</CashEOY>
+        <CashEOYFMV>5380</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>267554</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>495445</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>495445</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>0</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc2210400001">599830</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>585292</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>8993059</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">8791068</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>10250098</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>2377254</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">1380946</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>1458586</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>11659001</TotalAssetsBOY>
+        <TotalAssetsEOY>11272669</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>12794801</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>11659001</RetainedEarningsBOY>
+        <RetainedEarningsEOY>11272669</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>11659001</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>11272669</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>11659001</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>11272669</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>11659001</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-386332</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>11272669</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>11272669</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Toyota Motor Credit Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-03-15</DateSold>
+          <GrossSalesPrice>100000</GrossSalesPrice>
+          <CostOrOtherBasis>99606</CostOrOtherBasis>
+          <GainOrLoss>394</GainOrLoss>
+          <GainsMinusExcessOrLosses>394</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>eBay Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-04-06</DateSold>
+          <GrossSalesPrice>34068</GrossSalesPrice>
+          <CostOrOtherBasis>29551</CostOrOtherBasis>
+          <GainOrLoss>4517</GainOrLoss>
+          <GainsMinusExcessOrLosses>4517</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Juniper Networks Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-04-06</DateSold>
+          <GrossSalesPrice>59033</GrossSalesPrice>
+          <CostOrOtherBasis>47405</CostOrOtherBasis>
+          <GainOrLoss>11628</GainOrLoss>
+          <GainsMinusExcessOrLosses>11628</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Lender Processing Services Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-04-06</DateSold>
+          <GrossSalesPrice>74625</GrossSalesPrice>
+          <CostOrOtherBasis>79293</CostOrOtherBasis>
+          <GainOrLoss>-4668</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4668</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Goldman Sachs Group Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-06-14</DateSold>
+          <GrossSalesPrice>75735</GrossSalesPrice>
+          <CostOrOtherBasis>101235</CostOrOtherBasis>
+          <GainOrLoss>-25500</GainOrLoss>
+          <GainsMinusExcessOrLosses>-25500</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Juniper Networks Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-06-14</DateSold>
+          <GrossSalesPrice>50626</GrossSalesPrice>
+          <CostOrOtherBasis>44709</CostOrOtherBasis>
+          <GainOrLoss>5917</GainOrLoss>
+          <GainsMinusExcessOrLosses>5917</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Varian Semiconductor Equip Assoc Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-06-14</DateSold>
+          <GrossSalesPrice>50286</GrossSalesPrice>
+          <CostOrOtherBasis>61719</CostOrOtherBasis>
+          <GainOrLoss>-11433</GainOrLoss>
+          <GainsMinusExcessOrLosses>-11433</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Exxon Mobil Corporation</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-06-18</DateSold>
+          <GrossSalesPrice>177676</GrossSalesPrice>
+          <CostOrOtherBasis>197803</CostOrOtherBasis>
+          <GainOrLoss>-20127</GainOrLoss>
+          <GainsMinusExcessOrLosses>-20127</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Artio International Equity</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-05</DateSold>
+          <GrossSalesPrice>742524</GrossSalesPrice>
+          <CostOrOtherBasis>916131</CostOrOtherBasis>
+          <GainOrLoss>-173607</GainOrLoss>
+          <GainsMinusExcessOrLosses>-173607</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Apple Computer Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-06</DateSold>
+          <GrossSalesPrice>16994</GrossSalesPrice>
+          <CostOrOtherBasis>12470</CostOrOtherBasis>
+          <GainOrLoss>4524</GainOrLoss>
+          <GainsMinusExcessOrLosses>4524</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BioMarin Pharmaceutical Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-06</DateSold>
+          <GrossSalesPrice>29997</GrossSalesPrice>
+          <CostOrOtherBasis>19481</CostOrOtherBasis>
+          <GainOrLoss>10516</GainOrLoss>
+          <GainsMinusExcessOrLosses>10516</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BioMarin Pharmaceutical Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-09</DateSold>
+          <GrossSalesPrice>35910</GrossSalesPrice>
+          <CostOrOtherBasis>23406</CostOrOtherBasis>
+          <GainOrLoss>12504</GainOrLoss>
+          <GainsMinusExcessOrLosses>12504</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>American Express Cr Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>101190</GrossSalesPrice>
+          <CostOrOtherBasis>100629</CostOrOtherBasis>
+          <GainOrLoss>561</GainOrLoss>
+          <GainsMinusExcessOrLosses>561</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Comcast Corporation</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>111280</GrossSalesPrice>
+          <CostOrOtherBasis>98751</CostOrOtherBasis>
+          <GainOrLoss>12529</GainOrLoss>
+          <GainsMinusExcessOrLosses>12529</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Deere John Corp MTN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>104630</GrossSalesPrice>
+          <CostOrOtherBasis>100322</CostOrOtherBasis>
+          <GainOrLoss>4308</GainOrLoss>
+          <GainsMinusExcessOrLosses>4308</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Goldman Sachs Group Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>53778</GrossSalesPrice>
+          <CostOrOtherBasis>50121</CostOrOtherBasis>
+          <GainOrLoss>3657</GainOrLoss>
+          <GainsMinusExcessOrLosses>3657</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Home Depot Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>102260</GrossSalesPrice>
+          <CostOrOtherBasis>93579</CostOrOtherBasis>
+          <GainOrLoss>8681</GainOrLoss>
+          <GainsMinusExcessOrLosses>8681</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>IBM Intl group</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>54575</GrossSalesPrice>
+          <CostOrOtherBasis>50180</CostOrOtherBasis>
+          <GainOrLoss>4395</GainOrLoss>
+          <GainsMinusExcessOrLosses>4395</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>JPMorgan Chase &amp; Co</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>108248</GrossSalesPrice>
+          <CostOrOtherBasis>99142</CostOrOtherBasis>
+          <GainOrLoss>9106</GainOrLoss>
+          <GainsMinusExcessOrLosses>9106</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Morgan Stanley Global</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>213242</GrossSalesPrice>
+          <CostOrOtherBasis>201306</CostOrOtherBasis>
+          <GainOrLoss>11936</GainOrLoss>
+          <GainsMinusExcessOrLosses>11936</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Pepsico Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>56260</GrossSalesPrice>
+          <CostOrOtherBasis>52847</CostOrOtherBasis>
+          <GainOrLoss>3413</GainOrLoss>
+          <GainsMinusExcessOrLosses>3413</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Verizon NJ</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-16</DateSold>
+          <GrossSalesPrice>106097</GrossSalesPrice>
+          <CostOrOtherBasis>101402</CostOrOtherBasis>
+          <GainOrLoss>4695</GainOrLoss>
+          <GainsMinusExcessOrLosses>4695</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Comerica Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-18</DateSold>
+          <GrossSalesPrice>85586</GrossSalesPrice>
+          <CostOrOtherBasis>30941</CostOrOtherBasis>
+          <GainOrLoss>54645</GainOrLoss>
+          <GainsMinusExcessOrLosses>54645</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Arch Capital Group Ltd</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-18</DateSold>
+          <GrossSalesPrice>36560</GrossSalesPrice>
+          <CostOrOtherBasis>32468</CostOrOtherBasis>
+          <GainOrLoss>4092</GainOrLoss>
+          <GainsMinusExcessOrLosses>4092</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Apache Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-09-13</DateSold>
+          <GrossSalesPrice>51285</GrossSalesPrice>
+          <CostOrOtherBasis>51551</CostOrOtherBasis>
+          <GainOrLoss>-266</GainOrLoss>
+          <GainsMinusExcessOrLosses>-266</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Corning Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-09-13</DateSold>
+          <GrossSalesPrice>48072</GrossSalesPrice>
+          <CostOrOtherBasis>45668</CostOrOtherBasis>
+          <GainOrLoss>2404</GainOrLoss>
+          <GainsMinusExcessOrLosses>2404</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FMC Technologies Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-09-13</DateSold>
+          <GrossSalesPrice>19749</GrossSalesPrice>
+          <CostOrOtherBasis>16802</CostOrOtherBasis>
+          <GainOrLoss>2947</GainOrLoss>
+          <GainsMinusExcessOrLosses>2947</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Lowe's Companies Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-09-13</DateSold>
+          <GrossSalesPrice>18095</GrossSalesPrice>
+          <CostOrOtherBasis>16001</CostOrOtherBasis>
+          <GainOrLoss>2094</GainOrLoss>
+          <GainsMinusExcessOrLosses>2094</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Stryker Corporation</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-09-13</DateSold>
+          <GrossSalesPrice>41025</GrossSalesPrice>
+          <CostOrOtherBasis>61549</CostOrOtherBasis>
+          <GainOrLoss>-20524</GainOrLoss>
+          <GainsMinusExcessOrLosses>-20524</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO Com Mtg Pass Thru CTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-09-13</DateSold>
+          <GrossSalesPrice>8823</GrossSalesPrice>
+          <CostOrOtherBasis>8939</CostOrOtherBasis>
+          <GainOrLoss>-116</GainOrLoss>
+          <GainsMinusExcessOrLosses>-116</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Merrill Lynch Ser 2008-C1 CL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-09-15</DateSold>
+          <GrossSalesPrice>3794</GrossSalesPrice>
+          <CostOrOtherBasis>3895</CostOrOtherBasis>
+          <GainOrLoss>-101</GainOrLoss>
+          <GainsMinusExcessOrLosses>-101</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TIAA Seasoned Comm Mtg 2007</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-09-20</DateSold>
+          <GrossSalesPrice>1301</GrossSalesPrice>
+          <CostOrOtherBasis>1343</CostOrOtherBasis>
+          <GainOrLoss>-42</GainOrLoss>
+          <GainsMinusExcessOrLosses>-42</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US Treasury Note</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-10-07</DateSold>
+          <GrossSalesPrice>5553</GrossSalesPrice>
+          <CostOrOtherBasis>5435</CostOrOtherBasis>
+          <GainOrLoss>118</GainOrLoss>
+          <GainsMinusExcessOrLosses>118</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO Com Mtg Pass Thru CTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-10-13</DateSold>
+          <GrossSalesPrice>8568</GrossSalesPrice>
+          <CostOrOtherBasis>8680</CostOrOtherBasis>
+          <GainOrLoss>-112</GainOrLoss>
+          <GainsMinusExcessOrLosses>-112</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO JPMorgan Chase Coml MTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-10-13</DateSold>
+          <GrossSalesPrice>171</GrossSalesPrice>
+          <CostOrOtherBasis>174</CostOrOtherBasis>
+          <GainOrLoss>-3</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FHLMC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-10-18</DateSold>
+          <GrossSalesPrice>2083</GrossSalesPrice>
+          <CostOrOtherBasis>2203</CostOrOtherBasis>
+          <GainOrLoss>-120</GainOrLoss>
+          <GainsMinusExcessOrLosses>-120</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Merrill Lynch Ser 2008-C1 CL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-10-18</DateSold>
+          <GrossSalesPrice>4565</GrossSalesPrice>
+          <CostOrOtherBasis>4686</CostOrOtherBasis>
+          <GainOrLoss>-121</GainOrLoss>
+          <GainsMinusExcessOrLosses>-121</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TIAA Seasoned Comm Mtg 2007</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-10-19</DateSold>
+          <GrossSalesPrice>9621</GrossSalesPrice>
+          <CostOrOtherBasis>9930</CostOrOtherBasis>
+          <GainOrLoss>-309</GainOrLoss>
+          <GainsMinusExcessOrLosses>-309</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Bank of America Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-10-20</DateSold>
+          <GrossSalesPrice>52428</GrossSalesPrice>
+          <CostOrOtherBasis>66632</CostOrOtherBasis>
+          <GainOrLoss>-14204</GainOrLoss>
+          <GainsMinusExcessOrLosses>-14204</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO Com Mtg Pass Thru CTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-11-12</DateSold>
+          <GrossSalesPrice>8100</GrossSalesPrice>
+          <CostOrOtherBasis>8207</CostOrOtherBasis>
+          <GainOrLoss>-107</GainOrLoss>
+          <GainsMinusExcessOrLosses>-107</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO JPMorgan Chase Coml MTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-11-15</DateSold>
+          <GrossSalesPrice>158</GrossSalesPrice>
+          <CostOrOtherBasis>161</CostOrOtherBasis>
+          <GainOrLoss>-3</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FHLMC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-11-16</DateSold>
+          <GrossSalesPrice>1200</GrossSalesPrice>
+          <CostOrOtherBasis>1269</CostOrOtherBasis>
+          <GainOrLoss>-69</GainOrLoss>
+          <GainsMinusExcessOrLosses>-69</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Merrill Lynch Ser 2008-C1 CL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-11-16</DateSold>
+          <GrossSalesPrice>3920</GrossSalesPrice>
+          <CostOrOtherBasis>4024</CostOrOtherBasis>
+          <GainOrLoss>-104</GainOrLoss>
+          <GainsMinusExcessOrLosses>-104</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO LB-UBS Coml Mtg Tr 2004-A3</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-11-19</DateSold>
+          <GrossSalesPrice>943</GrossSalesPrice>
+          <CostOrOtherBasis>951</CostOrOtherBasis>
+          <GainOrLoss>-8</GainOrLoss>
+          <GainsMinusExcessOrLosses>-8</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TIAA Seasoned Comm Mtg 2007</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-11-19</DateSold>
+          <GrossSalesPrice>1302</GrossSalesPrice>
+          <CostOrOtherBasis>1343</CostOrOtherBasis>
+          <GainOrLoss>-41</GainOrLoss>
+          <GainsMinusExcessOrLosses>-41</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FNMA REMIC Tr 2004-32 CL-AB</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-11-29</DateSold>
+          <GrossSalesPrice>14186</GrossSalesPrice>
+          <CostOrOtherBasis>14664</CostOrOtherBasis>
+          <GainOrLoss>-478</GainOrLoss>
+          <GainsMinusExcessOrLosses>-478</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>American Express Cr Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-12-02</DateSold>
+          <GrossSalesPrice>50000</GrossSalesPrice>
+          <CostOrOtherBasis>50315</CostOrOtherBasis>
+          <GainOrLoss>-315</GainOrLoss>
+          <GainsMinusExcessOrLosses>-315</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BancAmerica CML Mtg CMO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-12-13</DateSold>
+          <GrossSalesPrice>2636</GrossSalesPrice>
+          <CostOrOtherBasis>2690</CostOrOtherBasis>
+          <GainOrLoss>-54</GainOrLoss>
+          <GainsMinusExcessOrLosses>-54</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO Com Mtg Pass Thru CTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-12-13</DateSold>
+          <GrossSalesPrice>9473</GrossSalesPrice>
+          <CostOrOtherBasis>9597</CostOrOtherBasis>
+          <GainOrLoss>-124</GainOrLoss>
+          <GainsMinusExcessOrLosses>-124</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO JPMorgan Chase Coml MTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-12-14</DateSold>
+          <GrossSalesPrice>173</GrossSalesPrice>
+          <CostOrOtherBasis>176</CostOrOtherBasis>
+          <GainOrLoss>-3</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Merrill Lynch Ser 2008-C1 CL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-12-15</DateSold>
+          <GrossSalesPrice>4630</GrossSalesPrice>
+          <CostOrOtherBasis>4753</CostOrOtherBasis>
+          <GainOrLoss>-123</GainOrLoss>
+          <GainsMinusExcessOrLosses>-123</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FHLMC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-12-16</DateSold>
+          <GrossSalesPrice>1651</GrossSalesPrice>
+          <CostOrOtherBasis>1746</CostOrOtherBasis>
+          <GainOrLoss>-95</GainOrLoss>
+          <GainsMinusExcessOrLosses>-95</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GNMA 2009-093 REMIC CL B</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-12-17</DateSold>
+          <GrossSalesPrice>1016</GrossSalesPrice>
+          <CostOrOtherBasis>1032</CostOrOtherBasis>
+          <GainOrLoss>-16</GainOrLoss>
+          <GainsMinusExcessOrLosses>-16</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO LB-UBS Coml Mtg Tr 2004-A3</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-12-20</DateSold>
+          <GrossSalesPrice>367</GrossSalesPrice>
+          <CostOrOtherBasis>370</CostOrOtherBasis>
+          <GainOrLoss>-3</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TIAA Seasoned Comm Mtg 2007</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>4962</GrossSalesPrice>
+          <CostOrOtherBasis>5121</CostOrOtherBasis>
+          <GainOrLoss>-159</GainOrLoss>
+          <GainsMinusExcessOrLosses>-159</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FNMA REMIC Tr 2004-32 CL-AB</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-12-28</DateSold>
+          <GrossSalesPrice>13787</GrossSalesPrice>
+          <CostOrOtherBasis>14252</CostOrOtherBasis>
+          <GainOrLoss>-465</GainOrLoss>
+          <GainsMinusExcessOrLosses>-465</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BancAmerica CML Mtg CMO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-11</DateSold>
+          <GrossSalesPrice>566</GrossSalesPrice>
+          <CostOrOtherBasis>578</CostOrOtherBasis>
+          <GainOrLoss>-12</GainOrLoss>
+          <GainsMinusExcessOrLosses>-12</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO Com Mtg Pass Thru CTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-11</DateSold>
+          <GrossSalesPrice>8451</GrossSalesPrice>
+          <CostOrOtherBasis>8562</CostOrOtherBasis>
+          <GainOrLoss>-111</GainOrLoss>
+          <GainsMinusExcessOrLosses>-111</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Martin Marietta Materials Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-12</DateSold>
+          <GrossSalesPrice>25098</GrossSalesPrice>
+          <CostOrOtherBasis>43859</CostOrOtherBasis>
+          <GainOrLoss>-18761</GainOrLoss>
+          <GainsMinusExcessOrLosses>-18761</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO JPMorgan Chase Coml MTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-13</DateSold>
+          <GrossSalesPrice>160</GrossSalesPrice>
+          <CostOrOtherBasis>162</CostOrOtherBasis>
+          <GainOrLoss>-2</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Merrill Lynch Ser 2008-C1 CL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-18</DateSold>
+          <GrossSalesPrice>3983</GrossSalesPrice>
+          <CostOrOtherBasis>4088</CostOrOtherBasis>
+          <GainOrLoss>-105</GainOrLoss>
+          <GainsMinusExcessOrLosses>-105</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FHLMC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-19</DateSold>
+          <GrossSalesPrice>2269</GrossSalesPrice>
+          <CostOrOtherBasis>2399</CostOrOtherBasis>
+          <GainOrLoss>-130</GainOrLoss>
+          <GainsMinusExcessOrLosses>-130</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GNMA 2009-093 REMIC CL B</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-19</DateSold>
+          <GrossSalesPrice>878</GrossSalesPrice>
+          <CostOrOtherBasis>892</CostOrOtherBasis>
+          <GainOrLoss>-14</GainOrLoss>
+          <GainsMinusExcessOrLosses>-14</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO LB-UBS Coml Mtg Tr 2004-A3</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-19</DateSold>
+          <GrossSalesPrice>148</GrossSalesPrice>
+          <CostOrOtherBasis>150</CostOrOtherBasis>
+          <GainOrLoss>-2</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TIAA Seasoned Comm Mtg 2007</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-19</DateSold>
+          <GrossSalesPrice>11948</GrossSalesPrice>
+          <CostOrOtherBasis>12332</CostOrOtherBasis>
+          <GainOrLoss>-384</GainOrLoss>
+          <GainsMinusExcessOrLosses>-384</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FNMA REMIC Tr 2004-32 CL-AB</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-26</DateSold>
+          <GrossSalesPrice>13489</GrossSalesPrice>
+          <CostOrOtherBasis>13944</CostOrOtherBasis>
+          <GainOrLoss>-455</GainOrLoss>
+          <GainsMinusExcessOrLosses>-455</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FNMA REMIC Tr 2006-35</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-26</DateSold>
+          <GrossSalesPrice>9843</GrossSalesPrice>
+          <CostOrOtherBasis>10099</CostOrOtherBasis>
+          <GainOrLoss>-256</GainOrLoss>
+          <GainsMinusExcessOrLosses>-256</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Affiliated Managers Group Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-28</DateSold>
+          <GrossSalesPrice>95002</GrossSalesPrice>
+          <CostOrOtherBasis>82472</CostOrOtherBasis>
+          <GainOrLoss>12530</GainOrLoss>
+          <GainsMinusExcessOrLosses>12530</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CVS Caremark Corporation</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-28</DateSold>
+          <GrossSalesPrice>207761</GrossSalesPrice>
+          <CostOrOtherBasis>179372</CostOrOtherBasis>
+          <GainOrLoss>28389</GainOrLoss>
+          <GainsMinusExcessOrLosses>28389</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Charles Schwab Corporation</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-28</DateSold>
+          <GrossSalesPrice>137329</GrossSalesPrice>
+          <CostOrOtherBasis>101550</CostOrOtherBasis>
+          <GainOrLoss>35779</GainOrLoss>
+          <GainsMinusExcessOrLosses>35779</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US Bancorp (DE)</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-01-28</DateSold>
+          <GrossSalesPrice>41041</GrossSalesPrice>
+          <CostOrOtherBasis>49652</CostOrOtherBasis>
+          <GainOrLoss>-8611</GainOrLoss>
+          <GainsMinusExcessOrLosses>-8611</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BancAmerica CML Mtg CMO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-11</DateSold>
+          <GrossSalesPrice>2266</GrossSalesPrice>
+          <CostOrOtherBasis>2312</CostOrOtherBasis>
+          <GainOrLoss>-46</GainOrLoss>
+          <GainsMinusExcessOrLosses>-46</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO Com Mtg Pass Thru CTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-11</DateSold>
+          <GrossSalesPrice>8033</GrossSalesPrice>
+          <CostOrOtherBasis>8138</CostOrOtherBasis>
+          <GainOrLoss>-105</GainOrLoss>
+          <GainsMinusExcessOrLosses>-105</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO JPMorgan Chase Coml MTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-15</DateSold>
+          <GrossSalesPrice>160</GrossSalesPrice>
+          <CostOrOtherBasis>163</CostOrOtherBasis>
+          <GainOrLoss>-3</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Merrill Lynch Ser 2008-C1 CL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-15</DateSold>
+          <GrossSalesPrice>4020</GrossSalesPrice>
+          <CostOrOtherBasis>4127</CostOrOtherBasis>
+          <GainOrLoss>-107</GainOrLoss>
+          <GainsMinusExcessOrLosses>-107</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FHLMC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-16</DateSold>
+          <GrossSalesPrice>1663</GrossSalesPrice>
+          <CostOrOtherBasis>1759</CostOrOtherBasis>
+          <GainOrLoss>-96</GainOrLoss>
+          <GainsMinusExcessOrLosses>-96</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GNMA 2009-093 REMIC CL B</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-17</DateSold>
+          <GrossSalesPrice>538</GrossSalesPrice>
+          <CostOrOtherBasis>547</CostOrOtherBasis>
+          <GainOrLoss>-9</GainOrLoss>
+          <GainsMinusExcessOrLosses>-9</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO LB-UBS Coml Mtg Tr 2004-A3</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-18</DateSold>
+          <GrossSalesPrice>11541</GrossSalesPrice>
+          <CostOrOtherBasis>11637</CostOrOtherBasis>
+          <GainOrLoss>-96</GainOrLoss>
+          <GainsMinusExcessOrLosses>-96</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CMO LB-UBS Coml Mtg Tr 2004</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-18</DateSold>
+          <GrossSalesPrice>9690</GrossSalesPrice>
+          <CostOrOtherBasis>10166</CostOrOtherBasis>
+          <GainOrLoss>-476</GainOrLoss>
+          <GainsMinusExcessOrLosses>-476</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TIAA Seasoned Comm Mtg 2007</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-18</DateSold>
+          <GrossSalesPrice>25812</GrossSalesPrice>
+          <CostOrOtherBasis>26641</CostOrOtherBasis>
+          <GainOrLoss>-829</GainOrLoss>
+          <GainsMinusExcessOrLosses>-829</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TIAA Seasoned Comm Mtg 2007</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-24</DateSold>
+          <GrossSalesPrice>76191</GrossSalesPrice>
+          <CostOrOtherBasis>77487</CostOrOtherBasis>
+          <GainOrLoss>-1296</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1296</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FNMA REMIC Tr 2004-32 CL-AB</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-28</DateSold>
+          <GrossSalesPrice>10241</GrossSalesPrice>
+          <CostOrOtherBasis>10586</CostOrOtherBasis>
+          <GainOrLoss>-345</GainOrLoss>
+          <GainsMinusExcessOrLosses>-345</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FNMA REMIC Tr 2006-35</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2011-02-28</DateSold>
+          <GrossSalesPrice>9814</GrossSalesPrice>
+          <CostOrOtherBasis>10069</CostOrOtherBasis>
+          <GainOrLoss>-255</GainOrLoss>
+          <GainsMinusExcessOrLosses>-255</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Juniper Networks Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-06-14</DateSold>
+          <CostOrOtherBasis>379</CostOrOtherBasis>
+          <GainOrLoss>-379</GainOrLoss>
+          <GainsMinusExcessOrLosses>-379</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Exxon Mobil Corporation</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-06-18</DateSold>
+          <CostOrOtherBasis>2993</CostOrOtherBasis>
+          <GainOrLoss>-2993</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2993</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Artio International Equity</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-05</DateSold>
+          <CostOrOtherBasis>669</CostOrOtherBasis>
+          <GainOrLoss>-669</GainOrLoss>
+          <GainsMinusExcessOrLosses>-669</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-53688</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>460283</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>10729110</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.042900</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>445013</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>9897255</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.044963</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>436750</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>9722918</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.044920</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>323364</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>8281131</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.039048</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>280415</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>7498639</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.037395</DistributionRatioYear5>
+        <TotalDistributionRatio>0.209226</TotalDistributionRatio>
+        <AverageDistributionRatio>0.041845</AverageDistributionRatio>
+        <NetNoncharitableAssets>12090865</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>505942</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2247</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>508189</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>560025</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>2247</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>2247</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>2247</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>6541</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>6541</TotalCreditsAndPayments>
+        <Overpayment>4294</Overpayment>
+        <AmountCreditedToNextYear>4294</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>0</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG referenceDocumentId="RetDoc2210600001">0</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>Hugh Barnett</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9373245541</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1 South Limestone Street</AddressLine1>
+          <City>Springfield</City>
+          <State>OH</State>
+          <ZIPCode>45501</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Sarah H Lupfer</PersonName>
+          <USAddress>
+            <AddressLine1>C/O Hugh Barnett 1 South Limestone</AddressLine1>
+            <AddressLine2>Street</AddressLine2>
+            <City>Springfield</City>
+            <State>OH</State>
+            <ZIPCode>45501</ZIPCode>
+          </USAddress>
+          <Title>Trustee/President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Caroline Lupfer Kurtz</PersonName>
+          <USAddress>
+            <AddressLine1>C/O Hugh Barnett 1 South Limestone</AddressLine1>
+            <AddressLine2>Street</AddressLine2>
+            <City>Springfield</City>
+            <State>OH</State>
+            <ZIPCode>45501</ZIPCode>
+          </USAddress>
+          <Title>Trustee/Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jonathan B Lupfer</PersonName>
+          <USAddress>
+            <AddressLine1>C/O Hugh Barnett 1 South Limestone</AddressLine1>
+            <AddressLine2>Street</AddressLine2>
+            <City>Springfield</City>
+            <State>OH</State>
+            <ZIPCode>45501</ZIPCode>
+          </USAddress>
+          <Title>Trustee/Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Willis O Kurtz</PersonName>
+          <USAddress>
+            <AddressLine1>C/O Hugh Barnett 1 South Limestone</AddressLine1>
+            <AddressLine2>Street</AddressLine2>
+            <City>Springfield</City>
+            <State>OH</State>
+            <ZIPCode>45501</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>11806793</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>468197</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>12274990</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>12274990</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>184125</CashDeemedCharitable>
+        <NetNoncharitableAssets>12090865</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>604543</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>604543</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2247</TaxBasedOnInvestmentIncome>
+        <TotalTax>2247</TotalTax>
+        <DistributableAmountBeforeAdj>602296</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>602296</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>602296</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>560025</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>560025</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>2247</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>557778</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>602296</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>533745</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <TotalForPriorYears>22602</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>560025</QualifyingDistributions>
+        <AppliedToYear1>533745</AppliedToYear1>
+        <AppliedToPriorYears referenceDocumentId="RetDoc10083200000">22602</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>3678</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>598618</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Andover A Better Chance</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 212</AddressLine1>
+            <City>Andover</City>
+            <State>MA</State>
+            <ZIPCode>01810</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Education</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Boys &amp; Girls Club of Missoula County</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>617 S Higgins Avenue</AddressLine1>
+            <City>Missoula</City>
+            <State>MT</State>
+            <ZIPCode>59801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Breakthrough Cambridge</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 381486</AddressLine1>
+            <City>Cambridge</City>
+            <State>MA</State>
+            <ZIPCode>022381486</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Education</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Catholic Charities SouthWestern Ohio</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 E Eighth St</AddressLine1>
+            <City>Cincinnati</City>
+            <State>OH</State>
+            <ZIPCode>45202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Charity Global Inc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>150 Varick Street</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10013</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Citizens ProgramsCitizens Energy Heat Fund</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>88 Black Falcon Ave Ste 342</AddressLine1>
+            <City>Boston</City>
+            <State>MA</State>
+            <ZIPCode>02210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>City Sprouts</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>25 River Street</AddressLine1>
+            <City>Cambridge</City>
+            <State>MA</State>
+            <ZIPCode>02139</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Clark County Child Advocacy Center</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>137 E High St</AddressLine1>
+            <City>Springfield</City>
+            <State>OH</State>
+            <ZIPCode>45502</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Community Food &amp; Agriculture Coalition - Missoula County</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 7025</AddressLine1>
+            <City>Missoula</City>
+            <State>MT</State>
+            <ZIPCode>59806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Community Restorative Justice Inc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1119 West Kent Suite K</AddressLine1>
+            <City>Missoula</City>
+            <State>MT</State>
+            <ZIPCode>59801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Educational Development Group Inc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>434 Massachusetts Ave Ste G1</AddressLine1>
+            <City>Boston</City>
+            <State>MA</State>
+            <ZIPCode>02118</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Education</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Families First Parenting Programs Inc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>99 Bishop Richard Allen Dr</AddressLine1>
+            <City>Cambridge</City>
+            <State>MA</State>
+            <ZIPCode>02139</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>17500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Fisher House Foundation Inc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>111 Rockville Pike Ste 420</AddressLine1>
+            <City>Rockville</City>
+            <State>MD</State>
+            <ZIPCode>20850</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Garden City Harvest</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 205</AddressLine1>
+            <City>Missoula</City>
+            <State>MT</State>
+            <ZIPCode>59806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>12000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Hearthstone I'm Still Here Foundation - Hearthstone Alzheimer Care</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>130 New Boston St Ste 103</AddressLine1>
+            <City>Woburn</City>
+            <State>MA</State>
+            <ZIPCode>01801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Hyde Square Task Force</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 301871</AddressLine1>
+            <City>Jamaica Plain</City>
+            <State>MA</State>
+            <ZIPCode>02130</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Institutes for Journalism &amp; Natural Resources</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 1996</AddressLine1>
+            <City>Missoula</City>
+            <State>MT</State>
+            <ZIPCode>59806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Jacquelyn Hernandez Adult Day Health Center</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>822 Lexington Avenue</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11221</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Master Gardeners of Clark County</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4400 Gateway Blvd Ste 104</AddressLine1>
+            <City>Springfield</City>
+            <State>OH</State>
+            <ZIPCode>45502</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Missoula Family YMCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3000 S Russell St</AddressLine1>
+            <City>Missoula</City>
+            <State>MT</State>
+            <ZIPCode>59801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Missoula Food Bank</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>219 S 3rd Street West</AddressLine1>
+            <City>Missoula</City>
+            <State>MT</State>
+            <ZIPCode>59801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Missoula International School</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1100 Harrison Street</AddressLine1>
+            <City>Missoula</City>
+            <State>MT</State>
+            <ZIPCode>59802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Education</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Montana Land Reliance</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>324 Fuller Ave PO Box 355</AddressLine1>
+            <City>Helena</City>
+            <State>MT</State>
+            <ZIPCode>596240355</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Partners in Health</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>888 Commonwealth Ave 3rd Floor</AddressLine1>
+            <City>Boston</City>
+            <State>MA</State>
+            <ZIPCode>02215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Planned Parenthood Federation of America</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>434 West 33rd Street</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Planned Parenthood of Montana Inc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2525 4th Ave North Ste 201</AddressLine1>
+            <City>Billings</City>
+            <State>MT</State>
+            <ZIPCode>59101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Primary Source</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 Walnut St</AddressLine1>
+            <City>Watertown</City>
+            <State>MA</State>
+            <ZIPCode>02472</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Education</PurposeOfGrantOrContribution>
+          <Amount>13500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Project Woman - Chrysalis Manor</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1316 E High Street</AddressLine1>
+            <City>Springfield</City>
+            <State>OH</State>
+            <ZIPCode>45505</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Springfield Arts Council</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8 N Limestone St Ste B</AddressLine1>
+            <City>Springfield</City>
+            <State>OH</State>
+            <ZIPCode>45502</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>12500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Think Tank Inc - Clark County Circles</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1241 W First Street</AddressLine1>
+            <City>Springfield</City>
+            <State>OH</State>
+            <ZIPCode>45504</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Trinity Boston Foundation - Education for Excellence Program</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>233 Clarendon St</AddressLine1>
+            <City>Boston</City>
+            <State>MA</State>
+            <ZIPCode>02116</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Washington Hancock Community Agency - Friendship Cottage</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 1107</AddressLine1>
+            <City>Blue Hill</City>
+            <State>ME</State>
+            <ZIPCode>04614</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WEEL (Working for Equality &amp; Economic Liberalism)</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>32 S Ewing Room 109</AddressLine1>
+            <City>Helena</City>
+            <State>MT</State>
+            <ZIPCode>59601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WellSpring - FAST Program</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>15 E Pleasant St</AddressLine1>
+            <City>Springfield</City>
+            <State>OH</State>
+            <ZIPCode>45506</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>6500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Worldwide Orphans Foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>511 Valley St Ste 200</AddressLine1>
+            <City>Maplewood</City>
+            <State>NJ</State>
+            <ZIPCode>07040</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Wright State University - WSU Foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3640 Colonel Glenn Highway</AddressLine1>
+            <City>Dayton</City>
+            <State>OH</State>
+            <ZIPCode>45435</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>University</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Education</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Youth Homes InnerRoads Wildnerness Program</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>550 N California Street</AddressLine1>
+            <City>Missoula</City>
+            <State>MT</State>
+            <ZIPCode>59807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Other Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Program Support</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>559000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>121136</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>170182</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-53688</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>237630</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>237630</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>Accounting Fees</Category>
+        <Amount>1395</Amount>
+        <NetInvestmentIncome>698</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>697</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AppliedToPriorYearElection documentId="RetDoc10083200000">
+      <Election>The Llewellyn Foundation hereby elects to apply 2010 excess qualifying distributions in the amount of $22,602 to 2008 undistributed income.</Election>
+    </AppliedToPriorYearElection>
+    <ExplnOfNonFilingWithAGStmt documentId="RetDoc2210600001">
+      <Statement>The Internal Revenue Service is now providing the Ohio Attorney General with information regarding federal tax filings. In addition, the State of Ohio is also requiring not-for-profit organizations to submit a verification of filing with the Internal Revenue Service statement in lieu of sending a Form 990-PF.</Statement>
+    </ExplnOfNonFilingWithAGStmt>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>Equities-SNB</NameOfBond>
+        <EOYBookValue>1380946</EOYBookValue>
+        <EOYFMV>1458586</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>Equities-SNB</NameOfStock>
+        <EOYBookValue>8791068</EOYBookValue>
+        <EOYFMV>10250098</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtSecuritiesEOYBookValue>599830</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>585292</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>0</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>0</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>Legal Fees</Category>
+        <Amount>163</Amount>
+        <NetInvestmentIncome>82</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>81</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>Assoc. of Small Family Foundations</Description>
+        <RevenueAndExpensesPerBooks>495</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>248</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>247</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>Investment Advisor Fees</Category>
+        <Amount>53185</Amount>
+        <NetInvestmentIncome>53185</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>State of Ohio Registration Fee</Category>
+        <Amount>200</Amount>
+        <NetInvestmentIncome>200</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>Taxes - Foreign Taxes</Category>
+        <Amount>23</Amount>
+        <NetInvestmentIncome>23</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>Federal Excise Taxes</Category>
+        <Amount>9501</Amount>
+        <NetInvestmentIncome>9501</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

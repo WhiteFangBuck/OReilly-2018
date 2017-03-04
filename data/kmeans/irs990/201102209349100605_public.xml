@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T14:10:25-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>KENNETH R WEIDLEY PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>734 CEDARCREST DR</AddressLine1>
+        <City>DUNCANSVILLE</City>
+        <State>PA</State>
+        <ZIPCode>16635</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>251611905</EIN>
+      <Name>
+        <BusinessNameLine1>STUCKEY FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>STUC</NameControl>
+      <USAddress>
+        <AddressLine1>3 LINDEN STREET</AddressLine1>
+        <City>HOLLIDAYSBURG</City>
+        <State>PA</State>
+        <ZIPCode>16648</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN STUCKEY</Name>
+      <Title>MANAGER</Title>
+      <DateSigned>2011-08-08</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>KENNETH WEIDLEY</Name>
+      <Phone>8146964417</Phone>
+      <DatePrepared>2011-08-08</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.15">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2135579</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <DividendsRevAndExpnss>47489</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>47489</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="990PF:72">-25515</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1055410</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>21974</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>47489</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="990PF:76">815</AccountingFeesRevAndExpnss>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="990PF:77">17129</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>17129</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="990PF:78">613</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:79">478</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>19035</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>17129</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>135500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>135500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>154535</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>17129</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>135500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-132561</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>30360</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>5401</CashBOY>
+        <CashEOY>6061</CashEOY>
+        <CashEOYFMV>6061</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>2025834</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>1892613</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>2077018</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsLandEtcBasis>20697</InvestmentsLandEtcBasis>
+        <InvestmentsLandEtcBOY>20697</InvestmentsLandEtcBOY>
+        <InvestmentsLandEtcEOY referenceDocumentId="990PF:155">20697</InvestmentsLandEtcEOY>
+        <InvestmentsLandEtcEOYFMV>52500</InvestmentsLandEtcEOYFMV>
+        <TotalAssetsBOY>2051932</TotalAssetsBOY>
+        <TotalAssetsEOY>1919371</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2135579</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>2051932</UnrestrictedBOY>
+        <UnrestrictedEOY>1919371</UnrestrictedEOY>
+        <TotalNetAssetsBOY>2051932</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1919371</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2051932</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1919371</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2051932</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-132561</ExcessOfRevenueOverExpenses>
+        <Subtotal>1919371</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1919371</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>88000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>2024667</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.043464</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>120144</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2022697</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>000.059398</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>130509</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2318197</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>000.056298</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>93000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2224444</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>000.041808</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>101782</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2020235</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>000.050381</DistributionRatioYear5>
+        <TotalDistributionRatio>000.251349</TotalDistributionRatio>
+        <AverageDistributionRatio>000.050270</AverageDistributionRatio>
+        <NetNoncharitableAssets>2024667</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>101780</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>304</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>102084</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>135500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>304</InvestmentIncomeExciseTax>
+        <Subtotal>304</Subtotal>
+        <TaxBasedOnInvestmentIncome>304</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1709</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1709</TotalCreditsAndPayments>
+        <TaxPaidOriginalReturn>1709</TaxPaidOriginalReturn>
+        <Overpayment>1405</Overpayment>
+        <AmountCreditedToNextYear>1405</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JOHN STUCKEY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8146961091</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3 LINDEN STREET</AddressLine1>
+          <City>HOLLIDAYSBURG</City>
+          <State>PA</State>
+          <ZIPCode>16648</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN STUCKEY</PersonName>
+          <USAddress>
+            <AddressLine1>3 LINDEN STREET</AddressLine1>
+            <City>HOLLIDAYSBURG</City>
+            <State>PA</State>
+            <ZIPCode>16648</ZIPCode>
+          </USAddress>
+          <Title>MANAGER</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BARBARA STUCKEY</PersonName>
+          <USAddress>
+            <AddressLine1>BOX 65</AddressLine1>
+            <City>HOLLIDAYSBURG</City>
+            <State>PA</State>
+            <ZIPCode>16648</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JENNIFER DAVIS</PersonName>
+          <USAddress>
+            <AddressLine1>237 RICE AVE</AddressLine1>
+            <City>GIRARD</City>
+            <State>PA</State>
+            <ZIPCode>16417</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>2000000</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>3000</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>52500</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>2055500</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>2055500</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:240">30833</CashDeemedCharitable>
+        <NetNoncharitableAssets>2024667</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>101233</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>101233</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>304</TaxBasedOnInvestmentIncome>
+        <TotalTax>304</TotalTax>
+        <DistributableAmountBeforeAdj>100929</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>100929</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>100929</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">135500</ExpensesAndContributions>
+        <QualifyingDistributions>135500</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>304</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>135196</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>100929</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>6840</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>19721</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>26561</TotalExcessDistriCarryover>
+        <QualifyingDistributions>135500</QualifyingDistributions>
+        <AppliedToCurrentYear>100929</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>34571</RemainingDistriFromCorpus>
+        <TotalCorpus>61132</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>61132</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>6840</ExcessFromYear3>
+        <ExcessFromYear2>19721</ExcessFromYear2>
+        <ExcessFromCurrentYear>34571</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>JOHN STUCKEY</ContributingManager>
+        <ShareholderManager>NOT APPLICABLE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUNG LIFE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 333</AddressLine1>
+            <City>HOLLIDAYSBURG</City>
+            <State>PA</State>
+            <ZIPCode>16648</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>70000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GIRARD CHRISTIAN ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>229 RICE AVE</AddressLine1>
+            <City>GIRARD</City>
+            <State>PA</State>
+            <ZIPCode>16417</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>12500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WILLIAMSON FREE SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>106 S NEW MIDDLETON RD</AddressLine1>
+            <City>MEDIA</City>
+            <State>PA</State>
+            <ZIPCode>19063</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>28000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MESSIAH COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ONE COLLEGE AVE</AddressLine1>
+            <City>GRANTHAM</City>
+            <State>PA</State>
+            <ZIPCode>17027</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>135500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>47489</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-25515</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>47489</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-25515</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>21974</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:76" softwareId="10000149" softwareVersion="2010.2.15">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>815</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.15"></GeneralExplanationAttachment>
+    <InvestmentsLandSchedule2 documentId="990PF:155" softwareId="10000149" softwareVersion="2010.2.15">
+      <InvestmentLand>
+        <CostOrOtherBasis>20697</CostOrOtherBasis>
+        <BookValue>20697</BookValue>
+        <EOYFMV>52500</EOYFMV>
+      </InvestmentLand>
+    </InvestmentsLandSchedule2>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherExpenses>
+        <Description>MAINTENANCE</Description>
+        <RevenueAndExpensesPerBooks>478</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="990PF:77" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT FEES</Category>
+        <Amount>17129</Amount>
+        <NetInvestmentIncome>17129</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="990PF:78" softwareId="10000149" softwareVersion="2010.2.15">
+      <Taxes>
+        <Category>Real estate tax not included in line 20</Category>
+        <Amount>613</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

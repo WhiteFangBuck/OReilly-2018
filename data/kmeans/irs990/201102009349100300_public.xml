@@ -1,0 +1,2533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-15T08:13:57-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LANIGAN &amp; ASSOCIATES P C</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>314 GORDON AVENUE</AddressLine1>
+        <City>THOMASVILLE</City>
+        <State>GA</State>
+        <ZIPCode>31792</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>581399036</EIN>
+      <Name>
+        <BusinessNameLine1>WILLIAM HOWARD FLOWERS JR FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>WILL</NameControl>
+      <Phone>2292255454</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 6100</AddressLine1>
+        <City>THOMASVILLE</City>
+        <State>GA</State>
+        <ZIPCode>317586100</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>TALIAFERRO F CROZER</Name>
+      <Title>TREASURER</Title>
+      <Phone>2292255454</Phone>
+      <DateSigned>2011-06-17</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>FRANK MERCER</Name>
+      <Phone>2292268320</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="14">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>62060485</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>335427</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>44276</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>44276</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>1520475</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>1520475</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>246669</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>907800</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>246669</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>2146847</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>1811420</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>33154</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>33154</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>16560</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>16560</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>7650</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftNetInvstIncm>0</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftDsbrsChrtblPrps>7650</PensionEmplBnftDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">8652</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>4326</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>4326</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">45733</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>22867</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>22866</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">5059</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>438</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>3803</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc2203000001">249</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">6222</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>6222</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>123279</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>27631</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>94581</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>2728800</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>2728800</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>2852079</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>27631</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>2823381</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-705232</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1783789</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>19802</CashBOY>
+        <CashEOY>2810</CashEOY>
+        <CashEOYFMV>2810</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>4894814</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>3028272</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>3028272</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>44281010</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">52116363</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>52116363</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>595596</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">807432</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>807432</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>4955666</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">6104675</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>6104675</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>5617</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>4684</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>1182</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc2059000001">933</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>933</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">294</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">0</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">0</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>54748364</TotalAssetsBOY>
+        <TotalAssetsEOY>62060485</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>62060485</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>54748364</UnrestrictedBOY>
+        <UnrestrictedEOY>62060485</UnrestrictedEOY>
+        <TotalNetAssetsBOY>54748364</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>62060485</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>54748364</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>62060485</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>54748364</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-705232</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">8017425</OtherIncreases>
+        <Subtotal>62060557</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">72</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>62060485</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>LABRANCHE 25,000 SHS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-11-15</DateAcquired>
+          <DateSold>2010-11-09</DateSold>
+          <GrossSalesPrice>77929</GrossSalesPrice>
+          <CostOrOtherBasis>250112</CostOrOtherBasis>
+          <GainOrLoss>-172183</GainOrLoss>
+          <GainsMinusExcessOrLosses>-172183</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>DEL MONTE FOODS 20,000 SHS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-01-22</DateAcquired>
+          <DateSold>2010-12-01</DateSold>
+          <GrossSalesPrice>373387</GrossSalesPrice>
+          <CostOrOtherBasis>174821</CostOrOtherBasis>
+          <GainOrLoss>198566</GainOrLoss>
+          <GainsMinusExcessOrLosses>198566</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>DEL MONTE FOODS 10,000 SHS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-03-25</DateAcquired>
+          <DateSold>2010-12-01</DateSold>
+          <GrossSalesPrice>186694</GrossSalesPrice>
+          <CostOrOtherBasis>77938</CostOrOtherBasis>
+          <GainOrLoss>108756</GainOrLoss>
+          <GainsMinusExcessOrLosses>108756</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TECO FINANCE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-16</DateAcquired>
+          <DateSold>2010-10-13</DateSold>
+          <GrossSalesPrice>232649</GrossSalesPrice>
+          <CostOrOtherBasis>158260</CostOrOtherBasis>
+          <GainOrLoss>74389</GainOrLoss>
+          <GainsMinusExcessOrLosses>74389</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TOOTSIE ROLL IND. INC. -CASH IN LIEU</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-08</DateAcquired>
+          <DateSold>2010-04-08</DateSold>
+          <GrossSalesPrice>17</GrossSalesPrice>
+          <GainOrLoss>17</GainOrLoss>
+          <GainsMinusExcessOrLosses>17</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>37124</GrossSalesPrice>
+          <GainOrLoss>37124</GainOrLoss>
+          <GainsMinusExcessOrLosses>37124</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>246669</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>2624422</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>52493020</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.049996</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>2964983</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>61628612</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.048110</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>2754306</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>55537400</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.049594</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>2541227</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>51228561</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.049606</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>2344164</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>46662951</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.050236</DistributionRatioYear5>
+        <TotalDistributionRatio>0.247542</TotalDistributionRatio>
+        <AverageDistributionRatio>0.049508</AverageDistributionRatio>
+        <NetNoncharitableAssets>57628153</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>2853055</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>17838</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>2870893</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>2823381</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>35676</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>35676</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>35676</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>12751</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>33000</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>45751</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId="RetDoc1192000001">X</Form2220Attached>
+        <PenaltyForUnderpayment>398</PenaltyForUnderpayment>
+        <Overpayment>9677</Overpayment>
+        <AmountCreditedToNextYear>9677</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>MARLENE PEEPLES</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2292255454</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 6100</AddressLine1>
+          <City>THOMASVILLE</City>
+          <State>GA</State>
+          <ZIPCode>31792</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAPHNE F WOOD</PersonName>
+          <USAddress>
+            <AddressLine1>676 LIVE OAK LANE</AddressLine1>
+            <City>MONTICELLO</City>
+            <State>FL</State>
+            <ZIPCode>31626</ZIPCode>
+          </USAddress>
+          <Title>VICE-PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TALIAFERRO F CROZER</PersonName>
+          <USAddress>
+            <AddressLine1>2970 FOXGLOVE ROAD</AddressLine1>
+            <City>WILSON</City>
+            <State>WY</State>
+            <ZIPCode>83014</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MAURY FLOWERS SHIELDS</PersonName>
+          <USAddress>
+            <AddressLine1>210 EL BRILLO WAY</AddressLine1>
+            <City>PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33480</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KAYE REYNOLDS</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 6100</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31757</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>33154</Compensation>
+          <ContriToEmplBenefitPlansEtc>4911</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>53471121</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>5034618</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>58505739</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>58505739</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>877586</CashDeemedCharitable>
+        <NetNoncharitableAssets>57628153</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2881408</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2881408</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>35676</TaxBasedOnInvestmentIncome>
+        <TotalTax>35676</TotalTax>
+        <DistributableAmountBeforeAdj>2845732</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>2845732</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>2845732</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>2823381</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>2823381</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>2823381</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2845732</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>13565</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>2823381</QualifyingDistributions>
+        <AppliedToYear1>13565</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>2809816</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>35916</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>MAURY FLOWERS SHIELDS</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>1000 FRIENDS OF FLORIDA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 5948</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32314</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ADVOCATES FOR ANIMALS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>201 WINDINGWOOD LANE</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALBANY AREA QUAIL PROGRAM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>13093 HENRY BEADEL DR</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32312</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALL SAINTS EPISCOPAL CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 2626</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>58000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ANGEL TREE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1550</AddressLine1>
+            <City>MERRIFIELD</City>
+            <State>VA</State>
+            <ZIPCode>22116</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>170000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ARCHBOLD FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1018</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>75000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AUCILLA CHRISTIAN SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7803 AUCILLA</AddressLine1>
+            <City>MONTICELLO</City>
+            <State>FL</State>
+            <ZIPCode>32344</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL INST.</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BEAU TURNER YOUTH CONSERVATION CENTER CO WILDLIFE FOUND OF FL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 11010</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BISHOP HALL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1819 EAST CLAY STREET</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOSTON CARNEGIE LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 310</AddressLine1>
+            <City>BOSTON</City>
+            <State>GA</State>
+            <ZIPCode>31626</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOY SCOUTS OF AMERICA - SUWANNEE RIVER AREA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2032 THOMASVILLE ROAD</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32308</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>27000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOY'S AND GIRLS CLUB - MONTICELLO CHAPTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>306 LAURA LEE AVE</AddressLine1>
+            <City>TALLAHASSE</City>
+            <State>FL</State>
+            <ZIPCode>32315</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOY'S AND GIRLS CLUB OF BROOKS CO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 682</AddressLine1>
+            <City>VALDOSTA</City>
+            <State>GA</State>
+            <ZIPCode>31603</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOYS CLUB OF NEW YORK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>287 EAST 10TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10009</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BROOKWOOD SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>301 CARDINAL RIDGE ROAD</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL INST.</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DEFRAY OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>520000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMP ARROW</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 647</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMP MERRIE-WOODE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 MERRIE-WOODE RD</AddressLine1>
+            <City>SAPPHIRE</City>
+            <State>NC</State>
+            <ZIPCode>28774</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMP SUNSHINE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1850 CLAIRMONT ROAD</AddressLine1>
+            <City>DECATUR</City>
+            <State>GA</State>
+            <ZIPCode>30033</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMPUS CRUSADE FOR CHRIST - JESUS FILM PROJECT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 628222</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32862</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CASHIERS -GLENVILLE VOLUNTEER FIRE DEPT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 1978</AddressLine1>
+            <City>CASHIERS</City>
+            <State>NC</State>
+            <ZIPCode>28717</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CASHIERS AREA HUMANE SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 638</AddressLine1>
+            <City>CASHIERS</City>
+            <State>NC</State>
+            <ZIPCode>28717</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHARLOTTESVILLE AREA COMMUNITY FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>114 4TH STREET SE</AddressLine1>
+            <City>CHARLOTTESVILLE</City>
+            <State>VA</State>
+            <ZIPCode>22902</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CIVIL WAR PRESERVATION TRUST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1331 H STREET NW SUITE 1001</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CONGRESSIONAL SPORTSMEN'S FOUNDATION - FLORIDA STATE RESOURCE FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>110 NORTH CAROLINE AVE SE</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COUNTRYSIDE ALLIANCE USA INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 363</AddressLine1>
+            <City>MILLWOOD</City>
+            <State>VA</State>
+            <ZIPCode>22646</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DELTA SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>875 124TH AVENUE NE SUITE 101</AddressLine1>
+            <City>BELLEVUE</City>
+            <State>WA</State>
+            <ZIPCode>98005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOWNTOWN THOMASVILLE FACADE RESTORATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1540</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>POLICITAL SUB. OF ST</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EBENEZER METHODIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7040 TWELVE MILE POST ROAD</AddressLine1>
+            <City>BOSTON</City>
+            <State>GA</State>
+            <ZIPCode>31626</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EQUESTRIAN LAND CONSERVATION RESOURCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 423</AddressLine1>
+            <City>ELIZABETH</City>
+            <State>IL</State>
+            <ZIPCode>61028</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EVERGREEN CONGREGATIONAL UNITED CHURCH OF CHRIST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1611</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FAVOR CHRISTIAN ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1096</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL INST.</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FELLOWSHIP OF CHRISTIAN ATHLETES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8701 LEEDS RD</AddressLine1>
+            <City>KANSAS CITY</City>
+            <State>MO</State>
+            <ZIPCode>64129</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FLORIDA WILDLIFE FEDERATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2545 BLAIRSTONE PINES DR</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32301</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FOCUS ON THE FAMILY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8655 EXPLORER DRIVE</AddressLine1>
+            <City>COLORADO SPRINGS</City>
+            <State>CO</State>
+            <ZIPCode>80995</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>35000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>G-CAPP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 AUBURN AVENUE SUITE 200</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30303</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GEORGIA METH PROJECT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3625 CUMBERLAND BOULEVARD</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30339</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GERALDINE CM LIVINGSTON FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1583 LIVINGSTON ROAD</AddressLine1>
+            <City>GREENVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32331</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GIRL SCOUTS OF SOUTHWEST GEORGIA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>515 PINE AVENUE</AddressLine1>
+            <City>ALBANY</City>
+            <State>GA</State>
+            <ZIPCode>31701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GLENVILLE-CASHIERS RESCUE SQUAD INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 919</AddressLine1>
+            <City>CASHIERS</City>
+            <State>NC</State>
+            <ZIPCode>28717</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GRAYSON-JOCKEY CLUB RESEARCH FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>40 EAST 52ND ST 15TH FLOOR</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HALCYON HOME INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1838</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HANDS &amp; HEARTS FOR HORSES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3828 LOWER CAIRO RD</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HANDS ON THOMAS COUNTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 252</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HEALTHWAYS INC PARENT CHILD HOME PROG</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3841 GREEN HILLS VILLAGE DR</AddressLine1>
+            <City>NASHVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HIGHLANDSCASHIERS HOSPITAL FOUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 742</AddressLine1>
+            <City>HIGHLANDS</City>
+            <State>NC</State>
+            <ZIPCode>28741</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOOVED ANIMAL HUMANE SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10804 MCCONNELL ROAD</AddressLine1>
+            <City>WOODSTOCK</City>
+            <State>IL</State>
+            <ZIPCode>60098</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOOVED ANIMAL RESCUE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10804 MCCONNELL ROAD</AddressLine1>
+            <City>WOODSTOCK</City>
+            <State>IL</State>
+            <ZIPCode>60098</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOSPICE OF SOUTHWEST GEORGIA - ARCHBOLD FOUNDATION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>818 GORDON AVE</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JACKSON - MACON CONSERVATION ALLIANCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>348 SOUTH FIFTH STREET</AddressLine1>
+            <City>HIGHLANDS</City>
+            <State>NC</State>
+            <ZIPCode>28741</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITIES</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JEFFERSON COUNTY HUMANE SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 559</AddressLine1>
+            <City>MONTICELLO</City>
+            <State>FL</State>
+            <ZIPCode>32345</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITIES</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>45000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LAND TRUST ALLIANCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1600 L STREET NW SUITE 1100</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20036</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITIES</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LASSAC MISSIONARY METHODIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1683 PARRAMORE FISHPOND ROAD</AddressLine1>
+            <City>BOSTON</City>
+            <State>GA</State>
+            <ZIPCode>31626</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LAWSON NEEL MEDBANK INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 5756</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31758</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEWIS HALL SINGLETARY ONCOLOGY CENTER - ARCHBOLD FOUND INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>910 SOUTH BROAD STREET</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>100000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MD ANDERSON CANCER CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 4486</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MADEIRA SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8328 GEORGETOWN PIKE</AddressLine1>
+            <City>MCLEAN</City>
+            <State>VA</State>
+            <ZIPCode>22102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL INST.</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>21000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MASTER FOX HOUND ASSOCIATION EDUCATIONAL FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 363</AddressLine1>
+            <City>MILLWOOD</City>
+            <State>VA</State>
+            <ZIPCode>22646</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MERCY SEAT CHRISTIAN CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>678 MERCY SEAT ROAD</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MISS KITTY FELINE SANCTURAY INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 22</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTICELLO OPERA HOUSE INC ENDOWMENT FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 518</AddressLine1>
+            <City>MONTICELLO</City>
+            <State>FL</State>
+            <ZIPCode>32345</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MOUNT OLIVE PB CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>819 FLETCHER STREET</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MOUNT PLEASANT AME CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>125 GROOVER ROAD</AddressLine1>
+            <City>MONTICELLO</City>
+            <State>FL</State>
+            <ZIPCode>32344</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MT MORIAH MISSIONARY BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3212 PARRAMORE FISHPOND ROAD</AddressLine1>
+            <City>BOSTON</City>
+            <State>GA</State>
+            <ZIPCode>31626</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATIONAL SPORTING LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1335</AddressLine1>
+            <City>MIDDLEBURG</City>
+            <State>VA</State>
+            <ZIPCode>20118</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEPENTHIC SOCIETY INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>167 HOME PARK FARM ROAD</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31757</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>21000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEW JERUSALEM CHURCH OF GOD IN UNITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 653</AddressLine1>
+            <City>BOSTON</City>
+            <State>GA</State>
+            <ZIPCode>31626</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEW OAK GROVE MB CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3333 REICHERTVILLE ROAD</AddressLine1>
+            <City>BOSTON</City>
+            <State>GA</State>
+            <ZIPCode>31626</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OLIVE BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6063 BOSTON HWY</AddressLine1>
+            <City>MONTICELLO</City>
+            <State>FL</State>
+            <ZIPCode>32344</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PHILADELPHIA MISSIONARY BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>555 FULFORD ROAD</AddressLine1>
+            <City>MONTICELLO</City>
+            <State>FL</State>
+            <ZIPCode>32344</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PRISON FELLOWSHIP MINISTRIES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1550</AddressLine1>
+            <City>MERRIFIELD</City>
+            <State>VA</State>
+            <ZIPCode>22116</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>140000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RED HILLS HORSE TRIALS INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>POBOX 14869</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32317</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>REFUGE HOUSE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 20910</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32316</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>REICHERTVILLE VOLUNTEER FIRE DEPARTMENT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3485 REICHERTVILLE ROAD</AddressLine1>
+            <City>BOSTON</City>
+            <State>GA</State>
+            <ZIPCode>31626</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>6500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAINT MARY OF THE ANGELS CATHOLIC SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>991 S DORA ST</AddressLine1>
+            <City>UKIAH</City>
+            <State>CA</State>
+            <ZIPCode>95482</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL INST.</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>21000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 66</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHEPHERD SPINAL CLINIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2020 PEACHTREE RD NW</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30309</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTH GEORGIA PERFORMING ARTS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>135 N BROAD ST</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTHEASTERN GUIDE DOGS INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4210 77TH ST E</AddressLine1>
+            <City>PALMETTO</City>
+            <State>FL</State>
+            <ZIPCode>34221</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTHEASTERN LEGAL FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3340 PEACHTREE RD NE SUITE 2515</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30326</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>100000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTHWEST GEORGIA TECHNICAL COLLEGE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>15689 US 19 N</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTHWEST GEORGIA THERAPEUTIC RIDING CTR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1048 PHILEMA ROAD S</AddressLine1>
+            <City>LEESBURG</City>
+            <State>GA</State>
+            <ZIPCode>31763</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TALL TIMBERS RESEARCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>13093 HENRY BEADEL DRIVE</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32312</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>127000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TALLAHASSEE MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3945 MUSEUM DRIVE</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32310</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE CONSERVATION FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1362</AddressLine1>
+            <City>TUCKER</City>
+            <State>GA</State>
+            <ZIPCode>30085</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE FOUNDATION FOR THE PEOPLE OF BURMA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>225 BUSH STREET SUITE 590</AddressLine1>
+            <City>SAN FRANCISCO</City>
+            <State>CA</State>
+            <ZIPCode>94104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE FUTURE OF HUNTING IN FLORIDA INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 10949</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE GEORGE WASHINGTON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1201 WASHINGTON AVE</AddressLine1>
+            <City>FREDERICKSBURG</City>
+            <State>VA</State>
+            <ZIPCode>22401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE HERITAGE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>214 MASSACHUSETTES AVE NE</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20002</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE MAILBOX CLUB INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>404 EAGER ROAD</AddressLine1>
+            <City>VALDOSTA</City>
+            <State>GA</State>
+            <ZIPCode>31602</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE OPEN DOOR ADOPTION AGENCY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 4</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE UNITED STATES PONY CLUBS INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4041 IRON WORKS PARKWAY</AddressLine1>
+            <City>LEXINGTON</City>
+            <State>KY</State>
+            <ZIPCode>40511</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THEODORE ROOSEVELT CONSERVATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>555 11TH ST NW 6TH FLOOR</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMAS COUNTY 4-H</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 49</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMAS COUNTY CASA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1034</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMAS COUNTY FOOD BANK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 2422</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMAS COUNTY HISTORICAL SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1922</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMAS JEFFERSON MEMORIAL FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 316</AddressLine1>
+            <City>CHARLOTTESVILLE</City>
+            <State>VA</State>
+            <ZIPCode>22902</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMAS UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1501 MILLPOND ROAD</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL INST.</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMAS-GRADY ARC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 994</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMASVILLE ANTIQUES SHOW FOUNDATION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1633</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMASVILLE BOYS AND GIRLS CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 3026</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMASVILLE COMMUNITY RESOURCE CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1897</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>45000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMASVILLE CULTURAL CENTER INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 2177</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>11000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMASVILLE LANDMARKS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1285</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>40000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMASVILLE MUSIC &amp; DRAMA TROUPE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 284</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMASVILLE-THOMAS COUNTY HABITAT FOR HUMANITY INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4131 GA HWY 122</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31757</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THOMASVILLE-THOMAS COUNTY HUMANE SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>180 BIG STAR DR</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31757</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>US SPORTMEN'S ALLIANCE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>801 KINGSMILL PARKWAY</AddressLine1>
+            <City>OLUMBUS</City>
+            <State>OH</State>
+            <ZIPCode>43229</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>45000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF FLORIDA FOUNDATION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 14425</AddressLine1>
+            <City>GAINESVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32604</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL INST.</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF VIRGINIA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 400807</AddressLine1>
+            <City>CHARLOTTESVILLE</City>
+            <State>VA</State>
+            <ZIPCode>22904</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL INST.</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>197500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VASHTI CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1815 EAST CLAY STREET</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VETERANS ADMINISTRATION OF THOMAS COUNTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1484 15TH AVE NW</AddressLine1>
+            <City>CAIRO</City>
+            <State>GA</State>
+            <ZIPCode>31728</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VISION OF HOPE MISSIONARY BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6415 12 MILE POST ROAD</AddressLine1>
+            <City>BOSTON</City>
+            <State>GA</State>
+            <ZIPCode>31626</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WESTMORELAND DAVIS MEMORIAL FOUNDATION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 6228</AddressLine1>
+            <City>LEESBURG</City>
+            <State>VA</State>
+            <ZIPCode>20178</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WILDLIFE FOUNDATION OF FLORIDA INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 11010</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YMCA - BUTLER-MASON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1304 REMINGTON AVE</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YMCA - CLAY STREET</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>416 W CLAY ST</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31792</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YMCA - DAWSON STREET CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1037</AddressLine1>
+            <City>THOMASVILLE</City>
+            <State>GA</State>
+            <ZIPCode>31799</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>2728800</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>44276</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1520475</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>246669</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>1811420</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1811420</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>MAURY TICE FLOWERS CHARITABLE LEAD</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>125-C NORTH BROAD STREET SUITE 311</AddressLine1>
+          <City>THOMASVILLE</City>
+          <State>GA</State>
+          <ZIPCode>31752</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>174525</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>MCFADDEN CHARITABLE LEAD TRUST</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>PO BOX 6100</AddressLine1>
+          <City>THOMASVILLE</City>
+          <State>GA</State>
+          <ZIPCode>317586100</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>65031</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameIndividual>PARKER CHARITABLE LEAD TRUST</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>PO BOX 6100</AddressLine1>
+          <City>THOMASVILLE</City>
+          <State>GA</State>
+          <ZIPCode>317586100</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>95871</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>TAX RETURN &amp; FINANCIAL STATEMENT PREPARATION</Category>
+        <Amount>8652</Amount>
+        <NetInvestmentIncome>4326</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>4326</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <Depreciation>
+        <DescriptionOfProperty>RICOH COPIER/FAX AF1018</DescriptionOfProperty>
+        <DateAcquired>2004-02-19</DateAcquired>
+        <CostOrOtherBasis>3445</CostOrOtherBasis>
+        <PriorYearsDepreciation>3445</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BUSINESS WORKS GOLD UPDATE</DescriptionOfProperty>
+        <DateAcquired>2004-03-30</DateAcquired>
+        <CostOrOtherBasis>928</CostOrOtherBasis>
+        <PriorYearsDepreciation>928</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>3.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>09' DELL COMPUTERS (2)</DescriptionOfProperty>
+        <DateAcquired>2009-10-01</DateAcquired>
+        <CostOrOtherBasis>1244</CostOrOtherBasis>
+        <PriorYearsDepreciation>62</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>249</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>GENERAL ELECTRIC 100,000 SHS 4/15/23</NameOfBond>
+        <EOYBookValue>99290</EOYBookValue>
+        <EOYFMV>99290</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GENERAL ELECTRIC 100,000 12/15/12</NameOfBond>
+        <EOYBookValue>105618</EOYBookValue>
+        <EOYFMV>105618</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>TECO FINANCE 200,000 11/1/17</NameOfBond>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>TESORO CORP. DUE 11/01/15 - 200,000</NameOfBond>
+        <EOYBookValue>202500</EOYBookValue>
+        <EOYFMV>202500</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>MORGAN STANLEY DUE 8/31/25 - 200,000</NameOfBond>
+        <EOYBookValue>200974</EOYBookValue>
+        <EOYFMV>200974</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>CIT GROUP INC DUE 5/01/17 - 200,000</NameOfBond>
+        <EOYBookValue>199050</EOYBookValue>
+        <EOYFMV>199050</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>FLOWERS FOODS, INC. - 1,619,077 SHARES</NameOfStock>
+        <EOYBookValue>43569362</EOYBookValue>
+        <EOYFMV>43569362</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SARA LEE 20,000 SHS</NameOfStock>
+        <EOYBookValue>350200</EOYBookValue>
+        <EOYFMV>350200</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SENSIENT TECHNOLOGIES 15,000 SHS</NameOfStock>
+        <EOYBookValue>550950</EOYBookValue>
+        <EOYFMV>550950</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BRISTOL MYERS SQUIBB CO. 10,000 SHS</NameOfStock>
+        <EOYBookValue>264800</EOYBookValue>
+        <EOYFMV>264800</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EMERSON ELECTRIC 15,000 SHS</NameOfStock>
+        <EOYBookValue>857550</EOYBookValue>
+        <EOYFMV>857550</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AT &amp; T 15,000 SHARES</NameOfStock>
+        <EOYBookValue>440700</EOYBookValue>
+        <EOYFMV>440700</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DEL MONTE FOODS 30,000 SHARES</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TRAVELERS COS 10,000 SHARES</NameOfStock>
+        <EOYBookValue>557100</EOYBookValue>
+        <EOYFMV>557100</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SNAP-ON, INC. 20,000 SHARES</NameOfStock>
+        <EOYBookValue>1131600</EOYBookValue>
+        <EOYFMV>1131600</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>THOMASVILLE BANCSHARES 2,000 SHARES</NameOfStock>
+        <EOYBookValue>38000</EOYBookValue>
+        <EOYFMV>38000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>LUBRIZOL CORP 15,000 SHS</NameOfStock>
+        <EOYBookValue>1603200</EOYBookValue>
+        <EOYFMV>1603200</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TOOTSIE ROLL 11,591 SHS</NameOfStock>
+        <EOYBookValue>335791</EOYBookValue>
+        <EOYFMV>335791</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>LABRANCHE &amp; CO 25,000 SHS</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHLUMBERGER LTD 10,000 SHS</NameOfStock>
+        <EOYBookValue>835000</EOYBookValue>
+        <EOYFMV>835000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TOTAL SYSTEMS 1,500 SHS</NameOfStock>
+        <EOYBookValue>23070</EOYBookValue>
+        <EOYFMV>23070</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BECTON DICKINSON 7,000</NameOfStock>
+        <EOYBookValue>591640</EOYBookValue>
+        <EOYFMV>591640</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CENOVUS ENERGY INC 15,000</NameOfStock>
+        <EOYBookValue>498600</EOYBookValue>
+        <EOYFMV>498600</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SNYDERS-LANCE INC 20,000</NameOfStock>
+        <EOYBookValue>468800</EOYBookValue>
+        <EOYFMV>468800</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>CAPITAL MANAGEMENT INVESTMENT TRUST SMALL CAP FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>3178822</BookValue>
+        <EOYFMV>3178822</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>CAPITAL MANAGEMENT INVESTMENT TRUST MID CAP FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>2925853</BookValue>
+        <EOYFMV>2925853</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtc>
+        <CategoryOrItem>RICOH COPIER/FAX AF1018</CategoryOrItem>
+        <CostOrOtherBasis>3445</CostOrOtherBasis>
+        <AccumulatedDepreciation>3445</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUSINESS WORKS GOLD UPDATE</CategoryOrItem>
+        <CostOrOtherBasis>928</CostOrOtherBasis>
+        <AccumulatedDepreciation>928</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>09' DELL COMPUTERS (2)</CategoryOrItem>
+        <CostOrOtherBasis>1244</CostOrOtherBasis>
+        <AccumulatedDepreciation>311</AccumulatedDepreciation>
+        <BookValue>933</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>ACCRUED INTEREST RECEIVABLE</Description>
+        <BOYBookValue>294</BOYBookValue>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>SMALL EMPLOYER HEALTH INSURANCE CREDIT</Description>
+        <Amount>72</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>81</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>81</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>6213</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>6213</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SMALL EMPLOYER HEALTH INSURANCE CREDIT</Description>
+        <RevenueAndExpensesPerBooks>-72</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>-72</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>UNREALIZED GAIN</Description>
+        <Amount>7971042</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>DIFFERENCE IN BOOK/TAX GAIN ON SALE OF INVESTMENTS</Description>
+        <Amount>46383</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT ADVISORY FEES</Category>
+        <Amount>45733</Amount>
+        <NetInvestmentIncome>22867</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>22866</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>INTERNAL REVENUE SERVICE-FROM 990PF-EXCISE TAX</Category>
+        <Amount>818</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>PAYROLL TAXES</Category>
+        <Amount>3803</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>3803</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAX</Category>
+        <Amount>438</Amount>
+        <NetInvestmentIncome>438</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-22T10:33:02-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>KELLEY DRYE &amp; WARREN LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>101 PARK AVENUE</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10178</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>136348894</EIN>
+      <Name>
+        <BusinessNameLine1>ELSIE DEL FIERRO TRUST UA DTD 072579</BusinessNameLine1>
+      </Name>
+      <NameControl>ELSI</NameControl>
+      <Phone>2128087933</Phone>
+      <USAddress>
+        <AddressLine1>KELLEY DRYE WARREN LLP 101 PARK AVE</AddressLine1>
+        <AddressLine2>NO 2740</AddressLine2>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10178</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MICHAEL S INSEL</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>2128087800</Phone>
+      <DateSigned>2011-07-22</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>CHRISTINA MASON</Name>
+      <Phone>2128087800</Phone>
+      <DatePrepared>2011-07-22</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <NECT>X</NECT>
+      <FMVAssetsEOY>315781</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>10853</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>8805</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>20432</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>213446</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>20432</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>31285</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>29237</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">1694</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>1584</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>110</LegalFeesDsbrsChrtblPrps>
+        <InterestRevAndExpnss>1</InterestRevAndExpnss>
+        <InterestNetInvstIncm>1</InterestNetInvstIncm>
+        <InterestDsbrsChrtblPrps>0</InterestDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">44</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>23</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">3132</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>3032</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>100</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>4871</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>4640</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>210</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>25000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>25000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>29871</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>4640</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>25210</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>1414</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>24597</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>69351</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>2692</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>2692</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>179558</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">225415</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>249325</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>24375</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">46510</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>63764</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>273284</TotalAssetsBOY>
+        <TotalAssetsEOY>274617</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>315781</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>273284</CapitalStockBOY>
+        <CapitalStockEOY>273284</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1333</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>273284</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>274617</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>273284</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>274617</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>273284</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>1414</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">23</OtherIncreases>
+        <Subtotal>274721</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">104</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>274617</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CHARLES SCHWAB</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>40902</GrossSalesPrice>
+          <CostOrOtherBasis>43925</CostOrOtherBasis>
+          <GainOrLoss>-3023</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3023</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CHARLES SCHWAB</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>172028</GrossSalesPrice>
+          <CostOrOtherBasis>149089</CostOrOtherBasis>
+          <GainOrLoss>22939</GainOrLoss>
+          <GainsMinusExcessOrLosses>22939</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>516</GrossSalesPrice>
+          <GainOrLoss>516</GainOrLoss>
+          <GainsMinusExcessOrLosses>516</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>20432</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>25622</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>265838</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.096382</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>215</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>314469</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.000684</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>28152</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>217275</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.129569</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>15105</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>218216</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.069220</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>10100</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>225357</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.044818</DistributionRatioYear5>
+        <TotalDistributionRatio>0.340673</TotalDistributionRatio>
+        <AverageDistributionRatio>0.068135</AverageDistributionRatio>
+        <NetNoncharitableAssets>299444</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>20403</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>246</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>20649</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>25210</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>246</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>246</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>246</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>800</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>800</TotalCreditsAndPayments>
+        <Overpayment>554</Overpayment>
+        <AmountCreditedToNextYear>554</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MICHAEL S INSEL ESQ</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2128087933</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>KELLEY DRYE WARREN LLP 101 PARK</AddressLine1>
+          <AddressLine2>AVENUE</AddressLine2>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10178</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHAEL S INSEL</PersonName>
+          <USAddress>
+            <AddressLine1>KELLEY DRYE WARREN LLP 101 PARK</AddressLine1>
+            <AddressLine2>AVENUE</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10178</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>260594</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>43410</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>304004</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>304004</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4560</CashDeemedCharitable>
+        <NetNoncharitableAssets>299444</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>14972</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>14972</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>246</TaxBasedOnInvestmentIncome>
+        <TotalTax>246</TotalTax>
+        <DistributableAmountBeforeAdj>14726</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>14726</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>14726</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>25210</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>25210</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>246</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>24964</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>14726</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear3>10910</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear1>12372</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>23282</TotalExcessDistriCarryover>
+        <QualifyingDistributions>25210</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>14726</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>10484</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>33766</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>33766</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>10910</ExcessFromYear3>
+        <ExcessFromYear1>12372</ExcessFromYear1>
+        <ExcessFromCurrentYear>10484</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GOODWILL INDUSTRIES OF GREATER NEW YORK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4-21 27TH AVENUE</AddressLine1>
+            <City>ASTORIA</City>
+            <State>NY</State>
+            <ZIPCode>11102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)1 OR 2</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>25000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10853</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>20432</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>31285</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>31285</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>AMERICAN TOWER CORP CL A</NameOfStock>
+        <EOYBookValue>9839</EOYBookValue>
+        <EOYFMV>15492</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ANNALY CAPITAL MGMT REIT</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CISCO SYSTEMS INC</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MARKET VECTORS ETF TRUST AGRIBUSINESS</NameOfStock>
+        <EOYBookValue>11041</EOYBookValue>
+        <EOYFMV>13385</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>N G P CAPITAL RESOURCES</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>POWERSHS QQQ TRUST SER 1</NameOfStock>
+        <EOYBookValue>9147</EOYBookValue>
+        <EOYFMV>16338</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHLUMBERGER LTD</NameOfStock>
+        <EOYBookValue>7022</EOYBookValue>
+        <EOYFMV>10438</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SPDR GOLD TRUST</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD GNMA FUND</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD INTERM TERM FUND</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DOUBLELINE TOTAL RETURN BD FD CL N</NameOfStock>
+        <EOYBookValue>27775</EOYBookValue>
+        <EOYFMV>27325</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PIMCO INCOME INSTL CL</NameOfStock>
+        <EOYBookValue>26750</EOYBookValue>
+        <EOYFMV>27652</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PIMCO TOTAL RETURN FD INSTL CL</NameOfStock>
+        <EOYBookValue>28800</EOYBookValue>
+        <EOYFMV>27101</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTL BUSINESS MACHINES</NameOfStock>
+        <EOYBookValue>34268</EOYBookValue>
+        <EOYFMV>36690</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES MSCI EMERGING MARKETS INDX FD</NameOfStock>
+        <EOYBookValue>10245</EOYBookValue>
+        <EOYFMV>11911</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>IVANHOE MINES LTD</NameOfStock>
+        <EOYBookValue>12109</EOYBookValue>
+        <EOYFMV>11460</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MFA FINANCIAL INC REIT</NameOfStock>
+        <EOYBookValue>16396</EOYBookValue>
+        <EOYFMV>16320</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ROCKWELL AUTOMATION INC</NameOfStock>
+        <EOYBookValue>16034</EOYBookValue>
+        <EOYFMV>17928</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VALE SA ADR</NameOfStock>
+        <EOYBookValue>15989</EOYBookValue>
+        <EOYFMV>17285</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>BUCKEYE PARTNERS LP</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>0</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ENTERPRISE PRODUCTS PARTNERS LP</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>17302</BookValue>
+        <EOYFMV>31124</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>BLACKSTONE GROUP LP</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>11160</BookValue>
+        <EOYFMV>14150</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>GLOBAL X EXCH TRADED FD BRAZIL MID CAP</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>18048</BookValue>
+        <EOYFMV>18490</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>KELLEY DRYE &amp; WARREN LLP</Category>
+        <Amount>1694</Amount>
+        <NetInvestmentIncome>1584</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>110</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>DIVIDEND INCOME REPORTED 2010 RECEIVED 2011</Description>
+        <Amount>89</Amount>
+      </OtherDecreases>
+      <OtherDecreases>
+        <Description>LTCG DISTRIBUTION REPORTED 2010 RECEIVED 2011</Description>
+        <Amount>15</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>NYS FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>100</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT ADVISORY FEES</Description>
+        <RevenueAndExpensesPerBooks>3032</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>3032</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>FOREIGN TAX PAID IN 2011 REPORTED 2010</Description>
+        <Amount>23</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FOREIGN TAX WITHHELD</Category>
+        <Amount>23</Amount>
+        <NetInvestmentIncome>23</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>2009 EXCISE TAX</Category>
+        <Amount>21</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

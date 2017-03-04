@@ -1,0 +1,764 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-20T12:44:41-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DAUBY O'CONNOR &amp; ZALESKI LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>501 CONGRESSIONAL BLVD STE 300</AddressLine1>
+        <City>CARMEL</City>
+        <State>IN</State>
+        <ZIPCode>46032</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>311107304</EIN>
+      <Name>
+        <BusinessNameLine1>JIM CAIN HOME INC</BusinessNameLine1>
+      </Name>
+      <NameControl>JIMC</NameControl>
+      <Phone>5025893030</Phone>
+      <USAddress>
+        <AddressLine1>924 EAST LIBERTY</AddressLine1>
+        <City>LOUISVILLE</City>
+        <State>KY</State>
+        <ZIPCode>40204</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JERRY BODINE</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>5025893030</Phone>
+      <DateSigned>2011-07-05</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JESSICA COOPER</Name>
+      <Phone>3178485700</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>JERRY BODINE</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>924 E LIBERTY STREET</AddressLine1>
+        <City>LOUISVILLE</City>
+        <State>KY</State>
+        <ZIPCode>46204</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>75898</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>N/A</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1984</YearFormation>
+      <StateLegalDomicile>KY</StateLegalDomicile>
+      <ActivityOrMissionDescription>THE JIM CAIN HOME, INC WAS FORMED TO PROVIDE HOUSING FACILITIES MAINTAINED AND OPERATED ON A CHARITABLE AND NON-PROFIT BASIS. SPECIFICALLY, THE ORGANIZATION HAS CONSTRUCTED A 9-UNIT GROUP HOME TO HOUSE HANDICAPPED INDIVIDUALS. THIS GROUP HOME IS LOCATED IN LOUISVILLE, KENTUCKY.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>4</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>0</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>60482</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>52470</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>24230</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>23123</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>67</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>65</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>1002</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>240</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>85781</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>75898</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>0</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>0</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>90459</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>90841</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>90459</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>90841</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-4678</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-14943</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>176406</TotalAssetsBOY>
+      <TotalAssetsEOY>159719</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>232839</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>231095</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>-56433</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>-71376</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>THE JIM CAIN HOME, INC WAS FORMED TO PROVIDE HOUSING FACILITIES MAINTAINED AND OPERATED ON A CHARITABLE AND NON-PROFIT BASIS. SPECIFICALLY, THE ORGANIZATION HAS CONSTRUCTED A 9-UNIT GROUP HOME TO HOUSE HANDICAPPED INDIVIDUALS. THIS GROUP HOME IS LOCATED IN LOUISVILLE, KENTUCKY.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>83731</Expense>
+      <Revenue>23123</Revenue>
+      <Description>THE JIM CAIN HOME, INC. WAS FORMED TO PROVIDE HOUSING FACILITIES MAINTAINED AND OPERATED ON A CHARITABLE AND NON-PROFIT BASIS. SPECIFICALLY, THE ORGANIZATION HAS CONSTRUCTED A 9-UNIT GROUP HOME TO HOUSE HANDICAPPED INDIVIDUALS. THIS GROUP HOME IS LOCATED IN LOUISVILLE, KENTUCKY.</Description>
+      <TotalProgramServiceExpense>83731</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">1</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>4</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>0</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>1</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>KY</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>MADONNA SAPPENFIELD</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>8199452988</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>1427 BELLEMEADE DRIVE</AddressLine1>
+          <City>NEW ALBANY</City>
+          <State>IN</State>
+          <ZIPCode>47150</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <InfoInScheduleOPartVII>X</InfoInScheduleOPartVII>
+      <Form990PartVIISectionA>
+        <NamePerson>LEONARD P MULLINS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>40001</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>HELEN W MACKINNON</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>NANCY ANDERSON</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JERRY BODINE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>40001</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <GovernmentGrants>52470</GovernmentGrants>
+      <TotalContributions>52470</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>RENTAL INCOME</Description>
+        <BusinessCode>531110</BusinessCode>
+        <TotalRevenueColumn>23123</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>23123</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>23123</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>65</TotalRevenueColumn>
+        <ExclusionAmount>65</ExclusionAmount>
+      </InvestmentIncome>
+      <OtherRevenueMisc>
+        <Description>MISC REVENUE</Description>
+        <BusinessCode>531110</BusinessCode>
+        <TotalRevenueColumn>240</TotalRevenueColumn>
+        <ExclusionAmount>240</ExclusionAmount>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>240</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>75898</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>23123</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>305</ExclusionAmount>
+      </TotalRevenue>
+      <FeesForServicesManagement>
+        <Total>3289</Total>
+        <ManagementAndGeneral>3289</ManagementAndGeneral>
+      </FeesForServicesManagement>
+      <FeesForServicesAccounting>
+        <Total>3755</Total>
+        <ManagementAndGeneral>3755</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <OfficeExpenses>
+        <Total>4719</Total>
+        <ProgramServices>4719</ProgramServices>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>59599</Total>
+        <ProgramServices>59599</ProgramServices>
+      </Occupancy>
+      <ConferencesMeetings>
+        <Total>66</Total>
+        <ManagementAndGeneral>66</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>6303</Total>
+        <ProgramServices>6303</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>218</Total>
+        <ProgramServices>218</ProgramServices>
+      </Insurance>
+      <OtherExpenses>
+        <Description>MANAGEMENT COMPANY CHAR</Description>
+        <Total>12684</Total>
+        <ProgramServices>12684</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BAD DEBTS</Description>
+        <Total>208</Total>
+        <ProgramServices>208</ProgramServices>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>90841</Total>
+        <ProgramServices>83731</ProgramServices>
+        <ManagementAndGeneral>7110</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>9043</BOY>
+      </CashNonInterestBearing>
+      <AccountsReceivable>
+        <EOY>255</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>1451</BOY>
+        <EOY>1451</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>268041</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>145126</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>128670</BOY>
+        <EOY>122915</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsProgramRelated>
+        <BOY>23558</BOY>
+        <EOY>19325</EOY>
+      </InvestmentsProgramRelated>
+      <IntangibleAssets>
+        <BOY>9259</BOY>
+        <EOY>8711</EOY>
+      </IntangibleAssets>
+      <OtherAssetsTotal>
+        <BOY>4425</BOY>
+        <EOY>7062</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>176406</BOY>
+        <EOY>159719</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>7542</BOY>
+        <EOY>7656</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <EOY>55</EOY>
+      </DeferredRevenue>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>220920</BOY>
+        <EOY>215710</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>4377</BOY>
+        <EOY>7674</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>232839</BOY>
+        <EOY>231095</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>-56433</BOY>
+        <EOY>-71376</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>-56433</BOY>
+        <EOY>-71376</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>176406</BOY>
+        <EOY>159719</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>-14943</ReconcilationRevenueExpenses>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>1</FederalGrantAuditRequired>
+      <FederalGrantAuditPerformed>1</FederalGrantAuditPerformed>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus3Years>76335</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>62005</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>60482</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>52470</CurrentTaxYear>
+        <Total>251292</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>24216</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>15891</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>28339</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>24230</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>23123</CurrentTaxYear>
+        <Total>115799</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>24216</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>92226</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>90344</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>84712</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>75593</CurrentTaxYear>
+        <Total>367091</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <Total>0</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>367091</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>28</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>118</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>141</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>67</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>65</CurrentTaxYear>
+        <Total>419</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>28</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>118</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>141</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>67</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>65</CurrentTaxYear>
+        <Total>419</Total>
+      </InvestmentIncomeAndUBTI>
+      <OtherIncome509>
+        <CurrentTaxYearMinus3Years>344</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>133</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1002</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>240</CurrentTaxYear>
+        <Total>1719</Total>
+      </OtherIncome509>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>24244</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>92688</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>90618</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>85781</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>75898</CurrentTaxYear>
+        <Total>369229</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.99420</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.99490</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00110</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.00120</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+      <GeneralExplanation>SCHEDULE A, PART IV, SUPPLEMENTAL INFORMATION: SCHEDULE A, PART III, LINE 12: MISCELLANEOUS INCOME CONSISTS OF TENANT CHARGES, LAUNDRY AND VENDING CHARGES AND OTHER INCOME ITEMS FOR SERVICES PROVIDED FOR THE CONVENIENCE OF THE TENANTS.</GeneralExplanation>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>27500</OtherCostOrOtherBasis>
+        <BookValue>27500</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>230572</OtherCostOrOtherBasis>
+        <Depreciation>135157</Depreciation>
+        <BookValue>95415</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>9969</OtherCostOrOtherBasis>
+        <Depreciation>9969</Depreciation>
+        <BookValue>0</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>122915</TotalOfBookValueLandBuildings>
+      <InvestmentsProgramRelated>
+        <Description>RESIDUAL RECEIPTS RESERVE</Description>
+        <BookValue>9842</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <InvestmentsProgramRelated>
+        <Description>RESERVE FOR REPLACEMENTS</Description>
+        <BookValue>9483</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </InvestmentsProgramRelated>
+      <TotalOfBookValueProgramRelated>19325</TotalOfBookValueProgramRelated>
+      <OtherLiabilities>
+        <Description>TENANT SECURITY DEPOSITS</Description>
+        <Amount>1070</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>DUE TO CAIN CENTER</Description>
+        <Amount>6604</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>7674</TotalOfAmounts>
+      <TotalRevenue>75898</TotalRevenue>
+      <TotalExpenses>90841</TotalExpenses>
+      <ExcessOrDeficitForYear>-14943</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-14943</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>75898</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>75898</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>75898</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>90841</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>90841</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>90841</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF UNCERTAIN TAX POSITIONS UNDER FIN 48:</Identifier>
+        <ReturnReference>PART X:</ReturnReference>
+        <Explanation>THE ORGANIZATION ADOPTED THE INCOME TAXES TOPIC OF THE FASB ACCOUNTING STANDARDS CODIFICATION (ASC) 740, WHICH PROVIDES GUIDANCE FOR HOW UNCERTAIN INCOME TAX POSITIONS SHOULD BE RECOGNIZED, MEASURED, PRESENTED AND DISCLOSED IN THE FINANCIAL STATEMENTS. THE ORGANIZATION IS REQUIRED TO EVALUATE THE INCOME TAX POSITIONS TAKEN OR EXPECTED TO BE TAKEN TO DETERMINE WHETHER THE POSITIONS ARE "MORE-LIKELY-THAN-NOT" TO BE SUSTAINED UPON EXAMINATION BY THE APPLICABLE TAX AUTHORITY. THE ORGANIZATION HAS DETERMINED THAT THE APPLICATION OF THE INCOME TAXES STANDARD DOES NOT IMPACT THE OPERATIONS OF THE ORGANIZATION AND THAT NO PROVISION FOR INCOME TAX IS REQUIRED IN THE ORGANIZATION'S FINANCIAL STATEMENTS. THERE HAS BEEN NO INTEREST OR PENALTIES RECOGNIZED IN THE INCOME STATEMENT OR BALANCE SHEET FOR THE YEAR ENDED MARCH 31, 2011. AS OF MARCH 31, 2011, THE FOLLOWING FEDERAL AND COMMONWEALTH OF KENTUCKY TAX YEARS REMAIN OPEN: MARCH 31, 2008, 2009, 2010, AND 2011.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NameBusiness>
+            <BusinessNameLine1>CAIN CENTER FOR THE DISABLED INC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfInterestedPerson>
+        <Relationship>COMMON BOARD MEMBERSHIP GREATER THAN 35%</Relationship>
+        <AmountOfTransaction>3289</AmountOfTransaction>
+        <DescriptionOfTransaction>APPROVED MANAGEMENT FEE: CAIN CENTER FOR THE DISABLED, INC. IS A RELATED NON PROFIT PROFESSIONAL PROPERTY MANAGEMENT COMPANY SPECIALIZING IN HOUSING FOR HANDICAPPED INDIVIDUALS. CAIN CENTER FOR THE DISABLED, INC. HAS A PROJECT OWNER'S AND MANAGEMENT AGENT'S CERTIFICATION FOR MULTIFAMILY HOUSING PROJECTS WITH THE US DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT. COMMON BOARD MEMBERS BETWEEN THE MANAGEMENT COMPANY AND THE PROJECT WILL NOT BE INDEPENDENT. UNDER THIS CERTIFICATION, HUD HAS APPROVED CAIN CENTER FOR THE DISABLED, INC. TO MANAGE THE PROJECT AND HAS SPECIFIED THE MAXIMUM AMOUNT OF MANAGEMENT FEE THAT THE PROJECT MAY SUBMIT TO CAIN CENTER FOR THE DISABLED, INC.</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 3</Identifier>
+        <Explanation>JIM CAIN HOME IS MANAGED BY CAIN CENTER FOR THE DISABLED, INC., A PROFESSIONAL PROPERTY MANAGEMENT COMPANY. CAIN CENTER FOR THE DISABLED HAS A PROJECT OWNER'S AND MANAGEMENT AGENT'S CERTIFICATION FOR MULTIFAMILY HOUSING PROJECTS WITH THE U.S. DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT. UNDER THIS CERTIFICATION, HUD HAS APPROVED CAIN CENTER FOR THE DISABLED TO MANAGE THE JIM CAIN HOME.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>THE AUDITING FIRM SENDS A DRAFT OF THE RETURN TO THE MANAGEMENT COMPANY. A BOARD OF DIRECTORS MEETING IS SCHEDULED TO REVIEW THE 990.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>REVIEW THE POLICY ON AN ANNUAL BASIS WITH THE BOARD OF DIRECTORS TO MAKE SURE THAT EVERYONE IS IN COMPLIANCE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>APPROVED AND VOTED ON AT BOARD OF DIRECTORS MEETING</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE FORM 990 AND ALL RELATED FINANCIAL AND POLICY INFORMATION ARE MADE AVAILABLE TO THE PUBLIC UPON REQUEST (WRITTEN OR IN PERSON).</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>AVERAGE HOURS PER WEEK FOR BOARD OF DIRECTORS</Identifier>
+        <ReturnReference>PART VII, SECTION A, LINE 1A, COLUMN B</ReturnReference>
+        <Explanation>ALL OF THE OFFICERS AND DIRECTORS LISTED IN PART VII, SECTION A PERFORM SIMILAR DUTIES AND HAVE SIMILAR RESPONSIBILITIES FOR RELATED ORGANIZATIONS AS THEY DO FOR THIS ORGANIZATION. THEIR TOTAL HOURS WORKED PER WEEK FOR THIS ORGANIZATION ARE SIMILAR TO THEIR HOURS WORKED FOR RELATED ORGANIZATIONS BOTH IN TERMS OF NUMBER OF HOURS AND TYPE OF WORK PERFORMED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>OVERSIGHT OF AUDITING FUNCTION</Identifier>
+        <ReturnReference>FORM 990, PART XI LINE 2C</ReturnReference>
+        <Explanation>THE MANAGEMENT COMPANY RECEIVES A COPY OF THE AUDIT. PRIOR TO THE FINALIZATION OF THE AUDIT, A COPY OF THE AUDIT IS GIVEN TO ALL OF THE BOARD MEMBERS FOR THEIR COMMENTS. WHEN THE AUDIT IS UP FOR BID, THE BOARD DISCUSSES THE RELATIONSHIP WITH THE CURRENT AUDITORS AND MAKES A DETERMINATION AS TO WHETHER TO MAINTAIN THIS RELATIONSHIP OR CHANGE TO A NEW AUDITING FIRM.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>SHARING OF PAID EMPLOYEES</Identifier>
+        <ReturnReference>SCHEDULE R, PART V, LINE 1N:</ReturnReference>
+        <Explanation>CAIN CENTER FOR THE DISABLED, INC. IS THE MANAGEMENT COMPANY AND EMPLOYS THE INDIVIDUALS WHO WORK AT THE PROJECT. THE PROJECT REIMBURSES THE MANAGEMENT COMPANY FOR THE EMPLOYEE'S SALARIES AND OTHER COSTS ASSOCIATED WITH THEIR EMPLOYMENT.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>CAIN CENTER FOR THE DISABLED</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>924 E LIBERTY ST</AddressLine1>
+          <City>LOUISVILLE</City>
+          <State>KY</State>
+          <ZIPCode>40204</ZIPCode>
+        </AddressUS>
+        <EIN>610960460</EIN>
+        <PrimaryActivities>HOUSING FOR HANDICAPPED</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>CAIN CENTER APARTMENTS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>924 E LIBERTY ST</AddressLine1>
+          <City>LOUISVILLE</City>
+          <State>KY</State>
+          <ZIPCode>40204</ZIPCode>
+        </AddressUS>
+        <EIN>611248979</EIN>
+        <PrimaryActivities>LOW INCOME HOUSING</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>MULLINS-ROBERTS APARTMENTS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>924 E LIBERTY ST</AddressLine1>
+          <City>LOUISVILLE</City>
+          <State>KY</State>
+          <ZIPCode>40204</ZIPCode>
+        </AddressUS>
+        <EIN>611292205</EIN>
+        <PrimaryActivities>LOW INCOME HOUSING</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>HAGAN-TRABUE APARTMENTS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>924 E LIBERTY ST</AddressLine1>
+          <City>LOUISVILLE</City>
+          <State>KY</State>
+          <ZIPCode>40204</ZIPCode>
+        </AddressUS>
+        <EIN>611292200</EIN>
+        <PrimaryActivities>LOW INCOME HOUSING</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>ANDERSON PLACE APARTMENTS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>924 E LIBERTY ST</AddressLine1>
+          <City>LOUISVILLE</City>
+          <State>KY</State>
+          <ZIPCode>40204</ZIPCode>
+        </AddressUS>
+        <EIN>611337421</EIN>
+        <PrimaryActivities>LOW INCOME HOUSING</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>THOMPSON WOODLIEF INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>924 E LIBERTY ST</AddressLine1>
+          <City>LOUISVILLE</City>
+          <State>KY</State>
+          <ZIPCode>40204</ZIPCode>
+        </AddressUS>
+        <EIN>611399894</EIN>
+        <PrimaryActivities>HOUSING FOR HANDICAPPED</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>JUDE'S PLACE APARTMENTS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>924 E LIBERTY ST</AddressLine1>
+          <City>LOUISVILLE</City>
+          <State>KY</State>
+          <ZIPCode>40204</ZIPCode>
+        </AddressUS>
+        <EIN>820570001</EIN>
+        <PrimaryActivities>HOUSING FOR HANDICAPPED</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>ADAMS BODINE APARTMENTS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>924 E LIBERTY ST</AddressLine1>
+          <City>LOUISVILLE</City>
+          <State>KY</State>
+          <ZIPCode>40204</ZIPCode>
+        </AddressUS>
+        <EIN>820570003</EIN>
+        <PrimaryActivities>HOUSING FOR HANDICAPPED</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>EDSILS PLACE APARTMENTS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>924 E LIBERTY ST</AddressLine1>
+          <City>LOUISVILLE</City>
+          <State>KY</State>
+          <ZIPCode>40204</ZIPCode>
+        </AddressUS>
+        <EIN>753172063</EIN>
+        <PrimaryActivities>HOUSING FOR HANDICAPPED</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 9</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>1</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>0</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>1</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>1</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>1</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>0</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>0</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

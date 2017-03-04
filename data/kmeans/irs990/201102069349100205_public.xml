@@ -1,0 +1,649 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T14:49:53-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CRAINE THOMPSON &amp; JONES PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>225 W FIRST NORTH ST</AddressLine1>
+        <City>MORRISTOWN</City>
+        <State>TN</State>
+        <ZIPCode>37814</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>626048465</EIN>
+      <Name>
+        <BusinessNameLine1>WALLACE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>WALL</NameControl>
+      <Phone>4235865650</Phone>
+      <USAddress>
+        <AddressLine1>P O BOX 6004</AddressLine1>
+        <City>MORRISTOWN</City>
+        <State>TN</State>
+        <ZIPCode>378156004</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DOYLE M WALLACE</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>4235865650</Phone>
+      <DateSigned>2011-07-12</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>GLENN B THOMPSON</Name>
+      <Phone>4235867650</Phone>
+      <DatePrepared>2011-07-13</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="12">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>364381</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>51850</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>9</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>9</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>9</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>6443</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>6443</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>6443</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc4">8288</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>12762</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc10">-11650</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>-11650</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>54940</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>6452</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>-5198</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc6">60</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>60</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>60</LegalFeesAdjNetIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1200</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1200</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>1200</AccountingFeesAdjNetIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc12">66</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>66</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>66</TaxesAdjNetIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc8">1099</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>1099</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>1099</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>2425</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2425</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>2425</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>44264</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>44264</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>46689</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2425</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>2425</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>44264</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>8251</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>4027</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>6937</CashBOY>
+        <CashEOY>25395</CashEOY>
+        <CashEOYFMV>25395</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>562</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>1078</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>1078</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>306037</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">337908</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>337908</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>313536</TotalAssetsBOY>
+        <TotalAssetsEOY>364381</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>364381</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc11">20134</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc11">31851</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>20134</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>31851</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>293402</RetainedEarningsBOY>
+        <RetainedEarningsEOY>332530</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>293402</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>332530</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>313536</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>364381</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>293402</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>8251</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc9">30991</OtherIncreases>
+        <Subtotal>332644</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc7">114</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>332530</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>179209</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>334523</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.535715</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>56629</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>421281</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.134421</DistributionRatioYear2>
+        <TotalDistributionRatio>0.670136</TotalDistributionRatio>
+        <AverageDistributionRatio>0.335068</AverageDistributionRatio>
+        <NetNoncharitableAssets>345694</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>115831</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>40</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>115871</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>44264</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>81</InvestmentIncomeExciseTax>
+        <Subtotal>81</Subtotal>
+        <TaxBasedOnInvestmentIncome>81</TaxBasedOnInvestmentIncome>
+        <TaxDue>81</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TN</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>DAVID HEWITT</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4235865650</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5050 SOUTH DAVY CROCKETT PARKWAY</AddressLine1>
+          <City>MORRISTOWN</City>
+          <State>TN</State>
+          <ZIPCode>378156004</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">DOYLE M WALLACE</PersonName>
+          <USAddress>
+            <AddressLine1>P O BOX 6004</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>TN</State>
+            <ZIPCode>378156004</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">ROBIN W DAWSON</PersonName>
+          <USAddress>
+            <AddressLine1>P O BOX 6004</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>TN</State>
+            <ZIPCode>378156004</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">LISA W TRUSLER</PersonName>
+          <USAddress>
+            <AddressLine1>P O BOX 6004</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>TN</State>
+            <ZIPCode>378156004</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>336780</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>14178</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>350958</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>350958</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>5264</CashDeemedCharitable>
+        <NetNoncharitableAssets>345694</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>17285</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>17285</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>81</TaxBasedOnInvestmentIncome>
+        <TotalTax>81</TotalTax>
+        <DistributableAmountBeforeAdj>17204</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>17204</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>17204</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>44264</ExpensesAndContributions>
+        <QualifyingDistributions>44264</QualifyingDistributions>
+        <AdjQualifyingDistributions>44264</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>17204</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>13673</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>40054</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>15691</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>36579</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>162597</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>268594</TotalExcessDistriCarryover>
+        <QualifyingDistributions>44264</QualifyingDistributions>
+        <AppliedToCurrentYear>17204</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>27060</RemainingDistriFromCorpus>
+        <TotalCorpus>295654</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>13673</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>281981</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>40054</ExcessFromYear4>
+        <ExcessFromYear3>15691</ExcessFromYear3>
+        <ExcessFromYear2>36579</ExcessFromYear2>
+        <ExcessFromYear1>162597</ExcessFromYear1>
+        <ExcessFromCurrentYear>27060</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>DOYLE M WALLACE</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 6004</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>TN</State>
+            <ZIPCode>378156004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4235865650</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NO SPECIFIC FORM AUTHORIZED OR REQUIRED</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>SUBJECT TO FINAL APPROVAL BY OFFICERS</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CORNERSTONE ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>260 JACOBS ROAD</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>TN</State>
+            <ZIPCode>37814</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>2250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PRAYER BREAKFAST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5050 S DAVY CROCKETT PKWY</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>TN</State>
+            <ZIPCode>37813</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1989</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARSON NEWMAN COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1646 RUSSELL AVENUE</AddressLine1>
+            <City>JEFFERSON CITY</City>
+            <State>TN</State>
+            <ZIPCode>37760</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MERCY HEALTH FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>137 E BLOUNT AVENUE</AddressLine1>
+            <City>KNOXVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37920</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED WAY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3780 W ANDREW JOHNSON HWY</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>TN</State>
+            <ZIPCode>37814</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>13000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TUSCULUM COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>60 SHILOH ROAD</AddressLine1>
+            <City>GREENEVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37743</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 3383</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>TN</State>
+            <ZIPCode>37815</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>9600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEW ORLEANS BAPTIST</BusinessNameLine1>
+            <BusinessNameLine2>THEOLOGICAL SEMINARY</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3939 GENTILLY BOULEVARD</AddressLine1>
+            <City>NEW ORLEANS</City>
+            <State>LA</State>
+            <ZIPCode>70126</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HELEN MCNABB FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>201 W SPRINGDALE AVENUE</AddressLine1>
+            <City>KNOXVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37917</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SECOND HARVEST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>922 DELAWARE AVENUE NW</AddressLine1>
+            <City>KNOXVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37921</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MORRISTOWN CHAMBER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>825 W FIRST NORTH STREET</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>TN</State>
+            <ZIPCode>37814</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALL OTHERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5050 S DAVY CROCKETT PKWY</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>TN</State>
+            <ZIPCode>37814</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>4225</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>44264</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>9</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>6443</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>8288</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>LOSS / WALL-RAM PARTNERSHIP</Description>
+          <RelatedOrExemptFunctionIncome>-11726</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>MISCELLANEOUS INCOME</Description>
+          <RelatedOrExemptFunctionIncome>76</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>3090</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>3090</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>1200</Amount>
+        <NetInvestmentIncome>1200</NetInvestmentIncome>
+        <AdjustedNetIncome>1200</AdjustedNetIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>DOYLE M WALLACE</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>ROBIN W DAWSON</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>LISA W TRUSLER</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAsset>
+        <Name>265 SHS MARATHON OIL</Name>
+        <DateAcquired>1995-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>12762</GrossSalesPrice>
+        <Basis>4474</Basis>
+        <TotalNet>8288</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>EDWARD JONES BROKERAGE ACCOUNT</NameOfStock>
+        <EOYBookValue>276047</EOYBookValue>
+        <EOYFMV>276047</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CITIGROUP</NameOfStock>
+        <EOYBookValue>20487</EOYBookValue>
+        <EOYFMV>20487</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ST. PAUL TRAVELERS</NameOfStock>
+        <EOYBookValue>16288</EOYBookValue>
+        <EOYFMV>16288</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>REGIONS FINANCIAL</NameOfStock>
+        <EOYBookValue>24186</EOYBookValue>
+        <EOYFMV>24186</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>LAKEWAY PUBLISHERS, INC.</NameOfStock>
+        <EOYBookValue>900</EOYBookValue>
+        <EOYFMV>900</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc6">
+      <LegalFees>
+        <Category>INDIRECT LEGAL FEES</Category>
+        <Amount>60</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc7">
+      <OtherDecreases>
+        <Description>PRIOR YEAR'S FEDERAL INCOME TAX</Description>
+        <Amount>114</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>100</NetInvestmentIncome>
+        <AdjustedNetIncome>100</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>233</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>233</NetInvestmentIncome>
+        <AdjustedNetIncome>233</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OTHER EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>766</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>766</NetInvestmentIncome>
+        <AdjustedNetIncome>766</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc10">
+      <OtherIncome>
+        <Description>LOSS / WALL-RAM PARTNERSHIP</Description>
+        <RevenueAndExpensesPerBooks>-11726</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>-11726</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>MISCELLANEOUS INCOME</Description>
+        <RevenueAndExpensesPerBooks>76</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>76</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc9">
+      <OtherIncreases>
+        <Description>UNREALIZED GAINS IN CORPORATE STOCKS</Description>
+        <Amount>30991</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc11">
+      <OtherLiabilities>
+        <Description>WAL-RAM PARTNERSHIP</Description>
+        <BOYBookValue>20134</BOYBookValue>
+        <EOYBookValue>31851</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc12">
+      <Taxes>
+        <Category>INDIRECT TAXES/LICENSES</Category>
+        <Amount>66</Amount>
+        <NetInvestmentIncome>66</NetInvestmentIncome>
+        <AdjustedNetIncome>66</AdjustedNetIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

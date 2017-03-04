@@ -1,0 +1,981 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T15:59:06-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>THOMAS J RENNIE CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>132 WEST MAIN STREET</AddressLine1>
+        <City>LIGONIER</City>
+        <State>PA</State>
+        <ZIPCode>15658</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>232938607</EIN>
+      <Name>
+        <BusinessNameLine1>ROBERTA SCHWARZ CHARITABLE</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>ROBE</NameControl>
+      <Phone>7248367670</Phone>
+      <USAddress>
+        <AddressLine1>19 NORTH MAIN ST</AddressLine1>
+        <City>GREENSBURG</City>
+        <State>PA</State>
+        <ZIPCode>15601</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>COMMERCIAL BANK TRUST OF PA</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7248367670</Phone>
+      <DateSigned>2011-05-13</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>THOMAS J RENNIE CPA</Name>
+      <Phone>7242384598</Phone>
+      <DatePrepared>2011-07-25</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="11">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1525538</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>5484</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>5484</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>5484</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>13756</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>13756</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>13756</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc6">-5400</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>57014</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc10">7200</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>7200</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>21040</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>19240</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>26440</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>16883</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>15352</CompOfcrDirTrstNetInvstIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">886</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>886</AccountingFeesNetInvstIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc12">1650</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesAdjNetIncm>1650</OtherProfFeesAdjNetIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc5">5628</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionAdjNetIncm>5628</DeprecAndDepletionAdjNetIncm>
+        <OccupancyRevAndExpnss>5616</OccupancyRevAndExpnss>
+        <OccupancyAdjNetIncm>5616</OccupancyAdjNetIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc9">614</OtherExpensesRevAndExpnss>
+        <OtherExpensesAdjNetIncm>614</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>31277</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>16238</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>13508</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>44000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>44000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>75277</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>16238</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>13508</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>44000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-54237</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>3002</NetInvestmentIncome>
+        <AdjustedNetIncome>12932</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>10600</CashBOY>
+        <CashEOY>6868</CashEOY>
+        <CashEOYFMV>6868</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>250000</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>253000</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>253000</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>481947</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc7">429533</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>507370</InvestmentsCorpStockEOYFMV>
+        <LandBuildingAndEquipmentBasis>846473</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>43198</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>804403</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc8">803275</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>758300</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>1546950</TotalAssetsBOY>
+        <TotalAssetsEOY>1492676</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1525538</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc11">967</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc11">930</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>967</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>930</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>1545983</UnrestrictedBOY>
+        <UnrestrictedEOY>1491746</UnrestrictedEOY>
+        <TotalNetAssetsBOY>1545983</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1491746</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1546950</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1492676</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1545983</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-54237</ExcessOfRevenueOverExpenses>
+        <Subtotal>1491746</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1491746</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>45124</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>44773</QualifyingDistributionsYear2>
+        <QualifyingDistributionsYear3>44944</QualifyingDistributionsYear3>
+        <QualifyingDistributionsYear4>40000</QualifyingDistributionsYear4>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>30</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>30</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>44000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>30</InvestmentIncomeExciseTax>
+        <Subtotal>30</Subtotal>
+        <TaxBasedOnInvestmentIncome>30</TaxBasedOnInvestmentIncome>
+        <TaxDue>30</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>true</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>true</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>COMMERCIAL BANK TRUST OF PA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7248367670</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>19 NORTH MAIN ST</AddressLine1>
+          <City>GREENSBURG</City>
+          <State>PA</State>
+          <ZIPCode>15601</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">GEORGE A CONTI JR</PersonName>
+          <USAddress>
+            <AddressLine1>101 N MAIN ST</AddressLine1>
+            <City>GREENSBURG</City>
+            <State>PA</State>
+            <ZIPCode>15601</ZIPCode>
+          </USAddress>
+          <Title>CO-TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1531</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <BusinessName referenceDocumentId="RetDoc4">
+            <BusinessNameLine1>COMMERCIAL BANK OF PA</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>19 N MAIN ST</AddressLine1>
+            <City>GREENSBURG</City>
+            <State>PA</State>
+            <ZIPCode>15601</ZIPCode>
+          </USAddress>
+          <Title>CO-TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>15352</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <TaxBasedOnInvestmentIncome>30</TaxBasedOnInvestmentIncome>
+        <TotalTax>30</TotalTax>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>44000</ExpensesAndContributions>
+        <QualifyingDistributions>44000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>30</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>43970</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>47</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>40295</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>45246</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>45037</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>45258</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>175883</TotalExcessDistriCarryover>
+        <QualifyingDistributions>44000</QualifyingDistributions>
+        <RemainingDistriFromCorpus>44000</RemainingDistriFromCorpus>
+        <TotalCorpus>219883</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>47</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>219836</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>40295</ExcessFromYear4>
+        <ExcessFromYear3>45246</ExcessFromYear3>
+        <ExcessFromYear2>45037</ExcessFromYear2>
+        <ExcessFromYear1>45258</ExcessFromYear1>
+        <ExcessFromCurrentYear>44000</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GREENSBURGHEMPFIELD AREA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>237 S PENNSYLVANIA AVE</AddressLine1>
+            <City>GREENSBURG</City>
+            <State>PA</State>
+            <ZIPCode>15601</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PUBLIC LIBRARY</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PENN AREA LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>TWP MUNICIPAL BUILDING</AddressLine1>
+            <City>HARRISON CITY</City>
+            <State>PA</State>
+            <ZIPCode>15636</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PUBLIC LIBRARY</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LAUGHLINTOWN CHRISTIAN CH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ROUTE 30</AddressLine1>
+            <City>LAUGHLINTOWN</City>
+            <State>PA</State>
+            <ZIPCode>15655</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SENIOR PROGRAMS</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MANOR PUBLIC LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>47 RACE ST</AddressLine1>
+            <City>MANOR</City>
+            <State>PA</State>
+            <ZIPCode>15665</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PUBLIC LIBRARY</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHRISTIAN CHURCH OF WATER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>367 WATERFORD LAUGHLINTOW</AddressLine1>
+            <City>LIGONIER</City>
+            <State>PA</State>
+            <ZIPCode>15658</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SENIOR PROGRAMS</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WATERFORD VOLUNTEER FIRE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ROUTE 271</AddressLine1>
+            <City>LIGONIER</City>
+            <State>PA</State>
+            <ZIPCode>15658</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>VOLUNTEER FIRE DEPT</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JEANNETTE PUBLIC LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6TH MAGEE AVE</AddressLine1>
+            <City>JEANNETTE</City>
+            <State>PA</State>
+            <ZIPCode>15644</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PUBLIC LIBRARY</PurposeOfGrantOrContribution>
+          <Amount>8500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MURRYSVILLE COMMUNITY LIB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4130 SARIS RD</AddressLine1>
+            <City>MURRYSVILLE</City>
+            <State>PA</State>
+            <ZIPCode>15668</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PUBLIC LIBRARY</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ADAMS MEMORIAL LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1112 LIGONIER STREET</AddressLine1>
+            <City>LATROBE</City>
+            <State>PA</State>
+            <ZIPCode>15650</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PUBLIC LIBRARY</PurposeOfGrantOrContribution>
+          <Amount>12000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUNGWOOD AREA PUBLIC LIB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>17 SOUTH 7TH ST</AddressLine1>
+            <City>YOUNGWOOD</City>
+            <State>PA</State>
+            <ZIPCode>15697</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PUBLIC LIBRARY</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>44000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>FARM RENTAL PROPERTY</Description>
+          <BusinessCode>531110</BusinessCode>
+          <UnrelatedBusinessIncomeAmount>7200</UnrelatedBusinessIncomeAmount>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>5484</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>13756</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-5400</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>7200</UnrelatedBusinessIncomeAmount>
+          <RelatedOrExemptFunctionIncome>13840</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>21040</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>886</Amount>
+        <NetInvestmentIncome>886</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc4">
+      <Compensation>
+        <PersonName>GEORGE A CONTI JR</PersonName>
+      </Compensation>
+      <Compensation>
+        <BusinessName>
+          <BusinessNameLine1>COMMERCIAL BANK OF PA</BusinessNameLine1>
+        </BusinessName>
+      </Compensation>
+    </CompensationExplanation>
+    <DepreciationSchedule documentId="RetDoc5">
+      <Depreciation>
+        <DescriptionOfProperty>GARDEN TRACTOR PLOW</DescriptionOfProperty>
+        <DateAcquired>2003-08-04</DateAcquired>
+        <CostOrOtherBasis>1605</CostOrOtherBasis>
+        <PriorYearsDepreciation>1146</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>7.0000</Life>
+        <CurrentYearExpense>230</CurrentYearExpense>
+        <AdjustedNetIncome>230</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>HOT WATER TANK</DescriptionOfProperty>
+        <DateAcquired>2002-06-18</DateAcquired>
+        <CostOrOtherBasis>345</CostOrOtherBasis>
+        <PriorYearsDepreciation>63</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>12</CurrentYearExpense>
+        <AdjustedNetIncome>12</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>NEW LOCKS</DescriptionOfProperty>
+        <DateAcquired>2002-10-22</DateAcquired>
+        <CostOrOtherBasis>470</CostOrOtherBasis>
+        <PriorYearsDepreciation>85</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>17</CurrentYearExpense>
+        <AdjustedNetIncome>17</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>REMODELING</DescriptionOfProperty>
+        <DateAcquired>2002-11-04</DateAcquired>
+        <CostOrOtherBasis>4000</CostOrOtherBasis>
+        <PriorYearsDepreciation>727</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>146</CurrentYearExpense>
+        <AdjustedNetIncome>146</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BRICK CLEANING REPAIR</DescriptionOfProperty>
+        <DateAcquired>2002-11-18</DateAcquired>
+        <CostOrOtherBasis>8900</CostOrOtherBasis>
+        <PriorYearsDepreciation>1618</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>324</CurrentYearExpense>
+        <AdjustedNetIncome>324</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SHUTTERS</DescriptionOfProperty>
+        <DateAcquired>2002-11-18</DateAcquired>
+        <CostOrOtherBasis>1326</CostOrOtherBasis>
+        <PriorYearsDepreciation>241</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>48</CurrentYearExpense>
+        <AdjustedNetIncome>48</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>REMODELING</DescriptionOfProperty>
+        <DateAcquired>2002-12-09</DateAcquired>
+        <CostOrOtherBasis>14000</CostOrOtherBasis>
+        <PriorYearsDepreciation>2545</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>510</CurrentYearExpense>
+        <AdjustedNetIncome>510</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WIRING UPDATE</DescriptionOfProperty>
+        <DateAcquired>2002-12-24</DateAcquired>
+        <CostOrOtherBasis>3762</CostOrOtherBasis>
+        <PriorYearsDepreciation>684</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>137</CurrentYearExpense>
+        <AdjustedNetIncome>137</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BATHROOM</DescriptionOfProperty>
+        <DateAcquired>2003-01-22</DateAcquired>
+        <CostOrOtherBasis>3495</CostOrOtherBasis>
+        <PriorYearsDepreciation>635</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>128</CurrentYearExpense>
+        <AdjustedNetIncome>128</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WINDOWS</DescriptionOfProperty>
+        <DateAcquired>2003-01-22</DateAcquired>
+        <CostOrOtherBasis>3383</CostOrOtherBasis>
+        <PriorYearsDepreciation>615</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>123</CurrentYearExpense>
+        <AdjustedNetIncome>123</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>PLUMBING</DescriptionOfProperty>
+        <DateAcquired>2003-01-22</DateAcquired>
+        <CostOrOtherBasis>1309</CostOrOtherBasis>
+        <PriorYearsDepreciation>238</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>48</CurrentYearExpense>
+        <AdjustedNetIncome>48</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>GARAGE</DescriptionOfProperty>
+        <DateAcquired>2003-01-22</DateAcquired>
+        <CostOrOtherBasis>1004</CostOrOtherBasis>
+        <PriorYearsDepreciation>183</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>36</CurrentYearExpense>
+        <AdjustedNetIncome>36</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>TOILET</DescriptionOfProperty>
+        <DateAcquired>2003-01-22</DateAcquired>
+        <CostOrOtherBasis>284</CostOrOtherBasis>
+        <PriorYearsDepreciation>52</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>10</CurrentYearExpense>
+        <AdjustedNetIncome>10</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>INSULATION</DescriptionOfProperty>
+        <DateAcquired>2003-01-22</DateAcquired>
+        <CostOrOtherBasis>1120</CostOrOtherBasis>
+        <PriorYearsDepreciation>204</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>40</CurrentYearExpense>
+        <AdjustedNetIncome>40</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BASEMENT WINDOWS</DescriptionOfProperty>
+        <DateAcquired>2003-01-22</DateAcquired>
+        <CostOrOtherBasis>1256</CostOrOtherBasis>
+        <PriorYearsDepreciation>228</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>46</CurrentYearExpense>
+        <AdjustedNetIncome>46</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BATHROOM CABINETS</DescriptionOfProperty>
+        <DateAcquired>2003-01-22</DateAcquired>
+        <CostOrOtherBasis>254</CostOrOtherBasis>
+        <PriorYearsDepreciation>46</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>9</CurrentYearExpense>
+        <AdjustedNetIncome>9</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LIGHT FIXTURES</DescriptionOfProperty>
+        <DateAcquired>2003-02-13</DateAcquired>
+        <CostOrOtherBasis>210</CostOrOtherBasis>
+        <PriorYearsDepreciation>38</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>8</CurrentYearExpense>
+        <AdjustedNetIncome>8</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>REMODELING</DescriptionOfProperty>
+        <DateAcquired>2003-03-17</DateAcquired>
+        <CostOrOtherBasis>10647</CostOrOtherBasis>
+        <PriorYearsDepreciation>1936</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>387</CurrentYearExpense>
+        <AdjustedNetIncome>387</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DOORS</DescriptionOfProperty>
+        <DateAcquired>2003-03-28</DateAcquired>
+        <CostOrOtherBasis>3075</CostOrOtherBasis>
+        <PriorYearsDepreciation>559</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>112</CurrentYearExpense>
+        <AdjustedNetIncome>112</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>UPHOLSTER BREAKFAST NOOK</DescriptionOfProperty>
+        <DateAcquired>2003-04-04</DateAcquired>
+        <CostOrOtherBasis>2994</CostOrOtherBasis>
+        <PriorYearsDepreciation>544</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>109</CurrentYearExpense>
+        <AdjustedNetIncome>109</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>REMOVE ASBESTOS</DescriptionOfProperty>
+        <DateAcquired>2003-04-08</DateAcquired>
+        <CostOrOtherBasis>3475</CostOrOtherBasis>
+        <PriorYearsDepreciation>632</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>126</CurrentYearExpense>
+        <AdjustedNetIncome>126</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>REMODELING</DescriptionOfProperty>
+        <DateAcquired>2003-04-16</DateAcquired>
+        <CostOrOtherBasis>17109</CostOrOtherBasis>
+        <PriorYearsDepreciation>3111</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>622</CurrentYearExpense>
+        <AdjustedNetIncome>622</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>REMODELING</DescriptionOfProperty>
+        <DateAcquired>2003-05-30</DateAcquired>
+        <CostOrOtherBasis>1925</CostOrOtherBasis>
+        <PriorYearsDepreciation>350</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>70</CurrentYearExpense>
+        <AdjustedNetIncome>70</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>KITCHEN ISLAND</DescriptionOfProperty>
+        <DateAcquired>2003-09-11</DateAcquired>
+        <CostOrOtherBasis>2805</CostOrOtherBasis>
+        <PriorYearsDepreciation>510</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>102</CurrentYearExpense>
+        <AdjustedNetIncome>102</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SEPTIC</DescriptionOfProperty>
+        <DateAcquired>2003-10-09</DateAcquired>
+        <CostOrOtherBasis>2790</CostOrOtherBasis>
+        <PriorYearsDepreciation>507</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>102</CurrentYearExpense>
+        <AdjustedNetIncome>102</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SEPTIC</DescriptionOfProperty>
+        <DateAcquired>2003-11-03</DateAcquired>
+        <CostOrOtherBasis>8349</CostOrOtherBasis>
+        <PriorYearsDepreciation>1518</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>304</CurrentYearExpense>
+        <AdjustedNetIncome>304</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>PAVE DRIVEWAY</DescriptionOfProperty>
+        <DateAcquired>2003-08-04</DateAcquired>
+        <CostOrOtherBasis>1495</CostOrOtherBasis>
+        <PriorYearsDepreciation>272</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>54</CurrentYearExpense>
+        <AdjustedNetIncome>54</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>STORM DRAIN SYSTEM</DescriptionOfProperty>
+        <DateAcquired>2003-08-15</DateAcquired>
+        <CostOrOtherBasis>8913</CostOrOtherBasis>
+        <PriorYearsDepreciation>1621</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>324</CurrentYearExpense>
+        <AdjustedNetIncome>324</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CARPETING</DescriptionOfProperty>
+        <DateAcquired>2003-04-16</DateAcquired>
+        <CostOrOtherBasis>12402</CostOrOtherBasis>
+        <PriorYearsDepreciation>12402</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>REMODELING</DescriptionOfProperty>
+        <DateAcquired>2003-05-09</DateAcquired>
+        <CostOrOtherBasis>6533</CostOrOtherBasis>
+        <PriorYearsDepreciation>1188</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>237</CurrentYearExpense>
+        <AdjustedNetIncome>237</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LAND</DescriptionOfProperty>
+        <DateAcquired>2002-01-01</DateAcquired>
+        <CostOrOtherBasis>677378</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BARN ELECTRIC</DescriptionOfProperty>
+        <DateAcquired>2002-12-09</DateAcquired>
+        <CostOrOtherBasis>3672</CostOrOtherBasis>
+        <PriorYearsDepreciation>471</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>39.0000</Life>
+        <CurrentYearExpense>94</CurrentYearExpense>
+        <AdjustedNetIncome>94</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FENCING</DescriptionOfProperty>
+        <DateAcquired>2003-01-22</DateAcquired>
+        <CostOrOtherBasis>10200</CostOrOtherBasis>
+        <PriorYearsDepreciation>1308</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>39.0000</Life>
+        <CurrentYearExpense>261</CurrentYearExpense>
+        <AdjustedNetIncome>261</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BARN STEPS</DescriptionOfProperty>
+        <DateAcquired>2003-03-28</DateAcquired>
+        <CostOrOtherBasis>929</CostOrOtherBasis>
+        <PriorYearsDepreciation>119</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>39.0000</Life>
+        <CurrentYearExpense>24</CurrentYearExpense>
+        <AdjustedNetIncome>24</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BOILER</DescriptionOfProperty>
+        <DateAcquired>2008-02-14</DateAcquired>
+        <CostOrOtherBasis>1130</CostOrOtherBasis>
+        <PriorYearsDepreciation>79</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>41</CurrentYearExpense>
+        <AdjustedNetIncome>41</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>ELECTRICAL BOX</DescriptionOfProperty>
+        <DateAcquired>2008-11-05</DateAcquired>
+        <CostOrOtherBasis>2285</CostOrOtherBasis>
+        <PriorYearsDepreciation>97</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>83</CurrentYearExpense>
+        <AdjustedNetIncome>83</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FENCING</DescriptionOfProperty>
+        <DateAcquired>2008-02-14</DateAcquired>
+        <CostOrOtherBasis>1150</CostOrOtherBasis>
+        <PriorYearsDepreciation>80</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>42</CurrentYearExpense>
+        <AdjustedNetIncome>42</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>PLUMBING</DescriptionOfProperty>
+        <DateAcquired>2008-01-15</DateAcquired>
+        <CostOrOtherBasis>3438</CostOrOtherBasis>
+        <PriorYearsDepreciation>250</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>125</CurrentYearExpense>
+        <AdjustedNetIncome>125</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>RENTAL PROPERTY</DescriptionOfProperty>
+        <DateAcquired>2003-01-01</DateAcquired>
+        <CostOrOtherBasis>8486</CostOrOtherBasis>
+        <PriorYearsDepreciation>617</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>309</CurrentYearExpense>
+        <AdjustedNetIncome>309</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>NEW BOILER</DescriptionOfProperty>
+        <DateAcquired>2009-10-15</DateAcquired>
+        <CostOrOtherBasis>4070</CostOrOtherBasis>
+        <PriorYearsDepreciation>51</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>20.0000</Life>
+        <CurrentYearExpense>203</CurrentYearExpense>
+        <AdjustedNetIncome>203</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SANITATION LINES</DescriptionOfProperty>
+        <DateAcquired>2010-11-24</DateAcquired>
+        <CostOrOtherBasis>4500</CostOrOtherBasis>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>15.0000</Life>
+        <CurrentYearExpense>25</CurrentYearExpense>
+        <AdjustedNetIncome>25</AdjustedNetIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc6">
+      <GainLossSaleOtherAsset>
+        <Name>4338 SHS FEDERATED BOND FUND</Name>
+        <DateAcquired>2010-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>39870</GrossSalesPrice>
+        <Basis>40000</Basis>
+        <TotalNet>-130</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>200 SHS ANADARKO PETR</Name>
+        <DateAcquired>2006-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2014-06</DateSold>
+        <GrossSalesPrice>8430</GrossSalesPrice>
+        <Basis>9977</Basis>
+        <TotalNet>-1547</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>100 SHS BP PLC</Name>
+        <DateAcquired>2006-05</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>5005</GrossSalesPrice>
+        <Basis>7048</Basis>
+        <TotalNet>-2043</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>150 SHS DELL</Name>
+        <DateAcquired>2009-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-11</DateSold>
+        <GrossSalesPrice>2003</GrossSalesPrice>
+        <Basis>1951</Basis>
+        <TotalNet>52</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>200 SHS NOKIA</Name>
+        <DateAcquired>2005-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>1706</GrossSalesPrice>
+        <Basis>3438</Basis>
+        <TotalNet>-1732</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc7">
+      <InvestmentsCorpStock>
+        <NameOfStock>EQUITY HOLDINGS</NameOfStock>
+        <EOYBookValue>349540</EOYBookValue>
+        <EOYFMV>421987</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FOREIGN EQUITIES</NameOfStock>
+        <EOYBookValue>7223</EOYBookValue>
+        <EOYFMV>8431</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUNDS</NameOfStock>
+        <EOYBookValue>72770</EOYBookValue>
+        <EOYFMV>76952</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc8">
+      <LandEtc>
+        <CostOrOtherBasis>169095</CostOrOtherBasis>
+        <AccumulatedDepreciation>43198</AccumulatedDepreciation>
+        <BookValue>125897</BookValue>
+        <EOYFMV>80922</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CostOrOtherBasis>677378</CostOrOtherBasis>
+        <BookValue>677378</BookValue>
+        <EOYFMV>677378</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc9">
+      <OtherExpenses>
+        <Description>FARM RENTAL PROPERTY</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SECURITY</Description>
+        <RevenueAndExpensesPerBooks>375</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>375</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EXTERMINATOR</Description>
+        <RevenueAndExpensesPerBooks>239</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>239</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc10">
+      <OtherIncome>
+        <Description>FARM RENTAL PROPERTY</Description>
+        <RevenueAndExpensesPerBooks>7200</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>7200</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc11">
+      <OtherLiabilities>
+        <Description>SECURITY DEPOSIT</Description>
+        <BOYBookValue>900</BOYBookValue>
+        <EOYBookValue>900</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>2008 FED TAX DUE</Description>
+        <BOYBookValue>67</BOYBookValue>
+        <EOYBookValue>30</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc12">
+      <OtherProfessionalFees>
+        <Category>FARM RENTAL PROPERTY</Category>
+        <Amount>1650</Amount>
+        <AdjustedNetIncome>1650</AdjustedNetIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

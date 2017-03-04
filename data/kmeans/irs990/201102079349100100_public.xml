@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T05:48:09-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Seperack &amp; Company LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>7-9 Isaac Street</AddressLine1>
+        <City>Norwalk</City>
+        <State>CT</State>
+        <ZIPCode>06850</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>066250532</EIN>
+      <Name>
+        <BusinessNameLine1>MARY B RADWICK TRUST</BusinessNameLine1>
+      </Name>
+      <NameControl>MARY</NameControl>
+      <Phone>2032688507</Phone>
+      <USAddress>
+        <AddressLine1>JAMES STAPLETON 6 WINDING WAY</AddressLine1>
+        <City>TRUMBULL</City>
+        <State>CT</State>
+        <ZIPCode>06611</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JAMES F STAPLETON</Name>
+      <Title>Trustee</Title>
+      <DateSigned>2011-07-16</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Andrew J Seperack</Name>
+      <Phone>2038559485</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>142836</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>1871</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>1871</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>39172</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>52959</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>39172</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>41043</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>41043</TotalNetInvestmentIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">3000</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>3000</LegalFeesNetInvstIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">1211</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>1211</OtherProfFeesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">580</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>580</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>4791</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>4791</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>58275</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>58275</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>63066</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>4791</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>58275</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-22023</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>36252</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>-8</CashBOY>
+        <SavingsAndTempCashInvstBOY>14536</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>6455</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>6455</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>62362</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>47151</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>136381</InvestmentsCorpStockEOYFMV>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">2</OtherAssetsEOY>
+        <TotalAssetsBOY>76890</TotalAssetsBOY>
+        <TotalAssetsEOY>53608</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>142836</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>647695</CapitalStockBOY>
+        <CapitalStockEOY>646435</CapitalStockEOY>
+        <RetainedEarningsBOY>-570805</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-592827</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>76890</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>53608</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>76890</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>53608</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>76890</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-22023</ExcessOfRevenueOverExpenses>
+        <Subtotal>54867</Subtotal>
+        <OtherDecreases referenceDocumentId=" OtherDecreasesSchedule">1259</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>53608</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>39172</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear2>63450</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>257093</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.24680</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>43650</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>374832</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.11645</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>113550</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>321978</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.35266</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>227500</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>264511</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.86008</DistributionRatioYear5>
+        <TotalDistributionRatio>1.57599</TotalDistributionRatio>
+        <AverageDistributionRatio>0.39400</AverageDistributionRatio>
+        <NetNoncharitableAssets>140557</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>55379</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>363</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>55742</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>58275</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>363</InvestmentIncomeExciseTax>
+        <Subtotal>363</Subtotal>
+        <TaxBasedOnInvestmentIncome>363</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>286</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>286</TotalCreditsAndPayments>
+        <TaxDue>77</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc referenceDocumentId=" LiquidationExplanation">true</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>CT</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>JAMES F STAPLETON TRUSTEE</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2032688507</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>6 WINGING WAY</AddressLine1>
+          <City>TRUMBULL</City>
+          <State>CT</State>
+          <ZIPCode>06611</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>true</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>true</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES F STAPLETON</PersonName>
+          <USAddress>
+            <AddressLine1>6 WINDING WAY</AddressLine1>
+            <City>TRUMBULL</City>
+            <State>CT</State>
+            <ZIPCode>06611</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>136381</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>6316</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>142697</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>142697</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2140</CashDeemedCharitable>
+        <NetNoncharitableAssets>140557</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>7028</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>7028</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>363</TaxBasedOnInvestmentIncome>
+        <TotalTax>363</TotalTax>
+        <DistributableAmountBeforeAdj>6665</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>6665</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>6665</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>58275</ExpensesAndContributions>
+        <QualifyingDistributions>58275</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>363</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>57912</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>6665</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>215374</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>98027</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>25383</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>51133</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>51842</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>441759</TotalExcessDistriCarryover>
+        <QualifyingDistributions>58275</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>58275</TreatedAsDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>6665</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>6665</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>493369</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>208709</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>284660</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>98027</ExcessFromYear4>
+        <ExcessFromYear3>25383</ExcessFromYear3>
+        <ExcessFromYear2>51133</ExcessFromYear2>
+        <ExcessFromYear1>51842</ExcessFromYear1>
+        <ExcessFromCurrentYear>58275</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RecipientName>JAMES F STAPLETON</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>6 WINDING WAY</AddressLine1>
+            <City>TRUMBULL</City>
+            <State>CT</State>
+            <ZIPCode>06611</ZIPCode>
+          </RecipientUSAddress>
+          <FormAndInfoAndMaterials>SUMMARY OF GRANT REQUEST TO BE REVIEWED, INCLUDING TAX STATUS OF ORGANIZATION.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE NATIONAL JUDICIAL COLLEGE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>JUDICIAL COLLEGE BUILDING/MS 358</AddressLine1>
+            <City>RENO</City>
+            <State>NV</State>
+            <ZIPCode>89557</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE JESUITS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 9199</AddressLine1>
+            <City>WATERWON</City>
+            <State>MA</State>
+            <ZIPCode>02471</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE ANNUAL BISHOP'S APPEAL THE DIOC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>238 JEWETT AVENUE</AddressLine1>
+            <City>BRIDGEPORT</City>
+            <State>CT</State>
+            <ZIPCode>06606</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>4600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ST VINCENT'S MEDICAL CENTER FOUNDAT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2800 MAIN STREET</AddressLine1>
+            <City>BRIDGEPORT</City>
+            <State>CT</State>
+            <ZIPCode>06606</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NE PROVENCE OF JESUITS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 9199</AddressLine1>
+            <City>WATERTOWN</City>
+            <State>MA</State>
+            <ZIPCode>02471</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MERCY LEARNING CENTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>519 EAST 11TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10009</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MCGIVNEY COMMUNITY CENTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>338 STUKKNAB STREET</AddressLine1>
+            <City>BRIDGEPORT</City>
+            <State>CT</State>
+            <ZIPCode>06604</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LITTLE SISTERS OF THE POOR</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1365 ENFIELD STREET</AddressLine1>
+            <City>ENFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06082</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>75</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FEDERAL BAR FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>123 MAIN STREET SUITE L100</AddressLine1>
+            <City>WHITE PLAINS</City>
+            <State>NY</State>
+            <ZIPCode>10601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FAIRFIELD COLLEGE PREPARATORY SCHOO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1073 NORTH BENSON ROAD</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06430</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FAIRFIELD UNIVERSITY-ANNUAL FUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1073 NORTH BENSON ROAD</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06430</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CARDINAL SHEHAN CENTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1494 MAIN STREET</AddressLine1>
+            <City>BRIDGEPORT</City>
+            <State>CT</State>
+            <ZIPCode>06604</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BOY SCOUTS OF AMERICA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>350 FIFTH AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10118</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BOSTON COLLEGE LAW SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>885 CENTRE STREET</AddressLine1>
+            <City>NEWTON</City>
+            <State>MA</State>
+            <ZIPCode>02159</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>23000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ALPHA-1 FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2937 SW 27TH AVENUE SUITE 302</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33133</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>58275</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionAmount>1871</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionAmount>39172</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>41043</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>41043</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <LiquidationExplanationStmt documentId="LiquidationExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <Statement>The Trustee of the Mary B. Radwich Trust (the Foundation) distributed a total of $58,275.00 or approximately 40% of its assets to the organizations described below, all of which are public charities described in Code Section 170(b)(1)(A). It is the Trustee's intention at this time that it is in the Foundation's best interest to fully distribute all of the Foundation's assets to public charities over the next 3 to 5 years in a manner that satisfies the requirement of Code Section 507(b)(1)(A). all distributee organizations have been in existence for 60 months.1. Alpha-1 Foundation $ 100 cash 2. Boston College Law School $ 23,000 cash 885 Centre Street Newton, MA 024593. Boy Scouts of America $ 100 cash 350 Fifth Avenue New York, NY 101184. Cardinal Shehan Center $ 100 cash 1494 Main Street Bridgeport, CT 066045. Fairfield University $ 3,000 cash 1073 North Benson road Fairfield, CT 064306. Federal Bar Foundation $ 100 cash7. Little Sisters of the Poor $ 75 cash 1365 Enfield Street Enfield, CT 06082 8. McGivney Community Center $ 50 cash 338 Stukknab Street Bridgeport, CT 066049. Mercy Learning Center $ 100 cash 519 East 11th Street New York, NY 10009 10. NE Provence of Jesuits $ 250 cash11. St Vincent's Medical Center Foundation $ 25,000 cash 2800 Main Street Bridgeport, CT 0660612. The Annual Bishop's Appeal $ 4,600 cash Diocese of Bridgeport 238 Jewett Avenue Bridgeport, CT 0660613. The Jesuits $ 100 cash P.O. Box 9199 Waterwon, MA 0247114. The National Judicial College $ 200 cash University of Nevada Reno, NV 89557</Statement>
+    </LiquidationExplanationStmt>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>DAY PITNEY LLP</Category>
+        <Amount>3000</Amount>
+        <NetInvestmentIncome>3000</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherAssets>
+        <Description>Rounding</Description>
+        <EOYBookValue>2</EOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherDecreases>
+        <Description>CORRECTION OF COST BASIS OF STOCK</Description>
+        <Amount>1259</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>STATE STREET BANK, COSTODY FEES</Description>
+        <RevenueAndExpensesPerBooks>73</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>73</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROBATE FEES</Description>
+        <RevenueAndExpensesPerBooks>480</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>480</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CHASE BANK WIRE FEES</Description>
+        <RevenueAndExpensesPerBooks>27</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>27</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherProfessionalFees>
+        <Category>BECK, MACK &amp; OLIVER INESTMENT ADVISOR</Category>
+        <Amount>1211</Amount>
+        <NetInvestmentIncome>1211</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

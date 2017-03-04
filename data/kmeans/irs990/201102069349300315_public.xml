@@ -1,0 +1,827 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T11:29:01-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>PKF PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>225 FRANKLIN STREET 12TH FLOOR</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>02110</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>041850150</EIN>
+      <Name>
+        <BusinessNameLine1>THE SOMERSET CLUB</BusinessNameLine1>
+      </Name>
+      <NameControl>SOME</NameControl>
+      <Phone>6172271731</Phone>
+      <USAddress>
+        <AddressLine1>42 BEACON STREET</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>02108</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>R JEFFREY LYMAN</Name>
+      <Title>SECRETARY</Title>
+      <Phone>6172271731</Phone>
+      <DateSigned>2011-07-12</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>EDWARD C NICKLES</Name>
+      <Phone>6177539985</Phone>
+      <DatePrepared>2011-07-12</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>RONALD L SKATES</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>42 BEACON STREET</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>02108</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>13015778</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="7">X</Organization501c>
+      <WebSite>N/A</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1925</YearFormation>
+      <StateLegalDomicile>MA</StateLegalDomicile>
+      <ActivityOrMissionDescription>THE SOMERSET CLUB IS ESTABLISHED IN THE CITY OF BOSTON FOR THE PROMOTION OF SOCIAL INTERCOURSE. THE CLUB'S RESTAURANT PROVIDED 17,545 COVERS FOR ITS MEMBERS DURING FISCAL YEAR 2011. THE CLUB'S ROOMS AND LODGING FACILITY HAD 892 ROOMS OCCUPIED DURING FISCAL YEAR 2010. THE CLUBHOUSE IS ALSO UTILIZED BY THE MEMBERSHIP FOR SOCIAL ACTIVITIES.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>15</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>15</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>139</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>1727944</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>1484231</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>3049392</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>2923328</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>33999</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>7815170</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>-589499</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>-738930</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>2493892</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>9999568</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>724170</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>690419</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>2204379</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>2437196</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>2928549</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>3127615</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-434657</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>6871953</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>19618246</TotalAssetsBOY>
+      <TotalAssetsEOY>20325125</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>10850055</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>5439019</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>8768191</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>14886106</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>THE SOMERSET CLUB IS ESTABLISHED IN THE CITY OF BOSTON FOR THE PROMOTION OF SOCIAL INTERCOURSE.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Description>THE CLUB'S RESTAURANT PROVIDES FOOD &amp; BEVERAGE SERVICE FOR ITS MEMBERS. (17,545 COVERS WERE SERVED.) THE CLUB PROVIDES ROOMS AND LODGING FACILITIES FOR ITS MEMBERS (892 ROOMS OCCUPIED). THE CLUBHOUSE IS UTILIZED BY THE MEMBERSHIP FOR SOCIAL ACTIVITIES.</Description>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <SubjectToProxyTax>0</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1039900001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1039900001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1039900001">1</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1039900001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1039900001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1039900001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1039900001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1039900001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1039900001">1</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1039900001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1039900001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1039900001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1039900001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">1</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>8</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>139</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>1</NonDeductibleContributions>
+      <NonDeductibleDisclosure>1</NonDeductibleDisclosure>
+      <InitiationFeesAmount>387514</InitiationFeesAmount>
+      <GrossReceiptsAmount>158330</GrossReceiptsAmount>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>15</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>15</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>1</MembersOrStockholders>
+      <ElectionOfBoardMembers>1</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>0</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>0</ConflictOfInterestPolicy>
+      <WhistleblowerPolicy>0</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>0</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>ROBIN WARREN CONTROLLER</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>6172271731</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>42 BEACON STREET</AddressLine1>
+          <City>BOSTON</City>
+          <State>MA</State>
+          <ZIPCode>02108</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>RONALD L SKATES</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>15.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>HOWARD B HODGSON JR</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>4.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>R JEFFREY LYMAN</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARK J ADAMS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>EDWARD BOLLES BALDINI</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>IAN H GARDINER</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARK J PANARESE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PHILIP L LADD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROBERT I OWENS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRENT E SHAY</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROBERT W LORING</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRUCE H MONRAD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CORNELIA C ROBERTS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>NICHOLAS GLEYSTEEN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>GEORGE ROCKWELL SPRAGUE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DENNIS MICHEL</NamePerson>
+        <Title>GENERAL MANAGER</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>159624</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>20838</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOSEPH LEONARDI</NamePerson>
+        <Title>CHEF</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>145070</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>18536</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>304694</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>39374</TotalOtherCompensation>
+      <NumberIndividualsGT100K>2</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>MEMBERSHIP DUES</Description>
+        <BusinessCode>713990</BusinessCode>
+        <TotalRevenueColumn>2328642</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2328642</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>INITIATION FEES</Description>
+        <BusinessCode>713990</BusinessCode>
+        <TotalRevenueColumn>236883</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>236883</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>ROOMS &amp; SUITES (NOTE)</Description>
+        <BusinessCode>721110</BusinessCode>
+        <TotalRevenueColumn>207171</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>87030</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>120141</UnrelatedBusinessRevenue>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>ASSESSMENTS</Description>
+        <BusinessCode>713990</BusinessCode>
+        <TotalRevenueColumn>150632</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>150632</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>2923328</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>34763</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>34763</UnrelatedBusinessRevenue>
+      </InvestmentIncome>
+      <GrossAmountSalesAssets>
+        <Securities>1612433</Securities>
+        <Other>7175000</Other>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>17740</Securities>
+        <Other>989286</Other>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>1594693</Securities>
+        <Other>6185714</Other>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>7780407</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>6185714</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>1594693</UnrelatedBusinessRevenue>
+      </NetGainOrLossInvestments>
+      <GrossSalesOfInventory>1264496</GrossSalesOfInventory>
+      <CostOfGoodsSold>2009184</CostOfGoodsSold>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>-744688</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>-723035</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>-21653</UnrelatedBusinessRevenue>
+      </NetIncomeOrLoss>
+      <OtherRevenueMisc>
+        <Description>MISC. REVENUE</Description>
+        <BusinessCode>713990</BusinessCode>
+        <TotalRevenueColumn>5758</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>5758</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>5758</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>9999568</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>8271624</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>1727944</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>180606</Total>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>329822</Total>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>103742</Total>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>76249</Total>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>560</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>33452</Total>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>21376</Total>
+      </FeesForServicesOther>
+      <OfficeExpenses>
+        <Total>142180</Total>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>469089</Total>
+      </Occupancy>
+      <Interest>
+        <Total>227617</Total>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>466204</Total>
+      </DepreciationDepletion>
+      <OtherExpenses>
+        <Description>UNRELATED BUSINESS INCO</Description>
+        <Total>646466</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS AND MAINTENANCE</Description>
+        <Total>225783</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CLUBHOUSE EXPENSES</Description>
+        <Total>88707</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OTHER</Description>
+        <Total>65245</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DATA PROCESSING</Description>
+        <Total>50517</Total>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>3127615</Total>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>201872</BOY>
+        <EOY>1668130</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>245077</BOY>
+        <EOY>1947569</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>624032</BOY>
+        <EOY>410835</EOY>
+      </AccountsReceivable>
+      <InventoriesForSaleOrUse>
+        <BOY>286139</BOY>
+        <EOY>293230</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>2661</BOY>
+        <EOY>28771</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>15402820</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>2920742</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>13160024</BOY>
+        <EOY>12482078</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>1405125</BOY>
+      </InvestmentsPubTradedSecurities>
+      <OtherAssetsTotal>
+        <BOY>3693316</BOY>
+        <EOY>3494512</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>19618246</BOY>
+        <EOY>20325125</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>278828</BOY>
+        <EOY>923935</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>351712</BOY>
+        <EOY>1499434</EOY>
+      </DeferredRevenue>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>9634515</BOY>
+        <EOY>3015650</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>585000</BOY>
+        <EOY>0</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>10850055</BOY>
+        <EOY>5439019</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>8763191</BOY>
+        <EOY>14881106</EOY>
+      </UnrestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>5000</BOY>
+        <EOY>5000</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>8768191</BOY>
+        <EOY>14886106</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>19618246</BOY>
+        <EOY>20325125</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>6871953</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>-754038</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleD documentId="RetDoc1039900001">
+      <ArtPublicExhibitionAmts>
+        <AssetsInPartX>100000</AssetsInPartX>
+      </ArtPublicExhibitionAmts>
+      <CollectUsedForPreservation>X</CollectUsedForPreservation>
+      <SolicitedAssetsForSale>0</SolicitedAssetsForSale>
+      <Land>
+        <OtherCostOrOtherBasis>212311</OtherCostOrOtherBasis>
+        <BookValue>212311</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>13963527</OtherCostOrOtherBasis>
+        <Depreciation>2064588</Depreciation>
+        <BookValue>11898939</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>1226982</OtherCostOrOtherBasis>
+        <Depreciation>856154</Depreciation>
+        <BookValue>370828</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>12482078</TotalOfBookValueLandBuildings>
+      <OtherAssets>
+        <Description>COLLECTION - COPLEY PAINTING</Description>
+        <BookValue>50286</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>ARTWORK - SEARS PAINTINGS</Description>
+        <BookValue>66375</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>A/R AFFILIATES SEARS HOUSE ASSOCIATION</Description>
+        <BookValue>3377851</BookValue>
+      </OtherAssets>
+      <TotalBookValueOtherAssets>3494512</TotalBookValueOtherAssets>
+      <TotalRevenue>9999568</TotalRevenue>
+      <TotalExpenses>3127615</TotalExpenses>
+      <ExcessOrDeficitForYear>6871953</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>-1339038</NetUnrealizedGLOnInvestments>
+      <InvestmentExpenses>585000</InvestmentExpenses>
+      <TotalAdjustments>-754038</TotalAdjustments>
+      <ExcessOrDeficitPerFS>6117915</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>10606347</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>-1339038</NetUnrealizedGainsInvestments>
+      <OtherRevenues>2009184</OtherRevenues>
+      <RevenueNotRptdF990>670146</RevenueNotRptdF990>
+      <RevenueSubtotal>9936201</RevenueSubtotal>
+      <InvestmentExpensesNotIncluded>1901</InvestmentExpensesNotIncluded>
+      <OtherRevenuesNotIncluded>61466</OtherRevenuesNotIncluded>
+      <RevenueNotRptdOnFinStmt>63367</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>9999568</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>4488432</TotExpensesEtcAuditedFinclStmt>
+      <OtherExpensesIncluded>2009184</OtherExpensesIncluded>
+      <ExpensesNotRptdF990>2009184</ExpensesNotRptdF990>
+      <ExpensesSubtotal>2479248</ExpensesSubtotal>
+      <InvestmentExpensesNotIncluded2>1901</InvestmentExpensesNotIncluded2>
+      <OtherExpensesNotIncluded>646466</OtherExpensesNotIncluded>
+      <ExpensesNotRptdOnFinStmt>648367</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>3127615</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <ReturnReference>PART III, LINE 4:</ReturnReference>
+        <Explanation>THE CLUB HAS ART OBJECTS, ANTIQUES, AND OTHER VALUABLE ITEMS THAT ARE DISPLAYED IN THE CLUBHOUSE FOR THE ENJOYMENT AND USE OF THE MEMBERS OF THE CLUB.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF UNCERTAIN TAX POSITIONS UNDER FIN 48:</Identifier>
+        <ReturnReference>PART X:</ReturnReference>
+        <Explanation>UNCERTAIN TAX POSITIONS TAKEN OR EXPECTED TO BE TAKEN IN A TAX RETURN ARE RECOGNIZED WHEN IT IS MORE LIKELY THAN NOT THAT THE TAX POSITION WILL BE SUSTAINED ON EXAMINATION BY THE TAXING AUTHORITIES. THE AMOUNT RECOGNIZED IS EQUAL TO THE LARGEST BENEFIT THAT HAS A GREATER THAN 50% LIKELIHOOD OF BEING REALIZED UPON ULTIMATE SETTLEMENT. IN THE CASE OF A TAX OBLIGATION, INTEREST AND PENALTIES, IF ANY, ARE INCLUDED IN INCOME TAX EXPENSE. THERE WERE NO SIGNIFICANT UNCERTAIN TAX POSITIONS FOR THE YEAR ENDED MARCH 31, 2011 AND 2010, AND, AS A RESULT, NO ADDITIONAL INCOME TAX EXPENSE (BENEFIT) OR LIABILITY (ASSET) HAS BEEN RECORDED IN THE FINANCIAL STATEMENTS.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XII, LINE 2D - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>COST OF GOODS SOLD 2,009,184.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XII, LINE 4B - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>TAX ON INVESTMENT INCOME 646,466. DEFERRED INCOME TAX -585,000.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XIII, LINE 2D - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>COST OF GOODS SOLD 2,009,184.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XIII, LINE 4B - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>TAX ON INVESTMENT INCOME 646,466.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <CompensationCommittee>X</CompensationCommittee>
+      <Form990OfOtherOrganizations>X</Form990OfOtherOrganizations>
+      <WrittenEmploymentContract>X</WrittenEmploymentContract>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <Form990ScheduleJPartII>
+        <NamePerson>DENNIS MICHEL</NamePerson>
+        <BaseCompensationFilingOrg>134624</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>25000</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>7478</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>13360</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>180462</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>JOSEPH LEONARDI</NamePerson>
+        <BaseCompensationFilingOrg>125070</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>20000</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>5176</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>13360</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>163606</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NameBusiness>
+            <BusinessNameLine1>RONNI MICHEL</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfInterestedPerson>
+        <Relationship>GM'S SPOUSE</Relationship>
+        <AmountOfTransaction>31128</AmountOfTransaction>
+        <DescriptionOfTransaction>FLORAL ARRANGEMENTS</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 6</Identifier>
+        <Explanation>THE CLUB IS ORGANIZED AS A NON-STOCK, NOT-FOR-PROFIT CORPORATION WITH MEMBERS THAT HAVE THE RIGHT TO VOTE FOR THE PRESIDENT, TREASURER, SECRETARY AND MEMBERS OF THE EXECUTIVE COMMITTEE AT THE ANNUAL MEETING OF THE CLUB. THE EXECUTIVE COMMITTEE HAS THE MANAGEMENT AND CONTROL OF THE CLUB AND OF ITS PROPERTY, SUBJECT TO THE CONSTITUTION.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7A</Identifier>
+        <Explanation>THE PRESIDENT, TREASURER, AND SECRETARY ARE CHOSEN BY BALLOT AT THE REGULAR ANNUAL MEETING OF THE CLUB FOR THE TERM OF ONE YEAR. AT EACH ANNUAL MEETING THERE ARE FOUR MEMBERS OF THE EXECUTIVE COMMITTEE THAT ARE CHOSEN FOR A TERM OF THREE YEARS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>A RESPONSIBLE PERSON IS PROVIDED WITH THE FORM 990 TO REVIEW IT FOR COMPLETENESS AND ACCURACY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE FORM 990 IS AVAILABLE IN THE ACCOUNTING OFFICE UPON REQUEST. THE FINANCIAL STATEMENTS OF THE CLUB ARE NOT PUBLIC INFORMATION.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VIII, LINE 2C</ReturnReference>
+        <Explanation>REVENUE FROM ROOMS AND SUITES INCLUDES AMOUNTS FROM MEMBERS UNDER LONG-TERM LEASE ARRANGEMENTS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CHANGES IN NET ASSETS OR FUND BALANCES:</Identifier>
+        <ReturnReference>FORM 990, PART XI, LINE 5:</ReturnReference>
+        <Explanation>NET UNREALIZED LOSSES ON INVESTMENTS: -1,339,038. INVESTMENT EXPENSES: 585,000. TOTAL TO FORM 990, PART XI, LINE 5: -754,038.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART XII, LINE 2C:</ReturnReference>
+        <Explanation>THE PROCESS HAS NOT CHANGED FROM THE PRIOR YEAR.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SEARS HOUSE ASSOCIATION</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>42 BEACON STREET</AddressLine1>
+          <City>BOSTON</City>
+          <State>MA</State>
+          <ZIPCode>02108</ZIPCode>
+        </AddressUS>
+        <EIN>311717127</EIN>
+        <PrimaryActivities>HISTORICAL BUILDING PRESERVATION</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)3</ExemptCodeSection>
+        <PublicCharityStatus>509(A)(1)</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>THE SOMERSET CHARITABLE TRUST</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>42 BEACON STREET</AddressLine1>
+          <City>BOSTON</City>
+          <State>MA</State>
+          <ZIPCode>02108</ZIPCode>
+        </AddressUS>
+        <EIN>046112332</EIN>
+        <PrimaryActivities>PROVIDE RELIEF TO EMPLOYEES WHO PROVIDED SERVICE TO THE CLUB</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(C)3</ExemptCodeSection>
+        <PublicCharityStatus>PF</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>1</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>1</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>0</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>0</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>1</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>0</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>SEARS HOUSE ASSOCIATION</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>J</TransactionType>
+        <AmountInvolved>650000</AmountInvolved>
+        <MethodOfAmtDetermination>MARKET VALUE</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>SEARS HOUSE ASSOCIATION</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>I</TransactionType>
+        <AmountInvolved>600000</AmountInvolved>
+        <MethodOfAmtDetermination>MARKET VALUE</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>SEARS HOUSE ASSOCIATION</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>P</TransactionType>
+        <AmountInvolved>150000</AmountInvolved>
+        <MethodOfAmtDetermination>ACTUAL AMOUNT PAID</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <Form990ScheduleRPartVII>
+        <ReturnReference>PART V</ReturnReference>
+        <Explanation>SEARS HOUSE ASSOCIATION, INC. USES ITS ASSETS TO RESTORE AND RENOVATE THE HISTORIC ASPECTS OF THE SOMERSET CLUB FACILITY AND THAT RESTORATION, MADE CONSISTENT WITH THE EXEMPT PURPOSES OF THE SEARS HOUSE, BENEFITS THE PUBLIC INCLUDING THE MEMBERS OF THE CLUB.</Explanation>
+      </Form990ScheduleRPartVII>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

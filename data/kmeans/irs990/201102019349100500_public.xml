@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-20T08:58:59-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MORRISON &amp; SMITH LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 20647</AddressLine1>
+        <City>TUSCALOOSA</City>
+        <State>AL</State>
+        <ZIPCode>354020647</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>311531593</EIN>
+      <Name>
+        <BusinessNameLine1>ALABAMA HEALTHCARE HALL OF FAME</BusinessNameLine1>
+      </Name>
+      <NameControl>ALAB</NameControl>
+      <Phone>2053492424</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 20647</AddressLine1>
+        <City>TUSCALOOSA</City>
+        <State>AL</State>
+        <ZIPCode>354020647</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>G ALAN HARTLEY</Name>
+      <Title>TREASURER</Title>
+      <Phone>2053492424</Phone>
+      <DateSigned>2011-08-05</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>G ALAN HARTLEY</Name>
+      <Phone>2053492424</Phone>
+      <DatePrepared>2011-07-20</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>7709</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>14875</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <TotalRevenueAndExpenses>14875</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc3">2281</LegalFeesRevAndExpnss>
+        <LegalFeesDsbrsChrtblPrps>2281</LegalFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">10249</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>10249</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>12530</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>12530</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>12530</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>12530</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>2345</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>5364</CashBOY>
+        <CashEOY>7709</CashEOY>
+        <CashEOYFMV>7709</CashEOYFMV>
+        <TotalAssetsBOY>5364</TotalAssetsBOY>
+        <TotalAssetsEOY>7709</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>7709</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>5364</RetainedEarningsBOY>
+        <RetainedEarningsEOY>7709</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>5364</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>7709</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>5364</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>7709</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>5364</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>2345</ExcessOfRevenueOverExpenses>
+        <Subtotal>7709</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>7709</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>1538</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>3447</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.446185</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>10706</QualifyingDistributionsYear2>
+        <QualifyingDistributionsYear3>2583</QualifyingDistributionsYear3>
+        <TotalDistributionRatio>0.446185</TotalDistributionRatio>
+        <AverageDistributionRatio>0.446185</AverageDistributionRatio>
+        <NetNoncharitableAssets>6439</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>2873</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>2873</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>12530</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>AL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>NONE</WebsiteAddress>
+        <BooksInCareOfPersonName>G ALAN HARTLEY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2053492424</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 20647</AddressLine1>
+          <City>TUSCALOOSA</City>
+          <State>AL</State>
+          <ZIPCode>354020647</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">DONALD BALL</PersonName>
+          <USAddress>
+            <AddressLine1>949 SOMERSET DRIVE</AddressLine1>
+            <City>MONTGOMERY</City>
+            <State>AL</State>
+            <ZIPCode>36106</ZIPCode>
+          </USAddress>
+          <Title>CHAIRMAN</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">ALAN HARTLEY</PersonName>
+          <USAddress>
+            <AddressLine1>1809 UNIVERSITY BOULEVARD</AddressLine1>
+            <City>TUSCALOOSA</City>
+            <State>AL</State>
+            <ZIPCode>35401</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">DENNIS STANARD</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1327</AddressLine1>
+            <City>TUSCALOOSA</City>
+            <State>AL</State>
+            <ZIPCode>35403</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>ANNUAL ALABAMA HEALTHCARE HALL OF FAME CEREMONY TO RECOGNIZE OUTSTANDING ACHIEVEMENT IN THE AREA OF HEALTHCARE. ADMINISTRATIVE EXPENSES INCURRED</Description1>
+        <Expenses1>6962</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>6537</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>6537</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>6537</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>98</CashDeemedCharitable>
+        <NetNoncharitableAssets>6439</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>322</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>322</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>322</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>322</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>322</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>12530</ExpensesAndContributions>
+        <QualifyingDistributions>12530</QualifyingDistributions>
+        <AdjQualifyingDistributions>12530</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>322</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>2583</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>10706</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>1366</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>14655</TotalExcessDistriCarryover>
+        <QualifyingDistributions>12530</QualifyingDistributions>
+        <AppliedToCurrentYear>322</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>12208</RemainingDistriFromCorpus>
+        <TotalCorpus>26863</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>26863</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>2583</ExcessFromYear3>
+        <ExcessFromYear2>10706</ExcessFromYear2>
+        <ExcessFromYear1>1366</ExcessFromYear1>
+        <ExcessFromCurrentYear>12208</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <CompensationExplanation documentId="RetDoc2">
+      <Compensation>
+        <PersonName>DONALD BALL</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>ALAN HARTLEY</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>DENNIS STANARD</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <LegalFeesSchedule documentId="RetDoc3">
+      <LegalFees>
+        <Category>LEGAL EXPENSE</Category>
+        <Amount>2281</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WEBSITE AND UPDATES</Description>
+        <RevenueAndExpensesPerBooks>452</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>452</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE AND SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>2835</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2835</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>HALL OF FAME CEREMONY</Description>
+        <RevenueAndExpensesPerBooks>6962</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>6962</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

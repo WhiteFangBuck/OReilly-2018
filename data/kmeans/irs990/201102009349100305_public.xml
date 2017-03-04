@@ -1,0 +1,753 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-19T08:14:43-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>TRACY BILLING EA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 465</AddressLine1>
+        <City>BUFFALO</City>
+        <State>MO</State>
+        <ZIPCode>65622</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>954705477</EIN>
+      <Name>
+        <BusinessNameLine1>THE LAWRENCE WELK FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>LAWR</NameControl>
+      <Phone>3103093702</Phone>
+      <USAddress>
+        <AddressLine1>11400 W OLYMPIC BLVD</AddressLine1>
+        <City>LOS ANGELES</City>
+        <State>CA</State>
+        <ZIPCode>90064</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>LISA PARKER</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>3103093702</Phone>
+      <DateSigned>2011-05-15</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>TRACY BILLING</Name>
+      <Phone>4173450425</Phone>
+      <DatePrepared>2011-07-19</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="14">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1446986</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>103000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>22610</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>22610</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>22610</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>9134</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>9134</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>9134</DividendsAdjNetIncm>
+        <CapitalGainNetIncmNetInvstIncm>17945</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000009" referenceDocumentName="OtherIncomeSchedule2">-50</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>134694</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>49689</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>31744</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>28000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>22400</CompOfcrDirTrstNetInvstIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="AccountingFeesSchedule">2755</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>2755</AccountingFeesNetInvstIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="00000013" referenceDocumentName="OtherProfessionalFeesSchedule">19018</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>19018</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="00000014" referenceDocumentName="TaxesSchedule">2873</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>2304</TaxesNetInvstIncm>
+        <TravConfMeetingRevAndExpnss>15981</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>12785</TravConfMeetingNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000008" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">2526</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>26</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>71153</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>59288</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>146510</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>146510</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>217663</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>59288</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>146510</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-82969</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>31744</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>168892</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>55328</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>55328</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>503</PrepaidExpensesBOY>
+        <InvestmentsGovtObligBOY>290102</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="00000006" referenceDocumentName="InvestmentsGovtObligationsSchedule">208947</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>210879</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>325323</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="00000005" referenceDocumentName="InvestmentsCorpStockSchedule">338010</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>450887</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>193480</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="00000004" referenceDocumentName="InvestmentsCorpBondsSchedule">253120</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>254266</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>305961</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="00000007" referenceDocumentName="InvestmentsOtherSchedule2">436504</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>475626</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>1284261</TotalAssetsBOY>
+        <TotalAssetsEOY>1291909</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1446986</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>7880</AccountsPayableBOY>
+        <OtherLiabilitiesBOY referenceDocumentId="00000011" referenceDocumentName="OtherLiabilitiesSchedule">763</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="00000012" referenceDocumentName="OtherLiabilitiesSchedule">830</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>8643</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>830</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>220455</CapitalStockBOY>
+        <CapitalStockEOY>220455</CapitalStockEOY>
+        <RetainedEarningsBOY>1055163</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1070624</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1275618</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1291079</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1284261</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1291909</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1275618</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-82969</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="00000010" referenceDocumentName="OtherIncreasesSchedule">98430</OtherIncreases>
+        <Subtotal>1291079</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1291079</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>stocks</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>17945</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>0</CostOrOtherBasis>
+          <GainOrLoss>17945</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>17945</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>17945</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <NoncharitableAssetsYear1>1255814</NoncharitableAssetsYear1>
+        <QualifyingDistributionsYear2>144300</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1259856</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.114537</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>96300</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1287831</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.074777</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>136200</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1200577</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.113445</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>10800</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>975222</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.011074</DistributionRatioYear5>
+        <TotalDistributionRatio>0.313833</TotalDistributionRatio>
+        <AverageDistributionRatio>0.078458</AverageDistributionRatio>
+        <NetNoncharitableAssets>1292625</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>101417</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>101417</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>146510</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>700</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>700</TotalCreditsAndPayments>
+        <OriginalReturnOverpayment>-700</OriginalReturnOverpayment>
+        <Overpayment>700</Overpayment>
+        <AmountCreditedToNextYear>700</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>TRACY BILLING</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4173450425</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 465</AddressLine1>
+          <City>BUFFALO</City>
+          <State>MO</State>
+          <ZIPCode>65622</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LISA PARKER</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 11400 W OLYMPIC BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90064</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>28000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID MACK</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 11400 W OLYMPIC BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90064</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT FREDRICKS</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 11400 W OLYMPIC BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90064</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RONALD GOTHER</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 11400 W OLYMPIC BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90064</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DR JAMES MACK</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 11400 W OLYMPIC BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90064</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JENNIFER MACK</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 11400 W OLYMPIC BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90064</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LINDY WELK</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 11400 W OLYMPIC BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90064</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TRACEY WELK</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 11400 W OLYMPIC BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90064</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1153486</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>158824</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1312310</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1312310</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>19685</CashDeemedCharitable>
+        <NetNoncharitableAssets>1292625</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>64631</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>64631</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>64631</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>64631</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>64631</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>146510</ExpensesAndContributions>
+        <QualifyingDistributions>146510</QualifyingDistributions>
+        <AdjQualifyingDistributions>146510</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>64631</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>62791</UndistributedIncomePriorYear>
+        <ExcessDistriCarryoverYear5>59485</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>76386</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>32759</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>81307</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>136000</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>385937</TotalExcessDistriCarryover>
+        <QualifyingDistributions>146510</QualifyingDistributions>
+        <RemainingDistriFromCorpus>146510</RemainingDistriFromCorpus>
+        <TotalCorpus>532447</TotalCorpus>
+        <TaxableAmount2>62791</TaxableAmount2>
+        <UndistributedIncomeCY>64631</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>59485</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>472962</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>76386</ExcessFromYear4>
+        <ExcessFromYear3>32759</ExcessFromYear3>
+        <ExcessFromYear2>81307</ExcessFromYear2>
+        <ExcessFromYear1>136000</ExcessFromYear1>
+        <ExcessFromCurrentYear>146510</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WESTSIDE FOOD BANK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1710 22ND STREET</AddressLine1>
+            <City>SANTA MONICA</City>
+            <State>CA</State>
+            <ZIPCode>90404</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SuppliesEmergency Food</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORTH COUNTY SOLUTIONS FOR CHANGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>722 CALIFORNIA AVE</AddressLine1>
+            <City>VISTA</City>
+            <State>CA</State>
+            <ZIPCode>92083</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GrantGeneral Operating</PurposeOfGrantOrContribution>
+          <Amount>22500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PROYECTO PASTORAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>135 N MISSION RD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90033</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>IMPACTOFunding of</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ESPERANZA COMMUNITY HOUSING</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2337 S FIGUEROA ST</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90007</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GrantGeneral Operating</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUTHGIVE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>322 LAVERNE AVE</AddressLine1>
+            <City>MILL VALLEY</City>
+            <State>CA</State>
+            <ZIPCode>94941</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PhilanthropyExpand YouthProgram</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMBODIAN CHILDREN'S FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10801 NATIONAL BLVD STE 560</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90064</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>schooling,Support housing,medical care</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATIONAL CENTER FOR PHILANTHROPY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1101 CONNECTICUT AVE</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20036</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General OperatingGrant</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CENTER OF PHILANTHROPY &amp; PUBLIC POLICIES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>USC LEWIS HALL 210</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90089</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General OperatingGrant</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INSTITUTE FOR GLOBAL ETHICS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>18 CENTRAL STE 2B</AddressLine1>
+            <City>ROCKPORT</City>
+            <State>ME</State>
+            <ZIPCode>04856</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General OperatingGrant</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KIDS KORPS USA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2210 ENCINITAS BLVD STE N</AddressLine1>
+            <City>ENCINITAS</City>
+            <State>CA</State>
+            <ZIPCode>92024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General OperatingGrant</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UC REGENTS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1111 FRANKLIN ST 12FLOOR</AddressLine1>
+            <City>OAKLAND</City>
+            <State>CA</State>
+            <ZIPCode>94607</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General OperatingGrant</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CENTER FOR PLACE BASED INITIATIVES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1024 N ORANGE DRIVE STE 120</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90038</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General OperatingGrant</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HAMILTON STUDENT FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2955 S ROBERTSON BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90034</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General OperatingGrant</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INTERNATIONAL COMMUNITY FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2505 N AVENUE</AddressLine1>
+            <City>NATIONAL CITY</City>
+            <State>CA</State>
+            <ZIPCode>91950</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PF</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General OperatingGrant</PurposeOfGrantOrContribution>
+          <Amount>2510</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>146510</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>22610</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>9134</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>31744</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>31744</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="00000002">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>THE WELK GROUP</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>2700 PENNSYLVANIA AVE</AddressLine1>
+          <City>SANTA MONICA</City>
+          <State>CA</State>
+          <ZIPCode>90404</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>100000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="00000003">
+      <AccountingFees>
+        <Category>Tracy Billing Accounting</Category>
+        <Amount>2755</Amount>
+        <NetInvestmentIncome>2755</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="00000004">
+      <InvestmentsCorpBonds>
+        <NameOfBond>Corporate Bonds per Attached List</NameOfBond>
+        <EOYBookValue>253120</EOYBookValue>
+        <EOYFMV>254266</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000005">
+      <InvestmentsCorpStock>
+        <NameOfStock>Equities per Attached List</NameOfStock>
+        <EOYBookValue>338010</EOYBookValue>
+        <EOYFMV>450887</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="00000006">
+      <USGovtSecuritiesEOYBookValue>208947</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>210879</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="00000007">
+      <InvestmentsOther>
+        <CategoryOrItem>Rbt E. Fredricks Fund</CategoryOrItem>
+        <BookValue>77119</BookValue>
+        <EOYFMV>77119</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Mutual Funds per Stmt</CategoryOrItem>
+        <BookValue>204271</BookValue>
+        <EOYFMV>243393</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Net Change in Unrlz Gain(Loss)</CategoryOrItem>
+        <BookValue>155114</BookValue>
+        <EOYFMV>155114</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="00000008">
+      <OtherExpenses>
+        <Description>Office Expenses</Description>
+        <RevenueAndExpensesPerBooks>1266</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>26</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Dues &amp; Subscriptions</Description>
+        <RevenueAndExpensesPerBooks>1150</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Licenses &amp; Permits</Description>
+        <RevenueAndExpensesPerBooks>110</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000009">
+      <OtherIncome>
+        <Description>Other Income(Sch K-1)</Description>
+        <RevenueAndExpensesPerBooks>-50</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="00000010">
+      <OtherIncreases>
+        <Description>Change in Unrealized Gains</Description>
+        <Amount>98430</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="00000011">
+      <OtherLiabilities>
+        <Description>Federal Payroll Taxes</Description>
+        <BOYBookValue>763</BOYBookValue>
+        <EOYBookValue>603</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>State Payroll Taxes</Description>
+        <EOYBookValue>227</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherLiabilitiesSchedule documentId="00000012">
+      <OtherLiabilities>
+        <Description>Federal Payroll Taxes</Description>
+        <BOYBookValue>763</BOYBookValue>
+        <EOYBookValue>603</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>State Payroll Taxes</Description>
+        <EOYBookValue>227</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="00000013">
+      <OtherProfessionalFees>
+        <Category>WF Advisors Investment Mgmt</Category>
+        <Amount>19018</Amount>
+        <NetInvestmentIncome>19018</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="00000014">
+      <Taxes>
+        <Category>Foreign Tax</Category>
+        <Amount>30</Amount>
+        <NetInvestmentIncome>30</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>Payroll Tax</Category>
+        <Amount>2843</Amount>
+        <NetInvestmentIncome>2274</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>Taxes</Category>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

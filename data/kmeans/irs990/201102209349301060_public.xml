@@ -1,0 +1,841 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T11:59:53-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BLANSKI PETER KRONLAGE &amp; ZOCH PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>7500 OLSON MEMORIAL HIGHWAY SUITE 2</AddressLine1>
+        <City>MINNEAPOLIS</City>
+        <State>MN</State>
+        <ZIPCode>55427</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>522173971</EIN>
+      <Name>
+        <BusinessNameLine1>PROGRESSIVE TECHNOLOGY PROJECT</BusinessNameLine1>
+      </Name>
+      <NameControl>PROG</NameControl>
+      <Phone>6127242600</Phone>
+      <USAddress>
+        <AddressLine1>2801 21ST AVENUE S NO 132E</AddressLine1>
+        <City>MINNEAPOLIS</City>
+        <State>MN</State>
+        <ZIPCode>55407</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ARIF MAMDANI</Name>
+      <Title>EXECUTIVE DIRECTOR</Title>
+      <Phone>6127242600</Phone>
+      <DateSigned>2011-07-29</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>GARY J TURNQUIST CPA</Name>
+      <Phone>7635466211</Phone>
+      <DatePrepared>2011-07-29</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>ARIF MAMDANI</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>2801 21ST AVENUE S NO 132E</AddressLine1>
+        <City>MINNEAPOLIS</City>
+        <State>MN</State>
+        <ZIPCode>55407</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>1046265</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.PROGRESSIVETECH.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1998</YearFormation>
+      <StateLegalDomicile>MN</StateLegalDomicile>
+      <ActivityOrMissionDescription>THE PROGRESSIVE TECHNOLOGY PROJECT (PTP) SEEKS TO RAISE THE SCOPE AND SCALE OF TECHNOLOGY RESOURCES AVAILABLE TO GRASSROOTS COMMUNITY-LED ORGANIZING GROUPS WORKING FOR ENVIRONMENTAL, ECONOMIC, AND SOCIAL JUSTICE IN LOW-INCOME COMMUNITES AND COMMUNITIES OF COLOR. PTP PROVIDES TRAINING, TECHNICAL ASSISTANCE, AND GRANTS TO DEVELOP THE CAPACITY OF GRASSROOTS ORGANIZING GROUPS THROUGH THE USE OF INFORMATION TECHNOLOGY.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>8</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>8</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>5</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>45075</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>960770</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>967755</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>22480</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>71215</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>3835</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>6045</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>1250</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>987085</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>1046265</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>8000</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>146454</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>284823</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>311984</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>54108</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>239104</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>358276</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>531927</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>816714</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>455158</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>229551</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>823080</TotalAssetsBOY>
+      <TotalAssetsEOY>1048205</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>16184</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>11758</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>806896</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>1036447</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>THE PROGRESSIVE TECHNOLOGY PROJECT SUPPORTS COMMUNITY-LED SOCIAL CHANGE IN LOW INCOME COMMUNITIES AND COMMUNITIES OF COLOR. OUR MISSION IS TO HELP COMMUNITY ORGANIZATIONS ACHIEVE THEIR GOALS MORE EFFECTIVELY AND EFFICIENTLY. OUR PROGRAMS HELP ORGANIZATIONS BUILD THEIR SKILLS AND UNDERSTANDING TO INTEGRATE TECHNOLOGY INTO THEIR WORK.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>216812</Expense>
+      <Grants>38450</Grants>
+      <Revenue>395000</Revenue>
+      <Description>PTP HAS CREATED A DATABASE PLATFORM, POWERBASE, SPECIFICALLY FOR GROUPS ENGAGED IN COMMUNITY ORGANIZING. IT WAS DEVELOPED IN COLLABORATION WITH KEY ORGANIZING GROUPS, SO POWERBASE TRACKS WHAT ORGANIZERS WANT TO TRACK. ORGANIZATIONS CAN ACCESS IT IN THE OFFICE AND ON THE ROAD, AND POWERBASE MAKES IT EASY TO SHARE INFORMATION BOTH WITHIN ORGANIZATIONS AND WITH ORGANIZATIONAL PARTNERS AND ALLIES. AS MORE GROUPS ARE TRACKING INCREASINGLY COMPLEX INFORMATION, BUILDING MEMBERSHIPS OF HUNDREDS TO TENS OF THOUSANDS OF PEOPLE, ENGAGING IN VOTER PARTICIPATION EFFORTS, AND INPUTTING DATA IN MULTIPLE LANGUAGES, THE ORGANIZING COMMUNITY URGENTLY NEEDS A WELL-DESIGNED, WELL-SUPPORTED, UNIFORM DATABASE SYSTEM, WHICH IS PTP'S GOAL TO PROVIDE.</Description>
+      <Activity2>
+        <Expense>342122</Expense>
+        <Grants>108004</Grants>
+        <Description>THE REVERB PROJECT WAS DESIGNED TO ASSIST COMMUNITY ORGANIZING GROUPS WITH STRATEGIC COMMUNICATIONS PLANNING, INCLUDING FRAMING, MESSAGING MEDIA DEVELOPMENT AND EVALUATIONS. PTPS REVERB PROGRAM CONNECTS ORGANIZERS WITH THE FUNDING, TRAINING AND TECHNICAL ASSISTANCE TO USE TECHNOLOGY EFFECTIVELY IN THEIR WORK, AND THE GUIDANCE TO SUCCESSFULLY INTEGRATE TECHNOLOGY ACROSS THEIR ORGANIZATION.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>44328</Expense>
+        <Revenue>151000</Revenue>
+        <Description>PTP ORGANIZES TRAINING PROGRAMS TO CONNECT ORGANIZERS WITH THE TRAINING TO USE TECHNOLOGY EFFECTIVELY IN THEIR WORK, AND THE GUIDANCE TO SUCCESSFULLY INTEGRATE TECHNOLOGY ACROSS THEIR ORGANIZATION. THE GENERAL CAPACITY BUILDING PROGRAM PROVIDES BASIC SKILLS TRAINING AND ASSISTANCE TO STAFF OF COMMUNITY ORGANIZATIONS.</Description>
+      </Activity3>
+      <TotalProgramServiceExpense>603262</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">1</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">1</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>8</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>5</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>0</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>8</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>8</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>MN</StatesWhereCopyOfReturnIsFiled>
+      <OtherWebsite>X</OtherWebsite>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>PROGRESSIVE TECHNOLOGY PROJECT</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>6127242600</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>2801 21ST AVE SOUTH SUITE 132E</AddressLine1>
+          <City>MINNEAPOLIS</City>
+          <State>MN</State>
+          <ZIPCode>55407</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>BINESHI ALBERT</NamePerson>
+        <Title>CHAIR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DENISE JOINES</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>HENRY SERRANO</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LISA ABBOTT</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>VIVIAN CHANG</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SCOTT DOUGLAS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MOLLY SCHULTZ HAFID</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SHELLY VENDIOLA</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ARIF MAMDANI</NamePerson>
+        <Title>EXECUTIVE DIRECTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>63914</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ALICE AGUILAR</NamePerson>
+        <Title>PROGRAM DIRECTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>61102</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOSUE GUILLEN</NamePerson>
+        <Title>POWERBASE DIRECTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>56500</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>63914</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <AllOtherContributions>967755</AllOtherContributions>
+      <TotalContributions>967755</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>PROGRAM SERVICE FEES</Description>
+        <BusinessCode>518210</BusinessCode>
+        <TotalRevenueColumn>71215</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>26140</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>45075</UnrelatedBusinessRevenue>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>71215</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>6045</TotalRevenueColumn>
+        <ExclusionAmount>6045</ExclusionAmount>
+      </InvestmentIncome>
+      <OtherRevenueMisc>
+        <Description>OTHER INCOME</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>1250</TotalRevenueColumn>
+        <ExclusionAmount>1250</ExclusionAmount>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>1250</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>1046265</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>26140</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>45075</UnrelatedBusinessRevenue>
+        <ExclusionAmount>7295</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>146454</Total>
+        <ProgramServices>146454</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <CompCurrentOfficersDirectors>
+        <Total>63914</Total>
+        <ProgramServices>37454</ProgramServices>
+        <ManagementAndGeneral>18024</ManagementAndGeneral>
+        <Fundraising>8436</Fundraising>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>182981</Total>
+        <ProgramServices>107227</ProgramServices>
+        <ManagementAndGeneral>51600</ManagementAndGeneral>
+        <Fundraising>24154</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>17000</Total>
+        <ProgramServices>9962</ProgramServices>
+        <ManagementAndGeneral>4794</ManagementAndGeneral>
+        <Fundraising>2244</Fundraising>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>27888</Total>
+        <ProgramServices>16343</ProgramServices>
+        <ManagementAndGeneral>7864</ManagementAndGeneral>
+        <Fundraising>3681</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>20201</Total>
+        <ProgramServices>11838</ProgramServices>
+        <ManagementAndGeneral>5697</ManagementAndGeneral>
+        <Fundraising>2666</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>10960</Total>
+        <ProgramServices>10960</ProgramServices>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>5175</Total>
+        <ProgramServices>5175</ProgramServices>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>169034</Total>
+        <ProgramServices>143268</ProgramServices>
+        <ManagementAndGeneral>18516</ManagementAndGeneral>
+        <Fundraising>7250</Fundraising>
+      </FeesForServicesOther>
+      <OfficeExpenses>
+        <Total>1486</Total>
+        <ProgramServices>285</ProgramServices>
+        <ManagementAndGeneral>1127</ManagementAndGeneral>
+        <Fundraising>74</Fundraising>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>15442</Total>
+        <ProgramServices>8791</ProgramServices>
+        <ManagementAndGeneral>4755</ManagementAndGeneral>
+        <Fundraising>1896</Fundraising>
+      </Occupancy>
+      <Travel>
+        <Total>126076</Total>
+        <ProgramServices>92693</ProgramServices>
+        <ManagementAndGeneral>30815</ManagementAndGeneral>
+        <Fundraising>2568</Fundraising>
+      </Travel>
+      <DepreciationDepletion>
+        <Total>4288</Total>
+        <ManagementAndGeneral>4288</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>5602</Total>
+        <ProgramServices>3283</ProgramServices>
+        <ManagementAndGeneral>1580</ManagementAndGeneral>
+        <Fundraising>739</Fundraising>
+      </Insurance>
+      <OtherExpenses>
+        <Description>TELEPHONE AND INTERNET</Description>
+        <Total>12360</Total>
+        <ProgramServices>8040</ProgramServices>
+        <ManagementAndGeneral>4293</ManagementAndGeneral>
+        <Fundraising>27</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TRAINING</Description>
+        <Total>5034</Total>
+        <ProgramServices>821</ProgramServices>
+        <ManagementAndGeneral>4118</ManagementAndGeneral>
+        <Fundraising>95</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SMALL EQUIPMENT</Description>
+        <Total>812</Total>
+        <ProgramServices>63</ProgramServices>
+        <ManagementAndGeneral>471</ManagementAndGeneral>
+        <Fundraising>278</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES AND SUBSCRIPTIONS</Description>
+        <Total>740</Total>
+        <ManagementAndGeneral>740</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK AND CREDIT CARD FE</Description>
+        <Total>167</Total>
+        <ProgramServices>105</ProgramServices>
+        <ManagementAndGeneral>62</ManagementAndGeneral>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>1100</Total>
+        <ProgramServices>500</ProgramServices>
+        <ManagementAndGeneral>600</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>816714</Total>
+        <ProgramServices>603262</ProgramServices>
+        <ManagementAndGeneral>159344</ManagementAndGeneral>
+        <Fundraising>54108</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>105047</BOY>
+        <EOY>22602</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>549058</BOY>
+        <EOY>985879</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>150000</BOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>2000</BOY>
+        <EOY>25788</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>8128</BOY>
+        <EOY>8004</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>37246</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>31314</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>8847</BOY>
+        <EOY>5932</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <TotalAssets>
+        <BOY>823080</BOY>
+        <EOY>1048205</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>1432</BOY>
+        <EOY>5563</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>14752</BOY>
+        <EOY>6195</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>16184</BOY>
+        <EOY>11758</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>386312</BOY>
+        <EOY>828724</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>420584</BOY>
+        <EOY>207723</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>806896</BOY>
+        <EOY>1036447</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>823080</BOY>
+        <EOY>1048205</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>229551</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>0</ReconcilationOtherChanges>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>0</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus4Years>501995</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>817775</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>967565</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>960770</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>717755</CurrentTaxYear>
+        <Total>3965860</Total>
+      </GiftsGrantsContribReceived170>
+      <Total170>
+        <CurrentTaxYearMinus4Years>501995</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>817775</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>967565</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>960770</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>717755</CurrentTaxYear>
+        <Total>3965860</Total>
+      </Total170>
+      <AmountsSubstContributorsTotal>1096450</AmountsSubstContributorsTotal>
+      <PublicSupportTotal170>2869410</PublicSupportTotal170>
+      <GrossInvestmentIncome170>
+        <CurrentTaxYearMinus4Years>4548</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>5115</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>9956</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>4521</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>6045</CurrentTaxYear>
+        <Total>30185</Total>
+      </GrossInvestmentIncome170>
+      <OtherIncome170>
+        <CurrentTaxYearMinus4Years>10208</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>34025</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>8308</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>22480</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>71215</CurrentTaxYear>
+        <Total>146236</Total>
+      </OtherIncome170>
+      <TotalSupport>4142281</TotalSupport>
+      <GrossReceiptsFromAdmissionsEtc>1250</GrossReceiptsFromAdmissionsEtc>
+      <PublicSupportPertcentage170>0.69270</PublicSupportPertcentage170>
+      <PublicSupportPertcentPriorYear>0.26590</PublicSupportPertcentPriorYear>
+      <ThirtyThreePercntTestsCY170>X</ThirtyThreePercntTestsCY170>
+      <FactsAndCircumstancesTest>THE ORGANIZATION RECEIVES MOST OF ITS FUNDING FROM PRIVATE FOUNDATIONS AND OTHER ORGANIZATIONS THAT RESTICT THEIR GRANTS TO 501(C)(3) ORGANIZATIONS.</FactsAndCircumstancesTest>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Equipment>
+        <OtherCostOrOtherBasis>37246</OtherCostOrOtherBasis>
+        <Depreciation>31314</Depreciation>
+        <BookValue>5932</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>5932</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>ACCRUED COMPENSATED ABSENCES</Description>
+        <Amount>6195</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>6195</TotalOfAmounts>
+      <TotalRevenue>1046265</TotalRevenue>
+      <TotalExpenses>816714</TotalExpenses>
+      <ExcessOrDeficitForYear>229551</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>229551</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>1046265</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>1046265</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>1046265</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>816714</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>816714</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>816714</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF UNCERTAIN TAX POSITIONS UNDER FIN 48:</Identifier>
+        <ReturnReference>PART X:</ReturnReference>
+        <Explanation>THE ORGANIZATION HAS BEEN GRANTED EXEMPTION FROM INCOME TAXES UNDER SECTION 501(C)(3) OF THE INTERNAL REVENUE CODE OF 1986. THE ORGANIZATION IS, HOWEVER, SUBJECT TO INCOME TAXES ON NET PROFITS GENERATED BY ACTIVITIES DEFINED AS UNRELATED BUSINESS ACTIVITIES UNDER APPLICABLE TAX LAWS.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>KENTUCKY COALITION</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO BOX 1450</AddressLine1>
+          <City>LONDON</City>
+          <State>KY</State>
+          <ZIPCode>407431450</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>311113237</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>25000</AmountOfCashGrant>
+        <PurposeOfGrant>VOTER EMPOWERMENT DATA</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>ILLINOIS COALITION FOR IMMIGRANT &amp; REFUGE</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>55 E JACKSON BLVD SUITE 2075</AddressLine1>
+          <City>CHICAGO</City>
+          <State>IL</State>
+          <ZIPCode>60604</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>363783551</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>ADVANCE STRATEGIC COMMUNICATIONS GOALS</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>IOWA CITIZENS FOR COMMUNITY IMPROVEMENT</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>2001-5 FOREST AVENUE</AddressLine1>
+          <City>DES MOINES</City>
+          <State>IA</State>
+          <ZIPCode>50311</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>421110721</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>ADVANCE STRATEGIC COMMUNICATIONS GOALS</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>ISAIAH</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>2720 E 22ND ST</AddressLine1>
+          <City>MINNEAPOLIS</City>
+          <State>MN</State>
+          <ZIPCode>55406</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>411957358</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>ADVANCE STRATEGIC COMMUNICATIONS GOALS</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>JUST CAUSECAUSA JUSTA</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO BOX 3596</AddressLine1>
+          <City>OAKLAND</City>
+          <State>CA</State>
+          <ZIPCode>94609</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>550883038</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>ADVANCE STRATEGIC COMMUNICATIONS GOALS</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>NEIGHBOR TO NEIGHBOR MASSACHUSETS EDU FUN</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>8 BEACON ST 4TH FL</AddressLine1>
+          <City>BOSTON</City>
+          <State>MA</State>
+          <ZIPCode>02108</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>043507716</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>ADVANCE STRATEGIC COMMUNICATIONS GOALS</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>NEW YORK CITY AIDS HOUSING NETWORK INC</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>80A 4TH AVE</AddressLine1>
+          <City>BROOKLYN</City>
+          <State>NY</State>
+          <ZIPCode>112171908</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>134094385</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>ADVANCE STRATEGIC COMMUNICATIONS GOALS</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>NEW YORK JOBS WITH JUSTICE</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>50 BROADWAY 24TH FLOOR</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10004</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>200559291</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>ADVANCE STRATEGIC COMMUNICATIONS GOALS</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>PEOPLE ORGANIZED TO WIN EMPLYMNT RIGHTS</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>335 SOUTH VAN NESS AVE 2ND FLOOR</AddressLine1>
+          <City>SAN FRANCISCO</City>
+          <State>CA</State>
+          <ZIPCode>94103</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>943305957</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>ADVANCE STRATEGIC COMMUNICATIONS GOALS</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>TENANTS AND WORKERS UNITEDINQUILINOS</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3801 MOUNT VERNON AVENUE</AddressLine1>
+          <City>ALEXANDRIA</City>
+          <State>VA</State>
+          <ZIPCode>22305</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>541515305</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>ADVANCE STRATEGIC COMMUNICATIONS GOALS</PurposeOfGrant>
+      </RecipientTable>
+    </IRS990ScheduleI>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>ALICE AGUILAR</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>FORMER DIRECTOR</Relationship>
+        <AmountOfTransaction>61102</AmountOfTransaction>
+        <DescriptionOfTransaction>SALARY &amp; EXPENSE REIMBURSEMENTS</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>JOSUE GUILLEN</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>FORMER DIRECTOR</Relationship>
+        <AmountOfTransaction>56500</AmountOfTransaction>
+        <DescriptionOfTransaction>SALARY &amp; EXPENSE REIMBURSEMENTS</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>CHRISTINA ROESSLER</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>FORMER DIRECTOR</Relationship>
+        <AmountOfTransaction>59125</AmountOfTransaction>
+        <DescriptionOfTransaction>CONSULTING FEE &amp; EXPENSE REIMBURSEMENTS</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>MARK SHERMAN</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>FORMER OFFICER</Relationship>
+        <AmountOfTransaction>2502</AmountOfTransaction>
+        <DescriptionOfTransaction>CONSULTING FEE &amp; EXPENSE REIMBURSEMENTS</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>A COPY OF THE FORM 990 IS REVIEWED BY THE ORGANIZATION'S AUDIT COMMITTEE PRIOR TO THE FILING OF THE RETURN.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>ALL MEMBERS OF THE BOARD AND STAFF HAVE THE DUTY TO DISCLOSE ANY CONFLICTS OF INTEREST AND SIGN A CONFLICT OF INTEREST DECLARATION EACH YEAR. ALL SUCH CONFLICTS, AS WELL AS ANY OTHER DISCOVERED, ARE INCLUDED IN THE BOARD MINUTES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15A</ReturnReference>
+        <Explanation>THE EXECUTIVE DIRECTOR'S SALARY IS REVIEWED AND APPROVED BY THE BOARD AND IS COMPARED TO DATA FROM THE MN COUNCIL OF NONPROFITS SALARY AND BENEFITS SURVEY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>ALL GOVERNING AND FINANCIAL DOCUMENTS ARE MADE AVAILABLE TO THE PUBLIC ON THE ORGANIZATION'S WEBSITE OR UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

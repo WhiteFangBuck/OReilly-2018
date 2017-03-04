@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T06:40:45-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ROLLINS &amp; ASSOCIATES LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2822 PROCTOR RD STE B</AddressLine1>
+        <City>SARASOTA</City>
+        <State>FL</State>
+        <ZIPCode>342317725</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>656322598</EIN>
+      <Name>
+        <BusinessNameLine1>LOEWE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>LOEW</NameControl>
+      <Phone>9419525299</Phone>
+      <USAddress>
+        <AddressLine1>P O BOX 25203</AddressLine1>
+        <City>SARASOTA</City>
+        <State>FL</State>
+        <ZIPCode>342772203</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CHARLES LOEWE</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>9419525299</Phone>
+      <DateSigned>2011-07-18</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>PATRICIA L ROLLINS EA CFP</Name>
+      <Phone>9419229661</Phone>
+      <DatePrepared>2011-07-19</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>19216</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>5</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>5</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>15</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>15</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc4">-2832</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>8704</GrossSalesPrice>
+        <TotalRevenueAndExpenses>-2812</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>20</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">720</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>720</AccountingFeesNetInvstIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc6">169</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>169</OtherProfFeesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>889</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>889</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>29800</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>29800</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>30689</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>889</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>29800</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-33501</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>48387</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>2565</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>2565</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc5">12321</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>16651</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>48387</TotalAssetsBOY>
+        <TotalAssetsEOY>14886</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>19216</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>48387</UnrestrictedBOY>
+        <UnrestrictedEOY>14886</UnrestrictedEOY>
+        <TotalNetAssetsBOY>48387</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>14886</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>48387</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>14886</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>48387</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-33501</ExcessOfRevenueOverExpenses>
+        <Subtotal>14886</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>14886</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>33810</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>59353</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.569643</DistributionRatioYear1>
+        <NoncharitableAssetsYear2>83313</NoncharitableAssetsYear2>
+        <NoncharitableAssetsYear3>83249</NoncharitableAssetsYear3>
+        <NoncharitableAssetsYear4>82112</NoncharitableAssetsYear4>
+        <QualifyingDistributionsYear5>1</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>66502</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.000015</DistributionRatioYear5>
+        <TotalDistributionRatio>0.569658</TotalDistributionRatio>
+        <AverageDistributionRatio>0.284829</AverageDistributionRatio>
+        <NetNoncharitableAssets>16703</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>4757</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>4757</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>29800</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>CHARLES LOEWE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9419525299</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>P O BOX 25203</AddressLine1>
+          <City>SARASOTA</City>
+          <State>FL</State>
+          <ZIPCode>342772203</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">CHARLES LOEWE</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 25203</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>342772203</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">BRENDA LISA LOEWE</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 25203</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>342772203</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>16957</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>16957</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>16957</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>254</CashDeemedCharitable>
+        <NetNoncharitableAssets>16703</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>835</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>835</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>835</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>835</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>835</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>29800</ExpensesAndContributions>
+        <QualifyingDistributions>29800</QualifyingDistributions>
+        <AdjQualifyingDistributions>29800</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>835</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear1>30842</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>30842</TotalExcessDistriCarryover>
+        <QualifyingDistributions>29800</QualifyingDistributions>
+        <AppliedToCurrentYear>835</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>28965</RemainingDistriFromCorpus>
+        <TotalCorpus>59807</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>59807</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>30842</ExcessFromYear1>
+        <ExcessFromCurrentYear>28965</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN CANCER SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 22718</AddressLine1>
+            <City>OKLAHOMA CITY</City>
+            <State>OK</State>
+            <ZIPCode>73123</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CANCER RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ANIMAL RESCUE COALITION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>47 S PALM AVE 209</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>34236</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>ADOPTION OF ANIMALS</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CANCER SUPPORT COMMUNITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5481 COMMUNICATIONS PKWY</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>34240</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CANCER SUPPORT &amp; EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHABAD OF SARASOTA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7700 BENEVA RD</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>34238</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>JEWISH HERITAGE</PurposeOfGrantOrContribution>
+          <Amount>4200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILDREN FIRST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1723 N ORANGE AVE</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>34234</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHILD GUIDANCE &amp; EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MOFFIT CANCER FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>12902 MAGNOLIA DRIVE</AddressLine1>
+            <City>TAMPA</City>
+            <State>FL</State>
+            <ZIPCode>33612</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CANCER RESEARCH &amp; EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SARA-MAN JEWISH FEDERATIO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>580 MCINTOSH RD</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>34232</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>JEWISH COMMUNITY LIFE &amp; SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SMH HLTHCARE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1515 S OSPREY AV STE B4</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>34239</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>ROCK THE ROOF CHARITY FUNDRAISER</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SMH HLTHCARE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1515 S OSPREY AVE STE B4</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>34239</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>KEYS TO THE CURE CHARITY FUNDRAISER</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE WELLNESS COMMUNITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3900 CLARK RD BLDG P3</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>34233</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CANCER SUPPORT &amp; EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>29800</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>5</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>15</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-2832</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>-2812</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-2812</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>720</Amount>
+        <NetInvestmentIncome>720</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>CHARLES LOEWE</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>BRENDA LISA LOEWE</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAsset>
+        <Name>100 PROSHARES ULTRASHORT LEHMAN BROS</Name>
+        <DateAcquired>2010-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>4351</GrossSalesPrice>
+        <Basis>4714</Basis>
+        <TotalNet>-363</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>200 PROSHARES ULTRAPRO SHORT S&amp;P 500</Name>
+        <DateAcquired>2010-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-11</DateSold>
+        <GrossSalesPrice>4353</GrossSalesPrice>
+        <Basis>6822</Basis>
+        <TotalNet>-2469</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS &amp; ETFS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>12321</BookValue>
+        <EOYFMV>16651</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT MGMNT FEES-SMITH BARN</Category>
+        <Amount>169</Amount>
+        <NetInvestmentIncome>169</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

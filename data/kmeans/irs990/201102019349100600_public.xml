@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-20T10:03:13-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>PATRICK RHODES &amp; ASSOCIATES PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>31620 23RD AVE S 218</AddressLine1>
+        <City>FEDERAL WAY</City>
+        <State>WA</State>
+        <ZIPCode>98003</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>916575918</EIN>
+      <Name>
+        <BusinessNameLine1>THE KAPLITA FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>KAPL</NameControl>
+      <Phone>4253926983</Phone>
+      <USAddress>
+        <AddressLine1>4261 206TH AVE SE</AddressLine1>
+        <City>SAMMAMISH</City>
+        <State>WA</State>
+        <ZIPCode>98075</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MICHELLE KAPLITA</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>4253926983</Phone>
+      <DateSigned>2011-06-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>KENNETH G BUSSEY</Name>
+      <Phone>2535280808</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>287156</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>70000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>55</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>55</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>4862</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>4862</DividendsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>74917</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>4917</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">734</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>734</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">150</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>150</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">100</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>984</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>884</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>13900</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>13900</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>14884</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>884</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>13900</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>60033</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>4033</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>128442</CashBOY>
+        <CashEOY>183614</CashEOY>
+        <CashEOYFMV>183614</CashEOYFMV>
+        <InvestmentsOtherBOY>97865</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">102731</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>103542</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>226307</TotalAssetsBOY>
+        <TotalAssetsEOY>286345</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>287156</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>226307</RetainedEarningsBOY>
+        <RetainedEarningsEOY>286345</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>226307</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>286345</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>226307</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>286345</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>226307</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>60033</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">5</OtherIncreases>
+        <Subtotal>286345</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>286345</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>14835</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>141977</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.104489</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>7400</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>89519</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.082664</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>20060</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>40698</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.492899</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>0</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>23518</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.0</DistributionRatioYear4>
+        <TotalDistributionRatio>0.680052</TotalDistributionRatio>
+        <AverageDistributionRatio>0.170013</AverageDistributionRatio>
+        <NetNoncharitableAssets>216842</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>36866</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>40</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>36906</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>13900</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>81</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>81</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>81</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>81</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>WA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MICHELLE KAPLITA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4253926983</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>4261 206TH AVE SE</AddressLine1>
+          <City>SAMMAMISH</City>
+          <State>WA</State>
+          <ZIPCode>98075</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHELLE KAPLITA</PersonName>
+          <USAddress>
+            <AddressLine1>5261 206TH AVE SE</AddressLine1>
+            <City>SAMMAMISH</City>
+            <State>WA</State>
+            <ZIPCode>98075</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>97637</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>122507</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>220144</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>220144</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3302</CashDeemedCharitable>
+        <NetNoncharitableAssets>216842</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>10842</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>10842</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>81</TaxBasedOnInvestmentIncome>
+        <TotalTax>81</TotalTax>
+        <DistributableAmountBeforeAdj>10761</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>10761</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>10761</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>13900</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>13900</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>13900</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>10761</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear3>18019</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>3042</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>7812</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>28873</TotalExcessDistriCarryover>
+        <QualifyingDistributions>13900</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>10761</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>3139</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>32012</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>32012</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>18019</ExcessFromYear3>
+        <ExcessFromYear2>3042</ExcessFromYear2>
+        <ExcessFromYear1>7812</ExcessFromYear1>
+        <ExcessFromCurrentYear>3139</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>MICHELLE KAPLITA</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AUTISM SPEAKS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5455 WILSHIRE BOULEVARD SUITE 2250</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90036</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CALIFORNIA ACADEMY OF SCIENCES WILLIAM PATTERSON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>55 MUSIC CONCOURSE DRIVE</AddressLine1>
+            <City>SAN FRANCISCO</City>
+            <State>CA</State>
+            <ZIPCode>94118</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CREEKSIDE PTSA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3200 228TH AVE SE</AddressLine1>
+            <City>SAMMAMISH</City>
+            <State>WA</State>
+            <ZIPCode>98075</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ISSAQUAH SCHOOLS FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 835</AddressLine1>
+            <City>ISSAQUAH</City>
+            <State>WA</State>
+            <ZIPCode>98027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KENNETT ATHLETIC BOOSTER CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 E SOUTH ST ROOM 102</AddressLine1>
+            <City>KENNETT SQUARE</City>
+            <State>PA</State>
+            <ZIPCode>19348</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RENSSELAER POLYTECHNIC INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>OFFICE OF ADVANCEMENT HEDLEY BLDG</AddressLine1>
+            <AddressLine2>110 8TH ST</AddressLine2>
+            <City>TROY</City>
+            <State>NY</State>
+            <ZIPCode>12180</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HOUSING FUND</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAMMAMISH PRESBYTERIAN CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>22522 NE INGLEWOOD HILL ROAD</AddressLine1>
+            <City>SAMMAMISH</City>
+            <State>WA</State>
+            <ZIPCode>98074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MINISTRY</PurposeOfGrantOrContribution>
+          <Amount>4500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STANFORD GRADUATE SCHOOL OF BUSINESS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>OFFICE OF DEVELOPMENT 518 MEMORIAL</AddressLine1>
+            <AddressLine2>WAY ROOM S235</AddressLine2>
+            <City>STANFORD</City>
+            <State>CA</State>
+            <ZIPCode>94395</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>NEW CURRICULUM AND BUILDING CONSTRUCTION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>13900</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>55</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>4862</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>4917</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>4917</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>STAN KAPLITA</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>4261 206TH AVE SE</AddressLine1>
+          <City>SAMMAMISH</City>
+          <State>WA</State>
+          <ZIPCode>98075</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>70000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>734</Amount>
+        <NetInvestmentIncome>734</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>LOOMIS SAYLES STRATEGIC INCOME FUND CLASS C</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>102731</BookValue>
+        <EOYFMV>103542</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>MISCELLANEOUS</Description>
+        <Amount>5</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>EMA ANNUAL FEE</Category>
+        <Amount>150</Amount>
+        <NetInvestmentIncome>150</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributor>
+        <PersonName>STANLEY C KAPLITA</PersonName>
+        <USAddress>
+          <AddressLine1>4261 206TH AVE SE</AddressLine1>
+          <City>SAMMAMISH</City>
+          <State>WA</State>
+          <ZIPCode>98075</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

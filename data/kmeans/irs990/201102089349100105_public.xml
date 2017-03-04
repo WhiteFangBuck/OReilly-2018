@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-27T10:42:24-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Brimmer Burek &amp; Keelan LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>5601 Mariner Street Suite 200</AddressLine1>
+        <City>Tampa</City>
+        <State>FL</State>
+        <ZIPCode>33609</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>262962396</EIN>
+      <Name>
+        <BusinessNameLine1>The Better Us Foundation Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>BETT</NameControl>
+      <Phone>8133520093</Phone>
+      <USAddress>
+        <AddressLine1>27251 SR 54</AddressLine1>
+        <City>Wesley Chapel</City>
+        <State>FL</State>
+        <ZIPCode>33544</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Stylez G White</Name>
+      <Title>President</Title>
+      <DateSigned>2011-07-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Francis D Lagor</Name>
+      <Phone>8132823400</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation ReasonableCauseExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1095</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>11407</ContriReceivedRevAndExpnss>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesLessReturnsAndAllwnc>602</GrossSalesLessReturnsAndAllwnc>
+        <CostOfGoodsSold>1892</CostOfGoodsSold>
+        <GrossProfitRevAndExpnss referenceDocumentId=" SalesOfInventorySchedule">-1290</GrossProfitRevAndExpnss>
+        <GrossProfitAdjNetIncm>-1290</GrossProfitAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">13849</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>23966</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>-1290</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">2271</LegalFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <PrintingAndPubRevAndExpnss>353</PrintingAndPubRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">17957</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>20581</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>1700</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>1700</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>22281</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>1700</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>1685</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1579</CashBOY>
+        <CashEOY>1095</CashEOY>
+        <CashEOYFMV>1095</CashEOYFMV>
+        <TotalAssetsBOY>1579</TotalAssetsBOY>
+        <TotalAssetsEOY>1095</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1095</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId=" OtherLiabilitiesSchedule">2186</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId=" OtherLiabilitiesSchedule">17</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>2186</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>17</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>-607</UnrestrictedBOY>
+        <UnrestrictedEOY>1078</UnrestrictedEOY>
+        <TotalNetAssetsBOY>-607</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1078</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1579</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1095</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>-607</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>1685</ExcessOfRevenueOverExpenses>
+        <Subtotal>1078</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1078</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId=" SubstantialContributorsSchedul">true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>www.juststylez.com/foundation</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Elisabeth Nattiel</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8133520093</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>27251 SR 54 414</AddressLine1>
+          <City>Tampa</City>
+          <State>FL</State>
+          <ZIPCode>33544</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Elisabeth Nattiel</PersonName>
+          <USAddress>
+            <AddressLine1>5648 Spectacular Bid Dr</AddressLine1>
+            <City>Wesley Chapel</City>
+            <State>FL</State>
+            <ZIPCode>33544</ZIPCode>
+          </USAddress>
+          <Title>Secretary/Treas</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Matt Martone</PersonName>
+          <USAddress>
+            <AddressLine1>793 Kearney Avenue 1st Floor</AddressLine1>
+            <City>Kearney</City>
+            <State>NJ</State>
+            <ZIPCode>07032</ZIPCode>
+          </USAddress>
+          <Title>V. President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Stylez G White</PersonName>
+          <USAddress>
+            <AddressLine1>27251 SR 54 414</AddressLine1>
+            <City>Wesley Chapel</City>
+            <State>FL</State>
+            <ZIPCode>33544</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>The charitable purpose of The Better Us Foundation (BUF) is to provide qualifying distributions which include (i) grants to public charities and private operating foundations that are not controlled by the BUF and (ii) direct expenditures for charitable purposes, which may include amounts paid for administrative expenses and for the acquisition of assets that will be used for its charitable purposes. The initial emphasis of the Foundation will be to contribute funds to qualified charities that enhance the lives of needy or at-risk middle school aged children.</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>2853</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>2853</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>2853</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>43</CashDeemedCharitable>
+        <NetNoncharitableAssets>2810</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>141</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>141</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>141</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>141</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>141</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>1700</ExpensesAndContributions>
+        <QualifyingDistributions>1700</QualifyingDistributions>
+        <AdjQualifyingDistributions>1700</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>141</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>88</UndistributedIncomePriorYear>
+        <QualifyingDistributions>1700</QualifyingDistributions>
+        <AppliedToYear1>88</AppliedToYear1>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>141</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>1471</RemainingDistriFromCorpus>
+        <TotalCorpus>1471</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>1471</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>1471</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Stylez G White</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>Elisabeth Nattiel</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>27251 SR 54 414</AddressLine1>
+            <City>Wesley Chapel</City>
+            <State>FL</State>
+            <ZIPCode>33544</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>8133520093</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>Letter explaining the charitable purpose of the funds requested</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>None</SubmissionDeadlines>
+          <RestrictionsOnAwards>The purpose of the request should be to enhance the lives of needy or at-risk middle school aged children.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Boys Girls Club of Tampa Bay</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1307 N MacDill Avenue</AddressLine1>
+            <City>Tampa</City>
+            <State>FL</State>
+            <ZIPCode>33607</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Pub char</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Support programs for youth.</PurposeOfGrantOrContribution>
+          <Amount>1700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>1700</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <NetIncomeLossFromSpecialEvents>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>1928</ExclusionAmount>
+        </NetIncomeLossFromSpecialEvents>
+        <GrossProfitLossSalesOfInvntry>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>-1290</ExclusionAmount>
+        </GrossProfitLossSalesOfInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>638</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>638</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>The Rebein Law Firm PLLC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>1201 N Clearwater Avenue</AddressLine1>
+          <City>Tampa</City>
+          <State>FL</State>
+          <ZIPCode>33607</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>5000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Stylez G White</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>27251 SR 54 414</AddressLine1>
+          <City>Wesley Chapel</City>
+          <State>FL</State>
+          <ZIPCode>33544</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>11712</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>13 Skybox Football Tickets (valued at cost of non-luxury tickets)</NoncashPropertyDescription>
+        <FairMarketValue>5135</FairMarketValue>
+        <DateReceived>2010-12-31</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>Legal Fees</Category>
+        <Amount>2271</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Website Services</Description>
+        <RevenueAndExpensesPerBooks>315</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Special Event Expenses</Description>
+        <RevenueAndExpensesPerBooks>11921</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Postage</Description>
+        <RevenueAndExpensesPerBooks>21</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Paypal Fees</Description>
+        <RevenueAndExpensesPerBooks>11</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Office Expense</Description>
+        <RevenueAndExpensesPerBooks>164</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Marketing Expense - Fundraising</Description>
+        <RevenueAndExpensesPerBooks>4926</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank &amp; Credit Card Fees</Description>
+        <RevenueAndExpensesPerBooks>455</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Auto Expense - Gas</Description>
+        <RevenueAndExpensesPerBooks>83</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Annual Filing Fee</Description>
+        <RevenueAndExpensesPerBooks>61</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>Income From Special Events</Description>
+        <RevenueAndExpensesPerBooks>13849</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherLiabilities>
+        <Description>Sales Tax</Description>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Expenses paid on behalf of Foundation</Description>
+        <BOYBookValue>2186</BOYBookValue>
+        <EOYBookValue>17</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <ReasonableCauseExplanation documentId="ReasonableCauseExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <Explanation>This is a small tax exempt organization which had gross receipts of less than $25,000 and total assets of less than $10,000. At the end of the year, the total assets were only $1,095. The directors did not realize that the exemption from the filing requirement for Form 990 (other than the e-Postcard) for small tax exempt organizations did not apply to a private foundation filing a Form 990-PF. The directors had relied upon professional advisors regarding the application for tax exempt status and the filing requirements for a private foundation. As soon as they became aware of the filing requirements, the Form 990-PF was prepared for tax years 2009 and 2010. Please consider this as reasonable cause for the late filing of the return and waiver of the late penalties. Your consideration of this request will be appreciated.</Explanation>
+    </ReasonableCauseExplanation>
+    <SalesOfInventoryList documentId="SalesOfInventorySchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <SaleOfInventory>
+        <Category>T-shirt sales</Category>
+        <GrossSales>602</GrossSales>
+        <CostOfGoodsSold>1892</CostOfGoodsSold>
+        <Net>-1290</Net>
+      </SaleOfInventory>
+    </SalesOfInventoryList>
+    <SubstantialContributorsSch documentId="SubstantialContributorsSchedul" softwareId="10000105" softwareVersion="2010v3.2">
+      <SubstantialContributor>
+        <PersonName>Stylez G White</PersonName>
+        <USAddress>
+          <AddressLine1>27251 SR 54 414</AddressLine1>
+          <City>Wesley Chapel</City>
+          <State>FL</State>
+          <ZIPCode>33544</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

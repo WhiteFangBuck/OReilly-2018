@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-27T08:45:44-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MCGINNIS &amp; BERGER LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 1496</AddressLine1>
+        <City>WIMBERLEY</City>
+        <State>TX</State>
+        <ZIPCode>78676</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>911845941</EIN>
+      <Name>
+        <BusinessNameLine1>HEARING HEALTH INTERNATIONAL INSTITUTE</BusinessNameLine1>
+      </Name>
+      <NameControl>HEAR</NameControl>
+      <Phone>5128580300</Phone>
+      <USAddress>
+        <AddressLine1>25817 NE 3RD STREET</AddressLine1>
+        <City>CAMAS</City>
+        <State>WA</State>
+        <ZIPCode>98607</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RANDY SCHOENBORN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>5128580300</Phone>
+      <DateSigned>2011-05-12</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MARC A BERGER CPA</Name>
+      <Phone>5123948020</Phone>
+      <DatePrepared>2011-07-27</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>27719</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>13934</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>220</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>220</InterestOnSavingsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>14154</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>220</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">1120</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>560</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>560</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">215</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>108</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>107</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1335</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>668</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>667</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1835</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>668</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>1167</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>12319</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>9782</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>21639</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>21639</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>6080</AccountsReceivable>
+        <AccountsReceivableBOY>5618</AccountsReceivableBOY>
+        <AccountsReceivableEOY>6080</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>6080</AccountsReceivableEOYFMV>
+        <TotalAssetsBOY>15400</TotalAssetsBOY>
+        <TotalAssetsEOY>27719</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>27719</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>15400</RetainedEarningsBOY>
+        <RetainedEarningsEOY>27719</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>15400</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>27719</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>15400</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>27719</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>15400</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>12319</ExcessOfRevenueOverExpenses>
+        <Subtotal>27719</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>27719</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>14921</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>8528</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>1.749648</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>2645</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>6922</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.382115</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>11740</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2844</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>4.127989</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>9717</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>8879</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>1.094380</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>11340</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>11230</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>1.009795</DistributionRatioYear5>
+        <TotalDistributionRatio>8.363927</TotalDistributionRatio>
+        <AverageDistributionRatio>1.672785</AverageDistributionRatio>
+        <NetNoncharitableAssets>17632</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>29495</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>29495</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>1167</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>RANDY SCHOENBORN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5128580300</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>26222 RANCH ROAD 12</AddressLine1>
+          <City>DRIPPING SPRINGS</City>
+          <State>TX</State>
+          <ZIPCode>78620</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RANDY SCHOENBORN</PersonName>
+          <USAddress>
+            <AddressLine1>206 SUNDANCE TRAIL</AddressLine1>
+            <City>DRIPPING SPRINGS</City>
+            <State>TX</State>
+            <ZIPCode>78620</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JILL SCHOENBORN</PersonName>
+          <USAddress>
+            <AddressLine1>206 SUNDANCE TRAIL</AddressLine1>
+            <City>DRIPPING SPRINGS</City>
+            <State>TX</State>
+            <ZIPCode>78620</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JANET MARTIN</PersonName>
+          <USAddress>
+            <AddressLine1>152 S 1ST ST</AddressLine1>
+            <City>ST HELENS</City>
+            <State>OR</State>
+            <ZIPCode>97051</ZIPCode>
+          </USAddress>
+          <Title>SEC/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CATHY MCLEAN</PersonName>
+          <USAddress>
+            <AddressLine1>834 STEARMAN</AddressLine1>
+            <City>INDEPENDENCE</City>
+            <State>OR</State>
+            <ZIPCode>97351</ZIPCode>
+          </USAddress>
+          <Title>TREAS/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HARLAN CONKEY</PersonName>
+          <USAddress>
+            <AddressLine1>44524 SAINT ANDREWS PLACE</AddressLine1>
+            <City>INDIO</City>
+            <State>CA</State>
+            <ZIPCode>92201</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RYAN SCHOENBORN</PersonName>
+          <USAddress>
+            <AddressLine1>206 SUNDANCE TRAIL</AddressLine1>
+            <City>DRIPPING SPRINGS</City>
+            <State>TX</State>
+            <ZIPCode>78620</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>17901</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>17901</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>17901</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>269</CashDeemedCharitable>
+        <NetNoncharitableAssets>17632</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>882</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>882</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>882</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>882</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>882</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>1167</ExpensesAndContributions>
+        <QualifyingDistributions>1167</QualifyingDistributions>
+        <AdjQualifyingDistributions>1167</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>882</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>10778</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>9273</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>11740</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>2645</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>14921</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>49357</TotalExcessDistriCarryover>
+        <QualifyingDistributions>1167</QualifyingDistributions>
+        <AppliedToCurrentYear>882</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>285</RemainingDistriFromCorpus>
+        <TotalCorpus>49642</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>10778</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>38864</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>9273</ExcessFromYear4>
+        <ExcessFromYear3>11740</ExcessFromYear3>
+        <ExcessFromYear2>2645</ExcessFromYear2>
+        <ExcessFromYear1>14921</ExcessFromYear1>
+        <ExcessFromCurrentYear>285</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NA</ContributingManager>
+        <ShareholderManager>NA</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STARKEY FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6700 WASHINGTON AVE SOUTH</AddressLine1>
+            <City>EDEN PRARIE</City>
+            <State>MN</State>
+            <ZIPCode>55344</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEARING AIDS FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>220</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>220</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>220</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFees>
+        <Category>MCGINNIS&amp;BERGER,LLP ACCOUNTING FEES</Category>
+        <Amount>1120</Amount>
+        <NetInvestmentIncome>560</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>560</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="00000003">
+      <OtherExpenses>
+        <Description>REGISTERED AGENT FEES</Description>
+        <RevenueAndExpensesPerBooks>145</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>73</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>72</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>70</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>35</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>35</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

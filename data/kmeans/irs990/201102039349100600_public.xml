@@ -1,0 +1,606 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-22T11:30:52-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>E COHEN AND COMPANY CPAS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>ONE RESEARCH COURT SUITE 101</AddressLine1>
+        <City>ROCKVILLE</City>
+        <State>MD</State>
+        <ZIPCode>20850</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>522183420</EIN>
+      <Name>
+        <BusinessNameLine1>TEACHERS COUNCIL INC</BusinessNameLine1>
+        <BusinessNameLine2>FORMERLY COUNCIL FOR INT'L TRNG AND STUD</BusinessNameLine2>
+      </Name>
+      <NameControl>TEAC</NameControl>
+      <Phone>4109904412</Phone>
+      <USAddress>
+        <AddressLine1>77 WEST STREET NO 210</AddressLine1>
+        <City>ANNAPOLIS</City>
+        <State>MD</State>
+        <ZIPCode>21401</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>KATE WEAVER</Name>
+      <Title>TREASURER</Title>
+      <Phone>4102686608</Phone>
+      <DateSigned>2011-07-14</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>ALEX BRAGER CPA</Name>
+      <Phone>3019176200</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="11">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>271429</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>804</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>804</InterestOnSavingsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">435301</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>436105</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>804</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>63248</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>63248</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>106426</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>106426</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">14732</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>14732</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">4000</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>4000</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">27669</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>0</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>27669</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">16539</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>16539</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc2203000001">810</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <TravConfMeetingRevAndExpnss>12986</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingDsbrsChrtblPrps>12986</TravConfMeetingDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>379</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubNetInvstIncm>0</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubDsbrsChrtblPrps>379</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">133429</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>133429</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>380218</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>379408</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>2500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>2500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>382718</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>381908</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>53387</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>804</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>23193</CashBOY>
+        <CashEOY>20843</CashEOY>
+        <CashEOYFMV>20843</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>63033</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>128837</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>128837</SavingsAndTempCashInvstEOYFMV>
+        <LandBuildingAndEquipmentBasis>116366</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>5155</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>112021</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc2059000001">111211</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>111211</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">15390</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">10538</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">10538</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>213637</TotalAssetsBOY>
+        <TotalAssetsEOY>271429</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>271429</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">12000</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">16405</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>12000</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>16405</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>201637</UnrestrictedBOY>
+        <UnrestrictedEOY>255024</UnrestrictedEOY>
+        <TotalNetAssetsBOY>201637</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>255024</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>213637</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>271429</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>201637</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>53387</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>255024</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>255024</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>893965</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>263037</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>3.398628</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>894399</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>53024</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>16.867815</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>687281</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>276246</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>2.487931</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>221996</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>96102</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>2.310004</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>0</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>0</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.0</DistributionRatioYear5>
+        <TotalDistributionRatio>25.064378</TotalDistributionRatio>
+        <AverageDistributionRatio>5.012876</AverageDistributionRatio>
+        <NetNoncharitableAssets>142050</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>712079</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>8</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>712087</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>381908</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>16</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>16</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>16</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>16</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MD</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.TEACHERSCOUNCIL.ORG</WebsiteAddress>
+        <BooksInCareOfPersonName>MS KATE WEAVER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4102686608</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>THE CORPORATE ADDRESS</AddressLine1>
+          <City>ANNAPOLIS</City>
+          <State>MD</State>
+          <ZIPCode>21401</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JENNA YANG</PersonName>
+          <USAddress>
+            <AddressLine1>77 WEST STREET</AddressLine1>
+            <City>ANNAPOLIS</City>
+            <State>MD</State>
+            <ZIPCode>21401</ZIPCode>
+          </USAddress>
+          <Title>VICE-PRESIDENT, DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>63248</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JENNINE DENNIS</PersonName>
+          <USAddress>
+            <AddressLine1>77 WEST STREET</AddressLine1>
+            <City>ANNAPOLIS</City>
+            <State>MD</State>
+            <ZIPCode>21401</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KATE WEAVER</PersonName>
+          <USAddress>
+            <AddressLine1>77 WEST STREET</AddressLine1>
+            <City>ANNAPOLIS</City>
+            <State>MD</State>
+            <ZIPCode>21401</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>15.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>A CHARITABLE DISTRIBUTION WAS MADE TO THE LEUKEMIA &amp; LYMPHOMA SOCIETY. THIS GRANT WAS MADE FOR THE PURPOSE OF SUPPORTING THE EDUCATION SERVICES OFFERED BY THE RECIPIENT ORGANIZATION.</Description1>
+        <Expenses1>2500</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>144213</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>144213</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>144213</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2163</CashDeemedCharitable>
+        <NetNoncharitableAssets>142050</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>7103</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>7103</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>16</TaxBasedOnInvestmentIncome>
+        <TotalTax>16</TotalTax>
+        <DistributableAmountBeforeAdj>7087</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>7087</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>7087</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>381908</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>381908</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>381908</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>7087</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>94568</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>217205</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>673693</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>891748</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>880903</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>2758117</TotalExcessDistriCarryover>
+        <QualifyingDistributions>381908</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>7087</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>374821</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>3132938</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>94568</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>3038370</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>217205</ExcessFromYear4>
+        <ExcessFromYear3>673693</ExcessFromYear3>
+        <ExcessFromYear2>891748</ExcessFromYear2>
+        <ExcessFromYear1>880903</ExcessFromYear1>
+        <ExcessFromCurrentYear>374821</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEUKEMIA &amp; LYMPHOMA SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1311 MAMARONECK AVENUE SUITE 310</AddressLine1>
+            <City>WHITE PLAINS</City>
+            <State>NY</State>
+            <ZIPCode>10605</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>IN SUPPORT OF THE EDUCATION SERVICES OFFERED BY THE RECIPIENT.</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>2500</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>FEE INCOME</Description>
+          <RelatedOrExemptFunctionIncome>435301</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>804</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>804</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>435301</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>436105</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>FEE INCOME COVERS THE EXPENSES ASSOCIATED WITH LOCATING, RECRUITING, AND PLACING INTERNATIONAL EDUCATORS IN U.S. SCHOOLS. FEES COVER LEGAL COSTS FOR IMMIGRATION PROCESSING FOR INTERNATIONAL EDUCATORS, EDUCATIONAL SEMINARS AND CONFERENCES, INTERNATIONAL OUTREACH, OFFICE ADMINISTRATION AND STAFF WAGES.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>4000</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>4000</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <Depreciation>
+        <DescriptionOfProperty>LAPTOPS</DescriptionOfProperty>
+        <DateAcquired>2008-12-12</DateAcquired>
+        <CostOrOtherBasis>2750</CostOrOtherBasis>
+        <PriorYearsDepreciation>592</PriorYearsDepreciation>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>314</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER</DescriptionOfProperty>
+        <DateAcquired>2008-05-02</DateAcquired>
+        <CostOrOtherBasis>1185</CostOrOtherBasis>
+        <PriorYearsDepreciation>326</PriorYearsDepreciation>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>107</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LAND</DescriptionOfProperty>
+        <DateAcquired>2004-07-01</DateAcquired>
+        <CostOrOtherBasis>110000</CostOrOtherBasis>
+        <ComputationMethod>L</ComputationMethod>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER</DescriptionOfProperty>
+        <DateAcquired>2009-01-02</DateAcquired>
+        <CostOrOtherBasis>2431</CostOrOtherBasis>
+        <PriorYearsDepreciation>243</PriorYearsDepreciation>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>389</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtc>
+        <CategoryOrItem>LAPTOPS</CategoryOrItem>
+        <CostOrOtherBasis>2750</CostOrOtherBasis>
+        <AccumulatedDepreciation>2281</AccumulatedDepreciation>
+        <BookValue>469</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>COMPUTER</CategoryOrItem>
+        <CostOrOtherBasis>1185</CostOrOtherBasis>
+        <AccumulatedDepreciation>1026</AccumulatedDepreciation>
+        <BookValue>159</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>LAND</CategoryOrItem>
+        <CostOrOtherBasis>110000</CostOrOtherBasis>
+        <AccumulatedDepreciation>0</AccumulatedDepreciation>
+        <BookValue>110000</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>COMPUTER</CategoryOrItem>
+        <CostOrOtherBasis>2431</CostOrOtherBasis>
+        <AccumulatedDepreciation>1848</AccumulatedDepreciation>
+        <BookValue>583</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>14732</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>14732</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>ADVANCE</Description>
+        <BOYBookValue>6703</BOYBookValue>
+        <EOYBookValue>2000</EOYBookValue>
+        <EOYFMV>2000</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>DUE FROM AMERICA WORK VISA</Description>
+        <BOYBookValue>8447</BOYBookValue>
+        <EOYBookValue>8538</EOYBookValue>
+        <EOYFMV>8538</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>DUE FROM TEACHER SERVICES</Description>
+        <BOYBookValue>240</BOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>ADVERTISING</Description>
+        <RevenueAndExpensesPerBooks>556</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>556</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK AND CREDIT CARD CHARGES</Description>
+        <RevenueAndExpensesPerBooks>3297</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>3297</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES AND SUBSCRIPTIONS</Description>
+        <RevenueAndExpensesPerBooks>826</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>826</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EDUCATION EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>2409</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>2409</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>95505</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>95505</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>931</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>931</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>333</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>333</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE &amp; DELIVERY</Description>
+        <RevenueAndExpensesPerBooks>5832</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>5832</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROMOTIONS AND ENTERTAINMENTS</Description>
+        <RevenueAndExpensesPerBooks>4117</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>4117</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>123</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>123</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TRANSLATION SERVICES</Description>
+        <RevenueAndExpensesPerBooks>19500</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>19500</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>FEE INCOME</Description>
+        <RevenueAndExpensesPerBooks>435301</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>435301</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>DUE TO JACOB FAMILY TRUST</Description>
+        <BOYBookValue>12000</BOYBookValue>
+        <EOYBookValue>16405</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>CONSULTING FEES</Category>
+        <Amount>27669</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>27669</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>PAYROLL</Category>
+        <Amount>15924</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>15924</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>OTHER</Category>
+        <Amount>615</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>615</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

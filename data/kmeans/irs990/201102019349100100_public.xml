@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-20T08:15:05-04:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>WOLF &amp; COMPANY PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>99 HIGH STREET 21ST FLOOR</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>02110</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>043422869</EIN>
+      <Name>
+        <BusinessNameLine1>Florence Savings Charitable Foundation Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>FLOR</NameControl>
+      <Phone>4135871761</Phone>
+      <USAddress>
+        <AddressLine1>85 Main Street</AddressLine1>
+        <City>Florence</City>
+        <State>MA</State>
+        <ZIPCode>01062</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Kevin R Day</Name>
+      <Title>Treasurer</Title>
+      <Phone>4135871761</Phone>
+      <DateSigned>2011-07-07</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jana B Bacon CPA</Name>
+      <Phone>6174399700</Phone>
+      <DatePrepared>2011-06-29</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1382109</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>0</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>76000</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>76000</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>0</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>2218</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>106188</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>2218</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>78218</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>78218</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>0</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSch">2000</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>2000</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">3000</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>3000</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>5000</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>5000</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>50000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>50000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>55000</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>55000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>23218</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>78218</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>30965</CashBOY>
+        <CashEOY>11109</CashEOY>
+        <CashEOYFMV>11109</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>0</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>0</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>0</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpBondsBOY>1177923</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="InvestCorpBondsSch">1367000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>1367000</InvestmentsCorpBondsEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="OtherAssetsSch">6000</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="OtherAssetsSch">4000</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="OtherAssetsSch">4000</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>1214888</TotalAssetsBOY>
+        <TotalAssetsEOY>1382109</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1382109</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>0</AccountsPayableBOY>
+        <AccountsPayableEOY>0</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>1214888</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1382109</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1214888</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1382109</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1214888</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1382109</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1214888</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>23218</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="OtherIncreasesSch">144003</OtherIncreases>
+        <Subtotal>1382109</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1382109</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SALE OF SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>106482</GrossSalesPrice>
+          <CostOrOtherBasis>104264</CostOrOtherBasis>
+          <GainOrLoss>2218</GainOrLoss>
+          <GainsMinusExcessOrLosses>2218</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>2218</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>62270</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1144553</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.054406</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>67566</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1201502</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.056235</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>72157</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1347545</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.053547</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>53008</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1380958</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.038385</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>65437</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1411478</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.046361</DistributionRatioYear5>
+        <TotalDistributionRatio>0.248934</TotalDistributionRatio>
+        <AverageDistributionRatio>0.049787</AverageDistributionRatio>
+        <NetNoncharitableAssets>1339407</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>66685</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>782</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>67467</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>55000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1564</InvestmentIncomeExciseTax>
+        <Subtotal>1564</Subtotal>
+        <TaxBasedOnInvestmentIncome>1564</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>781</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>781</TotalCreditsAndPayments>
+        <TaxDue>783</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>SARAH DARLING</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4135871761</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>85 MAIN STREET</AddressLine1>
+          <City>FLORENCE</City>
+          <State>MA</State>
+          <ZIPCode>01062</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN F HEAPS JR</PersonName>
+          <USAddress>
+            <AddressLine1>65 ENGLEWOOD ROAD</AddressLine1>
+            <City>LONGMEADOW</City>
+            <State>MA</State>
+            <ZIPCode>01106</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KEVIN R DAY</PersonName>
+          <USAddress>
+            <AddressLine1>10 FOX RUN</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DOUGLAS H BURR</PersonName>
+          <USAddress>
+            <AddressLine1>1339 TINKHAM ROAD</AddressLine1>
+            <City>WILBRAHAM</City>
+            <State>MA</State>
+            <ZIPCode>01095</ZIPCode>
+          </USAddress>
+          <Title>CLERK</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID W ALVORD</PersonName>
+          <USAddress>
+            <AddressLine1>276 EAST MAIN STREET</AddressLine1>
+            <City>PLAINVILLE</City>
+            <State>MA</State>
+            <ZIPCode>01070</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT F BORAWSKI</PersonName>
+          <USAddress>
+            <AddressLine1>441 KENNEDY RD</AddressLine1>
+            <City>LEEDS</City>
+            <State>MA</State>
+            <ZIPCode>01053</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS C MCCARTHY</PersonName>
+          <USAddress>
+            <AddressLine1>325 MAIN STREET</AddressLine1>
+            <City>EASTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01027</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY ELLEN NILES HOWARD</PersonName>
+          <USAddress>
+            <AddressLine1>305 RYAN ROAD</AddressLine1>
+            <City>FLORENCE</City>
+            <State>MA</State>
+            <ZIPCode>01062</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NO DIRECT ACTIVITIES</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1359804</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1359804</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1359804</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>20397</CashDeemedCharitable>
+        <NetNoncharitableAssets>1339407</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>66970</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>66970</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1564</TaxBasedOnInvestmentIncome>
+        <TotalTax>1564</TotalTax>
+        <DistributableAmountBeforeAdj>65406</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>65406</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>65406</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>55000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>55000</QualifyingDistributions>
+        <AdjQualifyingDistributions>55000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>65406</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear3>6356</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>8937</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>6502</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>21795</TotalExcessDistriCarryover>
+        <QualifyingDistributions>55000</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToCurrentYear>55000</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>10406</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>10406</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>11389</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>11389</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>0</ExcessFromYear4>
+        <ExcessFromYear2>4887</ExcessFromYear2>
+        <ExcessFromYear1>6502</ExcessFromYear1>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>NA</ContributingManager>
+        <ShareholderManager>NA</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>Sarah Darling</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>85 Main Street</AddressLine1>
+            <City>Florence</City>
+            <State>MA</State>
+            <ZIPCode>01062</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4135871761</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATION AVAILABLE AT ABOVE ADDRESS</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>SEE APPLICATION FOR DEADLINES</SubmissionDeadlines>
+          <RestrictionsOnAwards>ONLY TAX EXEMPT ORGANIZATIONS THAT QUALIFY AS SECTION 501(C)(3) ENTITY IN THE GREATER NORTHAMPTON AREA.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COOLEY DICKINSON HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>30 LOCUST STREET</AddressLine1>
+            <City>NORTHAMPTON</City>
+            <State>MA</State>
+            <ZIPCode>01060</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NOT RELATED</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CAPITAL CAMPAIGN CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>50000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst />
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>76000</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>2218</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>78218</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>78218</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFees>
+        <Category>TAX PREP FEES</Category>
+        <Amount>2000</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2000</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpBondsSchedule documentId="InvestCorpBondsSch">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>1367000</EOYBookValue>
+        <EOYFMV>1367000</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssets>
+        <Description>ACCRUED INTEREST RECEIVABLE</Description>
+        <BOYBookValue>6000</BOYBookValue>
+        <EOYBookValue>4000</EOYBookValue>
+        <EOYFMV>4000</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>MISC EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>3000</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3000</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreases>
+        <Description>CHANGE IN UNREALIZED GAINS/LOSSES</Description>
+        <Amount>144003</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

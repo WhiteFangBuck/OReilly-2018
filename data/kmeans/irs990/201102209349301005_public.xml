@@ -1,0 +1,911 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T11:00:59-04:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ERNST &amp; YOUNG US LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>111 MONUMENT CIRCLE</AddressLine1>
+        <City>INDIANAPOLIS</City>
+        <State>IN</State>
+        <ZIPCode>46204</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>043320640</EIN>
+      <Name>
+        <BusinessNameLine1>Dana-FarberPartners Cancer Care Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>DANA</NameControl>
+      <Phone>6176323000</Phone>
+      <USAddress>
+        <AddressLine1>450 Brookline Ave BP372</AddressLine1>
+        <City>Boston</City>
+        <State>MA</State>
+        <ZIPCode>02215</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DOROTHY PUHY</Name>
+      <Title>CAO</Title>
+      <DateSigned>2011-08-05</DateSigned>
+    </Officer>
+    <Preparer>
+      <Phone>3176817000</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO">
+      <AddressChange>X</AddressChange>
+      <NameOfPrincipalOfficerPerson>Edward J Benz Jr MD</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>450 Brookline Ave</AddressLine1>
+        <City>Boston</City>
+        <State>MA</State>
+        <ZIPCode>02215</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>29456528</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>www.cancercare.harvard.edu</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1996</YearFormation>
+      <StateLegalDomicile>MA</StateLegalDomicile>
+      <ActivityOrMissionDescription>Coordination of adult oncology services to patients of Dana-Farber &amp; participating hospitals, establish guidelines &amp; protocols for oncology services &amp; assist in coordinating mission related programs &amp; research.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>8</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>7</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>218032</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>251720</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>26158147</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>29182912</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>15927</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>21896</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>5531</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>26397637</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>29456528</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>108900</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>476241</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>26409907</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>28833116</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>26518807</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>29309357</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-121170</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>147171</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>6149204</TotalAssetsBOY>
+      <TotalAssetsEOY>7899789</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>2998080</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>4402275</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>3151124</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>3497514</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>Coordination of adult oncology services to patients of Dana-Farber &amp; participating hospitals, establish guidelines &amp; protocols for adult oncology services &amp; assist in the coordination of educational programs &amp; cancer research.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>27766871</Expense>
+      <Grants>0</Grants>
+      <Revenue>27766871</Revenue>
+      <Description>Clinical trial studies and research related to investigating new medications and methods of treatment of cancer, with hope of finding a cure.</Description>
+      <Activity2>
+        <Expense>303893</Expense>
+        <Grants>0</Grants>
+        <Revenue>0</Revenue>
+        <Description>Development of clinical guidelines, protocols and standards of care for the treatment of cancer, as well as establishing priorities for research.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>824619</Expense>
+        <Grants>0</Grants>
+        <Revenue>0</Revenue>
+        <Description>Educational programs and materials for consumers and healthcare professionals pertaining to developing cancer awareness, knowledge of available treatment methods and updates of current research.</Description>
+      </Activity3>
+      <TotalProgramServiceExpense>28895383</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="IRS990ScheduleA">true</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="IRS990ScheduleB">true</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="IRS990ScheduleD">false</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="IRS990ScheduleD">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="IRS990ScheduleD">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="IRS990ScheduleD">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="IRS990ScheduleD">false</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="IRS990ScheduleD">true</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">false</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="IRS990ScheduleJ">true</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="IRS990ScheduleL">false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="IRS990ScheduleL">false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="IRS990ScheduleL">false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="IRS990ScheduleL">false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="IRS990ScheduleL">false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="IRS990ScheduleL">false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="IRS990ScheduleL">true</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="IRS990ScheduleR">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="IRS990ScheduleR">true</RelatedEntity>
+      <RelatedOrgControlledEntity referenceDocumentId="IRS990ScheduleR">false</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="IRS990ScheduleR">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="IRS990ScheduleR">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>8</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>7</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>true</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>false</MembersOrStockholders>
+      <ElectionOfBoardMembers>false</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>false</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>true</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>true</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>CT</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>MA</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>NH</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>DOROTHY E PUHY</NamePerson>
+        <TelephoneNumber>6176323000</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>C/O DFCI 450 BROOKLINE AVE</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>02215</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>Jack Connors JR</NamePerson>
+        <Title>Chairman &amp; Trustee</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Edward J Benz Jr MD</NamePerson>
+        <Title>President &amp; Trustee</Title>
+        <AverageHoursPerWeek>8.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>113236</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>943858</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>195611</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Gerald Austen MD</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>1206913</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>68949</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Gary Countryman</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Charles Gifford</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Richard Lubin</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>G Marshall Moriarty</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Vincent O' Reilly</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Jay Pieper</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>906396</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>57607</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Dorothy Puhy</NamePerson>
+        <Title>Cheif Admin Officer</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>564517</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>44408</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Richard Boskey</NamePerson>
+        <Title>Clerk</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>497173</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>42579</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>113236</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>4118857</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>409154</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>true</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>Massachusetts General Hospital</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>55 Fruit St</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02114</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Medical Services</DescriptionOfServices>
+        <Compensation>5450346</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>Beth Isreal Deaconess Medical Cente</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>110 Francis Street</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02115</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Medical Services</DescriptionOfServices>
+        <Compensation>1251916</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>Brigham and Women's Hospital</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>75 Francis Street</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02115</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Medical Services</DescriptionOfServices>
+        <Compensation>800236</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>Partners Healthcare System Inc</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>800 Boylston Street</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02119</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Information Systems</DescriptionOfServices>
+        <Compensation>284000</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NamePerson>Dana-Farber Cancer Institute Inc</NamePerson>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>450 Brookline Ave</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02215</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Medical Services</DescriptionOfServices>
+        <Compensation>16035468</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>5</NumberOfContractorsGT100K>
+      <AllOtherContributions>251720</AllOtherContributions>
+      <TotalContributions>251720</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>CLINICAL TRIALS/RESEARCH</Description>
+        <BusinessCode>621500</BusinessCode>
+        <TotalRevenueColumn>27766871</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>27766871</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>CONTRACT SERVICES</Description>
+        <BusinessCode>621400</BusinessCode>
+        <TotalRevenueColumn>1141904</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1141904</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>AFFILIATION FEES</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>249996</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>249996</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>SEMINAR REVENUE</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>24141</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>24141</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>29182912</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>21896</TotalRevenueColumn>
+        <ExclusionAmount>21896</ExclusionAmount>
+      </InvestmentIncome>
+      <IncomeFromInvestBondProceeds>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </IncomeFromInvestBondProceeds>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </RoyaltiesRevenue>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetGainOrLossInvestments>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <NetIncomeFromGaming>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromGaming>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeOrLoss>
+      <TotalOtherRevenue>0</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>29456528</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>29182912</RelatedOrExemptFunctionIncome>
+        <ExclusionAmount>21896</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>0</Total>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>0</Total>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>113236</Total>
+        <ManagementAndGeneral>113236</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>253177</Total>
+        <ProgramServices>250645</ProgramServices>
+        <ManagementAndGeneral>2532</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>0</Total>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>109828</Total>
+        <ProgramServices>108730</ProgramServices>
+        <ManagementAndGeneral>1098</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>0</Total>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>0</Total>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>0</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>35000</Total>
+        <ManagementAndGeneral>35000</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising>
+        <Total>0</Total>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>0</Total>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>28074702</Total>
+        <ProgramServices>28073200</ProgramServices>
+        <ManagementAndGeneral>1502</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>0</Total>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>22460</Total>
+        <ManagementAndGeneral>22460</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>0</Total>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>0</Total>
+      </Occupancy>
+      <Travel>
+        <Total>1293</Total>
+        <ManagementAndGeneral>1293</ManagementAndGeneral>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>130711</Total>
+        <ProgramServices>130407</ProgramServices>
+        <ManagementAndGeneral>304</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>0</Total>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>0</Total>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>0</Total>
+      </Insurance>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <Total>568950</Total>
+        <ProgramServices>332401</ProgramServices>
+        <ManagementAndGeneral>236549</ManagementAndGeneral>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>29309357</Total>
+        <ProgramServices>28895383</ProgramServices>
+        <ManagementAndGeneral>413974</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>2784270</BOY>
+        <EOY>5632501</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>1741120</BOY>
+        <EOY>1962235</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>1623814</BOY>
+        <EOY>305053</EOY>
+      </AccountsReceivable>
+      <TotalAssets>
+        <BOY>6149204</BOY>
+        <EOY>7899789</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>79721</BOY>
+        <EOY>735546</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>2918359</BOY>
+        <EOY>3666729</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>2998080</BOY>
+        <EOY>4402275</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>3151124</BOY>
+        <EOY>3497514</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>3151124</BOY>
+        <EOY>3497514</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>6149204</BOY>
+        <EOY>7899789</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <AuditCommittee>true</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA">
+      <SupportingOrganization509a3>X</SupportingOrganization509a3>
+      <SupportingOrg509a3Type1>X</SupportingOrg509a3Type1>
+      <CertificationCheckbox>X</CertificationCheckbox>
+      <WrittenIRSDetermination>X</WrittenIRSDetermination>
+      <ContribByControllingIndividual>false</ContribByControllingIndividual>
+      <ContributionByRelatedParty>false</ContributionByRelatedParty>
+      <ContribBy35ControlledEntity>false</ContribBy35ControlledEntity>
+      <SupportedOrgInformation>
+        <Name>
+          <BusinessNameLine1>DANA-FARBER CANCER INSTITUTE INC</BusinessNameLine1>
+        </Name>
+        <EIN>042263040</EIN>
+        <TypeOfOrganization>07</TypeOfOrganization>
+        <ListedInGoverningDoc>true</ListedInGoverningDoc>
+        <SupportedOrganizationNotified>true</SupportedOrganizationNotified>
+        <OrganizedInUS>true</OrganizedInUS>
+        <Amount>0</Amount>
+      </SupportedOrgInformation>
+      <SupportedOrgInformation>
+        <Name>
+          <BusinessNameLine1>THE GENERAL HOSPITAL CORPORATION</BusinessNameLine1>
+        </Name>
+        <EIN>042697983</EIN>
+        <TypeOfOrganization>03</TypeOfOrganization>
+        <ListedInGoverningDoc>true</ListedInGoverningDoc>
+        <SupportedOrganizationNotified>true</SupportedOrganizationNotified>
+        <OrganizedInUS>true</OrganizedInUS>
+        <Amount>0</Amount>
+      </SupportedOrgInformation>
+      <SupportedOrgInformation>
+        <Name>
+          <BusinessNameLine1>BRIGHAM &amp; WOMEN'S HOSPITAL</BusinessNameLine1>
+        </Name>
+        <EIN>042312909</EIN>
+        <TypeOfOrganization>03</TypeOfOrganization>
+        <ListedInGoverningDoc>true</ListedInGoverningDoc>
+        <SupportedOrganizationNotified>true</SupportedOrganizationNotified>
+        <OrganizedInUS>true</OrganizedInUS>
+        <Amount>0</Amount>
+      </SupportedOrgInformation>
+      <TotalNumberOfSupportedOrgs>3</TotalNumberOfSupportedOrgs>
+      <SumOfAmounts>0</SumOfAmounts>
+      <GeneralExplanation>Dana-Farber/ Partners Cancer Care, Inc. ("DF/PCC, Inc") supports only Dana-Farber Cancer Institute, Inc., The General Hospital Corporation, and Brigham &amp; Women's Hospital. DF/PCC, Inc does not provide direct monetary support to these entities. It is our understanding that monetary support is not required but support can be in the form of services performed. In this situtation, DF/PCC, Inc provides educational programs, clinical trial studies, and research to the supported organizations.</GeneralExplanation>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="IRS990ScheduleD">
+      <ArtPublicExhibitionAmts />
+      <HeldWorksOfArtAmts />
+      <Land />
+      <Buildings />
+      <LeaseholdImprovements />
+      <Equipment />
+      <OtherLandBuildings />
+      <FederalIncomeTaxLiability>0</FederalIncomeTaxLiability>
+      <OtherLiabilities>
+        <Description>REASEARCH ADVANCE ON CLINICAL TRIALS</Description>
+        <Amount>3666729</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>3666729</TotalOfAmounts>
+      <TotalRevenue>29456528</TotalRevenue>
+      <TotalExpenses>29309357</TotalExpenses>
+      <ExcessOrDeficitForYear>147171</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>199219</NetUnrealizedGLOnInvestments>
+      <TotalAdjustments>199219</TotalAdjustments>
+      <ExcessOrDeficitPerFS>346390</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>29655747</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>199219</NetUnrealizedGainsInvestments>
+      <RevenueNotRptdF990>199219</RevenueNotRptdF990>
+      <RevenueSubtotal>29456528</RevenueSubtotal>
+      <TotalRevenuePerForm990>29456528</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>29309357</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesSubtotal>29309357</ExpensesSubtotal>
+      <TotalExpensesPerForm990>29309357</TotalExpensesPerForm990>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="IRS990ScheduleJ">
+      <SeverancePayment>false</SeverancePayment>
+      <SupplementalNonqualRetirePlan>false</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>false</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>false</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>false</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>false</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>false</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>false</AnyNonFixedPayments>
+      <InitialContractException>false</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>Edward J Benz Jr MD</NamePerson>
+        <BaseCompensationFilingOrg>113236</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>612764</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>255552</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>75542</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>145200</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>50411</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>113236</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>1139469</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Jay Pieper</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>543997</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>272864</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>89535</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>33864</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>23743</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>964003</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Dorothy Puhy</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>456319</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>80312</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>27886</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>44408</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>608925</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Richard Boskey</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>409893</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>72141</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>15139</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>42579</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>539752</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Gerald Austen MD</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>379600</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>127875</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>699438</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>33860</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>35089</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>1275862</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <Identifier>Schedule J</Identifier>
+        <Explanation>The deferred comp awards/other benefits figure may include awards of deferred compensation, the value of other employee taxable benefits in which the employee participates, such as life insurances, future income plans, tuition benefit plans, housing allowances, and the value of non-taxable employee benefit plans such as pension, group health, life, and disability which the employer provides to employees on a non-discriminatory basis as required by the IRS. None of the officers or employees receive expense accounts or allowances which constitute taxable compensation. The Corporation has an "accountable plan" which pays for or reimburses expenses only if they are "ordinary, necessary, and reasonable" expenses "incurred for a bona fide business purpose." The Corporation carries liability insurance that covers its Trustees and Officers. This insurance coverage provides an incidental benefit to the covered individuals. W. GERALD AUSTEN, M.D. - OTHER REPORTABLE COMPENSATION INCLUDES A DISTRIBUTION OF $666,667 IN DEFERRED COMPENSATION THAT WAS EARNED OVER PERIOD OF APPROXIMATELY TWENTY-NINE YEARS OF SERVICE (AND INVESTMENT INCOME EARNED ON THOSE AWARDS) AS CHIEF OF THE SURGICAL SERVICES AT THE GENERAL HOSPITAL CORPORATION.</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleL documentId="IRS990ScheduleL">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>Berkshire Partners LLC</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>1141327</AmountOfTransaction>
+        <DescriptionOfTransaction>See Schedule O</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>Nstar</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>839153</AmountOfTransaction>
+        <DescriptionOfTransaction>See Schedule O</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>Liberty Mutual</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>SEE SCHEDULE O</Relationship>
+        <AmountOfTransaction>918215</AmountOfTransaction>
+        <DescriptionOfTransaction>See Schedule O</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="IRS990ScheduleO">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Question 2</Identifier>
+        <Explanation>Business &amp; Family Relationships Business Relationship: Richard Lubin and Gary Countryman Form 990, Part VI, Line 11 Process used to review the Form 990 The Form 990 is prepared by the Tax Department of Dana-Farber Cancer Institute, Inc. ("DFCI") and independently reviewed by Ernst &amp; Young for technical tax issues. After the Tax Department of DFCI and Ernst &amp; Young LLP finalizes the returns, The Chief Administrative Officer of the organization meets with the Tax Department of DFCI to review the entire tax return in detail. If any changes need to be made, the Tax Department of DFCI will make the changes in accordance with the CAO. After the CAO approves the return, the return is provided to the treasurer for review. After the Treasurer approves the tax return, an electronic message is sent to all Board members with a secured link to the tax return. The Board has the opportunity to review the return and if any issues arise, the Board Members are urged to provide their comments to the Treasurer, CAO, and Tax Department of DFCI. A final version of the form is made available to the Board before filing with the IRS. The return is only filed after each of the steps in the review process is complete. Form 990, Part VI, Line 12c Monitoring &amp; Enforcement of Conflict of Interest Policy The Office of General Counsel of DFCI, the Assistant Secretary of the Board of DFCI, and the Tax Department of DFCI drafts a Conflict of Interest Disclosure Questionnaire each year that must be completed by all trustees, officers, and key employees, and requests information regarding to their personal situation and personal and business relationships. The Assistant Secretary of DFCI's Board compiles the list of Disclosures and gathers financial data from the Accounts Payable and Payroll Department of DFCI for all organizations, employees, independent contractors, and other miscellaneous transactions which were disclosed by all individuals. Once all of this information is complied, the Office of General Counsel of DFCI and the Tax Department of DFCI goes through each transaction and disclosure to determine what needs to be disclosed on the tax return. The Tax Department and the Office of General Counsel also discusses if there are any other known transactions that have not been disclosed. If there are any questions regarding such situation, the Office of General Counsel and the Assistant Secretary will discuss the questions with the individual trustees involved. Per DFCI and Affiliate's conflict of interest policy, in order to avoid a conflict of interest or an appearance of a conflict of interest: 1. A Trustee should not participate in a vote on a transaction in which the Trustee or family member has a financial interest and should disclose any potential conflict before DF/PCC acts on the transaction. 2. A Trustee, a member of his or her family, or an entity with which one or more of them has a material interest, may not do business with DF/PCC unless expressly authorized by DF/PCC after full disclosure. 3. A Trustee should fully disclose his or her association (including employment, consulting, or membership on a governing board by the Trustee or a family member) with an entity that competes with or has interests conflicting with those of DF/PCC and should refrain from participating in any vote of other the organization if the vote affects DF/PCC. Once a disclosure has been made, DFCI's Office of General Counsel reviews such conflict and may discuss the matter with the appropriate parties. The Office of General Counsel will then review the matter with the Chairman of the Board. Final decisions are made with the chairman and possibly the Board's Executive Committee. Part VI, Question 15a Process for determining compensation of President Per DFCI and Affiliate's Executive Compensation Philosophy, annually DFCI'a Compensation Committee of the Board of Trustees reviews the DFCI's President's (DF/PCC's Cheif Executive Officer) performance and makes a recommendation regarding compensation to DFCI's Executive Committee. The recommendation also includes the amount that should be allocated to his work as DF/PCC Inc's Cheif Executive Officer. The Executive Committee acts on the recommendation and allocation made to DF/PCC's books and is presented to DF/PCC, Inc's full Board of Trustees for approval. Part VI, Question 19 Availability of Governing Docs, Conflict of Interest Policy, and Financial Statements We currently provide the governing documents upon request. We are reviewing our internal procedures to determine the best process to make our Governing Documents widely available to the wider public. Conflict of Interest Policy - DF/PCC Inc's Conflict of Interest Policy can be found within Dana-Farber Cancer Institute, Inc. &amp; its Affiliates Code of Conduct, which is widely available on its website. Financial Statements - We currently provide the audited financial statements upon request. We are reviewing our internal procedures to determine the best process to make our audited financial statements widely available to the public. Part VII Individuals who receive compensation from related organizations work a total of 50 hours between DF/PCC and the related organization.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Schedule L, Part IV</Identifier>
+        <Explanation>DFCI holds interests in alternative investments managed by Berkshire Partners LLC. Richard Lubin owns &gt;5% of Berkshire Partners LLC.* Gary Countryman is a Director of Nstar. Dana-Farber purchases utilities from Nstar Electric and telecommunication services from Nstar Communications.* Gary Countryman is Director, former CEO, &amp; Chair Emeritus of Liberty Mutual. Dana-Farber carries some of its insurance through Liberty Mutual.* *All transactions are in the ordinary course of business and in compliance with the organaization's conflict of interest policy.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Dana-Farber Cancer Institute Inc</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>450 Brookline Ave</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>02215</ZIPCode>
+        </AddressUS>
+        <EIN>042603040</EIN>
+        <PrimaryActivities>Cancer Care</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>7</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>The General Hospital Corporation</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>55 Fruit Street</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>02114</ZIPCode>
+        </AddressUS>
+        <EIN>042697983</EIN>
+        <PrimaryActivities>Acute Care</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>3</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>The Brigham &amp; Women's Hospital</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>75 Francis Street</AddressLine1>
+          <City>Boston</City>
+          <State>MA</State>
+          <ZIPCode>02115</ZIPCode>
+        </AddressUS>
+        <EIN>042312909</EIN>
+        <PrimaryActivities>Hospital</PrimaryActivities>
+        <LegalDomicileState>MA</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>3</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>false</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>false</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>false</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>false</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>false</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>false</SharingOfFacilities>
+      <SharingOfPaidEmployees>false</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>false</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>false</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>false</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

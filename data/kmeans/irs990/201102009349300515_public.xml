@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-15T10:56:24-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>WIPFLI LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>43A W DAVENPORT ST</AddressLine1>
+        <City>RHINELANDER</City>
+        <State>WI</State>
+        <ZIPCode>54501</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>390571035</EIN>
+      <Name>
+        <BusinessNameLine1>RIPCO CREDIT UNION</BusinessNameLine1>
+      </Name>
+      <NameControl>RIPC</NameControl>
+      <Phone>7153654800</Phone>
+      <USAddress>
+        <AddressLine1>121 SUTLIFF AVENUE</AddressLine1>
+        <City>RHINELANDER</City>
+        <State>WI</State>
+        <ZIPCode>54501</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>LIZA EDINGER</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>7153654800</Phone>
+      <DateSigned>2011-06-09</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>SALLY FOLGERT CPA</Name>
+      <Phone>7153691040</Phone>
+      <DatePrepared>2011-06-09</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>LIZA EDINGER</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>121 SUTLIFF AVENUE</AddressLine1>
+        <City>RHINELANDER</City>
+        <State>WI</State>
+        <ZIPCode>54501</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>4186721</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <GroupExemptionNumber>2157</GroupExemptionNumber>
+      <Organization501c typeOf501cOrganization="14">X</Organization501c>
+      <WebSite>WWW.RIPCO.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1932</YearFormation>
+      <StateLegalDomicile>WI</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO ENCOURAGE THRIFT AMONG MEMBERS AND PROVIDE THE NECESSARY FINANCIAL PRODUCTS AT COMPETITIVE PRICES TO ENABLE EACH MEMBER TO IMPROVE HIS OR HER RESPECTIVE SOCIAL AND ECONOMIC WELL-BEING, WHILE NOT LOSING SIGHT OF THE ULTIMATE GOAL OF RIPCO CREDIT UNION AS AN EFFICIENT AND SOUND FINANCIAL INSTITUTION.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>7</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>7</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>39</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>5481</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>-12893</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>3499365</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>3536800</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>679727</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>608061</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>49766</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>41860</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>4228858</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>4186721</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>130818</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>203457</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>1484485</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>1397791</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>3511007</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>2359919</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>5126310</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>3961167</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-897452</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>225554</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>72314098</TotalAssetsBOY>
+      <TotalAssetsEOY>74285487</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>64920012</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>66679107</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>7394086</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>7606380</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>TO ENCOURAGE THRIFT AMONG MEMBERS AND PROVIDE THE NECESSARY FINANCIAL PRODUCTS AT COMPETITIVE PRICES TO ENABLE EACH MEMBER TO IMPROVE HIS OR HER RESPECTIVE SOCIAL AND ECONOMIC WELL-BEING, WHILE NOT LOSING SIGHT OF THE ULTIMATE GOAL OF RIPCO CREDIT UNION AS AN EFFICIENT AND SOUND FINANCIAL INSTITUTION.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Description>RIPCO CREDIT UNION SERVES OVER 11,000 MEMBERS. WE PROVIDE LOANS TO MEMBERS AND PAY DIVIDENDS ON MEMBER SHARE ACCOUNTS, SHAREDRAFT ACCOUNTS AND CERTIFICATES.</Description>
+      <Activity2>
+        <Description>RIPCO ACTIVELY PROMOTES THRIFT TO YOUNG PEOPLE IN THE COMMUNITIES WE SERVE. THE MOOLA MOOLA CLUB IS AN EXCLUSIVE SAVINGS CLUB FOR KIDS AGE 10 AND UNDER. CHILDREN ARE ENCOURAGED TO BRING THEIR OWN TRANSACTIONS TO THE CREDIT UNION AND RECEIVE A PRIZE FOR EACH DEPOSIT. MEMBERS OF THE CLUB ALSO RECEIVE PERSONAL INVITATIONS TO MOOLA MOOLA PROGRAMS, PARTIES AND EVENTS THROUGHOUT THE YEAR.RIPCO ALSO OPENED A LIMITED SERVICE BRANCH AT THE LOCAL HIGH SCHOOL TO PROMOTE SAVING AMONGST LOCAL YOUTH.</Description>
+      </Activity2>
+      <TotalProgramServiceExpense>3961167</TotalProgramServiceExpense>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>4</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>39</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>7</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>7</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>1</MembersOrStockholders>
+      <ElectionOfBoardMembers>1</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>1</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>1</LocalChapters>
+      <PoliciesReferenceChapters>1</PoliciesReferenceChapters>
+      <Form990ProvidedToGoverningBody>0</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>0</ConflictOfInterestPolicy>
+      <WhistleblowerPolicy>0</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>LIZA EDINGER</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>7153654800</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>121 SUTLIFF AVENUE</AddressLine1>
+          <City>RHINELANDER</City>
+          <State>WI</State>
+          <ZIPCode>54501</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>DOUG JOSLIN</NamePerson>
+        <Title>BOARD CHAIRMAN</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>2400</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>STEVEN FERCH</NamePerson>
+        <Title>BOARD TREASURER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>555</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TOM DEVALK</NamePerson>
+        <Title>BOARD SECRETARY</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>1500</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PAULINE ZWICKEY</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>35</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID LEHMAN</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>505</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>VERN LOWTHER</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>555</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROD OLSON</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>470</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>EILEEN PERSIKE</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>350</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LIZA EDINGER</NamePerson>
+        <Title>EXECUTIVE VP/PRESIDENT</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>77573</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>28072</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KAREN PIEHL</NamePerson>
+        <Title>VP OFFICE OPERATIONS</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>59767</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>6910</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>143710</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>34982</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>INTEREST ON LOANS</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>2773631</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2773631</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>FEE INCOME</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>679450</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>673969</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>5481</UnrelatedBusinessRevenue>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>CREDIT CARD INTERCHANG</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>48115</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>48115</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>OFFICE BUILDING RENT</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>35604</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>35604</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>3536800</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>608061</TotalRevenueColumn>
+        <ExclusionAmount>608061</ExclusionAmount>
+      </InvestmentIncome>
+      <OtherRevenueMisc>
+        <Description>GAIN ON SALE OF ASSET</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>22458</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>22458</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>OTHER DEPOSIT FEE INCO</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>19402</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>19402</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>41860</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>4186721</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>3573179</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>5481</UnrelatedBusinessRevenue>
+        <ExclusionAmount>608061</ExclusionAmount>
+      </TotalRevenue>
+      <BenefitsToMembers>
+        <Total>203457</Total>
+        <ProgramServices>203457</ProgramServices>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>143710</Total>
+        <ProgramServices>143710</ProgramServices>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>879241</Total>
+        <ProgramServices>879241</ProgramServices>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>72779</Total>
+        <ProgramServices>72779</ProgramServices>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>216620</Total>
+        <ProgramServices>216620</ProgramServices>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>85441</Total>
+        <ProgramServices>85441</ProgramServices>
+      </PayrollTaxes>
+      <Advertising>
+        <Total>168056</Total>
+        <ProgramServices>168056</ProgramServices>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>33802</Total>
+        <ProgramServices>33802</ProgramServices>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>131017</Total>
+        <ProgramServices>131017</ProgramServices>
+      </Occupancy>
+      <ConferencesMeetings>
+        <Total>30159</Total>
+        <ProgramServices>30159</ProgramServices>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>1884</Total>
+        <ProgramServices>1884</ProgramServices>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>178261</Total>
+        <ProgramServices>178261</ProgramServices>
+      </DepreciationDepletion>
+      <OtherExpenses>
+        <Description>DIVIDENDS ON DEPOSITS</Description>
+        <Total>634761</Total>
+        <ProgramServices>634761</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROVISIONS FOR LOAN LOS</Description>
+        <Total>225000</Total>
+        <ProgramServices>225000</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROFESSIONAL SERVICES</Description>
+        <Total>214626</Total>
+        <ProgramServices>214626</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LOAN SERVICING EXPENSES</Description>
+        <Total>148600</Total>
+        <ProgramServices>148600</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ATM EXPENSE</Description>
+        <Total>145389</Total>
+        <ProgramServices>145389</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>448364</Total>
+        <ProgramServices>448364</ProgramServices>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>3961167</Total>
+        <ProgramServices>3961167</ProgramServices>
+        <ManagementAndGeneral>0</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>1741640</BOY>
+        <EOY>1644981</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>18629682</BOY>
+        <EOY>19304865</EOY>
+      </SavingsAndTempCashInvestments>
+      <OtherNotesLoansReceivableNet>
+        <BOY>41887486</BOY>
+        <EOY>43651125</EOY>
+      </OtherNotesLoansReceivableNet>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>99265</BOY>
+        <EOY>240960</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>4090304</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>2301404</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>1491249</BOY>
+        <EOY>1788900</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>8190783</BOY>
+        <EOY>6915683</EOY>
+      </InvestmentsPubTradedSecurities>
+      <OtherAssetsTotal>
+        <BOY>273993</BOY>
+        <EOY>738973</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>72314098</BOY>
+        <EOY>74285487</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>196693</BOY>
+        <EOY>143607</EOY>
+      </AccountsPayableAccruedExpenses>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>1000000</BOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>63723319</BOY>
+        <EOY>66535500</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>64920012</BOY>
+        <EOY>66679107</EOY>
+      </TotalLiabilities>
+      <DoNotFollowSFAS117>X</DoNotFollowSFAS117>
+      <CapStckTrstPrinCurrentFunds>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </CapStckTrstPrinCurrentFunds>
+      <PaidInCapSrplsLandBldgEqpFund>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PaidInCapSrplsLandBldgEqpFund>
+      <RetainedEarningsEndowmentEtc>
+        <BOY>7394086</BOY>
+        <EOY>7606380</EOY>
+      </RetainedEarningsEndowmentEtc>
+      <TotalNetAssetsFundBalances>
+        <BOY>7394086</BOY>
+        <EOY>7606380</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>72314098</BOY>
+        <EOY>74285487</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>225554</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>-13260</ReconcilationOtherChanges>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>0</FSAudited>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <InvestmentCostOrOtherBasis>47608</InvestmentCostOrOtherBasis>
+        <BookValue>47608</BookValue>
+      </Land>
+      <Buildings>
+        <InvestmentCostOrOtherBasis>2293552</InvestmentCostOrOtherBasis>
+        <Depreciation>1256887</Depreciation>
+        <BookValue>1036665</BookValue>
+      </Buildings>
+      <Equipment>
+        <InvestmentCostOrOtherBasis>1147826</InvestmentCostOrOtherBasis>
+        <Depreciation>894033</Depreciation>
+        <BookValue>253793</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <InvestmentCostOrOtherBasis>601318</InvestmentCostOrOtherBasis>
+        <Depreciation>150484</Depreciation>
+        <BookValue>450834</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>1788900</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>ACCRUED DIVIDIENDS TO MEMBERS</Description>
+        <Amount>90249</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>MEMBERS SHARES</Description>
+        <Amount>44892604</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>MEMBER IRAS</Description>
+        <Amount>6799553</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>MEMBER CERTIFICATES</Description>
+        <Amount>14753094</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>66535500</TotalOfAmounts>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 6</Identifier>
+        <Explanation>A MEMBER IS ANY QUALIFIED PERSON OR BUSINESS THAT HAS A $5.00 DEPOSIT IN A SAVINGS ACCOUNT AT RIPCO CREDIT UNION. A MEMBER IS QUALIFIED TO VOTE IF THEY ARE A MEMBER IN GOOD STANDING, ARE 18 YEARS OR OLDER AND HAVE BEEN A MEMBER FOR AT LEAST ONE YEAR. QUALIFYING MEMBERS HAVE EQUAL RIGHTS TO VOTE TO ELECT THE GOVERNING BODY OF RIPCO CREDIT UNION.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7A</Identifier>
+        <Explanation>MEMBERS VOTE FOR DIRECTORS AT THE ANNUAL MEETING. TERMS FOR DIRECTORS ARE 3 YEARS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7B</Identifier>
+        <Explanation>ANY PERSON THAT QUALIFIES TO BE A MEMBER OF RIPCO CREDIT UNION HAS VOTING RIGHTS TO ELECT THE GOVERNING BODY (BOARD OF DIRECTORS) EACH YEAR WE HOLD AN ANNUAL MEETING OF MEMBERS AND ANY DIRECTORS THAT ARE UP FOR REELECTION ARE VOTED IN BY THE MEMBERS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>THE FORM 990 IS REVIEWED BY THE VICE PRESIDENT OF OPERATIONS WITH THE BOARD OF DIRECTORS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>CEO COMPENSATION REQUIRES BOARD REVIEW AND APPROVAL. OFFICER COMPENSATION REQUIRES CEO REVIEW AND APPROVAL.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>GOVERNING DOCUMENTS AND POLICIES ARE AVAILABLE TO THE PUBLIC UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ALL OTHER FUNCTIONAL EXPENSES</Identifier>
+        <ReturnReference>FORM 990, PART X, LINE 24F</ReturnReference>
+        <Explanation>SERVICE CONTRACTS: PROGRAM SERVICE EXPENSES 105,006. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 105,006. STATIONARY AND SUPPLIES: PROGRAM SERVICE EXPENSES 63,719. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 63,719. POSTAGE EXPENSE: PROGRAM SERVICE EXPENSES 51,649. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 51,649. TELEPHONE EXPENSE: PROGRAM SERVICE EXPENSES 49,344. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 49,344. SURETY BOND EXPENSE: PROGRAM SERVICE EXPENSES 42,449. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 42,449. SOFTWARE/HARDWARE EXPENSE: PROGRAM SERVICE EXPENSES 35,081. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 35,081. LEAGUE DUES: PROGRAM SERVICE EXPENSES 27,052. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 27,052. STUDENT LOAN EXPENSE: PROGRAM SERVICE EXPENSES 19,322. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 19,322. MISC: PROGRAM SERVICE EXPENSES 18,952. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 18,952. MICROFICHE EXPENSE: PROGRAM SERVICE EXPENSES 10,018. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 10,018. VISA/MC EXPENSES: PROGRAM SERVICE EXPENSES 9,206. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 9,206. ANNUAL ASSESSMENT: PROGRAM SERVICE EXPENSES 7,637. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 7,637. BUSINESS MEALS: PROGRAM SERVICE EXPENSES 6,781. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 6,781. VEHICLE EXPENSE: PROGRAM SERVICE EXPENSES 971. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 971. SHARE DRAFT EXPENSE: PROGRAM SERVICE EXPENSES 561. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 561. MERCHANT SOLUTION FEES: PROGRAM SERVICE EXPENSES 339. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 339. CASH OVER/SHORT: PROGRAM SERVICE EXPENSES 277. MANAGEMENT AND GENERAL EXPENSES 0. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 277.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CHANGES IN NET ASSETS OR FUND BALANCES:</Identifier>
+        <ReturnReference>FORM 990, PART XI, LINE 5:</ReturnReference>
+        <Explanation>NET UNREALIZED LOSSES ON INVESTMENTS: -13,260.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

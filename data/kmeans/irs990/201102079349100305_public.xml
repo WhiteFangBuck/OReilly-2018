@@ -1,0 +1,744 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T17:04:47-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BADER MARTIN PS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1000 SECOND AVENUE 34TH FLOOR</AddressLine1>
+        <City>SEATTLE</City>
+        <State>WA</State>
+        <ZIPCode>981041022</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>912064061</EIN>
+      <Name>
+        <BusinessNameLine1>KREIELSHEIMER REMAINDER FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>KREI</NameControl>
+      <Phone>2066670300</Phone>
+      <USAddress>
+        <AddressLine1>1000 SECOND AVENUE 34TH FLOOR</AddressLine1>
+        <City>SEATTLE</City>
+        <State>WA</State>
+        <ZIPCode>981041022</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JAMES TUNE</Name>
+      <Title>V.P./SECRETARY/DIRECTOR</Title>
+      <DateSigned>2011-06-20</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Walter R Smith</Name>
+      <Phone>2066211900</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="IRS990PF">
+      <FinalReturn>X</FinalReturn>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>0</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>12684</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>12684</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>382250</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>3682408</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>382250</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="OtherIncomeSch2">41694</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>41694</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>436628</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>436628</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <LegalFeesRevAndExpnss referenceDocumentId="LegalFeesSch">12934</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>2587</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>0</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="OthProfFeesSch">19744</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>19744</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">4344</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>236</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">16180</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>3237</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>10075</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>53202</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>25804</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>10075</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3366093</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3366093</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>3419295</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>25804</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>3376168</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-2982667</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>410824</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>41940</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>0</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>0</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>1600</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>0</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>0</PrepaidExpensesEOYFMV>
+        <InvestmentsCorpStockBOY>3199287</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>0</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>0</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>2437</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY>0</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>0</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>3245264</TotalAssetsBOY>
+        <TotalAssetsEOY>0</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY>18403</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY>0</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>18403</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>6500</UnrestrictedBOY>
+        <UnrestrictedEOY>0</UnrestrictedEOY>
+        <TemporarilyRestrictedBOY>3220361</TemporarilyRestrictedBOY>
+        <TemporarilyRestrictedEOY>0</TemporarilyRestrictedEOY>
+        <TotalNetAssetsBOY>3226861</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>0</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3245264</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>0</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3226861</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-2982667</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="OtherIncreasesSch">18021</OtherIncreases>
+        <Subtotal>262215</Subtotal>
+        <OtherDecreases referenceDocumentId="OtherDecreasesSch">262215</OtherDecreases>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SEE ATTACHMENT A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-01</DateAcquired>
+          <DateSold>2010-12-30</DateSold>
+          <GrossSalesPrice>663525</GrossSalesPrice>
+          <CostOrOtherBasis>638553</CostOrOtherBasis>
+          <GainOrLoss>24972</GainOrLoss>
+          <GainsMinusExcessOrLosses>24972</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SEE ATTACHMENT A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>3018883</GrossSalesPrice>
+          <CostOrOtherBasis>2661605</CostOrOtherBasis>
+          <GainOrLoss>357278</GainOrLoss>
+          <GainsMinusExcessOrLosses>357278</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>382250</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>1683219</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>4266742</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.394497</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>3889561</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>5698428</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.682567</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>1099933</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>8889213</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.123738</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>1566373</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>10084788</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.15532</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>382508</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>10284206</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.037194</DistributionRatioYear5>
+        <TotalDistributionRatio>1.393316</TotalDistributionRatio>
+        <AverageDistributionRatio>0.278663</AverageDistributionRatio>
+        <NetNoncharitableAssets>2703141</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>753265</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>4108</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>757373</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>3376168</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>4108</InvestmentIncomeExciseTax>
+        <Subtotal>4108</Subtotal>
+        <TaxBasedOnInvestmentIncome>4108</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1200</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>3000</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>4200</TotalCreditsAndPayments>
+        <Overpayment>92</Overpayment>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+        <AmountToBeRefunded>92</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities referenceDocumentId="BinaryAttach">false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws referenceDocumentId="BinaryAttach">false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc referenceDocumentId="BinaryAttach">true</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>FOUNDATION MANAGEMENT GRP LLC</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2066670300</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1000 SECOND AVENUE 34TH FLOOR</AddressLine1>
+          <City>SEATTLE</City>
+          <State>WA</State>
+          <ZIPCode>98104</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>IRWIN L TREIGER</PersonName>
+          <USAddress>
+            <AddressLine1>1000 SECOND AVENUE 34TH FLOOR</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>981041022</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES F TUNE</PersonName>
+          <USAddress>
+            <AddressLine1>1000 SECOND AVENUE 34TH FLOOR</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>981041022</ZIPCode>
+          </USAddress>
+          <Title>V.P./SECRETARY/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSAN B TRAPNELL</PersonName>
+          <USAddress>
+            <AddressLine1>1000 SECOND AVENUE 34TH FLOOR</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>981041022</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DR WILLIAM P GERBERDING</PersonName>
+          <USAddress>
+            <AddressLine1>1000 SECOND AVENUE 34TH FLOOR</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>981041022</ZIPCode>
+          </USAddress>
+          <Title>CHAIRMAN/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>2689712</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>54594</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>2744306</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>2744306</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>41165</CashDeemedCharitable>
+        <NetNoncharitableAssets>2703141</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>135157</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>135157</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>4108</TaxBasedOnInvestmentIncome>
+        <TotalTax>4108</TotalTax>
+        <DistributableAmountBeforeAdj>131049</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>131049</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>131049</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>3376168</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>3376168</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>4108</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>3372060</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>131049</DistributableAmountAsAdjusted>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <ExcessDistriCarryoverYear4>1073760</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>668440</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>3607440</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>1471788</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>6821428</TotalExcessDistriCarryover>
+        <QualifyingDistributions>3376168</QualifyingDistributions>
+        <AppliedToCurrentYear>131049</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>3245119</RemainingDistriFromCorpus>
+        <TotalCorpus>10066547</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>10066547</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>1073760</ExcessFromYear4>
+        <ExcessFromYear3>668440</ExcessFromYear3>
+        <ExcessFromYear2>3607440</ExcessFromYear2>
+        <ExcessFromYear1>1471788</ExcessFromYear1>
+        <ExcessFromCurrentYear>3245119</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INTIMAN THEATRE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>201 MERCER STREET</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98109</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>To provide support to exempt organization</PurposeOfGrantOrContribution>
+          <Amount>338353</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WASHINGTON ART CONSORTIUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>WESTERN WASHINGTON UNIVERSITY</AddressLine1>
+            <City>BELLINGHAM</City>
+            <State>WA</State>
+            <ZIPCode>98225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>to provide support to exempt organization</PurposeOfGrantOrContribution>
+          <Amount>912461</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALASKA NATIVE HERITAGE CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8800 HERITAGE CENTER DRIVE</AddressLine1>
+            <City>ANCHORAGE</City>
+            <State>AK</State>
+            <ZIPCode>99506</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>19699</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SEATTLE YOUTH SYMPHONY ORCHESTRA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11065 FIFTH AVENUE SUITE A</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98125</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>10895</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TACOMA ART MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1701 PACIFIC AVENUE</AddressLine1>
+            <City>TACOMA</City>
+            <State>WA</State>
+            <ZIPCode>98402</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>4148</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ARTIST TRUST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1835 12TH AVENUE</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98122</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>6537</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BELLEVUE PHILHARMONIC ORCHESTRA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1805 136TH PLACE NE SUITE 206</AddressLine1>
+            <City>BELLEVUE</City>
+            <State>WA</State>
+            <ZIPCode>98009</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>4358</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORDIC HERITAGE MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3014 NW 67TH STREET</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98117</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>4358</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE NORTHWEST SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1415 SUMMIT AVENUE</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98122</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>4065</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ON THE BOARDS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 19515</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98109</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>10895</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PILCHUCK ART SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>430 YALE AVENUE NORTH</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98109</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>10895</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SEATTLE CHAMBER MUSIC SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10 HARRISON STREET SUITE 306</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98109</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>6537</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KIRKLAND PERFORMANCE CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>350 KIRKLAND AVENUE</AddressLine1>
+            <City>KIRKLAND</City>
+            <State>WA</State>
+            <ZIPCode>98033</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>3232</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MUSEUM OF NORTHWEST ART</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 969</AddressLine1>
+            <City>LA CONNER</City>
+            <State>WA</State>
+            <ZIPCode>98257</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>6537</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE ALASKA COMMUNITY FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>400 L STREET SUITE 100</AddressLine1>
+            <City>ANCHORAGE</City>
+            <State>AK</State>
+            <ZIPCode>99501</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>412147</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE SEATTLE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1200 FIFTH AVENUE SUITE 1300</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>136768</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SEATTLE OPERA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 9248</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98109</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>13432</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ARTSFUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 19780</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98109</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT TO EXEMPT ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>1460776</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>3366093</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst />
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>12684</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>15</ExclusionCode>
+          <ExclusionAmount>2870</ExclusionAmount>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>382250</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <OtherRevenueDescribed>
+          <Description>LITIGATION SETTLEMENT</Description>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>38824</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>436628</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>436628</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <LegalFeesSchedule documentId="LegalFeesSch">
+      <LegalFees>
+        <Category>LEGAL &amp; PROFESSIONAL FEES</Category>
+        <Amount>12934</Amount>
+        <NetInvestmentIncome>2587</NetInvestmentIncome>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreases>
+        <Description>UNREALIZED LOSS</Description>
+        <Amount>262215</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>ADMINISTRATIVE FEES</Description>
+        <RevenueAndExpensesPerBooks>15499</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>3100</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>10075</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>48</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>10</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LEGAL SETTLEMENT EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>533</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>107</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LICENSE</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>20</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncome>
+        <Description>ROYALTIES</Description>
+        <RevenueAndExpensesPerBooks>2870</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2870</NetInvestmentIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>CARDINAL HEALTH LITIGATION SETTLEMENT</Description>
+        <RevenueAndExpensesPerBooks>439</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>439</NetInvestmentIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>RDI &amp; PACIFIC ENERGY RESOURCES</Description>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>LITIGATION SETTLEMENT</Description>
+        <RevenueAndExpensesPerBooks>38385</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>38385</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreases>
+        <Description>PRIOR PERIOD ADJUSTMENT</Description>
+        <Amount>18021</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT FEES</Category>
+        <Amount>19744</Amount>
+        <NetInvestmentIncome>19744</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>EXCISE TAXES - CURRENT</Category>
+        <Amount>4108</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>236</Amount>
+        <NetInvestmentIncome>236</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

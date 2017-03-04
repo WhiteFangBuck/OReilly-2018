@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-23T07:41:29-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Bach James Mansour &amp; Company PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3885 Crestwood Parkway NW Suite 590</AddressLine1>
+        <City>Duluth</City>
+        <State>GA</State>
+        <ZIPCode>300965002</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>202424773</EIN>
+      <Name>
+        <BusinessNameLine1>The Shoulberg Family</BusinessNameLine1>
+        <BusinessNameLine2>Foundation Inc</BusinessNameLine2>
+      </Name>
+      <NameControl>SHOU</NameControl>
+      <Phone>4048765511</Phone>
+      <USAddress>
+        <AddressLine1>1100 Spring Street NW</AddressLine1>
+        <City>Atlanta</City>
+        <State>GA</State>
+        <ZIPCode>30309</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Melinda Selig</Name>
+      <Title>Foundation Manager</Title>
+      <DateSigned>2011-07-20</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>NEAL J BACH</Name>
+      <Phone>6785511014</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>436</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>18000</ContriReceivedRevAndExpnss>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>18000</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">67</OtherExpensesRevAndExpnss>
+        <OtherExpensesAdjNetIncm>67</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>67</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>67</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>19356</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>19356</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>19423</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>67</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>19356</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-1423</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1859</CashBOY>
+        <CashEOY>436</CashEOY>
+        <CashEOYFMV>436</CashEOYFMV>
+        <TotalAssetsBOY>1859</TotalAssetsBOY>
+        <TotalAssetsEOY>436</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>436</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>1859</UnrestrictedBOY>
+        <UnrestrictedEOY>436</UnrestrictedEOY>
+        <TotalNetAssetsBOY>1859</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>436</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1859</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>436</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1859</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-1423</ExcessOfRevenueOverExpenses>
+        <Subtotal>436</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>436</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Melinda Shoulberg</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4048765511</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1100 Spring Street NW 550</AddressLine1>
+          <City>Atlanta</City>
+          <State>GA</State>
+          <ZIPCode>30309</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Melinda Shoulberg</PersonName>
+          <USAddress>
+            <AddressLine1>1100 Spring Street NW</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30309</ZIPCode>
+          </USAddress>
+          <Title>Foundation Mana</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>5178</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>5178</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>5178</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>78</CashDeemedCharitable>
+        <NetNoncharitableAssets>5100</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>255</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>255</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>255</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>255</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>255</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>19356</ExpensesAndContributions>
+        <QualifyingDistributions>19356</QualifyingDistributions>
+        <AdjQualifyingDistributions>19356</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>255</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>10553</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>13044</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>16304</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>18838</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>18112</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>76851</TotalExcessDistriCarryover>
+        <QualifyingDistributions>19356</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>255</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>19101</RemainingDistriFromCorpus>
+        <TotalCorpus>95952</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>10553</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>85399</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>13044</ExcessFromYear4>
+        <ExcessFromYear3>16304</ExcessFromYear3>
+        <ExcessFromYear2>18838</ExcessFromYear2>
+        <ExcessFromYear1>18112</ExcessFromYear1>
+        <ExcessFromCurrentYear>19101</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>Melinda Shoulberg</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>1100 Spring Street NW 550</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30309</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4048765511</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>Applications should be submitted in writing and state the amount and purpose of each request.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>None</SubmissionDeadlines>
+          <RestrictionsOnAwards>None</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>URJ - Haiti Relief</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>633 Third Avenue</AddressLine1>
+            <City>New York</City>
+            <State>NJ</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>40</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Make A Wish Foundation-GA and AL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1775 The Exchange SE Ste 2000</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30339</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>35</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Pediatric Inflammatory Bowel Diseas</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>100 Franklin Street</AddressLine1>
+            <City>Boston</City>
+            <State>MA</State>
+            <ZIPCode>02210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Atlanta Humane Society</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>981 Howell Mill Road</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30318</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>25</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Global Foundation for Peroxismal Di</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5147 South Harvard Suite 181</AddressLine1>
+            <City>Tulsa</City>
+            <State>OK</State>
+            <ZIPCode>74135</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>25</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Georgia Humane Society</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1317 Hearst Drive</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30319</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>10</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Jewish Healthcare International</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1440 Spring Street</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30309</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Westminster Schools</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1424 W Paces Ferry Road</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Tulane University</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6823 ST Charles Avenue</AddressLine1>
+            <City>New Orleans</City>
+            <State>LA</State>
+            <ZIPCode>70118</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ian's Friends Foundation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>855 Marseilles Drive</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Bright Spirit Children's Foundation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>12 Canavan Circle</AddressLine1>
+            <City>Needham</City>
+            <State>MA</State>
+            <ZIPCode>02492</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Georgia Public Broadcasting</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>260 14th Street</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30318</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>35</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Temima High School</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1985-B Lavista Road</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30329</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Amit Program</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6255 Barfield Road Ste 100</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30328</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ronald McDonald House</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5420 Peachtree Dunwoody Road NE</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30342</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Georgia Lighthouse Foundation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5582 Peachtree Road</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30341</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Marcus Jewish Community Center</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5342 Tilly Mill Road</AddressLine1>
+            <City>Dunwoody</City>
+            <State>GA</State>
+            <ZIPCode>30338</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Jewish Federation of Greater Atlant</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1440 Spring Street NW</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30309</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>6100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Children's Wish Foundation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>8615 Roswell Road</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30350</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>25</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>The Epstein School</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>335 Colewood Way NW</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30328</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Camp Sunshine</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1850 Clairmont Rd</AddressLine1>
+            <City>Decatur</City>
+            <State>GA</State>
+            <ZIPCode>30033</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JDRF</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3525 Piedmont Rd NE Bld 6 Ste 300</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30305</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>175</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Lance Armstrong Foundation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2201 E Sixth St</AddressLine1>
+            <City>Austin</City>
+            <State>TX</State>
+            <ZIPCode>78702</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Camp Twin Lakes</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>600 Means Street Suite 110</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30318</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Jewish Family and Career Services</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4549 Chamblee Dunwoody Rd</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30338</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Autism Speaks</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1 East 33rd Street 4th Floor</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Davis Academy</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7901 Roberts Dr</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30350</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>2836</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Help Haiti Now Inc</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 1041</AddressLine1>
+            <City>Venice</City>
+            <State>FL</State>
+            <ZIPCode>34284</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>The William Bremen Jewish Home</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3150 Howell Mill Rd NW</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30327</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>19356</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Selig Enterprises Inc</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>1100 Spring Street NW</AddressLine1>
+          <City>Atlanta</City>
+          <State>GA</State>
+          <ZIPCode>30309</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>18000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Bank Charges</Description>
+        <RevenueAndExpensesPerBooks>67</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>67</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

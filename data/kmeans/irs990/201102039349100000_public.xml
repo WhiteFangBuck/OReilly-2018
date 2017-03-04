@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-22T06:51:40-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MARTIN M SACKS &amp; ASSOCIATES</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>4775 LINGLESTOWN ROAD</AddressLine1>
+        <City>HARRISBURG</City>
+        <State>PA</State>
+        <ZIPCode>17112</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>271229009</EIN>
+      <Name>
+        <BusinessNameLine1>THE JOHN AND MELINDA ORTENZIO</BusinessNameLine1>
+        <BusinessNameLine2>FAMILY FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>JOHN</NameControl>
+      <Phone>7179721305</Phone>
+      <USAddress>
+        <AddressLine1>4718 GETTYSBURG ROAD - SUITE</AddressLine1>
+        <AddressLine2>ROOM/SUITE 405</AddressLine2>
+        <City>MECHANICSBURG</City>
+        <State>PA</State>
+        <ZIPCode>17055</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN M ORTENZIO</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7179721305</Phone>
+      <DateSigned>2011-06-30</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>RICHARD A BLUIS CPA</Name>
+      <Phone>7176571300</Phone>
+      <DatePrepared>2011-06-30</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>320530</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>329</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>329</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>9334</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>9334</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>895</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>60836</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>895</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>10558</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>10558</TotalNetInvestmentIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc7">4256</LegalFeesRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1800</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>600</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>1200</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc9">23</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>7</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc8">760</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>745</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>15</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>6839</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1352</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1215</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>15000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>15000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>21839</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1352</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>16215</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-11281</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>9206</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>180812</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>5777</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>5777</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>50040</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc6">108145</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>108837</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>73752</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">120628</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>125483</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>20013</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc4">78786</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>80433</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>324617</TotalAssetsBOY>
+        <TotalAssetsEOY>313336</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>320530</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>324617</CapitalStockBOY>
+        <CapitalStockEOY>313336</CapitalStockEOY>
+        <TotalNetAssetsBOY>324617</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>313336</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>324617</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>313336</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>324617</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-11281</ExcessOfRevenueOverExpenses>
+        <Subtotal>313336</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>313336</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>953.289 SHS VANGUARD TOTAL BOND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-17</DateAcquired>
+          <DateSold>2010-03-31</DateSold>
+          <GrossSalesPrice>9943</GrossSalesPrice>
+          <CostOrOtherBasis>10000</CostOrOtherBasis>
+          <GainOrLoss>-57</GainOrLoss>
+          <GainsMinusExcessOrLosses>-57</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1.432 SHS VANGUARD TOTAL BOND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-31</DateAcquired>
+          <DateSold>2010-03-31</DateSold>
+          <GrossSalesPrice>15</GrossSalesPrice>
+          <CostOrOtherBasis>15</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3.058 SHS VANGUARD TOTAL BOND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-01</DateAcquired>
+          <DateSold>2010-03-31</DateSold>
+          <GrossSalesPrice>32</GrossSalesPrice>
+          <CostOrOtherBasis>32</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2.880 SHS VANGUARD TOTAL BOND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-01</DateAcquired>
+          <DateSold>2010-03-31</DateSold>
+          <GrossSalesPrice>30</GrossSalesPrice>
+          <CostOrOtherBasis>30</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1456.311 SHS PUTNAM ABSOLUTE RETURN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-25</DateAcquired>
+          <DateSold>2010-06-03</DateSold>
+          <GrossSalesPrice>15044</GrossSalesPrice>
+          <CostOrOtherBasis>15000</CostOrOtherBasis>
+          <GainOrLoss>44</GainOrLoss>
+          <GainsMinusExcessOrLosses>44</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1409.774 SHS PUTNAM ABSOLUTE RETURN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-25</DateAcquired>
+          <DateSold>2010-06-03</DateSold>
+          <GrossSalesPrice>15085</GrossSalesPrice>
+          <CostOrOtherBasis>15000</CostOrOtherBasis>
+          <GainOrLoss>85</GainOrLoss>
+          <GainsMinusExcessOrLosses>85</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>10000 SHS PNC CORP FLOATER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-03</DateAcquired>
+          <DateSold>2010-08-11</DateSold>
+          <GrossSalesPrice>9910</GrossSalesPrice>
+          <CostOrOtherBasis>9864</CostOrOtherBasis>
+          <GainOrLoss>46</GainOrLoss>
+          <GainsMinusExcessOrLosses>46</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>651.042 SHS IVA WORLDWIDE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-08</DateAcquired>
+          <DateSold>2010-09-08</DateSold>
+          <GrossSalesPrice>9954</GrossSalesPrice>
+          <CostOrOtherBasis>10000</CostOrOtherBasis>
+          <GainOrLoss>-46</GainOrLoss>
+          <GainsMinusExcessOrLosses>-46</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>895</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>72</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <NoncharitableAssetsYear1>318891</NoncharitableAssetsYear1>
+        <NetNoncharitableAssets>320168</NetNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>92</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>92</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>16215</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>92</InvestmentIncomeExciseTax>
+        <Subtotal>92</Subtotal>
+        <TaxBasedOnInvestmentIncome>92</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>250</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>250</TotalCreditsAndPayments>
+        <Overpayment>158</Overpayment>
+        <AmountCreditedToNextYear>158</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>ROBERT L NAUSE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7179721305</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>4718 GETTYSBURG RD</AddressLine1>
+          <City>MECHANICSBURG</City>
+          <State>PA</State>
+          <ZIPCode>17055</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">JOHN M ORTENZIO</PersonName>
+          <USAddress>
+            <AddressLine1>510 ORCHARD DRIVE</AddressLine1>
+            <City>LEMOYNE</City>
+            <State>PA</State>
+            <ZIPCode>17043</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">MELINDA A ORTENZIO</PersonName>
+          <USAddress>
+            <AddressLine1>510 ORCHARD DRIVE</AddressLine1>
+            <City>LEMOYNE</City>
+            <State>PA</State>
+            <ZIPCode>17043</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>282195</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>42849</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>325044</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>325044</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4876</CashDeemedCharitable>
+        <NetNoncharitableAssets>320168</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>16008</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>16008</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>92</TaxBasedOnInvestmentIncome>
+        <TotalTax>92</TotalTax>
+        <DistributableAmountBeforeAdj>15916</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>15916</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>15916</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>16215</ExpensesAndContributions>
+        <QualifyingDistributions>16215</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>92</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>16123</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>15916</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>3086</UndistributedIncomePriorYear>
+        <QualifyingDistributions>16215</QualifyingDistributions>
+        <AppliedToYear1>3086</AppliedToYear1>
+        <AppliedToCurrentYear>13129</AppliedToCurrentYear>
+        <UndistributedIncomeCY>2787</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>JOHN M ORTENZIO</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>4718 GETTYSBURG RD</AddressLine1>
+            <AddressLine2>SUITE 405</AddressLine2>
+            <City>MECHANICSBURG</City>
+            <State>PA</State>
+            <ZIPCode>17055</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7179721305</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>A LETTER STATING REQUEST FOR FUNDS AND EXPLANATION OF NEED.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>APPLICATIONS ARE ACCEPTED AT ANY TIME</SubmissionDeadlines>
+          <RestrictionsOnAwards>GRANTS ARE PRIMARILY TO CHARITABLE ORGANIZATIONS THAT CARRY ON COMMUNITY-ORIENTED, EDUCATIONAL OR SPECIAL PURPOSE CHARITABLE ENDEAVORS. THE FOUNDATION EXPECTS TO FUND OTHER CHARITABLE ORGANIZATIONS ENGAGING IN CHARITABLE ACTIVITIES. THE FOUNDATION IS NOT AUTHORIZED UNDER THE TERMS OF THE TRUST TO MAKE GRANTS TO INDIVIDUALS.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YORK COLLEGE OF PA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>441 COUNTRY CLUB ROAD</AddressLine1>
+            <City>YORK</City>
+            <State>PA</State>
+            <ZIPCode>17403</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ORGANIZATIONS' EXEMPT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>15000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>329</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>9334</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>895</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>10558</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>10558</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>MARTIN M. SACKS &amp; ASSOCIATES, CP</Category>
+      </AccountingFees>
+      <AccountingFees>
+        <Category>PREPARATION OF FORM 990-PF</Category>
+        <Amount>1800</Amount>
+        <NetInvestmentIncome>600</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1200</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>JOHN M ORTENZIO</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>MELINDA A ORTENZIO</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorpBonds>
+        <NameOfBond>COVENTRY HEALTH</NameOfBond>
+        <EOYBookValue>10311</EOYBookValue>
+        <EOYFMV>10658</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FIDELITY FLOATING RATE</NameOfBond>
+        <EOYBookValue>10379</EOYBookValue>
+        <EOYFMV>10846</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>OPPENHEIMER SR FLOATING RATE</NameOfBond>
+        <EOYBookValue>10433</EOYBookValue>
+        <EOYFMV>10702</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>OSTERWEIS STRATEGIC</NameOfBond>
+        <EOYBookValue>10284</EOYBookValue>
+        <EOYFMV>10133</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>PUTNAM DIVERSIFIED</NameOfBond>
+        <EOYBookValue>16628</EOYBookValue>
+        <EOYFMV>16877</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>PIMCO HIGH YIELD</NameOfBond>
+        <EOYBookValue>10476</EOYBookValue>
+        <EOYFMV>10829</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD SHORT TERM</NameOfBond>
+        <EOYBookValue>10275</EOYBookValue>
+        <EOYFMV>10388</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>HUSSMAN STRATEGIC GROWTH</NameOfStock>
+        <EOYBookValue>10035</EOYBookValue>
+        <EOYFMV>9606</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PIMCO ALL ASSET</NameOfStock>
+        <EOYBookValue>11282</EOYBookValue>
+        <EOYFMV>11256</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PIMCO GLOBAL</NameOfStock>
+        <EOYBookValue>10000</EOYBookValue>
+        <EOYFMV>9764</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>THORNBURG INVESTMENT INCOME</NameOfStock>
+        <EOYBookValue>17112</EOYBookValue>
+        <EOYFMV>18385</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD BALANCED</NameOfStock>
+        <EOYBookValue>15276</EOYBookValue>
+        <EOYFMV>16099</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD WELLESLEY</NameOfStock>
+        <EOYBookValue>15663</EOYBookValue>
+        <EOYFMV>16378</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FPA CRESCENT FUND</NameOfStock>
+        <EOYBookValue>10391</EOYBookValue>
+        <EOYFMV>11213</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GREENSPRING FUND</NameOfStock>
+        <EOYBookValue>10386</EOYBookValue>
+        <EOYFMV>10911</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EVERGREEN ASSET</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>IVA WORLDWIDE</NameOfStock>
+        <EOYBookValue>10314</EOYBookValue>
+        <EOYFMV>11188</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WELLS FARGO ADVANTAGE</NameOfStock>
+        <EOYBookValue>10169</EOYBookValue>
+        <EOYFMV>10683</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtSecuritiesEOYBookValue>108145</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>108837</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <LegalFeesSchedule documentId="RetDoc7">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>4256</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ASSET MGMT &amp; CUSTODY FEES</Description>
+        <RevenueAndExpensesPerBooks>745</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>745</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>15</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>15</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <Taxes>
+        <Category>TAXES - 990-PF</Category>
+        <Amount>16</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAX WITHHELD ON DIVIDEND</Category>
+        <Amount>7</Amount>
+        <NetInvestmentIncome>7</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

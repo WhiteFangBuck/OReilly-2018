@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-24T14:29:48-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-11-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Aharon Friedman</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>5 Remsen Avenue Suite 1</AddressLine1>
+        <City>Monsey</City>
+        <State>NY</State>
+        <ZIPCode>10952</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-12-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>204006310</EIN>
+      <Name>
+        <BusinessNameLine1>MOSHE EICHLER FUND INC</BusinessNameLine1>
+      </Name>
+      <NameControl>MOSH</NameControl>
+      <USAddress>
+        <AddressLine1>34 REMSEN AVE</AddressLine1>
+        <City>MONSEY</City>
+        <State>NY</State>
+        <ZIPCode>10952</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MOSHE EICHLER</Name>
+      <Title>President</Title>
+      <DateSigned>2011-07-24</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Aharon Friedman EA</Name>
+      <Phone>8454256809</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation 990PFBinaryAttachments.1" softwareId="09000047" softwareVersion="2009v1.7">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>32050</ContriReceivedRevAndExpnss>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>32050</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">825</AccountingFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">767</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1592</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>30698</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>30698</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>32290</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>30698</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-240</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>6176</CashBOY>
+        <CashEOY>6316</CashEOY>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">380</OtherAssetsBOY>
+        <TotalAssetsBOY>6556</TotalAssetsBOY>
+        <TotalAssetsEOY>6316</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>6556</UnrestrictedBOY>
+        <UnrestrictedEOY>6316</UnrestrictedEOY>
+        <TotalNetAssetsBOY>6556</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>6316</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>6556</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>6316</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>6556</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-240</ExcessOfRevenueOverExpenses>
+        <Subtotal>6316</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>6316</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>MOSHE EICHLER</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8454261777</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>34 REMSEN AVE</AddressLine1>
+          <City>MONSEY</City>
+          <State>NY</State>
+          <ZIPCode>10952</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHAIM EICHLER</PersonName>
+          <USAddress>
+            <AddressLine1>34 REMSEN AVE</AddressLine1>
+            <City>MONSEY</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRANY EICHLER</PersonName>
+          <USAddress>
+            <AddressLine1>34 REMSEN AVE</AddressLine1>
+            <City>MONSEY</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MOSHE EICHLER</PersonName>
+          <USAddress>
+            <AddressLine1>34 REMSEN AVE</AddressLine1>
+            <City>MONSEY</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>2679</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>2679</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>2679</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>40</CashDeemedCharitable>
+        <NetNoncharitableAssets>2639</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>132</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>132</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>132</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>132</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>132</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>30698</ExpensesAndContributions>
+        <QualifyingDistributions>30698</QualifyingDistributions>
+        <AdjQualifyingDistributions>30698</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>132</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>100272</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>298340</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>27458</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>44608</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>470678</TotalExcessDistriCarryover>
+        <QualifyingDistributions>30698</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>132</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>30566</RemainingDistriFromCorpus>
+        <TotalCorpus>501244</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>501244</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>100272</ExcessFromYear4>
+        <ExcessFromYear3>298340</ExcessFromYear3>
+        <ExcessFromYear2>27458</ExcessFromYear2>
+        <ExcessFromYear1>44608</ExcessFromYear1>
+        <ExcessFromCurrentYear>30566</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>MOSHE EICHLER</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Yeshiva Tifferes Moshe</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>8306 Abingdon Road</AddressLine1>
+            <City>Kew Gardens</City>
+            <State>NY</State>
+            <ZIPCode>11415</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Yeshiva Chachmai Lublin</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2 Gwen Ln</AddressLine1>
+            <City>Monsey</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>United Talmudical Academy</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>89 South Main St</AddressLine1>
+            <City>Spring Valley</City>
+            <State>NY</State>
+            <ZIPCode>10977</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>2700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Mosdos Yetev Lev</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>500 Bedford Avenue</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11211</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Miffal Lilmod Ilelamed</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1680 44th St</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ladies Bikur Cholim Dsatmer</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1379 54th St</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>36</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Kupath Ezrah of Rockland County Inc</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 3</AddressLine1>
+            <City>Monsey</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>280</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KZM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>10 Maple Terrace</AddressLine1>
+            <City>Monsey</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>2250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Khal Adas Chasisidim</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 47</AddressLine1>
+            <City>Lakewood</City>
+            <State>NJ</State>
+            <ZIPCode>08701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>10</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Keren Yesomim OH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>20 Franchis Pl</AddressLine1>
+            <City>Monsey</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>360</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Enkas Usir</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1420 46th Street</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Zichron Ohel Elimelech</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>146 Maple Ave</AddressLine1>
+            <City>Spring Valley</City>
+            <State>NY</State>
+            <ZIPCode>10977</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation V'yoel Moshe</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4904 16th Avenue</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Tzemach David of Dinev</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>261 Rutledge St</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11211</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Tzdukah Vchesed</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1457 43rd St</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>3060</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Smach Zevilin of NY INC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>18 Stonehouse Rd</AddressLine1>
+            <City>Monsey</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Sifsai Yitchol</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>251 Marcy Ave</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11121</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Ohel Toreh</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>60 Rutledge Street</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11211</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Ohel Shloime</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1375 Cony Island Avenue Suite 193</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11230</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>4950</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Talmud Torah Tashbar N</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>50A South Main Street</AddressLine1>
+            <City>Spring Valley</City>
+            <State>NY</State>
+            <ZIPCode>10977</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Kollel Williamsburg</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>199 Lee Avenue</AddressLine1>
+            <City>Brookly</City>
+            <State>NY</State>
+            <ZIPCode>11211</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Khal Yereim</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>49 Carlton Road</AddressLine1>
+            <City>Monsey</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Keren Yechiel Charitable Foundation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1711 44th Street</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11204</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Keren Ezer</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>28 Van Buren Drive Unit 101</AddressLine1>
+            <City>Monroe</City>
+            <State>NY</State>
+            <ZIPCode>10950</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congregation Chasadim Tovim Inc</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7 Maple Leaf Rd</AddressLine1>
+            <City>Monsey</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>430</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Camp Shalvah</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7 Quickway Road Unit 101</AddressLine1>
+            <City>Monroe</City>
+            <State>NY</State>
+            <ZIPCode>10950</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Birchos Yosef</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>78 South Main St</AddressLine1>
+            <City>Spring Valley</City>
+            <State>NY</State>
+            <ZIPCode>10977</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergation Bais Yithcok</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>153 Bellevue Street</AddressLine1>
+            <City>Elizabeth</City>
+            <State>NJ</State>
+            <ZIPCode>07202</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congregration Bais Yerachmiel</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1312 44th Street Suite 235</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Yeshiva Avnei Shlomo</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>23A Ellish Parkway</AddressLine1>
+            <City>Spring Valley</City>
+            <State>NY</State>
+            <ZIPCode>10977</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congergration Anshai Mamar</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1442 45th Street</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Chofetz Chaim Kallah Fund</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>361 Spook Rock Road</AddressLine1>
+            <City>Suffern</City>
+            <State>NY</State>
+            <ZIPCode>10901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>72</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Bnei Avraham</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>117 Remsen Ave</AddressLine1>
+            <City>MOnsey</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Binyan Torah Inc</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3 Dover Ter</AddressLine1>
+            <City>Monsey</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Congragation Binas Yisocher</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1321 43rd St</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Contribution</PurposeOfGrantOrContribution>
+          <Amount>280</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>30698</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+        </IntOnSavingsAndTempCashInvst>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="09000047" softwareVersion="2009v1.7">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Moshe Eichler</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>34 Remsen Ave</AddressLine1>
+          <City>Monsey</City>
+          <State>NY</State>
+          <ZIPCode>10952</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>32050</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <AccountingFees>
+        <Category>Accounting Fees</Category>
+        <Amount>825</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AmortizationSchedule documentId="AmortizationSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <Amortization>
+        <DescriptionOfAmortizedExpenses>START-UP COSTS</DescriptionOfAmortizedExpenses>
+        <DateAcquiredCompletedExpended>2005-12-01</DateAcquiredCompletedExpended>
+        <AmountAmortized>1900</AmountAmortized>
+        <DeductionForPriorYears>1520</DeductionForPriorYears>
+        <AmortizationPeriod>5.0000</AmortizationPeriod>
+        <CurrentYearAmortization>380</CurrentYearAmortization>
+        <TotalAmountOfAmortization>1900</TotalAmountOfAmortization>
+      </Amortization>
+    </AmortizationSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <OtherExpenses>
+        <Description>Filing Fees</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank Charges</Description>
+        <RevenueAndExpensesPerBooks>362</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Amortization</Description>
+        <RevenueAndExpensesPerBooks>380</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

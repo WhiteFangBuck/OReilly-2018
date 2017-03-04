@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-27T05:35:04-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SHARON K MCCARTY CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>6400 Independence Pkwy 1004</AddressLine1>
+        <City>Plano</City>
+        <State>TX</State>
+        <ZIPCode>75023</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>752709237</EIN>
+      <Name>
+        <BusinessNameLine1>The Mr and Mrs Robert J Stetson</BusinessNameLine1>
+        <BusinessNameLine2>Foundation</BusinessNameLine2>
+      </Name>
+      <NameControl>MRAN</NameControl>
+      <Phone>2146916824</Phone>
+      <USAddress>
+        <AddressLine1>8409 Pickwick Lane 380</AddressLine1>
+        <City>Dallas</City>
+        <State>TX</State>
+        <ZIPCode>75225</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Robert J Stetson</Name>
+      <Title>President</Title>
+      <DateSigned>2011-07-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Sharon K McCarty</Name>
+      <Phone>9726186041</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>595713</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>137349</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>94510</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>94510</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>94510</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>-113347</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>189558</GrossSalesPrice>
+        <TotalRevenueAndExpenses>118512</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>94510</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>94510</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">1700</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1700</AccountingFeesNetInvstIncm>
+        <InterestRevAndExpnss>2608</InterestRevAndExpnss>
+        <InterestNetInvstIncm>2608</InterestNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">970</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>970</TaxesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">4155</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>4155</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>9433</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>9433</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>29500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>29500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>38933</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>9433</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>29500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>79579</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>85077</NetInvestmentIncome>
+        <AdjustedNetIncome>94510</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>-63501</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>-2411</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>-2411</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>34305</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>34349</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>14020</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>289630</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>232133</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>144325</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>360595</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY>439779</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>439779</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>621029</TotalAssetsBOY>
+        <TotalAssetsEOY>703850</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>595713</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>621029</RetainedEarningsBOY>
+        <RetainedEarningsEOY>703850</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>621029</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>703850</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>621029</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>703850</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>621029</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>79579</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId=" OtherIncreasesSchedule">3242</OtherIncreases>
+        <Subtotal>703850</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>703850</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>-113347</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>-113347</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>45601</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>68193</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.66871</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>50019</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>150913</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.33144</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>170382</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>239454</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.71154</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>191554</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>232181</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.82502</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>71286</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>333059</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.21403</DistributionRatioYear5>
+        <TotalDistributionRatio>2.75075</TotalDistributionRatio>
+        <AverageDistributionRatio>0.55015</AverageDistributionRatio>
+        <NetNoncharitableAssets>146758</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>80739</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>851</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>81590</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>29500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1702</InvestmentIncomeExciseTax>
+        <Subtotal>1702</Subtotal>
+        <TaxBasedOnInvestmentIncome>1702</TaxBasedOnInvestmentIncome>
+        <Form2220Attached referenceDocumentId=" IRS2220">X</Form2220Attached>
+        <PenaltyForUnderpayment>10</PenaltyForUnderpayment>
+        <TaxDue>1712</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Robert J Stetson</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2146916824</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>8409 Pickwick Lane 380</AddressLine1>
+          <City>Dallas</City>
+          <State>TX</State>
+          <ZIPCode>75225</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Robert C A Stetson</PersonName>
+          <USAddress>
+            <AddressLine1>1915 Crooked Creek Dr</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75229</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Cindy B Stetson</PersonName>
+          <USAddress>
+            <AddressLine1>6800 Del Norte 238</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75225</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Robert J Stetson</PersonName>
+          <USAddress>
+            <AddressLine1>6800 Del Norte 238</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75225</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>161922</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>-12929</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>148993</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>148993</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2235</CashDeemedCharitable>
+        <NetNoncharitableAssets>146758</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>7338</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>7338</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1702</TaxBasedOnInvestmentIncome>
+        <TotalTax>1702</TotalTax>
+        <DistributableAmountBeforeAdj>5636</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>5636</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>5636</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>29500</ExpensesAndContributions>
+        <QualifyingDistributions>29500</QualifyingDistributions>
+        <AdjQualifyingDistributions>29500</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>5636</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>71450</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear3>158545</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>50181</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>42989</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>323165</TotalExcessDistriCarryover>
+        <QualifyingDistributions>29500</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>5636</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>23864</RemainingDistriFromCorpus>
+        <TotalCorpus>347029</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>71450</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>275579</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>158545</ExcessFromYear3>
+        <ExcessFromYear2>50181</ExcessFromYear2>
+        <ExcessFromYear1>42989</ExcessFromYear1>
+        <ExcessFromCurrentYear>23864</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>Robert J Stetson</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>6800 Del Norte 238</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2146926824</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>Written requests should be submitted with appropriate evidence of exemption.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>None</SubmissionDeadlines>
+          <RestrictionsOnAwards>None</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Preservation Dallas</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2922 Swiss Ave</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>preservation of buildings</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Preston Hollow Presbyterian Church</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>9800 Preston Rd</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>support church</PurposeOfGrantOrContribution>
+          <Amount>8500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>North Texas Food Bank</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4500 S Cockrell Hill Rd</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75236</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>provide hunger relief</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Hockaday School</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>11600 Welch Rd</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75229</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>education</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Dallas Opera</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2403 Flora St Ste 500</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>promote opera</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Dallas Architectural Foundation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1909 Woodall Rodgers Fwy Ste 100</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>educational scholarships</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>American Cancer Society</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 22718</AddressLine1>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <ZIPCode>73123</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>fund cancer research</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Woodberry Forest School</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>Woodberry Forest Road</AddressLine1>
+            <City>Woodberry Forest</City>
+            <State>VA</State>
+            <ZIPCode>22989</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>support education</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Washington Lee University</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>Route 11</AddressLine1>
+            <City>Lexington</City>
+            <State>VA</State>
+            <ZIPCode>24450</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>support educatioin</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Fair Chance</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1413 K Street NW</AddressLine1>
+            <City>Washington</City>
+            <State>DC</State>
+            <ZIPCode>20005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>support children's charities</PurposeOfGrantOrContribution>
+          <Amount>1100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Doctors Without Borders</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6 E 39th St 8th Flr</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>provide medical care</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>29500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>94510</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-5287</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-108060</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>89223</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-108060</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-18837</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>Generated by the securities contributed to the Foundation. This income is the primary means by which the Foundation accomplishes its cultural and educational purposes.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>Generated by the securities contributed to the Foundation. This income is the primary means by which the Foundation accomplishes its cultural and educational purposes.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>Robert J Stetson</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>6800 Del Norte 238</AddressLine1>
+          <City>Dallas</City>
+          <State>TX</State>
+          <ZIPCode>75225</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>40750</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Robert J Stetson</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>6800 Del Norte 238</AddressLine1>
+          <City>Dallas</City>
+          <State>TX</State>
+          <ZIPCode>75225</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>96599</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>2</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>50,000 Istar Finl Inc due 10/15/13 5.95%</NoncashPropertyDescription>
+        <FairMarketValue>40750</FairMarketValue>
+        <DateReceived>2010-04-06</DateReceived>
+      </NoncashProperty>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>100,000 Allied Cap Corp New Sr Notes due 7/15/11 6.625%</NoncashPropertyDescription>
+        <FairMarketValue>96599</FairMarketValue>
+        <DateReceived>2010-02-18</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>Accounting fees</Category>
+        <Amount>1700</Amount>
+        <NetInvestmentIncome>1700</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Penalties</Description>
+        <RevenueAndExpensesPerBooks>4155</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>4155</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncreases>
+        <Description>Non-taxable distributions</Description>
+        <Amount>3242</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>Federal income tax</Category>
+        <Amount>970</Amount>
+        <NetInvestmentIncome>970</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

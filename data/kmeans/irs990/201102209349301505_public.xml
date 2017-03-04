@@ -1,0 +1,643 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T11:42:48-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>William W Thousand CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>P O Box 64</AddressLine1>
+        <City>Mount Horeb</City>
+        <State>WI</State>
+        <ZIPCode>53572</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>237030167</EIN>
+      <Name>
+        <BusinessNameLine1>Mount Horeb Chamber of Commerce</BusinessNameLine1>
+      </Name>
+      <NameControl>MOUN</NameControl>
+      <Phone>6084375914</Phone>
+      <USAddress>
+        <AddressLine1>300 E Main Street</AddressLine1>
+        <City>Mount Horeb</City>
+        <State>WI</State>
+        <ZIPCode>53572</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>William W Thousand</Name>
+      <Title>Treasurer</Title>
+      <Phone>6084377730</Phone>
+      <DateSigned>2011-07-25</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>William Thousand</Name>
+      <Phone>6084377730</Phone>
+      <DatePrepared>2011-07-25</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990 documentId="990" softwareId="10000149" softwareVersion="2010.2.15">
+      <NameOfPrincipalOfficerBusiness>
+        <BusinessNameLine1>William W Thousand</BusinessNameLine1>
+      </NameOfPrincipalOfficerBusiness>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>1728 Bus Hwy 18/151 E</AddressLine1>
+        <City>Mount Horeb</City>
+        <State>WI</State>
+        <ZIPCode>53572</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>247261</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <AllAffiliatesIncluded>true</AllAffiliatesIncluded>
+      <Organization501c typeOf501cOrganization="6">X</Organization501c>
+      <WebSite>www.trollway.com</WebSite>
+      <YearFormation>1929</YearFormation>
+      <StateLegalDomicile>WI</StateLegalDomicile>
+      <ActivityOrMissionDescription>Promote the economic well being of all member businesses as well as to enhance the image of Mount Horeb and surrounding areas as great places to live, work and visit. Promote the economic well being of all member businesses as well as to enhance the image of Mount Horeb and surrounding areas as great places to live, work and visit.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>16</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>16</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>6</TotalNbrEmployees>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <ContributionsGrantsPriorYear>87043</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>81860</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>43386</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>54764</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>1522</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>1971</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>38352</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>60540</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>170303</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>199135</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>1000</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>2668</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>2069</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>75860</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>77850</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>99656</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>115260</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>179184</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>195179</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-8881</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>3956</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>111993</TotalAssetsBOY>
+      <TotalAssetsEOY>122378</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>34294</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>37897</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>77699</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>84481</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>Mount Horeb Community Business Promotion.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Description>Organize advertising, other promotions and outreach to bring businesses and tourists from throughout the midwest to Mount Horeb.</Description>
+      <DescribedIn501C3>false</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="990B">true</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <SubjectToProxyTax>false</SubjectToProxyTax>
+      <DonorAdvisedFunds>false</DonorAdvisedFunds>
+      <ConservationEasements>false</ConservationEasements>
+      <CollectionsOfArt>false</CollectionsOfArt>
+      <CreditCounseling>false</CreditCounseling>
+      <TermOrPermanentEndowments>false</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="990D">true</ReportLandBldgEquip>
+      <ReportInvestOthSecurities>false</ReportInvestOthSecurities>
+      <ReportProgRelInvest>false</ReportProgRelInvest>
+      <ReportOtherAssets>false</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="990D">true</ReportOtherLiabilities>
+      <ReportFin48Footnote>false</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt>false</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt>false</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising referenceDocumentId="990G">true</ProfessionalFundraising>
+      <FundraisingActivities referenceDocumentId="990G">true</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired>false</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <LoanToOfficerOrDQP>false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity>false</DisregardedEntity>
+      <RelatedEntity>false</RelatedEntity>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>false</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership>false</ActivitiesConductedPartnership>
+      <ScheduleORequired>false</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>true</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>6</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <QuidProQuoDisclosure>false</QuidProQuoDisclosure>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <Form8899Filed>false</Form8899Filed>
+      <Form1098CFiled>false</Form1098CFiled>
+      <IndoorTanningServices>false</IndoorTanningServices>
+      <NbrVotingGoverningBodyMembers>16</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>16</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>false</MembersOrStockholders>
+      <ElectionOfBoardMembers>false</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>false</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>true</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>false</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>false</ConflictOfInterestPolicy>
+      <WhistleblowerPolicy>false</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>false</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>true</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <WrittenPolicyOrProcedure>false</WrittenPolicyOrProcedure>
+      <StatesWhereCopyOfReturnIsFiled>WI</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>William W Thousand CPA</NamePerson>
+        <TelephoneNumber>6084377730</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>P O Box 64</AddressLine1>
+          <City>Mount Horeb</City>
+          <State>WI</State>
+          <ZIPCode>53572</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <InfoInScheduleOPartVII>X</InfoInScheduleOPartVII>
+      <Form990PartVIISectionA>
+        <NamePerson>Bruce Frisch</NamePerson>
+        <Title>President</Title>
+        <AverageHoursPerWeek>004.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Dale Hatfield</NamePerson>
+        <Title>Vice President</Title>
+        <AverageHoursPerWeek>002.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>William W Thousand</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>003.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Mary Jane Ellis</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>002.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Mary Anderson</NamePerson>
+        <Title>Ex-Officer</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Julie Bergey</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Teri Bowar</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Rod Fisher</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Jolita Gallagher</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Mark Johnson</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Steve Knuteson</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Amanda McWilliams</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Audrey Roberts</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Lysianne Unruh</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Kristin Vike-Steinich</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Melissa Theisen</NamePerson>
+        <Title>Executive Director</Title>
+        <AverageHoursPerWeek>040.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>46219</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>46219</TotalReportableCompFromOrg>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>false</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <MembershipDues>46860</MembershipDues>
+      <AllOtherContributions>35000</AllOtherContributions>
+      <TotalContributions>81860</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>Beautification Fund</Description>
+        <TotalRevenueColumn>30</TotalRevenueColumn>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Community Promotions</Description>
+        <TotalRevenueColumn>2312</TotalRevenueColumn>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Cookbook</Description>
+        <TotalRevenueColumn>126</TotalRevenueColumn>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>General Admin</Description>
+        <TotalRevenueColumn>2129</TotalRevenueColumn>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Gift Certificates</Description>
+        <TotalRevenueColumn>33009</TotalRevenueColumn>
+      </ProgramServiceRevenue>
+      <TotalOthProgramServiceRevenue>
+        <TotalRevenueColumn>17158</TotalRevenueColumn>
+      </TotalOthProgramServiceRevenue>
+      <TotalProgramServiceRevenue>54764</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>1971</TotalRevenueColumn>
+      </InvestmentIncome>
+      <GrossIncomeFundraisingEvents>108666</GrossIncomeFundraisingEvents>
+      <FundraisingDirectExpenses>48126</FundraisingDirectExpenses>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>60540</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <TotalRevenue>
+        <TotalRevenueColumn>199135</TotalRevenueColumn>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>0</Total>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>0</Total>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>2069</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>66654</Total>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>0</Total>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>1747</Total>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>4184</Total>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>5265</Total>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>0</Total>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>0</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>0</Total>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising></FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>0</Total>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>15205</Total>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>26398</Total>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>4602</Total>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>0</Total>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>0</Total>
+      </Occupancy>
+      <Travel>
+        <Total>1879</Total>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>0</Total>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>0</Total>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>0</Total>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>3594</Total>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Telephone/Internet Service</Description>
+        <Total>2160</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Meals and entertainment</Description>
+        <Total>76</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Mt Horeb Gift Certificates</Description>
+        <Total>33661</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Printing, publications, postage and shipping</Description>
+        <Total>15024</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Other Expenses</Description>
+        <Total>12661</Total>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>0</Total>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>195179</Total>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>111203</BOY>
+        <EOY>120424</EOY>
+      </CashNonInterestBearing>
+      <AccountsReceivable>
+        <BOY>790</BOY>
+        <EOY>1368</EOY>
+      </AccountsReceivable>
+      <LandBuildingsEquipmentBasis>2473</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>1887</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <EOY>586</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <TotalAssets>
+        <BOY>111993</BOY>
+        <EOY>122378</EOY>
+      </TotalAssets>
+      <DeferredRevenue>
+        <BOY>17052</BOY>
+        <EOY>17000</EOY>
+      </DeferredRevenue>
+      <OtherLiabilities>
+        <BOY>17242</BOY>
+        <EOY>20897</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>34294</BOY>
+        <EOY>37897</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>43839</BOY>
+        <EOY>48293</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>28411</BOY>
+        <EOY>30009</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>5449</BOY>
+        <EOY>6179</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>77699</BOY>
+        <EOY>84481</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>111993</BOY>
+        <EOY>122378</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>3956</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>2826</ReconcilationOtherChanges>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>false</FSAudited>
+      <AuditCommittee>false</AuditCommittee>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleB documentId="990B" softwareId="10000149" softwareVersion="2010.2.15">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="990D" softwareId="10000149" softwareVersion="2010.2.15">
+      <IncludedOnFS>false</IncludedOnFS>
+      <Equipment>
+        <OtherCostOrOtherBasis>2473</OtherCostOrOtherBasis>
+        <Depreciation>1887</Depreciation>
+        <BookValue>586</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>586</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>Gift Certifciates Outstanding</Description>
+        <Amount>19083</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Payroll Liabilities</Description>
+        <Amount>1814</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>20897</TotalOfAmounts>
+      <TotalRevenue>199135</TotalRevenue>
+      <TotalExpenses>195179</TotalExpenses>
+      <ExcessOrDeficitForYear>3956</ExcessOrDeficitForYear>
+      <ExcessOrDeficitPerFS>3956</ExcessOrDeficitPerFS>
+    </IRS990ScheduleD>
+    <IRS990ScheduleG documentId="990G" softwareId="10000149" softwareVersion="2010.2.15">
+      <SpecialFundraisingEvents>X</SpecialFundraisingEvents>
+      <AgreementRefFundraising>false</AgreementRefFundraising>
+      <EventsInformation>
+        <NameOfEvent1>Art Fair</NameOfEvent1>
+        <GrossReceiptsEvent1>29385</GrossReceiptsEvent1>
+        <GrossRevenueEvent1>29385</GrossRevenueEvent1>
+        <CashPrizesEvent1>2000</CashPrizesEvent1>
+        <EntertainmentEvent1>800</EntertainmentEvent1>
+        <OtherDirectExpensesEvent1>8490</OtherDirectExpensesEvent1>
+        <NameOfEvent2>Fall Festival</NameOfEvent2>
+        <GrossReceiptsEvent2>7429</GrossReceiptsEvent2>
+        <GrossRevenueEvent2>7429</GrossRevenueEvent2>
+        <EntertainmentEvent2>706</EntertainmentEvent2>
+        <OtherDirectExpensesEvent2>5329</OtherDirectExpensesEvent2>
+        <TotalNumberOfOtherEvents>4</TotalNumberOfOtherEvents>
+        <GrossReceiptsOtherEvents>50760</GrossReceiptsOtherEvents>
+        <GrossRevenueOtherEvents>50760</GrossRevenueOtherEvents>
+        <CashPrizesOtherEvents>5600</CashPrizesOtherEvents>
+        <RentFacilityCostsOtherEvents>5591</RentFacilityCostsOtherEvents>
+        <FoodAndBeverageOtherEvents>5570</FoodAndBeverageOtherEvents>
+        <EntertainmentOtherEvents>1000</EntertainmentOtherEvents>
+        <OtherDirectExpensesOtherEvents>10745</OtherDirectExpensesOtherEvents>
+        <GrossReceiptsTotal>87574</GrossReceiptsTotal>
+        <GrossRevenueTotalEvents>87574</GrossRevenueTotalEvents>
+        <CashPrizesTotalEvents>7600</CashPrizesTotalEvents>
+        <RentFacilityCostsTotalEvents>5591</RentFacilityCostsTotalEvents>
+        <FoodAndBeverageTotalEvents>5570</FoodAndBeverageTotalEvents>
+        <EntertainmentTotalEvents>2506</EntertainmentTotalEvents>
+        <OtherDirectExpensesTotalEvents>24564</OtherDirectExpensesTotalEvents>
+        <DirectExpenseSummaryEvents>45831</DirectExpenseSummaryEvents>
+        <NetIncomeSummary>41743</NetIncomeSummary>
+      </EventsInformation>
+    </IRS990ScheduleG>
+    <IRS990ScheduleO documentId="990O" softwareId="10000149" softwareVersion="2010.2.15">
+      <GeneralExplanation>
+        <Identifier>Form 990 Part XI</Identifier>
+        <ReturnReference>5</ReturnReference>
+        <Explanation>Unrealized Gain on Investments Property and equipment addition.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990 Part VII</Identifier>
+        <ReturnReference>1a</ReturnReference>
+        <Explanation>Bruce Frisch - 1204 Bus 18/151, Mt. Horeb, WI 53572 Dale Hatfield-1740 Bus 18/151, Mt. Horeb, WI 53572 William W Thousand-1728 Bus 18/151, Mt. Horeb, WI 53572 Mary Jane Ellis-225 E Main St, Mt. Horeb, WI 53572 Mary Anderson- 138 E Main St, Mt. Horeb, WI 53572 Julie Bergey-203 E Main St, Mt. Horeb, WI 53572 Teri Bowar-1740 Bus 18/151, Mt. Horeb, WI 53572 Rod Fisher-7734 Terrace Ave, Middleton, WI 53562 Jolita Gallagher-108 S First St, Mt. Horeb, WI 53572 Mark Johnson-1401 Bus 18/151, Mt. Horeb, WI 53572 Steve Knuteson-413 Fairway St, Mt. Horeb, WI 53572 Amanda McWilliams-1100 Bus 18/15, Mt. Horeb, WI 53572 Audrey Roberts-213 E Main St, Mt. Horeb, WI 53572 Lysianne Unruh-105 Perimeter St, Mt. Horeb, WI 53572 Kristin Vike-Steinich-505 Bus 18/151, Mt. Horeb, WI 53572</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

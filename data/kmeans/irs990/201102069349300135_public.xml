@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T17:01:25-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HENRY &amp; HORNE LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>7098 E COCHISE SUITE 100</AddressLine1>
+        <City>SCOTTSDALE</City>
+        <State>AZ</State>
+        <ZIPCode>852534517</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>860809052</EIN>
+      <Name>
+        <BusinessNameLine1>NEIGHBORHOOD MINISTRIES INC</BusinessNameLine1>
+      </Name>
+      <NameControl>NEIG</NameControl>
+      <Phone>6022525225</Phone>
+      <USAddress>
+        <AddressLine1>1918 WEST VAN BUREN STREET</AddressLine1>
+        <City>PHOENIX</City>
+        <State>AZ</State>
+        <ZIPCode>85009</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RUDY PINON</Name>
+      <Title>DIRECTOR OF OPERATIONS AND FINANCE</Title>
+      <Phone>6022525225</Phone>
+      <DateSigned>2011-07-16</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>COLETTE KAMPS CPA</Name>
+      <Phone>4804831170</Phone>
+      <DatePrepared>2011-07-15</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>RUDY PINON</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>1918 WEST VAN BUREN STREET</AddressLine1>
+        <City>PHOENIX</City>
+        <State>AZ</State>
+        <ZIPCode>85009</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>2165348</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.NEIGHBORHOODMINISTRIES.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1995</YearFormation>
+      <StateLegalDomicile>AZ</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO PROVIDE INNER CITY MINISTRY.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>11</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>8</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>28</TotalNbrEmployees>
+      <TotalNbrVolunteers>600</TotalNbrVolunteers>
+      <TotalGrossUBI>-1323</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>-1323</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>1309228</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>1647605</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>0</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>104013</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>624</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>869</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>-29358</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>313183</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>1280494</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>2065670</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>35791</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>75015</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>639365</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>793517</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>127133</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>671684</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>749412</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>1346840</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>1617944</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-66346</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>447726</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>3442559</TotalAssetsBOY>
+      <TotalAssetsEOY>3877178</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>441463</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>428356</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>3001096</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>3448822</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>TO BE THE PRESENCE OF JESUS CHRIST, SHARING HIS LIFE-TRANSFORMING HOPE, LOVE, AND POWER AMONG THE DISTRESSED FAMILIES OF URBAN PHOENIX TO IGNITE THEIR PASSION FOR GOD AND HIS KINGDOM.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>141485</Expense>
+      <Description>IGLESIA DE NEIGHBORHOOD MINISTRIES IS THE CHURCH THAT FUNCTIONS WITHIN NEIGHBORHOOD MINISTRIES. IT IS A BI-LINGUAL SPANISH/ENGLISH CHURCH OF APPROXIMATELY 100 WEEKLY ATTENDEES. SUNDAY MORNING IS THE PLACE AND TIME WHERE WHOLE FAMILIES MEET TOGETHER UNDER THE GUIDANCE OF TWO PASTORS.</Description>
+      <Activity2>
+        <Expense>239217</Expense>
+        <Revenue>101725</Revenue>
+        <Description>EDUCATION PROGRAMS ENCOMPASS PRESCHOOL THROUGH COLLEGE AGE YOUTH. PROGRAMS SUCH AS EDUCATION FOR LIFE AND KATY'S KIDS PRE-SCHOOL ARE DESIGNED TO BUILD HOPE, TRUST AND RELIANCE ON JESUS CHRIST THROUGH LIFE LONG RELATIONSHIPS THAT ENCOURAGE KIDS TO STAY AND BE SUCCESSFUL IN SCHOOL WHILE LEARNING TO BE HEALTHY FUTURE THINKERS. KATY'S KIDS PRE-SCHOOL HAS 16 STUDENTS AND IS NEIGHBORHOOD MINISTRIES' SUCCESSOR PROGRAM TO THE CITY OF PHOENIX HEAD START WHICH THE CITY TERMINATED IN MAY, 2010 FOR BUDGET REASONS. IN 2010, EDUCATION FOR LIFE HAD 71 KIDS ACTIVELY WORKING WITH MENTORS WHILE ABOUT 20 PER MONTH WERE PROVIDED WITH ACADEMIC ASSISTANCE. THROUGH THE WAYNE AND KIT DANLEY SCHOLARSHIP FUND THE ORGANIZATION HELPED FUND 8 STUDENTS ATTENDING PHOENIX COLLEGE AND ARIZONA STATE UNIVERSITY.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>444712</Expense>
+        <Revenue>13162</Revenue>
+        <Description>YOUTH DEVELOPMENT PROGRAMS INCLUDE SUCH PROGRAMS AS: A WEEKLY YOUTH GROUP DURING THE SCHOOL YEAR FOR 750 CHILDREN IN KINDERGARTEN THROUGH 7TH GRADE, AND ABOUT 250 HIGH SCHOOL STUDENTS. KIDS CAMP AND KIDS CLUB - SUMMER CAMPS FOR 65 KEY 4TH THROUGH 6TH GRADERS ,AND 500 KINDERGARTENERS THROUGH 6TH GRADE, RESPECTIVELY. OVER 80 YOUTH WORKERS PROVIDE LEADERSHIP FOR THE KIDS CLUB; ANDBARRIO WORKS - A HANDS-ON WORKSHOP, FOCUSING ON BIKE REPAIR, METAL WORKING, AND WOOD WORKING, DESIGNED TO HELP YOUTH DEVELOP TECHNICAL TRADE SKILLS, LIFE SKILLS, AND INNER CHARACTER THAT WILL BE VALUABLE FOR THEM IN THE MARKETPLACE. ALL PROGRAMS WORK TO PROVIDE FUN, SPIRITUAL DEVELOPMENT, AND STRENGTHENING BONDS WITH LEADERS AND OTHER KIDS.</Description>
+      </Activity3>
+      <ActivityOther>
+        <Expense>426210</Expense>
+        <Description>ASSISTANCE PROGRAMS INCLUDE OUR FOOD BANK WHICH IS PART OF THE NEIGHBORHOOD CENTER AND IS OPEN ONCE A WEEK ON FRIDAY MORNINGS, SERVING APPROXIMATELY 40 FAMILIES EACH WEEK. FAMILIES QUALIFY FOR CLOTHING DISTRIBUTION ONCE PER MONTH AND A FOOD BOX EVERY NINETY DAYS, AND EMERGENCY DISTRIBUTION IS AVAILABLE BASED ON NEED. THE FOOD BANK IS SUPPLIED BY VOLUNTEER DONATIONS AND SEVERAL CHURCHES AROUND THE PHOENIX METROPOLITAN AREA; ANDDISTRESSED FAMILIES PROVIDES SOME FINANCIAL ASSISTANCE TO FAMILIES WHO SUFFER AN UNEXPECTED, NON-RECURRING FINANCIAL SETBACK THAT MAY IMPACT THEIR ABILITY TO REMAIN IN THEIR HOME OR REMAIN EMPLOYED. IT ALSO COVERS OCCASIONAL MEDICAL EXPENSES.ADULT DEVELOPMENT INCLUDE:MOMS PLACE IS A MENTORING PROGRAM DESIGNED FOR MOTHERS AGES 12 THROUGH 24 AND THEIR CHILDREN PROVIDING THE OPPORTUNITY FOR MATURE CHRISTIAN WOMEN TO SUPPORT YOUNG MOTHERS FROM THE INNER CITY AND TO NURTURE AND ENHANCE THEIR PARENTAL, SPIRITUAL, PERSONAL AND COMMUNAL DEVELOPMENT THROUGH CARING, COMPASSIONATE FRIENDSHIPS. PARENT VOLUNTEERS CONSISTS OF OVER 100 PARENTS OF THE CHILDREN THAT ATTEND THE YOUTH GROUPS. THE PURPOSE IS TO DEVELOP TRUSTING RELATIONSHIPS BUILT ON DIGNITY THAT WILL LEAD TO A GROWING PERSONAL RELATIONSHIP WITH JESUS AND AN INCREASING PARTICIPATION IN THE CHURCH AND COMMUNITY. NEIGHBORS AT WORK ASSISTS YOUTH AND YOUNG ADULTS AGES 15-35 IN DEVELOPING THE SKILLS AND HABITS NECESSARY TO APPLY FOR A JOB AND THEN SUCCEED IN THAT JOB. FUNDED IN PART BY THE VALLEY OF THE SUN UNITED WAY, THIS PROGRAM TEACHES JOB SEARCH FOR EFFECTIVE LONG TERM EMPLOYMENT THROUGH RESUME WRITING, INTERVIEWING READINESS AND EFFECTIVE JOB PLACEMENT. OVER 80 ADULTS WERE SERVED IN 2010.HOPE HOUSE COMMUNITY PROVIDES SAFE, STABLE, AFFORDABLE HOUSING AND PERSONAL DEVELOPMENT FOR ADULT WOMEN WITH OR WITHOUT CHILDREN. THE PURPOSE OF THE HOPE HOUSE COMMUNITY IS TO PROVIDE, THROUGH LIFE ON LIFE RELATIONSHIPS, LIFE SKILLS, COMMUNICATIONS SKILLS, EMOTIONAL HEALING, AND SPIRITUAL GROWTH SO THAT WHEN OUR WOMEN TRANSITION BACK TO LIFE ON THEIR OWN, THEY MIGHT BE MORE SUCCESSFUL.</Description>
+      </ActivityOther>
+      <TotalOfOtherProgramServiceExp>426210</TotalOfOtherProgramServiceExp>
+      <TotalProgramServiceExpense>1251624</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">1</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>1</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">0</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">1</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">1</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt referenceDocumentId="RetDoc1042900001">0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>3</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>28</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>1</QuidProQuoContributions>
+      <QuidProQuoDisclosure>1</QuidProQuoDisclosure>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <Form1098CFiled>0</Form1098CFiled>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>11</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>8</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>1</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>AZ</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>THE ORGANIZATION</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>6022525225</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>1918 WEST VAN BUREN STREET</AddressLine1>
+          <City>PHOENIX</City>
+          <State>AZ</State>
+          <ZIPCode>85009</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>PENCIE CULIVER</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICK MALOUF</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ORBI GONZALES</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ISIAH OAKES</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>6.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOSEPH LINDNER</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KEVIN STARRS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JORGE MACIAS</NamePerson>
+        <Title>DIRECTOR / PASTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>76845</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>13759</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>WILLIAM THRALL SR</NamePerson>
+        <Title>CHAIRMAN</Title>
+        <AverageHoursPerWeek>6.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KIT DANLEY</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>47650</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>21308</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DICK CREW</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BILL THRALL</NamePerson>
+        <Title>SECRETARY / PASTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>37827</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>17784</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RUDY PINON</NamePerson>
+        <Title>DIRECTOR OF OPERATIONS</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>60000</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>4019</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>222322</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>56870</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <FederatedCampaigns>75000</FederatedCampaigns>
+      <FundraisingEvents>5960</FundraisingEvents>
+      <AllOtherContributions>1566645</AllOtherContributions>
+      <NoncashContributions>28202</NoncashContributions>
+      <TotalContributions>1647605</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>EDUCATION SERVICES</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>90851</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>90851</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>YOUTH PROGRAM GRANT</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>13162</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>13162</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>104013</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>869</TotalRevenueColumn>
+        <ExclusionAmount>869</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossRents>
+        <Real>81831</Real>
+      </GrossRents>
+      <LessRentalExpenses>
+        <Real>90311</Real>
+      </LessRentalExpenses>
+      <RentalIncomeOrLoss>
+        <Real>-8480</Real>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>-8480</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>-1323</UnrelatedBusinessRevenue>
+        <ExclusionAmount>-7157</ExclusionAmount>
+      </NetRentalIncomeOrLoss>
+      <GrossIncomeFundraisingEvents>9367</GrossIncomeFundraisingEvents>
+      <CntrbtnsRprtdFundraisingEvents>5960</CntrbtnsRprtdFundraisingEvents>
+      <FundraisingDirectExpenses>9367</FundraisingDirectExpenses>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <OtherRevenueMisc>
+        <Description>INSURANCE SETTLEMENT P</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>212452</TotalRevenueColumn>
+        <ExclusionAmount>212452</ExclusionAmount>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>SALE OF LEASE AGREEMEN</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>98337</TotalRevenueColumn>
+        <ExclusionAmount>98337</ExclusionAmount>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>OTHER INCOME</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>10874</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>10874</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>321663</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>2065670</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>114887</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>-1323</UnrelatedBusinessRevenue>
+        <ExclusionAmount>304501</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticIndividuals>
+        <Total>75015</Total>
+        <ProgramServices>75015</ProgramServices>
+      </GrantsToDomesticIndividuals>
+      <CompCurrentOfficersDirectors>
+        <Total>259262</Total>
+        <ProgramServices>182267</ProgramServices>
+        <ManagementAndGeneral>60000</ManagementAndGeneral>
+        <Fundraising>16995</Fundraising>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>468546</Total>
+        <ProgramServices>347239</ProgramServices>
+        <ManagementAndGeneral>49109</ManagementAndGeneral>
+        <Fundraising>72198</Fundraising>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>16503</Total>
+        <ManagementAndGeneral>16503</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>49206</Total>
+        <ProgramServices>35920</ProgramServices>
+        <ManagementAndGeneral>7381</ManagementAndGeneral>
+        <Fundraising>5905</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>3385</Total>
+        <ManagementAndGeneral>3385</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>21221</Total>
+        <ManagementAndGeneral>21221</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>21763</Total>
+        <ProgramServices>12176</ProgramServices>
+        <ManagementAndGeneral>8867</ManagementAndGeneral>
+        <Fundraising>720</Fundraising>
+      </FeesForServicesOther>
+      <OfficeExpenses>
+        <Total>51286</Total>
+        <ProgramServices>25210</ProgramServices>
+        <ManagementAndGeneral>12566</ManagementAndGeneral>
+        <Fundraising>13510</Fundraising>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>124716</Total>
+        <ProgramServices>112244</ProgramServices>
+        <ManagementAndGeneral>8150</ManagementAndGeneral>
+        <Fundraising>4322</Fundraising>
+      </Occupancy>
+      <Travel>
+        <Total>17136</Total>
+        <ProgramServices>15936</ProgramServices>
+        <ManagementAndGeneral>857</ManagementAndGeneral>
+        <Fundraising>343</Fundraising>
+      </Travel>
+      <Interest>
+        <Total>19347</Total>
+        <ProgramServices>17412</ProgramServices>
+        <ManagementAndGeneral>1548</ManagementAndGeneral>
+        <Fundraising>387</Fundraising>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>81761</Total>
+        <ProgramServices>72972</ProgramServices>
+        <ManagementAndGeneral>4088</ManagementAndGeneral>
+        <Fundraising>4701</Fundraising>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>174657</Total>
+        <ProgramServices>131970</ProgramServices>
+        <ManagementAndGeneral>35556</ManagementAndGeneral>
+        <Fundraising>7131</Fundraising>
+      </Insurance>
+      <OtherExpenses>
+        <Description>PROGRAM ACTIVITIES</Description>
+        <Total>199989</Total>
+        <ProgramServices>197998</ProgramServices>
+        <ManagementAndGeneral>1991</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <Total>34151</Total>
+        <ProgramServices>25265</ProgramServices>
+        <ManagementAndGeneral>7965</ManagementAndGeneral>
+        <Fundraising>921</Fundraising>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>1617944</Total>
+        <ProgramServices>1251624</ProgramServices>
+        <ManagementAndGeneral>239187</ManagementAndGeneral>
+        <Fundraising>127133</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>91416</BOY>
+        <EOY>123395</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>149948</BOY>
+        <EOY>221583</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <EOY>129600</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>50835</BOY>
+      </AccountsReceivable>
+      <LandBuildingsEquipmentBasis>3807515</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>857811</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>3150360</BOY>
+        <EOY>2949704</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>0</BOY>
+        <EOY>452896</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>3442559</BOY>
+        <EOY>3877178</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>16015</BOY>
+        <EOY>14614</EOY>
+      </AccountsPayableAccruedExpenses>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>425448</BOY>
+        <EOY>379767</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <UnsecuredNotesLoansPayable>
+        <EOY>33975</EOY>
+      </UnsecuredNotesLoansPayable>
+      <TotalLiabilities>
+        <BOY>441463</BOY>
+        <EOY>428356</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>2711800</BOY>
+        <EOY>3026509</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>289296</BOY>
+        <EOY>422313</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>3001096</BOY>
+        <EOY>3448822</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>3442559</BOY>
+        <EOY>3877178</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>447726</ReconcilationRevenueExpenses>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus4Years>1860621</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>793493</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1781954</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1309228</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1647605</CurrentTaxYear>
+        <Total>7392901</Total>
+      </GiftsGrantsContribReceived170>
+      <Total170>
+        <CurrentTaxYearMinus4Years>1860621</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>793493</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1781954</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1309228</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1647605</CurrentTaxYear>
+        <Total>7392901</Total>
+      </Total170>
+      <PublicSupportTotal170>7392901</PublicSupportTotal170>
+      <GrossInvestmentIncome170>
+        <CurrentTaxYearMinus4Years>1196</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>129</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>2597</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>624</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>869</CurrentTaxYear>
+        <Total>5415</Total>
+      </GrossInvestmentIncome170>
+      <NetUBI>
+        <CurrentTaxYearMinus4Years>160894</CurrentTaxYearMinus4Years>
+        <Total>160894</Total>
+      </NetUBI>
+      <TotalSupport>7559210</TotalSupport>
+      <GrossReceiptsFromAdmissionsEtc>150772</GrossReceiptsFromAdmissionsEtc>
+      <PublicSupportPertcentage170>0.97800</PublicSupportPertcentage170>
+      <PublicSupportPertcentPriorYear>0.92900</PublicSupportPertcentPriorYear>
+      <ThirtyThreePercntTestsCY170>X</ThirtyThreePercntTestsCY170>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>436200</OtherCostOrOtherBasis>
+        <BookValue>436200</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>3157473</OtherCostOrOtherBasis>
+        <Depreciation>672903</Depreciation>
+        <BookValue>2484570</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>213842</OtherCostOrOtherBasis>
+        <Depreciation>184908</Depreciation>
+        <BookValue>28934</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>2949704</TotalOfBookValueLandBuildings>
+      <OtherAssets>
+        <Description>INSURANCE SETTLEMENT RECEIVABLE</Description>
+        <BookValue>354559</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>SALE OF LEASE AGREEMENT RECEIVABLE</Description>
+        <BookValue>98337</BookValue>
+      </OtherAssets>
+      <TotalBookValueOtherAssets>452896</TotalBookValueOtherAssets>
+      <TotalRevenue>2065670</TotalRevenue>
+      <TotalExpenses>1617944</TotalExpenses>
+      <ExcessOrDeficitForYear>447726</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>447726</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>2065670</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>2065670</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>2065670</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>1617944</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>1617944</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>1617944</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF UNCERTAIN TAX POSITIONS UNDER FIN 48:</Identifier>
+        <ReturnReference>PART X:</ReturnReference>
+        <Explanation>THE ORGANIZATION RECOGNIZES TAX POSITIONS WITH UNCERTAINTY IN INCOME TAXES IN THE FINANCIAL STATEMENTS WHEN IT IS MORE LIKELY THAN NOT THE POSITIONS WILL NOT BE SUSTAINED UPON EXAMINATION OF THE TAX AUTHORITIES. AS OF DECEMBER 31, 2010 THE ORGANIZATION HAD NO UNCERTAIN TAX POSITIONS THAT QUALIFY FOR EITHER RECOGNITION OR DISCLOSURE IN THE FINANCIAL STATEMENTS. THE FEDERAL INFORMATIONAL RETURNS OF THE ORGANIZATION FOR THE YEARS ENDED PRIOR TO DECEMBER 31, 2007 AND THE STATE INFORMATIONAL RETURNS FOR THE YEARS ENDED PRIOR TO DECEMBER 31, 2005 ARE SUBJECT TO EXAMINATION BY THE IRS AND THE STATE OF ARIZONA, GENERALLY FOR THREE TO FOUR YEARS RESPECTIVELY, AFTER THEY WERE FILED. THE ORGANIZATION RECOGNIZES INTEREST AND PENALTIES ASSOCIATED WITH INCOME TAX IN OPERATING EXPENSES. DURING THE YEAR ENDED DECEMBER 31, 2010 THE ORGANIZATION DID NOT HAVE ANY INCOME TAX RELATED INTEREST AND PENALTY EXPENSE.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleG documentId="RetDoc1041300001">
+      <EventsInformation>
+        <NameOfEvent1>GOLF TOURNAMENT</NameOfEvent1>
+        <GrossReceiptsEvent1>15327</GrossReceiptsEvent1>
+        <CharitableContributionsEvent1>5960</CharitableContributionsEvent1>
+        <GrossRevenueEvent1>9367</GrossRevenueEvent1>
+        <OtherDirectExpensesEvent1>9367</OtherDirectExpensesEvent1>
+        <GrossReceiptsTotal>15327</GrossReceiptsTotal>
+        <CharitableContributionsTotal>5960</CharitableContributionsTotal>
+        <GrossRevenueTotalEvents>9367</GrossRevenueTotalEvents>
+        <OtherDirectExpensesTotalEvents>9367</OtherDirectExpensesTotalEvents>
+        <DirectExpenseSummaryEvents>9367</DirectExpenseSummaryEvents>
+        <NetIncomeSummary>0</NetIncomeSummary>
+      </EventsInformation>
+    </IRS990ScheduleG>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>SCHOLARSHIPS</TypeOfGrant>
+        <NumberOfRecipients>8</NumberOfRecipients>
+        <AmountOfCashGrant>54736</AmountOfCashGrant>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>DIRECT ASSISTANCE</TypeOfGrant>
+        <AmountOfCashGrant>20279</AmountOfCashGrant>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIV>
+        <Identifier>PROCEDURE FOR MONITORING GRANTS IN THE U.S.:</Identifier>
+        <ReturnReference>PART I, LINE 2:</ReturnReference>
+        <Explanation>SCHEDULE I, PART I, LINE 2: CRITERIA FOR SCHOLARSHIPS: (1)INDIVIDUALS MUST HAVE TAKEN PART IN AND VOLUNTEERED IN NEIGHBORHOOD MINISTRIES PROGRAMS AND HAVE DEMONSTRATED LEADERSHIP ABILITY; (2) THE INDIVIDUAL MUST BE ADMITTED TO COLLEGE; (3) MUST DEMONSTRATE FINANCIAL NEED; (4) MUST BE PART OF A FIRST GENERATION TO ATTEND COLLEGE; (5) AND MUST BE WILLING TO ATTEND COMMUNITY COLLEGE FOR 2 YEARS BEFORE TRANSFERRING TO THE UNIVERSITY. AN APPLICATION PROCEDURE IS REQUIRED, INCLUDING SUBMISSION OF A TRANSCRIPT OF GRADES, ANSWERING ESSAY QUESTIONS, PROVIDING LETTERS OF RECOMMENDATION, AND COMPLETION OF A FINANCIAL AID FORM. ONCE A SCHOLARSHIP IS AWARDED, THERE ARE ADDITIONAL REQUIREMENTS TO MAINTAIN AND RENEW THE SCHOLARSHIP. A COMMITTEE DETERMINES WHICH APPLICANTS WILL BE AWARDED SCHOLARSHIPS AND THE AMOUNT AWARDED.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>IAN DANLEY</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>RELATED TO MARY DANLEY, PRESIDENT</Relationship>
+        <AmountOfTransaction>30000</AmountOfTransaction>
+        <DescriptionOfTransaction>COMPENSATION</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <ClothingAndHouseholdGoods>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NoncashContribsRptdF990>28202</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FMV</MethodOfDeterminingRevenues>
+      </ClothingAndHouseholdGoods>
+      <AnyPropertyThatMustBeHeld>0</AnyPropertyThatMustBeHeld>
+      <ReviewProcessUnusualNCGifts>0</ReviewProcessUnusualNCGifts>
+      <ThirdPartiesUsed>0</ThirdPartiesUsed>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 2</Identifier>
+        <Explanation>WILLIAM THRALL, SR, AND BILL THRALL ARE FATHER AND SON.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>A COPY OF THE 990 IS REVIEWED BY THE CHAIRMAN AND BY THE DIRECTOR OF OPERATIONS &amp; FINANCE PRIOR TO FILING.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>THE ORGANIZATION HAS A WRITTEN CONFLICT OF INTEREST POLICY WHICH REQUIRES BOARD MEMBERS AND EMPLOYEES TO INFORM THE BOARD OF DIRECTORS OF ANY POTENTIAL CONFLICT OF INTEREST BEFORE TRANSACTIONS ARE PERFORMED. BOARD MEMBERS ARE ALSO REQUIRED TO SIGN A CONFLICT OF INTEREST FORM ANNUALLY TO DISCLOSE ANY POTENTIAL OF CONFLICTS OF INTEREST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>COMPENSATION OF TOP MANAGEMENT IS APPROVED BY THE BOARD'S PERSONNEL AND FINANCE COMMITTEE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE ORGANIZATION MAKES ITS GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS AVAILABLE TO THE PUBLIC UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

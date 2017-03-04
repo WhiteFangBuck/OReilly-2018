@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T12:35:27-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>GERSHON BIEGELEISEN &amp; CO CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>111 MADISON AVE</AddressLine1>
+        <City>LAKEWOOD</City>
+        <State>NJ</State>
+        <ZIPCode>08701</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>201963448</EIN>
+      <Name>
+        <BusinessNameLine1>YAD YOSEF FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>YADY</NameControl>
+      <Phone>7329018486</Phone>
+      <USAddress>
+        <AddressLine1>4 MALKA WAY</AddressLine1>
+        <City>LAKEWOOD</City>
+        <State>NJ</State>
+        <ZIPCode>08701</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ZEV SPIRA</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>7329018486</Phone>
+      <DateSigned>2011-07-07</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>GERSHON BIEGELEISEN</Name>
+      <Phone>7328866311</Phone>
+      <DatePrepared>2011-07-11</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1000639</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>250000</ContriReceivedRevAndExpnss>
+        <TotalRevenueAndExpenses>250000</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc6">4000</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>4000</LegalFeesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc7">2086</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>2031</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>55</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>6086</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>6031</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>55</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>8860</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>8860</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>14946</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>6031</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>8915</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>235054</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>170045</CashBOY>
+        <CashEOY>262864</CashEOY>
+        <CashEOYFMV>262864</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>517000</SavingsAndTempCashInvstBOY>
+        <OtherNotesAndLoansReceivable>43000</OtherNotesAndLoansReceivable>
+        <OtherNotesAndLoansRcvblBOY>55500</OtherNotesAndLoansRcvblBOY>
+        <OtherNotesAndLoansRcvblEOY referenceDocumentId="RetDoc9">43000</OtherNotesAndLoansRcvblEOY>
+        <OtherNotesAndLoansRcvblEOYFMV>43000</OtherNotesAndLoansRcvblEOYFMV>
+        <InvestmentsLandEtcBasis>671447</InvestmentsLandEtcBasis>
+        <InvestmentsLandEtcEOY referenceDocumentId="RetDoc4">671447</InvestmentsLandEtcEOY>
+        <InvestmentsLandEtcEOYFMV>671447</InvestmentsLandEtcEOYFMV>
+        <InvestmentsOtherBOY>23328</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc5">23328</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>23328</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>765873</TotalAssetsBOY>
+        <TotalAssetsEOY>1000639</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1000639</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc8">288</OtherLiabilitiesBOY>
+        <TotalLiabilitiesBOY>288</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>765585</UnrestrictedBOY>
+        <UnrestrictedEOY>1000639</UnrestrictedEOY>
+        <TotalNetAssetsBOY>765585</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1000639</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>765873</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1000639</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>765585</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>235054</ExcessOfRevenueOverExpenses>
+        <Subtotal>1000639</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1000639</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>143276</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>126094</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>1.136263</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>48078</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>104829</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.458633</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>101015</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>309220</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.326677</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>60516</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>111836</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.541114</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>208130</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>80152</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>2.596691</DistributionRatioYear5>
+        <TotalDistributionRatio>5.059378</TotalDistributionRatio>
+        <AverageDistributionRatio>1.011876</AverageDistributionRatio>
+        <NetNoncharitableAssets>718082</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>726610</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>726610</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>8915</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>NONE</WebsiteAddress>
+        <BooksInCareOfPersonName>ZEV SPIRA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7323678273</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>4 MALKA WAY</AddressLine1>
+          <City>LAKEWOOD</City>
+          <State>NJ</State>
+          <ZIPCode>08701</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">ZEV SPIRA</PersonName>
+          <USAddress>
+            <AddressLine1>4 MALKA WAY</AddressLine1>
+            <City>LAKEWOOD</City>
+            <State>NJ</State>
+            <ZIPCode>08701</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">TZIPPORAH SPIRA</PersonName>
+          <USAddress>
+            <AddressLine1>4 MALKA WAY</AddressLine1>
+            <City>LAKEWOOD</City>
+            <State>NJ</State>
+            <ZIPCode>08701</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>86234</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>642783</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>729017</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>729017</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>10935</CashDeemedCharitable>
+        <NetNoncharitableAssets>718082</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>35904</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>35904</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>35904</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>35904</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>35904</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>8915</ExpensesAndContributions>
+        <QualifyingDistributions>8915</QualifyingDistributions>
+        <AdjQualifyingDistributions>8915</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>35904</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>203691</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>54924</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>85557</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>43124</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>136971</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>524267</TotalExcessDistriCarryover>
+        <QualifyingDistributions>8915</QualifyingDistributions>
+        <AppliedToCurrentYear>8915</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>26989</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>26989</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>497278</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>176702</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>320576</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>54924</ExcessFromYear4>
+        <ExcessFromYear3>85557</ExcessFromYear3>
+        <ExcessFromYear2>43124</ExcessFromYear2>
+        <ExcessFromYear1>136971</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>ZEV SPIRA</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>ZEV SPIRA</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>4 MALKA WAY</AddressLine1>
+            <City>LAKEWOOD</City>
+            <State>NJ</State>
+            <ZIPCode>08701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7329018486</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATIONS CAN BE WRITTEN OR VERBAL &amp; MUST EXPLAIN NATURE OF ORGANIZATION AND USE OF FUNDS COLLECTED</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE. GRANTS ARE MADE ON AN ONGOING BASIS</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BAIS ROCHEL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>115 CAREY</AddressLine1>
+            <City>LAKEWOOD</City>
+            <State>NJ</State>
+            <ZIPCode>08701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>360</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MESIVTA OF LAKEWOOD</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>801 W KENNEDY</AddressLine1>
+            <City>LAKEWOOD</City>
+            <State>NJ</State>
+            <ZIPCode>08701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>YESHIVA BAIS MEDRASH LTAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1150 BUCKWALD CT</AddressLine1>
+            <City>LAKEWOOD</City>
+            <State>NJ</State>
+            <ZIPCode>08701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>8860</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+        </IntOnSavingsAndTempCashInvst>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>ZEV SPIRA</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>4 MALKA WAY</AddressLine1>
+          <City>LAKEWOOD</City>
+          <State>NJ</State>
+          <ZIPCode>08701</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>250000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>ZEV SPIRA</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>TZIPPORAH SPIRA</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsLandSchedule2 documentId="RetDoc4">
+      <InvestmentLand>
+        <CategoryOrItem>LAND AND CIP</CategoryOrItem>
+        <CostOrOtherBasis>671447</CostOrOtherBasis>
+        <BookValue>671447</BookValue>
+        <EOYFMV>671447</EOYFMV>
+      </InvestmentLand>
+    </InvestmentsLandSchedule2>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOther>
+        <CategoryOrItem>DIAMONDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>23328</BookValue>
+        <EOYFMV>23328</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc6">
+      <LegalFees>
+        <Amount>4000</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TAXES</Description>
+        <RevenueAndExpensesPerBooks>2031</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2031</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LICENSES AND FEES</Description>
+        <RevenueAndExpensesPerBooks>30</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>30</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc8">
+      <OtherLiabilities>
+        <Description>ACCRUED PF TAX</Description>
+        <BOYBookValue>287</BOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>ROUNDING</Description>
+        <BOYBookValue>1</BOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherNotesLoansRcvblShortSch2 documentId="RetDoc9">
+      <OtherNotesLoansRcvblShort>
+        <NameOf501c3Organization>
+          <BusinessNameLine1>CONG BNAI AHARON</BusinessNameLine1>
+        </NameOf501c3Organization>
+        <BalanceDue>55500</BalanceDue>
+      </OtherNotesLoansRcvblShort>
+    </OtherNotesLoansRcvblShortSch2>
+  </ReturnData>
+</Return>

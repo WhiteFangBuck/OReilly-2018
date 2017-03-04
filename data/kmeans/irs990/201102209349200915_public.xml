@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T19:52:50-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DOUGLAS J YOUNG CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>777 BINSHADLER STREET</AddressLine1>
+        <City>LEBANON</City>
+        <State>OR</State>
+        <ZIPCode>97355</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990EZ</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>942739808</EIN>
+      <Name>
+        <BusinessNameLine1>BERKELEY OPERA</BusinessNameLine1>
+      </Name>
+      <NameControl>BERK</NameControl>
+      <Phone>5108411903</Phone>
+      <USAddress>
+        <AddressLine1>1700 SHATTUCK AVENUE No 312</AddressLine1>
+        <City>BERKELEY</City>
+        <State>CA</State>
+        <ZIPCode>947091631</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PAUL SUGARMAN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>5105484831</Phone>
+      <DateSigned>2011-08-01</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Phone>5412583100</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990EZ documentId="RetDoc1234200001" referenceDocumentId="RetDoc10045800000">
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <WebSite>www.berkeleyopera.org</WebSite>
+      <Organization501c typeOf501cOrganization="3" referenceDocumentId="RetDoc1039100001">X</Organization501c>
+      <GrossReceipts>314365</GrossReceipts>
+      <ContributionsGiftsGrantsEtc>100013</ContributionsGiftsGrantsEtc>
+      <ProgramServiceRevenue>214350</ProgramServiceRevenue>
+      <OtherRevenueTotal referenceDocumentId="RetDoc2091400001">2</OtherRevenueTotal>
+      <TotalRevenue>314365</TotalRevenue>
+      <FeesAndOthPymtToIndContractors>1649</FeesAndOthPymtToIndContractors>
+      <OccupancyRentUtilitiesAndMaint>22808</OccupancyRentUtilitiesAndMaint>
+      <PrintingPublicationsPostage>20053</PrintingPublicationsPostage>
+      <OtherExpensesTotal referenceDocumentId="RetDoc2020500001">213380</OtherExpensesTotal>
+      <TotalExpenses>257890</TotalExpenses>
+      <ExcessOrDeficitForYear>56475</ExcessOrDeficitForYear>
+      <NetAssetsOrFundBalancesBOY>-5087</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>51388</NetAssetsOrFundBalancesEOY>
+      <CashSavingsAndInvestments>
+        <BOY>2508</BOY>
+        <EOY>51983</EOY>
+      </CashSavingsAndInvestments>
+      <OtherAssetsTotal referenceDocumentId="RetDoc2022800001">
+        <BOY>225</BOY>
+        <EOY>225</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>2733</BOY>
+        <EOY>52208</EOY>
+      </TotalAssets>
+      <SumOfTotalLiabilities referenceDocumentId="RetDoc2022900001">
+        <BOY>7820</BOY>
+        <EOY>820</EOY>
+      </SumOfTotalLiabilities>
+      <NetAssetsOrFundBalances>
+        <BOY>-5087</BOY>
+        <EOY>51388</EOY>
+      </NetAssetsOrFundBalances>
+      <PrimaryExemptPurpose>TO PRESENT OPERA AS LIVELY, COMPELLING MUSICAL THEATER, FUSING MUSIC AND DRAMA TO DELIGHT, MOVE, AND CHALLENGE OUR AUDIENCES, WHILE REMAINING ACCESSIBLE, AFFORDABLE AND ENGAGING.</PrimaryExemptPurpose>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>PRODUCTION OF DON GIOVANNI</DescriptionProgramServiceAccom>
+        <GrantsAndAllocations>0</GrantsAndAllocations>
+        <ProgramServiceExpenses>48162</ProgramServiceExpenses>
+      </ProgramServiceAccomplishment>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>PRODUCTION OF THE TENDER LAND</DescriptionProgramServiceAccom>
+        <GrantsAndAllocations>0</GrantsAndAllocations>
+        <ProgramServiceExpenses>48427</ProgramServiceExpenses>
+      </ProgramServiceAccomplishment>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>PRODUCTION OF LEGEND OF THE RING</DescriptionProgramServiceAccom>
+        <GrantsAndAllocations>0</GrantsAndAllocations>
+        <ProgramServiceExpenses>72699</ProgramServiceExpenses>
+      </ProgramServiceAccomplishment>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>EXPENSES RELATED TO PAST AND FUTURE PRODUCTIONS, OR RELATED TO MULTIPLE PRODUCTIONS.</DescriptionProgramServiceAccom>
+        <GrantsAndAllocations>0</GrantsAndAllocations>
+        <ProgramServiceExpenses>61658</ProgramServiceExpenses>
+      </ProgramServiceAccomplishment>
+      <TotalProgramServiceExpenses>230946</TotalProgramServiceExpenses>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>PAUL SUGARMAN</PersonName>
+        <AddressUS>
+          <AddressLine1>1200 SUNNYHILLS ROAD</AddressLine1>
+          <City>OAKLAND</City>
+          <State>CA</State>
+          <ZIPCode>94610</ZIPCode>
+        </AddressUS>
+        <Title>PRESIDENT</Title>
+        <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>MARIAN KOHLSTEDT</PersonName>
+        <AddressUS>
+          <AddressLine1>1810 SAN RAMON AVE</AddressLine1>
+          <City>BERKELEY</City>
+          <State>CA</State>
+          <ZIPCode>94708</ZIPCode>
+        </AddressUS>
+        <Title>VICE PRESIDENT</Title>
+        <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>CLAUDE BABCOCK</PersonName>
+        <AddressUS>
+          <AddressLine1>2428 RUSSELL AVE</AddressLine1>
+          <City>BERKELEY</City>
+          <State>CA</State>
+          <ZIPCode>94705</ZIPCode>
+        </AddressUS>
+        <Title>SECRETARY</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>ELIZABETH WELLS</PersonName>
+        <AddressUS>
+          <AddressLine1>1700 SHATTUCK 312</AddressLine1>
+          <City>BERKELEY</City>
+          <State>CA</State>
+          <ZIPCode>94709</ZIPCode>
+        </AddressUS>
+        <Title>EXECUTIVE DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>VINCENT W FOGLE</PersonName>
+        <AddressUS>
+          <AddressLine1>1700 SHATTUCK 312</AddressLine1>
+          <City>BERKELEY</City>
+          <State>CA</State>
+          <ZIPCode>94709</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>TIMOTHY BLEVINS</PersonName>
+        <AddressUS>
+          <AddressLine1>4256 39TH AVE</AddressLine1>
+          <City>OAKLAND</City>
+          <State>CA</State>
+          <ZIPCode>94619</ZIPCode>
+        </AddressUS>
+        <Title>TREASURER</Title>
+        <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>SIGMUND SEIGEL</PersonName>
+        <AddressUS>
+          <AddressLine1>1700 SHATTUCK 312</AddressLine1>
+          <City>BERKELEY</City>
+          <State>CA</State>
+          <ZIPCode>94709</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>CYNTHIA WHITEHEAD</PersonName>
+        <AddressUS>
+          <AddressLine1>1700 SHATTUCK 312</AddressLine1>
+          <City>BERKELEY</City>
+          <State>CA</State>
+          <ZIPCode>94709</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <ActivitiesNotPreviouslyRpt>0</ActivitiesNotPreviouslyRpt>
+      <MadeChangesToOrgnzngEtcDoc>0</MadeChangesToOrgnzngEtcDoc>
+      <OrganizationHadUBI>0</OrganizationHadUBI>
+      <OrganizationDissolvedEtc>0</OrganizationDissolvedEtc>
+      <DirectIndirectPoliticalExpend>0</DirectIndirectPoliticalExpend>
+      <MadeLoansToFromOfficers>0</MadeLoansToFromOfficers>
+      <TaxImposedUnderIRC4911>0</TaxImposedUnderIRC4911>
+      <TaxImposedUnderIRC4912>0</TaxImposedUnderIRC4912>
+      <TaxImposedUnderIRC4955>0</TaxImposedUnderIRC4955>
+      <EngagedInExcessBenefitTrans>0</EngagedInExcessBenefitTrans>
+      <AmountOfTaxImposedOnOrgMgr>0</AmountOfTaxImposedOnOrgMgr>
+      <AmountOfTaxReimbursedByOrg>0</AmountOfTaxReimbursedByOrg>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <StatesWhereCopyOfReturnIsFiled>CA</StatesWhereCopyOfReturnIsFiled>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>TIM BLEVINS</BusinessNameLine1>
+        </NameBusiness>
+        <AddressUS>
+          <AddressLine1>1700 SHATTUCK AVENUE</AddressLine1>
+          <City>BERKELEY</City>
+          <State>CA</State>
+          <ZIPCode>94709</ZIPCode>
+        </AddressUS>
+        <TelephoneNumber>5108411903</TelephoneNumber>
+      </TheBooksAreInCareOf>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ForeignOffice>0</ForeignOffice>
+      <MaintainAnyDonorAdvisedFunds>0</MaintainAnyDonorAdvisedFunds>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <EngagePoliticalCmpgnActivities>0</EngagePoliticalCmpgnActivities>
+      <EngageInLobbyingActivities>0</EngageInLobbyingActivities>
+      <OperatingSchool>0</OperatingSchool>
+      <TrnsfrsExemptNonCharRelatedOrg>0</TrnsfrsExemptNonCharRelatedOrg>
+      <PartVIOfCompOfHighestPaidEmpl>NONE</PartVIOfCompOfHighestPaidEmpl>
+      <PartVIAHghstPaidCntrctProfSer>NONE</PartVIAHghstPaidCntrctProfSer>
+    </IRS990EZ>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>201664</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>108029</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>120504</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>97901</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>100013</CurrentTaxYear>
+        <Total>628111</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>89168</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>84888</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>112369</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>101044</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>214350</CurrentTaxYear>
+        <Total>601819</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>290832</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>192917</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>232873</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>198945</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>314363</CurrentTaxYear>
+        <Total>1229930</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <CurrentTaxYearMinus4Years>6598</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>5426</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>7917</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>9260</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>5598</CurrentTaxYear>
+        <Total>34799</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <CurrentTaxYearMinus4Years>102858</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>65000</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>49642</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>17500</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>10000</CurrentTaxYear>
+        <Total>245000</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <CurrentTaxYearMinus4Years>109456</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>70426</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>57559</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>26760</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>15598</CurrentTaxYear>
+        <Total>279799</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>950131</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>275</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>2035</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>41</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>14</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>2</CurrentTaxYear>
+        <Total>2367</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>275</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>2035</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>41</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>14</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>2</CurrentTaxYear>
+        <Total>2367</Total>
+      </InvestmentIncomeAndUBTI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>291107</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>194952</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>232914</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>198959</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>314365</CurrentTaxYear>
+        <Total>1232297</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.77100</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.72190</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00190</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.00230</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <TransferPrsnlBnftContractsDecl documentId="RetDoc10045800000">
+      <Declaration>The organization did not, during the year, receive any funds, directly,or indirectly, to pay premiums on a personal benefit contract.The organization, did not, during the year, pay any premiums, directly,or indirectly, on a personal benefit contract.</Declaration>
+    </TransferPrsnlBnftContractsDecl>
+  </ReturnData>
+</Return>

@@ -1,0 +1,1626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-27T18:22:44-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Osborne &amp; Ho Inc</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO Box 1866</AddressLine1>
+        <City>Kailua</City>
+        <State>HI</State>
+        <ZIPCode>96734</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>990353034</EIN>
+      <Name>
+        <BusinessNameLine1>Carl and Hildgund Bucky Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>CARL</NameControl>
+      <Phone>8085231123</Phone>
+      <USAddress>
+        <AddressLine1>1188 Bishop Street No 2305</AddressLine1>
+        <City>Honolulu</City>
+        <State>HI</State>
+        <ZIPCode>96813</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BRUCE E BUCKY</Name>
+      <Title>President</Title>
+      <Phone>8085231123</Phone>
+      <DateSigned>2011-07-27</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jamie A Osborne</Name>
+      <Phone>8082661800</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>144285</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>3096</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>3096</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>4683</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>82199</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>4683</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>7779</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>7779</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">2462</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>2462</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">108</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>108</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>2570</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2570</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>2500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>2500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>5070</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2570</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>2500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>2709</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>5209</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <InvestmentsCorpStockBOY>127538</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">130247</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>144285</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>127538</TotalAssetsBOY>
+        <TotalAssetsEOY>130247</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>144285</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>127538</RetainedEarningsBOY>
+        <RetainedEarningsEOY>130247</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>127538</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>130247</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>127538</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>130247</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>127538</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>2709</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>130247</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>130247</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Frontier Comm cash-in-lieu</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>5</GrossSalesPrice>
+          <GainOrLoss>5</GainOrLoss>
+          <GainsMinusExcessOrLosses>5</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Frontier Comm</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2010-07-14</DateSold>
+          <GrossSalesPrice>15</GrossSalesPrice>
+          <CostOrOtherBasis>21</CostOrOtherBasis>
+          <GainOrLoss>-6</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Frontier Comm</DescriptionOfAsset>
+          <DateAcquired>2005-11-22</DateAcquired>
+          <DateSold>2010-07-14</DateSold>
+          <GrossSalesPrice>15</GrossSalesPrice>
+          <CostOrOtherBasis>21</CostOrOtherBasis>
+          <GainOrLoss>-6</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Frontier Comm</DescriptionOfAsset>
+          <DateAcquired>2005-12-21</DateAcquired>
+          <DateSold>2010-07-14</DateSold>
+          <GrossSalesPrice>7</GrossSalesPrice>
+          <CostOrOtherBasis>7</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Frontier Comm</DescriptionOfAsset>
+          <DateAcquired>2006-07-17</DateAcquired>
+          <DateSold>2010-07-14</DateSold>
+          <GrossSalesPrice>7</GrossSalesPrice>
+          <CostOrOtherBasis>10</CostOrOtherBasis>
+          <GainOrLoss>-3</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Google</DescriptionOfAsset>
+          <DateAcquired>2009-02-06</DateAcquired>
+          <DateSold>2010-07-08</DateSold>
+          <GrossSalesPrice>451</GrossSalesPrice>
+          <CostOrOtherBasis>362</CostOrOtherBasis>
+          <GainOrLoss>89</GainOrLoss>
+          <GainsMinusExcessOrLosses>89</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Apple</DescriptionOfAsset>
+          <DateAcquired>2008-09-22</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>535</GrossSalesPrice>
+          <CostOrOtherBasis>277</CostOrOtherBasis>
+          <GainOrLoss>258</GainOrLoss>
+          <GainsMinusExcessOrLosses>258</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Canadian Natl</DescriptionOfAsset>
+          <DateAcquired>2009-06-16</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>121</GrossSalesPrice>
+          <CostOrOtherBasis>86</CostOrOtherBasis>
+          <GainOrLoss>35</GainOrLoss>
+          <GainsMinusExcessOrLosses>35</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Dr Pepper</DescriptionOfAsset>
+          <DateAcquired>2010-03-05</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>225</GrossSalesPrice>
+          <CostOrOtherBasis>194</CostOrOtherBasis>
+          <GainOrLoss>31</GainOrLoss>
+          <GainsMinusExcessOrLosses>31</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Intercontinental</DescriptionOfAsset>
+          <DateAcquired>2009-08-03</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>353</GrossSalesPrice>
+          <CostOrOtherBasis>286</CostOrOtherBasis>
+          <GainOrLoss>67</GainOrLoss>
+          <GainsMinusExcessOrLosses>67</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>11 Intl Paper</DescriptionOfAsset>
+          <DateAcquired>2004-10-05</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>265</GrossSalesPrice>
+          <CostOrOtherBasis>447</CostOrOtherBasis>
+          <GainOrLoss>-182</GainOrLoss>
+          <GainsMinusExcessOrLosses>-182</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 IBM</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>256</GrossSalesPrice>
+          <CostOrOtherBasis>174</CostOrOtherBasis>
+          <GainOrLoss>82</GainOrLoss>
+          <GainsMinusExcessOrLosses>82</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35.949 Pru Sht Term</DescriptionOfAsset>
+          <DateAcquired>2009-05-22</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>412</GrossSalesPrice>
+          <CostOrOtherBasis>392</CostOrOtherBasis>
+          <GainOrLoss>20</GainOrLoss>
+          <GainsMinusExcessOrLosses>20</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Unilever</DescriptionOfAsset>
+          <DateAcquired>2005-12-21</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>170</GrossSalesPrice>
+          <CostOrOtherBasis>137</CostOrOtherBasis>
+          <GainOrLoss>33</GainOrLoss>
+          <GainsMinusExcessOrLosses>33</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Unilever</DescriptionOfAsset>
+          <DateAcquired>2006-07-17</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>57</GrossSalesPrice>
+          <CostOrOtherBasis>43</CostOrOtherBasis>
+          <GainOrLoss>14</GainOrLoss>
+          <GainsMinusExcessOrLosses>14</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7 Viacom</DescriptionOfAsset>
+          <DateAcquired>2007-05-09</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>239</GrossSalesPrice>
+          <CostOrOtherBasis>293</CostOrOtherBasis>
+          <GainOrLoss>-54</GainOrLoss>
+          <GainsMinusExcessOrLosses>-54</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>109.74 Virtus Multi</DescriptionOfAsset>
+          <DateAcquired>2009-05-22</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>512</GrossSalesPrice>
+          <CostOrOtherBasis>451</CostOrOtherBasis>
+          <GainOrLoss>61</GainOrLoss>
+          <GainsMinusExcessOrLosses>61</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7 Altria</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2010-09-01</DateSold>
+          <GrossSalesPrice>159</GrossSalesPrice>
+          <CostOrOtherBasis>81</CostOrOtherBasis>
+          <GainOrLoss>78</GainOrLoss>
+          <GainsMinusExcessOrLosses>78</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>64 Applied Materials</DescriptionOfAsset>
+          <DateAcquired>2010-01-22</DateAcquired>
+          <DateSold>2010-09-09</DateSold>
+          <GrossSalesPrice>692</GrossSalesPrice>
+          <CostOrOtherBasis>849</CostOrOtherBasis>
+          <GainOrLoss>-157</GainOrLoss>
+          <GainsMinusExcessOrLosses>-157</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>9 ITT</DescriptionOfAsset>
+          <DateAcquired>2009-10-26</DateAcquired>
+          <DateSold>2010-08-31</DateSold>
+          <GrossSalesPrice>382</GrossSalesPrice>
+          <CostOrOtherBasis>493</CostOrOtherBasis>
+          <GainOrLoss>-111</GainOrLoss>
+          <GainsMinusExcessOrLosses>-111</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 ITT</DescriptionOfAsset>
+          <DateAcquired>2010-06-21</DateAcquired>
+          <DateSold>2010-08-31</DateSold>
+          <GrossSalesPrice>255</GrossSalesPrice>
+          <CostOrOtherBasis>292</CostOrOtherBasis>
+          <GainOrLoss>-37</GainOrLoss>
+          <GainsMinusExcessOrLosses>-37</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Chubb</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2010-08-05</DateSold>
+          <GrossSalesPrice>107</GrossSalesPrice>
+          <CostOrOtherBasis>69</CostOrOtherBasis>
+          <GainOrLoss>38</GainOrLoss>
+          <GainsMinusExcessOrLosses>38</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Eli Lilly</DescriptionOfAsset>
+          <DateAcquired>2006-09-08</DateAcquired>
+          <DateSold>2010-08-09</DateSold>
+          <GrossSalesPrice>74</GrossSalesPrice>
+          <CostOrOtherBasis>110</CostOrOtherBasis>
+          <GainOrLoss>-36</GainOrLoss>
+          <GainsMinusExcessOrLosses>-36</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>14 Eli Lilly</DescriptionOfAsset>
+          <DateAcquired>2007-02-22</DateAcquired>
+          <DateSold>2010-08-09</DateSold>
+          <GrossSalesPrice>517</GrossSalesPrice>
+          <CostOrOtherBasis>759</CostOrOtherBasis>
+          <GainOrLoss>-242</GainOrLoss>
+          <GainsMinusExcessOrLosses>-242</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>15 Hospira</DescriptionOfAsset>
+          <DateAcquired>2010-06-22</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>772</GrossSalesPrice>
+          <CostOrOtherBasis>854</CostOrOtherBasis>
+          <GainOrLoss>-82</GainOrLoss>
+          <GainsMinusExcessOrLosses>-82</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Intercontinental</DescriptionOfAsset>
+          <DateAcquired>2009-08-09</DateAcquired>
+          <DateSold>2010-08-13</DateSold>
+          <GrossSalesPrice>576</GrossSalesPrice>
+          <CostOrOtherBasis>573</CostOrOtherBasis>
+          <GainOrLoss>3</GainOrLoss>
+          <GainsMinusExcessOrLosses>3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 DirecTV</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2010-08-05</DateSold>
+          <GrossSalesPrice>77</GrossSalesPrice>
+          <CostOrOtherBasis>44</CostOrOtherBasis>
+          <GainOrLoss>33</GainOrLoss>
+          <GainsMinusExcessOrLosses>33</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7 DirecTV</DescriptionOfAsset>
+          <DateAcquired>2004-09-13</DateAcquired>
+          <DateSold>2010-08-05</DateSold>
+          <GrossSalesPrice>271</GrossSalesPrice>
+          <CostOrOtherBasis>90</CostOrOtherBasis>
+          <GainOrLoss>181</GainOrLoss>
+          <GainsMinusExcessOrLosses>181</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>12 Visa</DescriptionOfAsset>
+          <DateAcquired>2009-03-04</DateAcquired>
+          <DateSold>2010-08-06</DateSold>
+          <GrossSalesPrice>859</GrossSalesPrice>
+          <CostOrOtherBasis>661</CostOrOtherBasis>
+          <GainOrLoss>198</GainOrLoss>
+          <GainsMinusExcessOrLosses>198</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 AT&amp;T</DescriptionOfAsset>
+          <DateAcquired>2005-11-23</DateAcquired>
+          <DateSold>2010-10-21</DateSold>
+          <GrossSalesPrice>171</GrossSalesPrice>
+          <CostOrOtherBasis>149</CostOrOtherBasis>
+          <GainOrLoss>22</GainOrLoss>
+          <GainsMinusExcessOrLosses>22</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 Chubb</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2010-10-22</DateSold>
+          <GrossSalesPrice>292</GrossSalesPrice>
+          <CostOrOtherBasis>172</CostOrOtherBasis>
+          <GainOrLoss>120</GainOrLoss>
+          <GainsMinusExcessOrLosses>120</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>19 Gilead</DescriptionOfAsset>
+          <DateAcquired>2007-11-05</DateAcquired>
+          <DateSold>2010-10-01</DateSold>
+          <GrossSalesPrice>679</GrossSalesPrice>
+          <CostOrOtherBasis>892</CostOrOtherBasis>
+          <GainOrLoss>-213</GainOrLoss>
+          <GainsMinusExcessOrLosses>-213</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>24 Lowes</DescriptionOfAsset>
+          <DateAcquired>2008-02-08</DateAcquired>
+          <DateSold>2010-10-18</DateSold>
+          <GrossSalesPrice>505</GrossSalesPrice>
+          <CostOrOtherBasis>569</CostOrOtherBasis>
+          <GainOrLoss>-64</GainOrLoss>
+          <GainsMinusExcessOrLosses>-64</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>17 Lowes</DescriptionOfAsset>
+          <DateAcquired>2008-12-11</DateAcquired>
+          <DateSold>2010-10-18</DateSold>
+          <GrossSalesPrice>357</GrossSalesPrice>
+          <CostOrOtherBasis>368</CostOrOtherBasis>
+          <GainOrLoss>-11</GainOrLoss>
+          <GainsMinusExcessOrLosses>-11</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>8 Verizon</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2010-10-21</DateSold>
+          <GrossSalesPrice>260</GrossSalesPrice>
+          <CostOrOtherBasis>287</CostOrOtherBasis>
+          <GainOrLoss>-27</GainOrLoss>
+          <GainsMinusExcessOrLosses>-27</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5000 FNMA</DescriptionOfAsset>
+          <DateAcquired>2009-05-22</DateAcquired>
+          <DateSold>2010-11-29</DateSold>
+          <GrossSalesPrice>5077</GrossSalesPrice>
+          <CostOrOtherBasis>5064</CostOrOtherBasis>
+          <GainOrLoss>13</GainOrLoss>
+          <GainsMinusExcessOrLosses>13</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7000 US Treasury note</DescriptionOfAsset>
+          <DateAcquired>2009-05-22</DateAcquired>
+          <DateSold>2010-11-26</DateSold>
+          <GrossSalesPrice>7000</GrossSalesPrice>
+          <CostOrOtherBasis>7000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2000 US Treasury note</DescriptionOfAsset>
+          <DateAcquired>2009-05-22</DateAcquired>
+          <DateSold>2010-11-29</DateSold>
+          <GrossSalesPrice>2336</GrossSalesPrice>
+          <CostOrOtherBasis>2188</CostOrOtherBasis>
+          <GainOrLoss>148</GainOrLoss>
+          <GainsMinusExcessOrLosses>148</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>9000 US Treasury note</DescriptionOfAsset>
+          <DateAcquired>2009-11-09</DateAcquired>
+          <DateSold>2010-11-29</DateSold>
+          <GrossSalesPrice>9899</GrossSalesPrice>
+          <CostOrOtherBasis>9569</CostOrOtherBasis>
+          <GainOrLoss>330</GainOrLoss>
+          <GainsMinusExcessOrLosses>330</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2000 US Treasury note</DescriptionOfAsset>
+          <DateAcquired>2010-06-28</DateAcquired>
+          <DateSold>2010-11-29</DateSold>
+          <GrossSalesPrice>2200</GrossSalesPrice>
+          <CostOrOtherBasis>2170</CostOrOtherBasis>
+          <GainOrLoss>30</GainOrLoss>
+          <GainsMinusExcessOrLosses>30</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>10 Phillip Morris</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2010-12-16</DateSold>
+          <GrossSalesPrice>593</GrossSalesPrice>
+          <CostOrOtherBasis>264</CostOrOtherBasis>
+          <GainOrLoss>329</GainOrLoss>
+          <GainsMinusExcessOrLosses>329</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>21 Dr Pepper</DescriptionOfAsset>
+          <DateAcquired>2010-03-05</DateAcquired>
+          <DateSold>2011-01-07</DateSold>
+          <GrossSalesPrice>744</GrossSalesPrice>
+          <CostOrOtherBasis>677</CostOrOtherBasis>
+          <GainOrLoss>67</GainOrLoss>
+          <GainsMinusExcessOrLosses>67</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>15 Celgene</DescriptionOfAsset>
+          <DateAcquired>2009-11-23</DateAcquired>
+          <DateSold>2011-02-11</DateSold>
+          <GrossSalesPrice>776</GrossSalesPrice>
+          <CostOrOtherBasis>830</CostOrOtherBasis>
+          <GainOrLoss>-54</GainOrLoss>
+          <GainsMinusExcessOrLosses>-54</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Chubb</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-02-15</DateSold>
+          <GrossSalesPrice>354</GrossSalesPrice>
+          <CostOrOtherBasis>207</CostOrOtherBasis>
+          <GainOrLoss>147</GainOrLoss>
+          <GainsMinusExcessOrLosses>147</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Comcast</DescriptionOfAsset>
+          <DateAcquired>2006-01-24</DateAcquired>
+          <DateSold>2011-02-15</DateSold>
+          <GrossSalesPrice>96</GrossSalesPrice>
+          <CostOrOtherBasis>75</CostOrOtherBasis>
+          <GainOrLoss>21</GainOrLoss>
+          <GainsMinusExcessOrLosses>21</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>14 Costco</DescriptionOfAsset>
+          <DateAcquired>1918-10-14</DateAcquired>
+          <DateSold>2011-02-02</DateSold>
+          <GrossSalesPrice>1010</GrossSalesPrice>
+          <CostOrOtherBasis>817</CostOrOtherBasis>
+          <GainOrLoss>193</GainOrLoss>
+          <GainsMinusExcessOrLosses>193</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Du Pont</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-02-15</DateSold>
+          <GrossSalesPrice>216</GrossSalesPrice>
+          <CostOrOtherBasis>172</CostOrOtherBasis>
+          <GainOrLoss>44</GainOrLoss>
+          <GainsMinusExcessOrLosses>44</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>12 Du Pont</DescriptionOfAsset>
+          <DateAcquired>2004-10-27</DateAcquired>
+          <DateSold>2011-02-15</DateSold>
+          <GrossSalesPrice>649</GrossSalesPrice>
+          <CostOrOtherBasis>513</CostOrOtherBasis>
+          <GainOrLoss>136</GainOrLoss>
+          <GainsMinusExcessOrLosses>136</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 Ebay</DescriptionOfAsset>
+          <DateAcquired>2008-10-09</DateAcquired>
+          <DateSold>2011-02-15</DateSold>
+          <GrossSalesPrice>170</GrossSalesPrice>
+          <CostOrOtherBasis>84</CostOrOtherBasis>
+          <GainOrLoss>86</GainOrLoss>
+          <GainsMinusExcessOrLosses>86</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Viacom</DescriptionOfAsset>
+          <DateAcquired>2006-11-21</DateAcquired>
+          <DateSold>2011-02-15</DateSold>
+          <GrossSalesPrice>90</GrossSalesPrice>
+          <CostOrOtherBasis>78</CostOrOtherBasis>
+          <GainOrLoss>12</GainOrLoss>
+          <GainsMinusExcessOrLosses>12</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Viacom</DescriptionOfAsset>
+          <DateAcquired>2007-05-09</DateAcquired>
+          <DateSold>2011-02-15</DateSold>
+          <GrossSalesPrice>45</GrossSalesPrice>
+          <CostOrOtherBasis>42</CostOrOtherBasis>
+          <GainOrLoss>3</GainOrLoss>
+          <GainsMinusExcessOrLosses>3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7 Comcast</DescriptionOfAsset>
+          <DateAcquired>2006-01-24</DateAcquired>
+          <DateSold>2011-03-11</DateSold>
+          <GrossSalesPrice>176</GrossSalesPrice>
+          <CostOrOtherBasis>130</CostOrOtherBasis>
+          <GainOrLoss>46</GainOrLoss>
+          <GainsMinusExcessOrLosses>46</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Conocophillips</DescriptionOfAsset>
+          <DateAcquired>2008-10-22</DateAcquired>
+          <DateSold>2011-03-11</DateSold>
+          <GrossSalesPrice>305</GrossSalesPrice>
+          <CostOrOtherBasis>199</CostOrOtherBasis>
+          <GainOrLoss>106</GainOrLoss>
+          <GainsMinusExcessOrLosses>106</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>16 HP</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-03-03</DateSold>
+          <GrossSalesPrice>694</GrossSalesPrice>
+          <CostOrOtherBasis>294</CostOrOtherBasis>
+          <GainOrLoss>400</GainOrLoss>
+          <GainsMinusExcessOrLosses>400</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>10 Juniper Net</DescriptionOfAsset>
+          <DateAcquired>2009-05-27</DateAcquired>
+          <DateSold>2011-03-10</DateSold>
+          <GrossSalesPrice>421</GrossSalesPrice>
+          <CostOrOtherBasis>245</CostOrOtherBasis>
+          <GainOrLoss>176</GainOrLoss>
+          <GainsMinusExcessOrLosses>176</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Royal Dutch cash-in-lieu</DescriptionOfAsset>
+          <DateAcquired>2009-09-09</DateAcquired>
+          <DateSold>2011-03-25</DateSold>
+          <GrossSalesPrice>11</GrossSalesPrice>
+          <GainOrLoss>11</GainOrLoss>
+          <GainsMinusExcessOrLosses>11</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Schlumberger</DescriptionOfAsset>
+          <DateAcquired>2006-01-20</DateAcquired>
+          <DateSold>2011-03-10</DateSold>
+          <GrossSalesPrice>342</GrossSalesPrice>
+          <CostOrOtherBasis>241</CostOrOtherBasis>
+          <GainOrLoss>101</GainOrLoss>
+          <GainsMinusExcessOrLosses>101</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 T Rowe Price</DescriptionOfAsset>
+          <DateAcquired>2008-08-04</DateAcquired>
+          <DateSold>2011-03-10</DateSold>
+          <GrossSalesPrice>64</GrossSalesPrice>
+          <CostOrOtherBasis>60</CostOrOtherBasis>
+          <GainOrLoss>4</GainOrLoss>
+          <GainsMinusExcessOrLosses>4</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Time Warner</DescriptionOfAsset>
+          <DateAcquired>2005-12-07</DateAcquired>
+          <DateSold>2011-03-11</DateSold>
+          <GrossSalesPrice>73</GrossSalesPrice>
+          <CostOrOtherBasis>89</CostOrOtherBasis>
+          <GainOrLoss>-16</GainOrLoss>
+          <GainsMinusExcessOrLosses>-16</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Time Warner</DescriptionOfAsset>
+          <DateAcquired>2005-12-21</DateAcquired>
+          <DateSold>2011-03-11</DateSold>
+          <GrossSalesPrice>73</GrossSalesPrice>
+          <CostOrOtherBasis>100</CostOrOtherBasis>
+          <GainOrLoss>-27</GainOrLoss>
+          <GainsMinusExcessOrLosses>-27</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Wal-Mart</DescriptionOfAsset>
+          <DateAcquired>2005-06-10</DateAcquired>
+          <DateSold>2011-03-09</DateSold>
+          <GrossSalesPrice>316</GrossSalesPrice>
+          <CostOrOtherBasis>287</CostOrOtherBasis>
+          <GainOrLoss>29</GainOrLoss>
+          <GainsMinusExcessOrLosses>29</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Conocophillips</DescriptionOfAsset>
+          <DateAcquired>2008-10-22</DateAcquired>
+          <DateSold>2011-04-14</DateSold>
+          <GrossSalesPrice>235</GrossSalesPrice>
+          <CostOrOtherBasis>149</CostOrOtherBasis>
+          <GainOrLoss>86</GainOrLoss>
+          <GainsMinusExcessOrLosses>86</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>8 Travelers</DescriptionOfAsset>
+          <DateAcquired>2008-12-12</DateAcquired>
+          <DateSold>2011-04-14</DateSold>
+          <GrossSalesPrice>477</GrossSalesPrice>
+          <CostOrOtherBasis>317</CostOrOtherBasis>
+          <GainOrLoss>160</GainOrLoss>
+          <GainsMinusExcessOrLosses>160</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6000 US Treasury note</DescriptionOfAsset>
+          <DateAcquired>2010-11-29</DateAcquired>
+          <DateSold>2011-04-18</DateSold>
+          <GrossSalesPrice>6037</GrossSalesPrice>
+          <CostOrOtherBasis>6127</CostOrOtherBasis>
+          <GainOrLoss>-90</GainOrLoss>
+          <GainsMinusExcessOrLosses>-90</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5000 US Treasury note</DescriptionOfAsset>
+          <DateAcquired>2010-11-29</DateAcquired>
+          <DateSold>2011-04-18</DateSold>
+          <GrossSalesPrice>5031</GrossSalesPrice>
+          <CostOrOtherBasis>5107</CostOrOtherBasis>
+          <GainOrLoss>-76</GainOrLoss>
+          <GainsMinusExcessOrLosses>-76</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Viacom</DescriptionOfAsset>
+          <DateAcquired>2007-05-09</DateAcquired>
+          <DateSold>2011-04-14</DateSold>
+          <GrossSalesPrice>94</GrossSalesPrice>
+          <CostOrOtherBasis>84</CostOrOtherBasis>
+          <GainOrLoss>10</GainOrLoss>
+          <GainsMinusExcessOrLosses>10</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Viacom</DescriptionOfAsset>
+          <DateAcquired>2007-08-03</DateAcquired>
+          <DateSold>2011-04-14</DateSold>
+          <GrossSalesPrice>282</GrossSalesPrice>
+          <CostOrOtherBasis>234</CostOrOtherBasis>
+          <GainOrLoss>48</GainOrLoss>
+          <GainsMinusExcessOrLosses>48</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Viacom</DescriptionOfAsset>
+          <DateAcquired>2008-12-12</DateAcquired>
+          <DateSold>2011-04-14</DateSold>
+          <GrossSalesPrice>47</GrossSalesPrice>
+          <CostOrOtherBasis>16</CostOrOtherBasis>
+          <GainOrLoss>31</GainOrLoss>
+          <GainsMinusExcessOrLosses>31</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>24 Broadcom</DescriptionOfAsset>
+          <DateAcquired>2010-10-04</DateAcquired>
+          <DateSold>2011-04-29</DateSold>
+          <GrossSalesPrice>834</GrossSalesPrice>
+          <CostOrOtherBasis>833</CostOrOtherBasis>
+          <GainOrLoss>1</GainOrLoss>
+          <GainsMinusExcessOrLosses>1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>.1 Citigroup</DescriptionOfAsset>
+          <DateAcquired>2010-10-21</DateAcquired>
+          <DateSold>2011-05-06</DateSold>
+          <GrossSalesPrice>4</GrossSalesPrice>
+          <CostOrOtherBasis>4</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>15 Tyco</DescriptionOfAsset>
+          <DateAcquired>2010-06-15</DateAcquired>
+          <DateSold>2011-05-18</DateSold>
+          <GrossSalesPrice>752</GrossSalesPrice>
+          <CostOrOtherBasis>562</CostOrOtherBasis>
+          <GainOrLoss>190</GainOrLoss>
+          <GainsMinusExcessOrLosses>190</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Abbott Labs</DescriptionOfAsset>
+          <DateAcquired>2008-02-07</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>154</GrossSalesPrice>
+          <CostOrOtherBasis>174</CostOrOtherBasis>
+          <GainOrLoss>-20</GainOrLoss>
+          <GainsMinusExcessOrLosses>-20</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Accenture</DescriptionOfAsset>
+          <DateAcquired>2007-01-22</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>340</GrossSalesPrice>
+          <CostOrOtherBasis>220</CostOrOtherBasis>
+          <GainOrLoss>120</GainOrLoss>
+          <GainsMinusExcessOrLosses>120</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>9 Alcoa</DescriptionOfAsset>
+          <DateAcquired>2004-10-27</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>146</GrossSalesPrice>
+          <CostOrOtherBasis>300</CostOrOtherBasis>
+          <GainOrLoss>-154</GainOrLoss>
+          <GainsMinusExcessOrLosses>-154</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Alcoa</DescriptionOfAsset>
+          <DateAcquired>2005-11-22</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>49</GrossSalesPrice>
+          <CostOrOtherBasis>80</CostOrOtherBasis>
+          <GainOrLoss>-31</GainOrLoss>
+          <GainsMinusExcessOrLosses>-31</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 AT&amp;T</DescriptionOfAsset>
+          <DateAcquired>2005-11-23</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>31</GrossSalesPrice>
+          <CostOrOtherBasis>25</CostOrOtherBasis>
+          <GainOrLoss>6</GainOrLoss>
+          <GainsMinusExcessOrLosses>6</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 AT&amp;T</DescriptionOfAsset>
+          <DateAcquired>2006-07-17</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>31</GrossSalesPrice>
+          <CostOrOtherBasis>27</CostOrOtherBasis>
+          <GainOrLoss>4</GainOrLoss>
+          <GainsMinusExcessOrLosses>4</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 AT&amp;T</DescriptionOfAsset>
+          <DateAcquired>2008-11-11</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>93</GrossSalesPrice>
+          <CostOrOtherBasis>82</CostOrOtherBasis>
+          <GainOrLoss>11</GainOrLoss>
+          <GainsMinusExcessOrLosses>11</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Bank of America</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>45</GrossSalesPrice>
+          <CostOrOtherBasis>177</CostOrOtherBasis>
+          <GainOrLoss>-132</GainOrLoss>
+          <GainsMinusExcessOrLosses>-132</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Bank of America</DescriptionOfAsset>
+          <DateAcquired>2005-09-13</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>34</GrossSalesPrice>
+          <CostOrOtherBasis>128</CostOrOtherBasis>
+          <GainOrLoss>-94</GainOrLoss>
+          <GainsMinusExcessOrLosses>-94</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Bank of America</DescriptionOfAsset>
+          <DateAcquired>2006-07-17</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>34</GrossSalesPrice>
+          <CostOrOtherBasis>144</CostOrOtherBasis>
+          <GainOrLoss>-110</GainOrLoss>
+          <GainsMinusExcessOrLosses>-110</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Bank of America</DescriptionOfAsset>
+          <DateAcquired>2008-08-06</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>22</GrossSalesPrice>
+          <CostOrOtherBasis>65</CostOrOtherBasis>
+          <GainOrLoss>-43</GainOrLoss>
+          <GainsMinusExcessOrLosses>-43</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Bank of America</DescriptionOfAsset>
+          <DateAcquired>2008-10-14</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>22</GrossSalesPrice>
+          <CostOrOtherBasis>52</CostOrOtherBasis>
+          <GainOrLoss>-30</GainOrLoss>
+          <GainsMinusExcessOrLosses>-30</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Becton Dickinson</DescriptionOfAsset>
+          <DateAcquired>2006-09-11</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>86</GrossSalesPrice>
+          <CostOrOtherBasis>70</CostOrOtherBasis>
+          <GainOrLoss>16</GainOrLoss>
+          <GainsMinusExcessOrLosses>16</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Canadian Natl</DescriptionOfAsset>
+          <DateAcquired>2009-06-16</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>228</GrossSalesPrice>
+          <CostOrOtherBasis>128</CostOrOtherBasis>
+          <GainOrLoss>100</GainOrLoss>
+          <GainsMinusExcessOrLosses>100</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 Cardinal Health</DescriptionOfAsset>
+          <DateAcquired>2006-10-05</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>222</GrossSalesPrice>
+          <CostOrOtherBasis>240</CostOrOtherBasis>
+          <GainOrLoss>-18</GainOrLoss>
+          <GainsMinusExcessOrLosses>-18</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Chevron</DescriptionOfAsset>
+          <DateAcquired>2009-08-05</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>202</GrossSalesPrice>
+          <CostOrOtherBasis>139</CostOrOtherBasis>
+          <GainOrLoss>63</GainOrLoss>
+          <GainsMinusExcessOrLosses>63</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Chubb</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>194</GrossSalesPrice>
+          <CostOrOtherBasis>103</CostOrOtherBasis>
+          <GainOrLoss>91</GainOrLoss>
+          <GainsMinusExcessOrLosses>91</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Chubb</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-06-21</DateSold>
+          <GrossSalesPrice>375</GrossSalesPrice>
+          <CostOrOtherBasis>207</CostOrOtherBasis>
+          <GainOrLoss>168</GainOrLoss>
+          <GainsMinusExcessOrLosses>168</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Citigroup</DescriptionOfAsset>
+          <DateAcquired>2010-04-16</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>159</GrossSalesPrice>
+          <CostOrOtherBasis>212</CostOrOtherBasis>
+          <GainOrLoss>-53</GainOrLoss>
+          <GainsMinusExcessOrLosses>-53</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Comcast</DescriptionOfAsset>
+          <DateAcquired>2006-01-24</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>25</GrossSalesPrice>
+          <CostOrOtherBasis>19</CostOrOtherBasis>
+          <GainOrLoss>6</GainOrLoss>
+          <GainsMinusExcessOrLosses>6</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>12 Comcast</DescriptionOfAsset>
+          <DateAcquired>2006-03-13</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>295</GrossSalesPrice>
+          <CostOrOtherBasis>203</CostOrOtherBasis>
+          <GainOrLoss>92</GainOrLoss>
+          <GainsMinusExcessOrLosses>92</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 CVS</DescriptionOfAsset>
+          <DateAcquired>2007-01-11</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>192</GrossSalesPrice>
+          <CostOrOtherBasis>157</CostOrOtherBasis>
+          <GainOrLoss>35</GainOrLoss>
+          <GainsMinusExcessOrLosses>35</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Deere</DescriptionOfAsset>
+          <DateAcquired>2010-03-23</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>335</GrossSalesPrice>
+          <CostOrOtherBasis>245</CostOrOtherBasis>
+          <GainOrLoss>90</GainOrLoss>
+          <GainsMinusExcessOrLosses>90</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>14 Dell</DescriptionOfAsset>
+          <DateAcquired>2006-02-17</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>221</GrossSalesPrice>
+          <CostOrOtherBasis>431</CostOrOtherBasis>
+          <GainOrLoss>-210</GainOrLoss>
+          <GainsMinusExcessOrLosses>-210</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Dell</DescriptionOfAsset>
+          <DateAcquired>2007-02-21</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>16</GrossSalesPrice>
+          <CostOrOtherBasis>24</CostOrOtherBasis>
+          <GainOrLoss>-8</GainOrLoss>
+          <GainsMinusExcessOrLosses>-8</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7 Ebay</DescriptionOfAsset>
+          <DateAcquired>2008-10-09</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>215</GrossSalesPrice>
+          <CostOrOtherBasis>118</CostOrOtherBasis>
+          <GainOrLoss>97</GainOrLoss>
+          <GainsMinusExcessOrLosses>97</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>18 EMC</DescriptionOfAsset>
+          <DateAcquired>2009-10-06</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>506</GrossSalesPrice>
+          <CostOrOtherBasis>314</CostOrOtherBasis>
+          <GainOrLoss>192</GainOrLoss>
+          <GainsMinusExcessOrLosses>192</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>8 GE</DescriptionOfAsset>
+          <DateAcquired>2007-04-25</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>153</GrossSalesPrice>
+          <CostOrOtherBasis>281</CostOrOtherBasis>
+          <GainOrLoss>-128</GainOrLoss>
+          <GainsMinusExcessOrLosses>-128</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Halliburton</DescriptionOfAsset>
+          <DateAcquired>2008-10-22</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>299</GrossSalesPrice>
+          <CostOrOtherBasis>115</CostOrOtherBasis>
+          <GainOrLoss>184</GainOrLoss>
+          <GainsMinusExcessOrLosses>184</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>8 Intel</DescriptionOfAsset>
+          <DateAcquired>2006-03-14</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>177</GrossSalesPrice>
+          <CostOrOtherBasis>158</CostOrOtherBasis>
+          <GainOrLoss>19</GainOrLoss>
+          <GainsMinusExcessOrLosses>19</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>10 Intl Paper</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>304</GrossSalesPrice>
+          <CostOrOtherBasis>399</CostOrOtherBasis>
+          <GainOrLoss>-95</GainOrLoss>
+          <GainsMinusExcessOrLosses>-95</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7 Intuit</DescriptionOfAsset>
+          <DateAcquired>2010-05-28</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>369</GrossSalesPrice>
+          <CostOrOtherBasis>249</CostOrOtherBasis>
+          <GainOrLoss>120</GainOrLoss>
+          <GainsMinusExcessOrLosses>120</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 JP Morgan</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>41</GrossSalesPrice>
+          <CostOrOtherBasis>40</CostOrOtherBasis>
+          <GainOrLoss>1</GainOrLoss>
+          <GainsMinusExcessOrLosses>1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 JP Morgan</DescriptionOfAsset>
+          <DateAcquired>2007-06-07</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>206</GrossSalesPrice>
+          <CostOrOtherBasis>251</CostOrOtherBasis>
+          <GainOrLoss>-45</GainOrLoss>
+          <GainsMinusExcessOrLosses>-45</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7 Kraft</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>241</GrossSalesPrice>
+          <CostOrOtherBasis>129</CostOrOtherBasis>
+          <GainOrLoss>112</GainOrLoss>
+          <GainsMinusExcessOrLosses>112</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Kraft</DescriptionOfAsset>
+          <DateAcquired>2004-09-14</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>69</GrossSalesPrice>
+          <CostOrOtherBasis>64</CostOrOtherBasis>
+          <GainOrLoss>5</GainOrLoss>
+          <GainsMinusExcessOrLosses>5</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 Kraft</DescriptionOfAsset>
+          <DateAcquired>2004-11-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>172</GrossSalesPrice>
+          <CostOrOtherBasis>173</CostOrOtherBasis>
+          <GainOrLoss>-1</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 McDonalds</DescriptionOfAsset>
+          <DateAcquired>2006-07-11</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>323</GrossSalesPrice>
+          <CostOrOtherBasis>135</CostOrOtherBasis>
+          <GainOrLoss>188</GainOrLoss>
+          <GainsMinusExcessOrLosses>188</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 Merck</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>181</GrossSalesPrice>
+          <CostOrOtherBasis>103</CostOrOtherBasis>
+          <GainOrLoss>78</GainOrLoss>
+          <GainsMinusExcessOrLosses>78</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Metlife</DescriptionOfAsset>
+          <DateAcquired>2004-10-25</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>171</GrossSalesPrice>
+          <CostOrOtherBasis>140</CostOrOtherBasis>
+          <GainOrLoss>31</GainOrLoss>
+          <GainsMinusExcessOrLosses>31</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7 Microsoft</DescriptionOfAsset>
+          <DateAcquired>2008-10-20</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>170</GrossSalesPrice>
+          <CostOrOtherBasis>165</CostOrOtherBasis>
+          <GainOrLoss>5</GainOrLoss>
+          <GainsMinusExcessOrLosses>5</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>13 Pfizer</DescriptionOfAsset>
+          <DateAcquired>2005-01-28</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>274</GrossSalesPrice>
+          <CostOrOtherBasis>302</CostOrOtherBasis>
+          <GainOrLoss>-28</GainOrLoss>
+          <GainsMinusExcessOrLosses>-28</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Pfizer</DescriptionOfAsset>
+          <DateAcquired>2005-03-02</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>42</GrossSalesPrice>
+          <CostOrOtherBasis>53</CostOrOtherBasis>
+          <GainOrLoss>-11</GainOrLoss>
+          <GainsMinusExcessOrLosses>-11</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 PNC</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>180</GrossSalesPrice>
+          <CostOrOtherBasis>159</CostOrOtherBasis>
+          <GainOrLoss>21</GainOrLoss>
+          <GainsMinusExcessOrLosses>21</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Praxair</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>309</GrossSalesPrice>
+          <CostOrOtherBasis>124</CostOrOtherBasis>
+          <GainOrLoss>185</GainOrLoss>
+          <GainsMinusExcessOrLosses>185</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Quallcomm</DescriptionOfAsset>
+          <DateAcquired>2008-07-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>231</GrossSalesPrice>
+          <CostOrOtherBasis>191</CostOrOtherBasis>
+          <GainOrLoss>40</GainOrLoss>
+          <GainsMinusExcessOrLosses>40</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Royal Dutch Shell</DescriptionOfAsset>
+          <DateAcquired>2009-09-09</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>70</GrossSalesPrice>
+          <CostOrOtherBasis>58</CostOrOtherBasis>
+          <GainOrLoss>12</GainOrLoss>
+          <GainsMinusExcessOrLosses>12</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Smucker</DescriptionOfAsset>
+          <DateAcquired>2009-12-11</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>237</GrossSalesPrice>
+          <CostOrOtherBasis>182</CostOrOtherBasis>
+          <GainOrLoss>55</GainOrLoss>
+          <GainsMinusExcessOrLosses>55</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Time Warner</DescriptionOfAsset>
+          <DateAcquired>2004-12-31</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>77</GrossSalesPrice>
+          <CostOrOtherBasis>54</CostOrOtherBasis>
+          <GainOrLoss>23</GainOrLoss>
+          <GainsMinusExcessOrLosses>23</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Time Warner</DescriptionOfAsset>
+          <DateAcquired>2005-02-28</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>77</GrossSalesPrice>
+          <CostOrOtherBasis>67</CostOrOtherBasis>
+          <GainOrLoss>10</GainOrLoss>
+          <GainsMinusExcessOrLosses>10</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Time Warner</DescriptionOfAsset>
+          <DateAcquired>2005-12-07</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>77</GrossSalesPrice>
+          <CostOrOtherBasis>63</CostOrOtherBasis>
+          <GainOrLoss>14</GainOrLoss>
+          <GainsMinusExcessOrLosses>14</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Time Warner</DescriptionOfAsset>
+          <DateAcquired>2005-12-21</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>77</GrossSalesPrice>
+          <CostOrOtherBasis>53</CostOrOtherBasis>
+          <GainOrLoss>24</GainOrLoss>
+          <GainsMinusExcessOrLosses>24</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Time Warner</DescriptionOfAsset>
+          <DateAcquired>2005-12-21</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>36</GrossSalesPrice>
+          <CostOrOtherBasis>50</CostOrOtherBasis>
+          <GainOrLoss>-14</GainOrLoss>
+          <GainsMinusExcessOrLosses>-14</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 Time Warner</DescriptionOfAsset>
+          <DateAcquired>2007-04-09</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>36</GrossSalesPrice>
+          <CostOrOtherBasis>74</CostOrOtherBasis>
+          <GainOrLoss>-38</GainOrLoss>
+          <GainsMinusExcessOrLosses>-38</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2 Time Warner</DescriptionOfAsset>
+          <DateAcquired>2007-08-03</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>71</GrossSalesPrice>
+          <CostOrOtherBasis>90</CostOrOtherBasis>
+          <GainOrLoss>-19</GainOrLoss>
+          <GainsMinusExcessOrLosses>-19</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Travelers</DescriptionOfAsset>
+          <DateAcquired>2008-12-12</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>230</GrossSalesPrice>
+          <CostOrOtherBasis>158</CostOrOtherBasis>
+          <GainOrLoss>72</GainOrLoss>
+          <GainsMinusExcessOrLosses>72</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Unilever</DescriptionOfAsset>
+          <DateAcquired>2004-10-05</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>194</GrossSalesPrice>
+          <CostOrOtherBasis>116</CostOrOtherBasis>
+          <GainOrLoss>78</GainOrLoss>
+          <GainsMinusExcessOrLosses>78</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 United Tech</DescriptionOfAsset>
+          <DateAcquired>2004-10-26</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>252</GrossSalesPrice>
+          <CostOrOtherBasis>137</CostOrOtherBasis>
+          <GainOrLoss>115</GainOrLoss>
+          <GainsMinusExcessOrLosses>115</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 United Health</DescriptionOfAsset>
+          <DateAcquired>2008-10-13</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>197</GrossSalesPrice>
+          <CostOrOtherBasis>87</CostOrOtherBasis>
+          <GainOrLoss>110</GainOrLoss>
+          <GainsMinusExcessOrLosses>110</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7 Viacom</DescriptionOfAsset>
+          <DateAcquired>2008-12-12</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>352</GrossSalesPrice>
+          <CostOrOtherBasis>111</CostOrOtherBasis>
+          <GainOrLoss>241</GainOrLoss>
+          <GainsMinusExcessOrLosses>241</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>8 Wells Fargo</DescriptionOfAsset>
+          <DateAcquired>2004-09-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>214</GrossSalesPrice>
+          <CostOrOtherBasis>235</CostOrOtherBasis>
+          <GainOrLoss>-21</GainOrLoss>
+          <GainsMinusExcessOrLosses>-21</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>12 Citrix</DescriptionOfAsset>
+          <DateAcquired>2010-09-10</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>889</GrossSalesPrice>
+          <CostOrOtherBasis>763</CostOrOtherBasis>
+          <GainOrLoss>126</GainOrLoss>
+          <GainsMinusExcessOrLosses>126</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 Exxonmobil</DescriptionOfAsset>
+          <DateAcquired>2010-07-09</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>244</GrossSalesPrice>
+          <CostOrOtherBasis>176</CostOrOtherBasis>
+          <GainOrLoss>68</GainOrLoss>
+          <GainsMinusExcessOrLosses>68</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 Ingersoll</DescriptionOfAsset>
+          <DateAcquired>2010-10-22</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>190</GrossSalesPrice>
+          <CostOrOtherBasis>157</CostOrOtherBasis>
+          <GainOrLoss>33</GainOrLoss>
+          <GainsMinusExcessOrLosses>33</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 Starbucks</DescriptionOfAsset>
+          <DateAcquired>2010-06-18</DateAcquired>
+          <DateSold>2011-06-02</DateSold>
+          <GrossSalesPrice>215</GrossSalesPrice>
+          <CostOrOtherBasis>169</CostOrOtherBasis>
+          <GainOrLoss>46</GainOrLoss>
+          <GainsMinusExcessOrLosses>46</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>9000 US Treasury note</DescriptionOfAsset>
+          <DateAcquired>2010-11-29</DateAcquired>
+          <DateSold>2011-06-15</DateSold>
+          <GrossSalesPrice>9039</GrossSalesPrice>
+          <CostOrOtherBasis>9016</CostOrOtherBasis>
+          <GainOrLoss>23</GainOrLoss>
+          <GainsMinusExcessOrLosses>23</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2000 US Treasury note</DescriptionOfAsset>
+          <DateAcquired>2011-06-02</DateAcquired>
+          <DateSold>2011-06-15</DateSold>
+          <GrossSalesPrice>2009</GrossSalesPrice>
+          <CostOrOtherBasis>2009</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1000 US Treasury note</DescriptionOfAsset>
+          <DateAcquired>2010-06-28</DateAcquired>
+          <DateSold>2011-06-15</DateSold>
+          <GrossSalesPrice>1059</GrossSalesPrice>
+          <CostOrOtherBasis>1035</CostOrOtherBasis>
+          <GainOrLoss>24</GainOrLoss>
+          <GainsMinusExcessOrLosses>24</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>4683</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>19186</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>136874</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.140173</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>7864</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>140255</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.056069</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>9892</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>201064</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.049198</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>9539</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>202682</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.047064</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>9693</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>202211</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.047935</DistributionRatioYear5>
+        <TotalDistributionRatio>0.340439</TotalDistributionRatio>
+        <AverageDistributionRatio>0.068088</AverageDistributionRatio>
+        <NetNoncharitableAssets>137540</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>9365</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>52</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>9417</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>2500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>104</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>104</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>104</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>104</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>HI</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Bruce Bucky</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8085231123</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1188 Bishop Street Suite 2305</AddressLine1>
+          <City>Honolulu</City>
+          <State>HI</State>
+          <ZIPCode>96813</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Bruce Bucky</PersonName>
+          <USAddress>
+            <AddressLine1>1188 Bishop Street 2305</AddressLine1>
+            <City>Honolulu</City>
+            <State>HI</State>
+            <ZIPCode>96813</ZIPCode>
+          </USAddress>
+          <Title>President/Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Hildgund Bucky</PersonName>
+          <USAddress>
+            <AddressLine1>1050 Lunalilo Street 1005</AddressLine1>
+            <City>Honolulu</City>
+            <State>HI</State>
+            <ZIPCode>96822</ZIPCode>
+          </USAddress>
+          <Title>Secretary/Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Gary Souza</PersonName>
+          <USAddress>
+            <AddressLine1>425 Ena Road 905A</AddressLine1>
+            <City>Honolulu</City>
+            <State>HI</State>
+            <ZIPCode>96815</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>139635</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>139635</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>139635</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2095</CashDeemedCharitable>
+        <NetNoncharitableAssets>137540</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>6877</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>6877</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>104</TaxBasedOnInvestmentIncome>
+        <TotalTax>104</TotalTax>
+        <DistributableAmountBeforeAdj>6773</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>6773</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>6773</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>2500</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>2500</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>2500</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>6773</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>2413</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>2500</QualifyingDistributions>
+        <AppliedToYear1>2413</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>87</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>6686</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Kids Hurt Too</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>245 N Kukui St Ste 203</AddressLine1>
+            <City>Honolulu</City>
+            <State>HI</State>
+            <ZIPCode>96817</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3) charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Child welfare</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>2500</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3096</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>4683</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>7779</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>7779</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>Morgan Stanley acct #051536</NameOfStock>
+        <EOYBookValue>130247</EOYBookValue>
+        <EOYFMV>144285</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>Investment management fees</Category>
+        <Amount>2462</Amount>
+        <NetInvestmentIncome>2462</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>Foreign taxes on dividends</Category>
+        <Amount>108</Amount>
+        <NetInvestmentIncome>108</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

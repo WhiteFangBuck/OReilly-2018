@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-21T08:59:52-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MULLIGAN TOPY &amp; CO CPA'S</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>196 WEST JOHNSTOWN ROAD</AddressLine1>
+        <City>GAHANNA</City>
+        <State>OH</State>
+        <ZIPCode>432302731</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>266324264</EIN>
+      <Name>
+        <BusinessNameLine1>EDWARD KUNZELMAN SCHOLARSHIP</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>EDWA</NameControl>
+      <Phone>7407735367</Phone>
+      <USAddress>
+        <AddressLine1>5 OAKWOOD DRIVE</AddressLine1>
+        <City>CHILLICOTHE</City>
+        <State>OH</State>
+        <ZIPCode>45601</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOSEPHINE KUNZELMAN</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7407735367</Phone>
+      <DateSigned>2011-06-30</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>STANLEY J TOPY CPA</Name>
+      <Phone>6144711040</Phone>
+      <DatePrepared>2011-07-21</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>17098</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>24</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>24</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>24</InterestOnSavingsAdjNetIncm>
+        <TotalRevenueAndExpenses>24</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>24</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>24</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">550</AccountingFeesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>550</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>10000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>10000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>10550</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>10000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-10526</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>24</NetInvestmentIncome>
+        <AdjustedNetIncome>24</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>27624</CashBOY>
+        <CashEOY>17098</CashEOY>
+        <CashEOYFMV>17098</CashEOYFMV>
+        <TotalAssetsBOY>27624</TotalAssetsBOY>
+        <TotalAssetsEOY>17098</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>17098</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>27624</RetainedEarningsBOY>
+        <RetainedEarningsEOY>17098</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>27624</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>17098</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>27624</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>17098</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>27624</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-10526</ExcessOfRevenueOverExpenses>
+        <Subtotal>17098</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>17098</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>5000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>26412</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.189308</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>5000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>5699</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.877347</DistributionRatioYear2>
+        <TotalDistributionRatio>1.066655</TotalDistributionRatio>
+        <AverageDistributionRatio>0.533328</AverageDistributionRatio>
+        <NetNoncharitableAssets>48990</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>26128</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>26128</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>AR</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JOSEPHINE KUNZELMAN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7407735367</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5 OAKWOOD DRIVE</AddressLine1>
+          <City>CHILLICOTHE</City>
+          <State>OH</State>
+          <ZIPCode>45601</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">JOSEPHINE KUNZELMAN</PersonName>
+          <USAddress>
+            <AddressLine1>5 OAKWOOD DRIVE</AddressLine1>
+            <City>CHILICOTHE</City>
+            <State>OH</State>
+            <ZIPCode>45601</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">STEVE ROCK</PersonName>
+          <USAddress>
+            <AddressLine1>121 N ROYHILL BLVD</AddressLine1>
+            <City>GOODMAN</City>
+            <State>MO</State>
+            <ZIPCode>64843</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>24868</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>24868</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>49736</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>49736</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>746</CashDeemedCharitable>
+        <NetNoncharitableAssets>48990</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2450</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2450</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>2450</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>2450</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>2450</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>10000</ExpensesAndContributions>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+        <AdjQualifyingDistributions>10000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2450</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>4806</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>3679</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>8485</TotalExcessDistriCarryover>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+        <AppliedToCurrentYear>2450</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>7550</RemainingDistriFromCorpus>
+        <TotalCorpus>16035</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>16035</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>4806</ExcessFromYear2>
+        <ExcessFromYear1>3679</ExcessFromYear1>
+        <ExcessFromCurrentYear>7550</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>EDWARD KUNZELMAN SCHOLARSHIP</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>FOUNDATION ATTN JOSEPHINE KUNZELMA</AddressLine1>
+            <AddressLine2>250 RIVERSIDE STREET</AddressLine2>
+            <City>CHILICOTHE</City>
+            <State>OH</State>
+            <ZIPCode>45601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7407735367</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>SEE ATTACHED APPLICATION FORM AND DEADLINE</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>JUNE 30</SubmissionDeadlines>
+          <RestrictionsOnAwards>SEE ATTACHED GUIDELINES</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHARLES W CORLEY JR</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7330 LAUREL OAK DRIVE</AddressLine1>
+            <City>SUWANEE</City>
+            <State>GA</State>
+            <ZIPCode>30024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMY BETH WHITMAN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>20341 STATE ROUTE 104</AddressLine1>
+            <City>CHILLICOTHE</City>
+            <State>OH</State>
+            <ZIPCode>45601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>10000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>24</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>24</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>24</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Amount>550</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>JOSEPHINE KUNZELMAN</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>STEVE ROCK</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+  </ReturnData>
+</Return>

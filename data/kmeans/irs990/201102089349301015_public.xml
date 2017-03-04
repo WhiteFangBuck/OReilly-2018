@@ -1,0 +1,831 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-27T17:00:22-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CROWE HORWATH LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>70 West Madison Street</AddressLine1>
+        <AddressLine2>Suite 700</AddressLine2>
+        <City>Chicago</City>
+        <State>IL</State>
+        <ZIPCode>606024903</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>383197374</EIN>
+      <Name>
+        <BusinessNameLine1>SUPPORTIVE CARE SERVICES OF MICHIGAN INC</BusinessNameLine1>
+      </Name>
+      <NameControl>SUPP</NameControl>
+      <Phone>3135785000</Phone>
+      <USAddress>
+        <AddressLine1>400 MACK AVENUE</AddressLine1>
+        <City>DETROIT</City>
+        <State>MI</State>
+        <ZIPCode>48201</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>LEE ANN MYERS</Name>
+      <Title>CFO</Title>
+      <DateSigned>2011-07-27</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Phone>3128997000</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="IRS990" softwareId="10000128" softwareVersion="v2010.1.0" referenceDocumentId="IRS990ScheduleO">
+      <DoingBusinessAs>
+        <BusinessNameLine1>HOME SUPPORT</BusinessNameLine1>
+      </DoingBusinessAs>
+      <NameOfPrincipalOfficerBusiness>
+        <BusinessNameLine1>DOROTHY DEREMO</BusinessNameLine1>
+      </NameOfPrincipalOfficerBusiness>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>400 MACK AVENUE</AddressLine1>
+        <City>DETROIT</City>
+        <State>MI</State>
+        <ZIPCode>48201</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>464213</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>N/A</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1994</YearFormation>
+      <StateLegalDomicile>MI</StateLegalDomicile>
+      <ActivityOrMissionDescription>SUPPORTIVE CARE SERVICES OF MICHIGAN, INC. D/B/A @HOME SUPPORT PROVIDES SUPPORT TO PATIENTS WHO MAY OR MAY NOT MEET HOSPICE CRITERIA, DO NOT WISH TO RECEIVE HOSPICE CARE, OR CHOOSE TO CONTINUE WITH LIFE EXTENDING TREATMENT.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>6</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>4</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>19</TotalNbrEmployees>
+      <TotalNbrVolunteers>4</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>383225</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>459090</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>0</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>0</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>5123</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>383225</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>464213</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>717268</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>892375</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>218176</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>174277</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>935444</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>1066652</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-552219</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-602439</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>34409</TotalAssetsBOY>
+      <TotalAssetsEOY>75134</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>1237268</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>1880432</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>-1202859</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>-1805298</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>SUPPORTIVE CARE SERVICES OF MICHIGAN, INC. D/B/A @HOME SUPPORT WAS ESTABLISHED TO PROVIDE SUPPORT TO PATIENTS WHO MAY OR MAY NOT MEET HOSPICE CRITERIA, DO NOT WISH TO RECEIVE HOSPICE CARE, BUT CHOOSE TO CONTINUE WITH LIFE EXTENDING TREATMENT.</MissionDescription>
+      <SignificantChange>false</SignificantChange>
+      <Expense>1016223</Expense>
+      <Revenue>464213</Revenue>
+      <Description>WITH A CULTURALLY SENSITIVE INTERDISCIPLINARY TEAM OF PROFESSIONALS, THE @HOME SUPPORT PROGRAM PROVIDES INDIVIDUALIZED CARE TO CHRONICALLY ILL PATIENTS AND THEIR FAMILY CAREGIVERS. IN AN EFFORT TO REDUCE HEALTH CARE EXPENSES AND ENHANCE THE QUALITY OF LIFE OF BOTH PATIENTS AND FAMILY CAREGIVERS, @HOME SUPPORT UTILIZES HOME BASED CONDITION MANAGEMENT TO PROVIDE CLINICAL EDUCATION, CONSUMER ADVOCACY, AND ASSISTANCE WITH HEALTH CARE SYSTEM NAVIGATION. (CONTINUED IN SCHEDULE O)</Description>
+      <TotalProgramServiceExpense>1016223</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="IRS990ScheduleA">true</DescribedIn501C3>
+      <ScheduleBRequired>false</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <DonorAdvisedFunds>false</DonorAdvisedFunds>
+      <ConservationEasements>false</ConservationEasements>
+      <CollectionsOfArt>false</CollectionsOfArt>
+      <CreditCounseling>false</CreditCounseling>
+      <TermOrPermanentEndowments>false</TermOrPermanentEndowments>
+      <ReportLandBldgEquip>false</ReportLandBldgEquip>
+      <ReportInvestOthSecurities>false</ReportInvestOthSecurities>
+      <ReportProgRelInvest>false</ReportProgRelInvest>
+      <ReportOtherAssets>false</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="IRS990ScheduleD">true</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="IRS990ScheduleD">true</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt>false</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="IRS990ScheduleJ">true</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <ExcessBenefitTransaction>false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity>false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="IRS990ScheduleR">true</RelatedEntity>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>false</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>19</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <IndoorTanningServices>false</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>6</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>4</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>false</MembersOrStockholders>
+      <ElectionOfBoardMembers>false</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>false</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>true</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>false</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>LEE ANN MYERS</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>3135785000</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>400 MACK AVENUE</AddressLine1>
+          <City>DETROIT</City>
+          <State>MI</State>
+          <ZIPCode>48201</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <InfoInScheduleOPartVII>X</InfoInScheduleOPartVII>
+      <Form990PartVIISectionA>
+        <NamePerson>ROXANNE ROTH</NamePerson>
+        <Title>PROGRAM DIRECTOR</Title>
+        <AverageHoursPerWeek>40</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>103385</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>6246</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DOROTHY E DEREMO</NamePerson>
+        <Title>PRESIDENT &amp; CHIEF EXECUTIVE OFFICER</Title>
+        <AverageHoursPerWeek>1</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>442448</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>35460</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROBERT CAHILL</NamePerson>
+        <Title>CHIEF ADMINISTRATIVE OFFICER</Title>
+        <AverageHoursPerWeek>1</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>278372</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>23732</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JANE MCNAMARA</NamePerson>
+        <Title>SECRETARY &amp; TREASURER</Title>
+        <AverageHoursPerWeek>1</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN R MAURER MD</NamePerson>
+        <Title>CHAIR</Title>
+        <AverageHoursPerWeek>1</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SANFORD J LINDEN</NamePerson>
+        <Title>VICE CHAIR</Title>
+        <AverageHoursPerWeek>1</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LLOYD HANSEN</NamePerson>
+        <Title>IMMEDIATE PAST CHAIR</Title>
+        <AverageHoursPerWeek>1</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>103385</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>720820</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>65438</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>true</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <TotalContributions>0</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>NET PATIENT SERVICE REVENUE</Description>
+        <BusinessCode>621610</BusinessCode>
+        <TotalRevenueColumn>459090</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>459090</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalOthProgramServiceRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </TotalOthProgramServiceRevenue>
+      <TotalProgramServiceRevenue>459090</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </InvestmentIncome>
+      <IncomeFromInvestBondProceeds>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </IncomeFromInvestBondProceeds>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </RoyaltiesRevenue>
+      <RentalIncomeOrLoss>
+        <Real>0</Real>
+        <Personal>0</Personal>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetRentalIncomeOrLoss>
+      <GainOrLoss>
+        <Securities>0</Securities>
+        <Other>0</Other>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetGainOrLossInvestments>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <NetIncomeFromGaming>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromGaming>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeOrLoss>
+      <OtherRevenueMisc>
+        <Description>MISCELLANEOUS</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>207</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>207</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>BAD DEBT RECOVERY</Description>
+        <BusinessCode>621610</BusinessCode>
+        <TotalRevenueColumn>4916</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>4916</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <MiscellaneousRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </MiscellaneousRevenue>
+      <TotalOtherRevenue>5123</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>464213</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>464213</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>0</Total>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>0</Total>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>0</Total>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>661000</Total>
+        <ProgramServices>661000</ProgramServices>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>25437</Total>
+        <ProgramServices>25437</ProgramServices>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>116068</Total>
+        <ProgramServices>116068</ProgramServices>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>89870</Total>
+        <ProgramServices>89870</ProgramServices>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>0</Total>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>4831</Total>
+        <ProgramServices>4831</ProgramServices>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>0</Total>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising>
+        <Total>0</Total>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>0</Total>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>2381</Total>
+        <ProgramServices>2381</ProgramServices>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>0</Total>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>15837</Total>
+        <ProgramServices>15837</ProgramServices>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>0</Total>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>33228</Total>
+        <ProgramServices>33228</ProgramServices>
+      </Occupancy>
+      <Travel>
+        <Total>66807</Total>
+        <ProgramServices>66807</ProgramServices>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>199</Total>
+        <ProgramServices>199</ProgramServices>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>0</Total>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>0</Total>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>434</Total>
+        <ProgramServices>434</ProgramServices>
+      </Insurance>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <Total>50560</Total>
+        <ProgramServices>131</ProgramServices>
+        <ManagementAndGeneral>50429</ManagementAndGeneral>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>0</Total>
+        <ProgramServices>0</ProgramServices>
+        <ManagementAndGeneral>0</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>1066652</Total>
+        <ProgramServices>1016223</ProgramServices>
+        <ManagementAndGeneral>50429</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <TotalJointCosts>
+        <Total>0</Total>
+      </TotalJointCosts>
+      <AccountsReceivable>
+        <BOY>34409</BOY>
+        <EOY>75134</EOY>
+      </AccountsReceivable>
+      <LandBuildingsEquipmentBasis>0</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>0</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <EOY>0</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsOtherSecurities>
+        <EOY>0</EOY>
+      </InvestmentsOtherSecurities>
+      <InvestmentsProgramRelated>
+        <EOY>0</EOY>
+      </InvestmentsProgramRelated>
+      <OtherAssetsTotal>
+        <EOY>0</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>34409</BOY>
+        <EOY>75134</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>29509</BOY>
+        <EOY>48273</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>1207759</BOY>
+        <EOY>1832159</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>1237268</BOY>
+        <EOY>1880432</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>-1202859</BOY>
+        <EOY>-1805298</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>-1202859</BOY>
+        <EOY>-1805298</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>34409</BOY>
+        <EOY>75134</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>-602439</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>0</ReconcilationOtherChanges>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <AuditCommittee>true</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA" softwareId="10000128" softwareVersion="v2010.1.0">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus3Years>58242</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>95555</CurrentTaxYearMinus2Years>
+        <Total>153797</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus3Years>92626</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>351592</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>383225</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>459090</CurrentTaxYear>
+        <Total>1286533</Total>
+      </GrossReceiptsFromAdmissions>
+      <GrossReceiptsFromNonUBI>
+        <CurrentTaxYear>4916</CurrentTaxYear>
+        <Total>4916</Total>
+      </GrossReceiptsFromNonUBI>
+      <TaxRevLeviedForOrgBenefit509>
+        <Total>0</Total>
+      </TaxRevLeviedForOrgBenefit509>
+      <ValueOfSvcsFcltsFurnishdByGovt>
+        <Total>0</Total>
+      </ValueOfSvcsFcltsFurnishdByGovt>
+      <Total509>
+        <CurrentTaxYearMinus4Years>0</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>150868</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>447147</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>383225</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>464006</CurrentTaxYear>
+        <Total>1445246</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <CurrentTaxYearMinus4Years>0</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>0</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>0</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>0</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>0</CurrentTaxYear>
+        <Total>0</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>1445246</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <Total>0</Total>
+      </GrossInvestmentIncome509>
+      <Post1975UBTI>
+        <Total>0</Total>
+      </Post1975UBTI>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>0</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>0</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>0</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>0</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>0</CurrentTaxYear>
+        <Total>0</Total>
+      </InvestmentIncomeAndUBTI>
+      <NetIncomeFromOtherUBI>
+        <Total>0</Total>
+      </NetIncomeFromOtherUBI>
+      <OtherIncome509>
+        <CurrentTaxYear>207</CurrentTaxYear>
+        <Total>207</Total>
+      </OtherIncome509>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>0</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>150868</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>447147</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>383225</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>464213</CurrentTaxYear>
+        <Total>1445453</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.9999</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>1.000</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.000</InvestmentIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+      <GeneralExplanation>OTHER INCOME, SCHEDULE A, PART III, SECTION B, LINE 12, MISCELLANEOUS INCOME RECEIVED IN FURTHERANCE OF THE ORGANIZATION'S TAX-EXEMPT PURPOSE: 2010 - $207,</GeneralExplanation>
+    </IRS990ScheduleA>
+    <IRS990ScheduleC documentId="IRS990ScheduleC" softwareId="10000128" softwareVersion="v2010.1.0">
+      <TotalExmptFunctionExpenditures>0</TotalExmptFunctionExpenditures>
+      <TotalLobbyingExpendituresIIB>0</TotalLobbyingExpendituresIIB>
+      <NonDedLobbyPoliticalTotal>0</NonDedLobbyPoliticalTotal>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="IRS990ScheduleD" softwareId="10000128" softwareVersion="v2010.1.0">
+      <Land>
+        <BookValue>0</BookValue>
+      </Land>
+      <Buildings>
+        <BookValue>0</BookValue>
+      </Buildings>
+      <LeaseholdImprovements>
+        <BookValue>0</BookValue>
+      </LeaseholdImprovements>
+      <Equipment>
+        <BookValue>0</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <BookValue>0</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>0</TotalOfBookValueLandBuildings>
+      <FederalIncomeTaxLiability>0</FederalIncomeTaxLiability>
+      <OtherLiabilities>
+        <Description>DUE TO AFFILIATE - HOSPICE OF MICHIGAN</Description>
+        <Amount>1832159</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>1832159</TotalOfAmounts>
+      <TotalRevenue>464213</TotalRevenue>
+      <TotalExpenses>1066652</TotalExpenses>
+      <ExcessOrDeficitForYear>-602439</ExcessOrDeficitForYear>
+      <OtherAmount>0</OtherAmount>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-602439</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>459297</TotRevenueEtcAuditedFinclStmt>
+      <OtherRevenues>0</OtherRevenues>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>459297</RevenueSubtotal>
+      <OtherRevenuesNotIncluded>4916</OtherRevenuesNotIncluded>
+      <RevenueNotRptdOnFinStmt>4916</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>464213</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>1061736</TotExpensesEtcAuditedFinclStmt>
+      <OtherExpensesIncluded>0</OtherExpensesIncluded>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>1061736</ExpensesSubtotal>
+      <OtherExpensesNotIncluded>4916</OtherExpensesNotIncluded>
+      <ExpensesNotRptdOnFinStmt>4916</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>1066652</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>FIN 48 (ASC 740) footnote</Identifier>
+        <ReturnReference>Schedule D, Part X, Line 2</ReturnReference>
+        <Explanation>THE ORGANIZATION IS EXEMPT FROM INCOME TAXES ON INCOME FROM RELATED ACTIVITIES UNDER SECTION 501(C)(3) OF THE U.S. INTERNAL REVENUE CODE AND CORRESPONDING STATE TAX LAW. ACCORDINGLY, NO PROVISION HAS BEEN MADE FOR FEDERAL OR STATE INCOME TAXES. U.S. GAAP REQUIRES THAT A TAX POSITION IS RECOGNIZED AS A BENEFIT ONLY IF IT IS "MORE LIKELY THAN NOT" THAT THE TAX POSITION WOULD BE SUSTAINED IN A TAX EXAMINATION, WITH A TAX EXAMINATION BEING PRESUMED TO OCCUR. THE AMOUNT RECOGNIZED IS THE LARGEST AMOUNT OF TAX BENEFIT THAT IS GREATER THAN 50% LIKELY OF BEING REALIZED ON EXAMINATION. FOR TAX POSITIONS NOT MEETING THE "MORE LIKELY THAN NOT" TEST, NO TAX BENEFIT IS RECORDED. DUE TO ITS TAX-EXEMPT STATUS, THE ORGANIZATION IS NOT GENERALLY SUBJECT TO U.S. FEDERAL INCOME TAX OR STATE INCOME TAX. THE ORGANIZATION'S FORM 990 HAS NOT BEEN SUBJECT TO EXAMINATION BY THE INTERNAL REVENUE SERVICE OR THE STATE OF MICHIGAN FOR THE LAST THREE YEARS. THE ORGANIZATION DOES NOT EXPECT THE TOTAL AMOUNT OF UNRECOGNIZED TAX BENEFITS TO SIGNIFICANTLY CHANGE IN THE NEXT 12 MONTHS. THE ORGANIZATION RECOGNIZES INTEREST AND/OR PENALTIES RELATED TO INCOME TAX MATTERS IN INCOME TAX EXPENSE. THE ORGANIZATION DID NOT HAVE ANY AMOUNTS ACCRUED FOR INTEREST AND PENALTIES AT DECEMBER 31, 2010 AND 2009.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Other revenues in form 990 not in audited financial statements</Identifier>
+        <ReturnReference>Schedule D, Part XII, Line 4b</ReturnReference>
+        <Explanation>BAD DEBT RECOVERY - 4916;</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Other expenses in form 990 not in audited financial statements</Identifier>
+        <ReturnReference>Schedule D, Part XIII, Line 4b</ReturnReference>
+        <Explanation>BAD DEBT RECOVERY - 4916;</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="IRS990ScheduleJ" softwareId="10000128" softwareVersion="v2010.1.0">
+      <CompensationCommittee>X</CompensationCommittee>
+      <IndependentConsultant>X</IndependentConsultant>
+      <Form990OfOtherOrganizations>X</Form990OfOtherOrganizations>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>false</SeverancePayment>
+      <SupplementalNonqualRetirePlan>false</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>false</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>false</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>false</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>false</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>false</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>false</AnyNonFixedPayments>
+      <InitialContractException>false</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>DOROTHY E DEREMO</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>346416</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>73688</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>22344</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>27608</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>7852</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>477908</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>ROBERT CAHILL</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>226509</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>37463</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>14400</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>15062</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>8670</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>302104</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <Identifier>METHODS USED TO ESTABLISH CEO/EXECUTIVE DIRECTOR'S COMPENSATION</Identifier>
+        <ReturnReference>SCHEDULE J, PART I, LINE 3</ReturnReference>
+        <Explanation>THE ORGANIZATION'S PRESIDENT &amp; CEO IS PAID BY HOSPICE OF MICHIGAN, INC. (HOM), A RELATED TAX-EXEMPT ORGANIZATION. HOM UTILIZES THE FOLLOWING METHODS IN DETERMINING THE PRESIDENT &amp; CEO'S COMPENSATION: -COMPENSATION COMMITTEE -INDEPENDENT COMPENSATION CONSULTANT -FORM 990 OF OTHER ORGANIZATIONS -COMPENSATION SURVEY OR STUDY -APPROVAL BY THE BOARD OR COMPENSATION COMMITTEE</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="IRS990ScheduleO" softwareId="10000128" softwareVersion="v2010.1.0">
+      <GeneralExplanation>
+        <Identifier>PROGRAM SERVICE ACCOMPLISHMENTS</Identifier>
+        <ReturnReference>FORM 990, PART III, LINE 4A</ReturnReference>
+        <Explanation>(CONTINUED FROM PART III) @HOME SUPPORT SERVICES CONSIST OF HOME VISITS AND INDIVIDUALIZED TREATMENT PLANS BY A NURSE AND COUNSELOR WITH THE AIDE OF PATIENT FAMILY ASSISTANTS AND VOLUNTEERS. @HOME SUPPORT WORKS CLOSELY WITH PRIMARY CARE PHYSICIANS TO RELIEVE SYMPTOMS OF PAIN, COORDINATE CARE, ASSIST WITH TREATMENT DECISIONS, AND PROVIDE A SUPPORT SYSTEM TO CAREGIVERS. AVAILABLE 24 HOURS A DAY, 7 DAYS A WEEK, THE @HOME SUPPORT TEAM INCLUDES A DOCTOR THAT SPECIALIZES IN RECOMMENDING MEDICATIONS OR TREATMENTS TO RELIEVE PAIN AND SYMPTOMS CAUSED BY ILLNESS, NURSES WITH ADVANCED TRAINING IN CHRONIC ILLNESS AND HOME BASED CARE, A COUNSELOR THAT ASSISTS IN ADDRESSING INTERPERSONAL ISSUES AND LIFESTYLE CHANGES AND ASSISTS WITH COORDINATING COMMUNITY RESOURCES, AND PATIENT FAMILY ASSISTANTS THAT ASSIST WITH PERSONAL CARE AND PROVIDING SUPPORT TO CAREGIVERS. BY DEVELOPING PARTNERSHIPS WITH HEALTH CARE ORGANIZATIONS AND COMMUNITY BASED PROGRAMS, @HOME SUPPORT STRIVES TO CREATE A SERVICE MODEL THAT IS OUTCOME DRIVEN AND THAT CAN FLEX TO MEET INDIVIDUAL CONTRACTS, CREATE PRIVATE PAY OPTIONS FOR PATIENTS AND FAMILIES THAT WISH CUSTOMIZED SERVICES, AND DEVELOP NEW SERVICES FOR THE FUTURE NEEDS OF PATIENTS AND FAMILIES WITH ADVANCED CHRONIC ILLNESSES. FOR THE YEAR ENDED DECEMBER 31, 2010, @HOME SUPPORT PROVIDED $41,142 IN CHARITY CARE. ADDITIONAL 2010 SERVICE ACCOMPLISHMENTS INCLUDE: - THE ORGANIZATION DOUBLED THE NUMBER OF PATIENTS SERVED FROM PREVIOUS YEARS WITH EXISTING CARRIERS; AND - THE ORGANIZATION WAS AWARDED A GRANT THAT ALLOWED US TO BEGIN A RESEARCH STUDY TO DETERMINE THE EFFECT OF PALLIATIVE CASE MANAGEMENT USING A TEAM-BASED APPROACH ON PATIENT SYMPTOM MANAGEMENT, QUALITY OF LIFE, AND COST. THE DATA COLLECTION PROCESS STARTED IN 2010 WITH COMPLETION DATE IN 3RD QUARTER OF 2011.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Review of form 990 by governing body</Identifier>
+        <ReturnReference>Form 990, Part VI, Section B, Line 11b</ReturnReference>
+        <Explanation>A FINAL DRAFT OF THE FULL FORM 990 IS REVIEWED WITH OUR TAX ADVISORS AND APPROVED BY AN EXECUTIVE COMMITTEE OF THE BOARD, AND THEN A COPY OF THE FULL FORM 990 DRAFT IS SENT OUT TO EACH VOTING MEMBER OF THE GOVERNING BODY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Conflict of interest policy</Identifier>
+        <ReturnReference>Form 990, Part VI, Section B, Line 12c</ReturnReference>
+        <Explanation>PROCEDURE: EMPLOYEES, BOTH PAID AND UNPAID (FROM HERE FORWARD REFERRED TO AS "EMPLOYEE"), AND BOARD MEMBERS, HAVE A FUNDAMENTAL OBLIGATION TO ACT IN THE BEST INTEREST OF PATIENT CARE AND SUPPORTIVE CARE SERVICES OF MICHIGAN D/B/A @HOME SUPPORT. EVERY BOARD MEMBER AND EMPLOYEE IS RESPONSIBLE FOR ACTING CONSISTENT WITH THIS OBLIGATION WHEN ENGAGING IN ACTIVITIES, AND SHOULD NOT LET OTHER PERSONAL AND FINANCIAL INTERESTS INTERFERE WITH THIS OBLIGATION. GENERAL PRACTICE GUIDELINES: (1) @HOME SUPPORT REQUIRES THAT ALL MEMBERS OF ITS BOARDS OF TRUSTEES AND EMPLOYEES DISCLOSE INTERESTS THAT COULD RESULT IN A CONFLICT. ANNUALLY, ALL BOARD MEMBERS SIGN OFF ON A CONFLICT OF INTEREST POLICY AND DISCLOSE ANY SITUATION WHICH MAY REPRESENT A CONFLICT. THE CORPORATE COMPLIANCE OFFICER (CCO) ALSO HAS ACCESS TO THE BOARD AT LEAST ANNUALLY. THE ORGANIZATION ALSO UTILIZES C-TRAC (CROWE TAX RISK ASSESSMENT AND CONTROL), A TOOL PROVIDED BY OUR TAX ADVISORS, TO SEND CONFLICT OF INTEREST SURVEYS TO ALL VOTING BOARD MEMBERS, EXECUTIVES, AND THE HIGHEST PAID STAFF. (2) ALL BOARD MEMBERS AND EMPLOYEES ARE REQUIRED TO SUBMIT A DISCLOSURE STATEMENT, IF THERE IS A CONFLICT OF INTEREST THAT MEETS THE STATED DEFINITION, AT THE BEGINNING OF EMPLOYMENT OR TERM. (3) IF A MATTER ARISES IN WHICH A MEMBER OF THE BOARD OR EMPLOYEE HAS A CONFLICT OF INTEREST, THE INDIVIDUAL SHALL PROMPTLY DISCLOSE IT TO THE CEO, OR THE CASE OF THE CEO, THE BOARD CHAIRPERSON. (4) AN INDIVIDUAL WITH A POTENTIAL CONFLICT OF INTEREST SHALL NOT PROCEED TO MAKE ANY DECISION OR TAKE ANY ACTION ON BEHALF OF THE ORGANIZATION WITHOUT APPROVAL OF THE BOARD OF TRUSTEES. (5) @HOME SUPPORT EMPLOYEES ARE PRECLUDED FROM ENGAGING IN ACTIVITIES WITH ANY "VENDOR OR SUPPLIER BUSINESS" (AS THAT TERM IS DEFINED IN THE POLICY) THAT DOES OR SEEKS BUSINESS WITH @HOME SUPPORT WHICH MAY RESULT IN A PERSONAL BENEFIT TO THE EMPLOYEE AT THE EXPENSE OF @HOME SUPPORT OR MAY INFLUENCE THE EMPLOYEE'S DECISIONS ON MATTERS INVOLVING @HOME SUPPORT AND A VENDOR OR SUPPLIER BUSINESS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Process used to establish compensation of top management official</Identifier>
+        <ReturnReference>Form 990, Part VI, Section B, Line 15a</ReturnReference>
+        <Explanation>THE ORGANIZATION'S PRESIDENT/CEO IS PAID BY HOSPICE OF MICHIGAN, INC. (HOM), A RELATED TAX-EXEMPT ORGANIZATION. HOM'S EXECUTIVE COMMITTEE OF THE BOARD OF TRUSTEES MEETS ANNUALLY IN MARCH TO REVIEW AND APPROVE AS APPROPRIATE, FUNDS TO BE ALLOCATED FOR TOTAL COMPENSATION FOR THE ORGANIZATION'S PRESIDENT/CEO, INCLUDING BASE SALARY, BONUS, CAR ALLOWANCE, AND OTHER BENEFITS. HOM'S EXECUTIVE COMMITTEE ALSO DETERMINES IF THE PRESIDENT/CEO'S CONTRACT NEEDS TO BE UPDATED OR RENEWED AT THIS TIME. MINUTES ARE TAKEN UP UNTIL THE POINT WHERE DISCUSSION OF COMPENSATION TAKES PLACE AND VOTE/DECISION IS MADE IN REGARDS TO COMPENSATION. THE CEO AND EXECUTIVE ASSISTANT ARE EXCUSED FROM THE MEETING AT THIS POINT WHILE DISCUSSION AND DECISION IS MADE. IN ADDITION, AN EXTERNAL COMPENSATION STUDY IS PERFORMED AT LEAST EVERY THREE YEARS TO ASSESS EXECUTIVE COMPENSATION. THE COMPENSATION STUDY AIMS TO PRICE POSITIONS AT MARKET BY USING LOCAL, NATIONAL, AND INDUSTRY SPECIFIC SURVEY DATA.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Public Disclosure</Identifier>
+        <ReturnReference>Form 990, Part VI, Section C, Line 19</ReturnReference>
+        <Explanation>CONSOLIDATED FINANCIAL STATEMENTS ARE PROVIDED ANNUALLY IN THE ORGANIZATION'S CONSOLIDATED ANNUAL REPORT THAT IS LOCATED ON THE HOSPICE OF MICHIGAN, INC. (A RELATED TAX EXEMPT ORGANIZATION) EXTERNAL WEBSITE (WWW.HOM.ORG). OTHER SPECIFIC DOCUMENTS CAN BE AVAILABLE UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>PROCESS USED TO ESTABLISH COMPENSATION OF OTHER OFFICERS/KEY EMPLOYEES</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15B</ReturnReference>
+        <Explanation>THE ORGANIZATION'S CHIEF ADMINISTRATIVE OFFICER IS PAID BY HOSPICE OF MICHIGAN, INC. (HOM), A RELATED TAX-EXEMPT ORGANIZATION. ANNUALLY IN MARCH, THE FILING ORGANIZATIONS' PRESIDENT/CEO REVIEWS AND APPROVES AS APPROPRIATE, FUNDS TO BE ALLOCATED FOR TOTAL COMPENSATION, WHICH INCLUDES BASE SALARY, BONUS, CAR ALLOWANCE, AND OTHER BENEFITS, FOR THE OFFICER. IN ADDITION, AN EXTERNAL COMPENSATION STUDY IS PERFORMED AT LEAST EVERY THREE YEARS TO ASSESS COMPENSATION. THE COMPENSATION STUDY AIMS TO PRICE POSITIONS AT MARKET BY USING LOCAL, NATIONAL, AND INDUSTRY SPECIFIC SURVEY DATA.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Average hours worked per week for related organization</Identifier>
+        <ReturnReference>Form 990, Part VII, Section A, Column B</ReturnReference>
+        <Explanation>DOROTHY E. DEREMO - DEVOTES APPROXIMATELY 40 HOURS PER WEEK TO HOSPICE OF MICHIGAN, INC. AND APPROXIMATELY ONE HOUR PER WEEK TO HOSPICE OF MICHIGAN FOUNDATION , RELATED TAX EXEMPT ORGANIZATIONS. ROBERT CAHILL - DEVOTES APPROXIMATELY 40 HOURS PER WEEK TO HOSPICE OF MICHIGAN, INC. AND APPROXIMATELY ONE HOUR PER WEEK TO HOSPICE OF MICHIGAN FOUNDATION, RELATED TAX EXEMPT ORGANIZATIONS. JANE MCNAMARA - DEVOTES APPROXIMATELY 1 HOUR PER WEEK TO HOSPICE OF MICHIGAN, INC., A RELATED TAX EXEMPT ORGANIZATION. JOHN R. MAURER, MD - DEVOTES APPROXIMATELY 1 HOUR PER WEEK TO HOSPICE OF MICHIGAN, INC., A RELATED TAX EXEMPT ORGANIZATION. SANFORD J. LINDEN - DEVOTES APPROXIMATELY 1 HOUR PER WEEK TO HOSPICE OF MICHIGAN, INC., A RELATED TAX EXEMPT ORGANIZATION. LLOYD HANSEN - DEVOTES APPROXIMATELY 1 HOUR PER WEEK TO HOSPICE OF MICHIGAN, INC., A RELATED TAX EXEMPT ORGANIZATION.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR" softwareId="10000128" softwareVersion="v2010.1.0">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>HOSPICE OF MICHIGAN INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>400 MACK AVENUE</AddressLine1>
+          <City>DETROIT</City>
+          <State>MI</State>
+          <ZIPCode>48201</ZIPCode>
+        </AddressUS>
+        <EIN>382255529</EIN>
+        <PrimaryActivities>HOSPICE CARE</PrimaryActivities>
+        <LegalDomicileState>MI</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>HOSPICE OF MICHIGAN FOUNDATION</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>400 MACK AVENUE</AddressLine1>
+          <City>DETROIT</City>
+          <State>MI</State>
+          <ZIPCode>48201</ZIPCode>
+        </AddressUS>
+        <EIN>383074337</EIN>
+        <PrimaryActivities>FUNDRAISING</PrimaryActivities>
+        <LegalDomicileState>MI</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11 - Type III - FI</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>HOSPICE OF MICHIGAN</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>false</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>false</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>false</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>false</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>true</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>true</SharingOfFacilities>
+      <SharingOfPaidEmployees>true</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>true</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>false</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>true</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>true</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

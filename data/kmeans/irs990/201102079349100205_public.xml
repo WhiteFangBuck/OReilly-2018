@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T07:44:42-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Pamela B Hathaway CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>5221 SW 38th Way</AddressLine1>
+        <City>Ft Lauderdale</City>
+        <State>FL</State>
+        <ZIPCode>333128224</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>650083442</EIN>
+      <Name>
+        <BusinessNameLine1>Liz Whitney Tippett Foundation Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>LIZW</NameControl>
+      <Phone>3059718440</Phone>
+      <USAddress>
+        <AddressLine1>3325 Griffin Road</AddressLine1>
+        <City>Fort Lauderdale</City>
+        <State>FL</State>
+        <ZIPCode>33312</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>William Lindsley</Name>
+      <Title>Director</Title>
+      <DateSigned>2011-07-11</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Pamela B Hathaway CPA</Name>
+      <Phone>9545189944</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation 8453SignatureDocument.1 8453SignatureDocument.2" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>5486428</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>9</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>9</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>9</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>161328</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>161328</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>161328</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>107608</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>4615856</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>107608</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>138417</NetSTCGAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">-3356</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>-3356</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>265589</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>265589</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>299754</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>60000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>18000</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>42000</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">5920</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>3500</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>2420</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">1814</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>1814</OtherProfFeesNetInvstIncm>
+        <InterestRevAndExpnss>128</InterestRevAndExpnss>
+        <InterestNetInvstIncm>128</InterestNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">10956</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>7743</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>3213</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OccupancyRevAndExpnss>9592</OccupancyRevAndExpnss>
+        <OccupancyNetInvstIncm>4797</OccupancyNetInvstIncm>
+        <OccupancyDsbrsChrtblPrps>4795</OccupancyDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">1362</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>651</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>711</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>89772</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>36633</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>53139</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>187250</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>187250</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>277022</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>36633</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>240389</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-11433</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>228956</NetInvestmentIncome>
+        <AdjustedNetIncome>299754</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>166807</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>244270</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>244270</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>1238223</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId=" InvestmentsCorpStockSchedule">1127204</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1287866</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>544168</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId=" InvestmentsCorpBondsSchedule">544168</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>582532</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>3079937</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId=" InvestmentsOtherSchedule2">3102060</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>3371760</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>5029135</TotalAssetsBOY>
+        <TotalAssetsEOY>5017702</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>5486428</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>400525</UnrestrictedBOY>
+        <UnrestrictedEOY>389092</UnrestrictedEOY>
+        <PermanentlyRestrictedBOY>4628610</PermanentlyRestrictedBOY>
+        <PermanentlyRestrictedEOY>4628610</PermanentlyRestrictedEOY>
+        <TotalNetAssetsBOY>5029135</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>5017702</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>5029135</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>5017702</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>5029135</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-11433</ExcessOfRevenueOverExpenses>
+        <Subtotal>5017702</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>5017702</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <GainOrLoss>19071</GainOrLoss>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Capital Gain Dividends</DescriptionOfAsset>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>107608</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>138417</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>249137</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>4612024</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.05402</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>219787</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>4942645</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.04447</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>211338</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>5301751</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.03986</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>220297</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>5149279</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.04278</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>157586</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>5005318</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.03148</DistributionRatioYear5>
+        <TotalDistributionRatio>0.21261</TotalDistributionRatio>
+        <AverageDistributionRatio>0.04252</AverageDistributionRatio>
+        <NetNoncharitableAssets>5123091</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>217849</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2290</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>220139</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>240389</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>2290</InvestmentIncomeExciseTax>
+        <Subtotal>2290</Subtotal>
+        <TaxBasedOnInvestmentIncome>2290</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>3360</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>2000</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>5360</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId=" IRS2220">X</Form2220Attached>
+        <PenaltyForUnderpayment>13</PenaltyForUnderpayment>
+        <Overpayment>3057</Overpayment>
+        <AmountCreditedToNextYear>3057</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>William Lindsley</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3059718440</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3325 Griffin Road Suite E-186</AddressLine1>
+          <City>Ft Lauderdale</City>
+          <State>FL</State>
+          <ZIPCode>333125500</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Janet Lindsley</PersonName>
+          <USAddress>
+            <AddressLine1>13625 SW 73rd Court</AddressLine1>
+            <City>Miami</City>
+            <State>FL</State>
+            <ZIPCode>33157</ZIPCode>
+          </USAddress>
+          <Title>Foundation Mgr</Title>
+          <AvgHoursPerWkDevotedToPosition>30.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>60000</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>William Lindsley</PersonName>
+          <USAddress>
+            <AddressLine1>13625 SW 73rd Court</AddressLine1>
+            <City>Miami</City>
+            <State>FL</State>
+            <ZIPCode>33157</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>None</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>4907821</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>293287</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>5201108</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>5201108</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>78017</CashDeemedCharitable>
+        <NetNoncharitableAssets>5123091</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>256155</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>256155</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2290</TaxBasedOnInvestmentIncome>
+        <TotalTax>2290</TotalTax>
+        <DistributableAmountBeforeAdj>253865</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>253865</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>253865</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>240389</ExpensesAndContributions>
+        <QualifyingDistributions>240389</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>2290</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>238099</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>253865</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>201661</UndistributedIncomePriorYear>
+        <QualifyingDistributions>240389</QualifyingDistributions>
+        <AppliedToYear1>201661</AppliedToYear1>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>38728</AppliedToCurrentYear>
+        <UndistributedIncomeCY>215137</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>See attached PDF Schedule # 2</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>See attached PDF Schedule 2</AddressLine1>
+            <City>See attached PDF Sch</City>
+            <State>FL</State>
+            <ZIPCode>33312</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>See attached PDF Sch # 2</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Exempt activities</PurposeOfGrantOrContribution>
+          <Amount>187250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>187250</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>9</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>161328</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>107608</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>Linn Energy LLC - PTP</Description>
+          <RelatedOrExemptFunctionIncome>-3356</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>265589</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>265589</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>Accounting fees - tax preparation</Category>
+        <Amount>5920</Amount>
+        <NetInvestmentIncome>3500</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2420</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GeneralExplanationAttachment documentId="GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <GeneralExplanation>
+        <ReturnReference>Form 990 PF - Part XV - Line 3 - Grants</ReturnReference>
+        <Explanation>See attached PDF Schedule 3 - Listing of Grants</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990PF - Part II - Balance Sheets - Lines 10b, 10c and 13</ReturnReference>
+        <Explanation>See attached PDF Schedule 1 - Investments</Explanation>
+      </GeneralExplanation>
+    </GeneralExplanationAttachment>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsCorpBonds>
+        <NameOfBond>See Attached PDF Schedule #1</NameOfBond>
+        <EOYBookValue>544168</EOYBookValue>
+        <EOYFMV>582532</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsCorpStock>
+        <NameOfStock>See Attached PDF Schedule #1</NameOfStock>
+        <EOYBookValue>1127204</EOYBookValue>
+        <EOYFMV>1287866</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsOther>
+        <CategoryOrItem>See Attached PDF Schedule #1</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>3102060</BookValue>
+        <EOYFMV>3371760</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Office expense</Description>
+        <RevenueAndExpensesPerBooks>1239</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>620</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>619</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>License</Description>
+        <RevenueAndExpensesPerBooks>61</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>31</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>30</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank charges</Description>
+        <RevenueAndExpensesPerBooks>62</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>62</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>Linn Energy LLC - PTP</Description>
+        <RevenueAndExpensesPerBooks>-3356</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>-3356</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherProfessionalFees>
+        <Category>Investment fees</Category>
+        <Amount>1814</Amount>
+        <NetInvestmentIncome>1814</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>Payroll taxes</Category>
+        <Amount>4590</Amount>
+        <NetInvestmentIncome>1377</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>3213</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>Foreign Tax on investments</Category>
+        <Amount>1236</Amount>
+        <NetInvestmentIncome>1236</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>Federal taxes</Category>
+        <Amount>5130</Amount>
+        <NetInvestmentIncome>5130</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

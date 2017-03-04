@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T16:12:00-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>KEITH ALTIZER AND COMPANY PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>431 E HORATIO AVE STE 300</AddressLine1>
+        <City>MAITLAND</City>
+        <State>FL</State>
+        <ZIPCode>32751</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>260682823</EIN>
+      <Name>
+        <BusinessNameLine1>DON AND JOAN STRUBE FAMILY</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION INC</BusinessNameLine2>
+      </Name>
+      <NameControl>DONA</NameControl>
+      <Phone>4074673818</Phone>
+      <USAddress>
+        <AddressLine1>734 RUGBY STREET</AddressLine1>
+        <City>ORLANDO</City>
+        <State>FL</State>
+        <ZIPCode>32804</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RICHARD K STRUBE</Name>
+      <Title>DIRECTOR, PRESIDENT</Title>
+      <Phone>4074673818</Phone>
+      <DateSigned>2011-07-22</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>KEITH ALTIZER</Name>
+      <Phone>4075391188</Phone>
+      <DatePrepared>2011-07-26</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>97268</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>300000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>123</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>123</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>123</InterestOnSavingsAdjNetIncm>
+        <TotalRevenueAndExpenses>300123</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>123</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>123</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">920</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc6">1</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc5">71</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>992</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>252000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>252000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>252992</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>252000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>47131</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>123</NetInvestmentIncome>
+        <AdjustedNetIncome>123</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>50136</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>97268</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>97268</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>50136</TotalAssetsBOY>
+        <TotalAssetsEOY>97268</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>97268</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>2</AccountsPayableBOY>
+        <AccountsPayableEOY>3</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>2</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>3</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>50134</UnrestrictedBOY>
+        <UnrestrictedEOY>97265</UnrestrictedEOY>
+        <TotalNetAssetsBOY>50134</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>97265</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>50136</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>97268</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>50134</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>47131</ExcessOfRevenueOverExpenses>
+        <Subtotal>97265</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>97265</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>291498</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>80245</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>3.632600</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>17500</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>88857</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.196946</DistributionRatioYear2>
+        <TotalDistributionRatio>3.829546</TotalDistributionRatio>
+        <AverageDistributionRatio>1.914773</AverageDistributionRatio>
+        <NetNoncharitableAssets>81468</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>155993</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>155994</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>252000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>1</InvestmentIncomeExciseTax>
+        <Subtotal>1</Subtotal>
+        <TaxBasedOnInvestmentIncome>1</TaxBasedOnInvestmentIncome>
+        <TaxDue>1</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>RICHARD K STRUBE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4074673818</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>734 RUGBY STREET</AddressLine1>
+          <City>ORLANDO</City>
+          <State>FL</State>
+          <ZIPCode>32804</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">RICHARD K STRUBE</PersonName>
+          <USAddress>
+            <AddressLine1>734 RUGBY STREET</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32804</ZIPCode>
+          </USAddress>
+          <Title>DIR/PRES/TRE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">DONALD K STRUBE SR</PersonName>
+          <USAddress>
+            <AddressLine1>734 RUGBY STREET</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32804</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">JOAN E STRUBE</PersonName>
+          <USAddress>
+            <AddressLine1>734 RUGBY STREET</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32804</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">DONALD K STRUBE JR</PersonName>
+          <USAddress>
+            <AddressLine1>734 RUGBY STREET</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32804</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">THOMAS W STRUBE</PersonName>
+          <USAddress>
+            <AddressLine1>734 RUGBY STREET</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32804</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">TIMOTHY A STRUBE</PersonName>
+          <USAddress>
+            <AddressLine1>734 RUGBY STREET</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32804</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">SUSAN K SANDBERG</PersonName>
+          <USAddress>
+            <AddressLine1>734 RUGBY STREET</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32804</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>82709</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>82709</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>82709</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1241</CashDeemedCharitable>
+        <NetNoncharitableAssets>81468</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>4073</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>4073</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1</TaxBasedOnInvestmentIncome>
+        <TotalTax>1</TotalTax>
+        <DistributableAmountBeforeAdj>4072</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>4072</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>4072</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>252000</ExpensesAndContributions>
+        <QualifyingDistributions>252000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>1</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>251999</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>4072</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>13076</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>287490</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>300566</TotalExcessDistriCarryover>
+        <QualifyingDistributions>252000</QualifyingDistributions>
+        <AppliedToCurrentYear>4072</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>247928</RemainingDistriFromCorpus>
+        <TotalCorpus>548494</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>548494</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>13076</ExcessFromYear2>
+        <ExcessFromYear1>287490</ExcessFromYear1>
+        <ExcessFromCurrentYear>247928</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>DON AND JOAN STRUBE SR</ContributingManager>
+        <ContributingManager>RICHARD K STRUBE</ContributingManager>
+        <ContributingManager>SUSAN K SANDBERG</ContributingManager>
+        <ContributingManager>THOMAS W STRUBE</ContributingManager>
+        <ContributingManager>DONALD K STRUBE JR</ContributingManager>
+        <ContributingManager>TIMOTHY A STRUBE</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FOOD FOR THE POOR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6401 LYONS ROAD</AddressLine1>
+            <City>COCONUT CREEK</City>
+            <State>FL</State>
+            <ZIPCode>33073</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOLY FAMILY CC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5125 S APOPKA-VINELAND RD</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32819</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>11000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOWN SYNDROME ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>204 N WYMORE RD</AddressLine1>
+            <City>WINTER PARK</City>
+            <State>FL</State>
+            <ZIPCode>327893455</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DIOCESE OF ORLANDO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>50 E ROBINSON STREET</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32801</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>215000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LIFE FOR KIDS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>315 NORTH WYMORE ROAD</AddressLine1>
+            <City>WINTER PARK</City>
+            <State>FL</State>
+            <ZIPCode>32789</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>252000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>123</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>123</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>123</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>MAINTAIN CASH RESERVE FOR QUALIFIED RECIPIENTS OF</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>DON JOAN STRUBE SR</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>PO BOX 190</AddressLine1>
+          <City>WINDERMERE</City>
+          <State>FL</State>
+          <ZIPCode>34786</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>RICHARD K STRUBE</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>P O BOX 198</AddressLine1>
+          <City>WINDERMERE</City>
+          <State>FL</State>
+          <ZIPCode>34786</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameIndividual>SUSAN K SANDBERG</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>604 DOROTHY COURT</AddressLine1>
+          <City>INCLINE VILLAGE</City>
+          <State>NV</State>
+          <ZIPCode>89451</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>4</ContributorNumber>
+        <ContributorNameIndividual>THOMAS W STRUBE</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>P O BOX 848</AddressLine1>
+          <City>GOTHA</City>
+          <State>FL</State>
+          <ZIPCode>34734</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>5</ContributorNumber>
+        <ContributorNameIndividual>DONALD K STRUBE JR</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>734 RUGBY STREET</AddressLine1>
+          <City>ORLANDO</City>
+          <State>FL</State>
+          <ZIPCode>32804</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>6</ContributorNumber>
+        <ContributorNameIndividual>TIMOTHY A STRUBE</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>3714 SE OLD STREET LUCIE BLVD</AddressLine1>
+          <City>STUART</City>
+          <State>FL</State>
+          <ZIPCode>34996</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>TAX RETURN PREPARATION</Category>
+        <Amount>920</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc4">
+      <Compensation>
+        <PersonName>RICHARD K STRUBE</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>DONALD K STRUBE SR</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>JOAN E STRUBE</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>DONALD K STRUBE JR</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>THOMAS W STRUBE</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>TIMOTHY A STRUBE</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>SUSAN K SANDBERG</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>71</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc6">
+      <Taxes>
+        <Category>INDIRECT TAXES/LICENSES</Category>
+        <Amount>1</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

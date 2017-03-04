@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-19T15:40:12-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>I ZOLDAN CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1760 45 ST</AddressLine1>
+        <City>BROOKLYN</City>
+        <State>NY</State>
+        <ZIPCode>11204</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>262141625</EIN>
+      <Name>
+        <BusinessNameLine1>L &amp; Y CHARITY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>L&amp;YC</NameControl>
+      <Phone>7187689494</Phone>
+      <USAddress>
+        <AddressLine1>605 4TH AVE</AddressLine1>
+        <City>BROOKLYN</City>
+        <State>NY</State>
+        <ZIPCode>11215</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RICHARD ORGEL</Name>
+      <Title>PRES</Title>
+      <DateSigned>2011-07-19</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>ISAAC ZOLDAN</Name>
+      <Phone>7188710175</Phone>
+      <DatePrepared>2011-07-19</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.15">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>-456</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>19250</ContriReceivedRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>19250</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="990PF:76">600</AccountingFeesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:79">558</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1158</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>18510</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>18510</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>19668</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>18510</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-418</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>-39</CashBOY>
+        <CashEOY>-456</CashEOY>
+        <CashEOYFMV>-456</CashEOYFMV>
+        <TotalAssetsBOY>-39</TotalAssetsBOY>
+        <TotalAssetsEOY>-456</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>-456</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <RetainedEarningsBOY>-39</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-456</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>-39</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>-456</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>-39</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>-456</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>-39</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-418</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="990PF:159">1</OtherIncreases>
+        <Subtotal>-456</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>-456</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <QualifyingDistributionsYear1>54895</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>43940</QualifyingDistributionsYear2>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>false</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="990PF:93">true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfPersonName>RICHARD ORGEL</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7188518924</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>605 4TH AVE</AddressLine1>
+          <City>BROOKLYN</City>
+          <State>NY</State>
+          <ZIPCode>11215</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYear1>2008</UndistributedIncomePriorYear1>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICHARD ORGEL</PersonName>
+          <USAddress>
+            <AddressLine1>1931 52 ST</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11204</ZIPCode>
+          </USAddress>
+          <Title>DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>005.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>TO PROMOTE JEWISH EDUCATION AND FUND CHARITABLE ORGANIZATIONS</Description1>
+        <Expenses1>189510</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">18510</ExpensesAndContributions>
+        <QualifyingDistributions>18510</QualifyingDistributions>
+        <AdjQualifyingDistributions>18510</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>43940</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>54895</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>98835</TotalExcessDistriCarryover>
+        <QualifyingDistributions>18510</QualifyingDistributions>
+        <RemainingDistriFromCorpus>18510</RemainingDistriFromCorpus>
+        <TotalCorpus>117345</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>117345</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>43940</ExcessFromYear2>
+        <ExcessFromYear1>54895</ExcessFromYear1>
+        <ExcessFromCurrentYear>18510</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>RICHARD ORGEL</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>1931 52 ST</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7189298848</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>R ORGEL 605 4TH AVE BROOKLYN NY 11215</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YESHIVAH BETH HILLEL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1371 42 ST</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CONG TARTIKOV</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5207 19 AVE</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KEHILATH BELZ</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1431 51 ST</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KEREN YAGDIL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>16 AVE 51ST</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>510</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CONG YETEV LEV</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>82 LEE</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11223</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KOLEL KEHILATH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 TAULOR CT</AddressLine1>
+            <City>MONROE NY</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KOLEL AVREICHIM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>82 LEE AVE</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11219</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AVNEI SHLOMO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>145 BEDFOR AVE</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>18510</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="990B" softwareId="10000149" softwareVersion="2010.2.15">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>0001</ContributorNumber>
+        <ContributorNameIndividual>RICHARD ORGEL</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>1931 52 ST</AddressLine1>
+          <City>BROOKLYN</City>
+          <State>NY</State>
+          <ZIPCode>11204</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>18510</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <TotalUnder1000Contributions>18510</TotalUnder1000Contributions>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="990PF:76" softwareId="10000149" softwareVersion="2010.2.15">
+      <AccountingFees>
+        <Category>ISAAC ZOLDAN CPA</Category>
+        <Amount>600</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.15"></GeneralExplanationAttachment>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>558</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="990PF:159" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherIncreases>
+        <Description>ROUNDING</Description>
+        <Amount>1</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

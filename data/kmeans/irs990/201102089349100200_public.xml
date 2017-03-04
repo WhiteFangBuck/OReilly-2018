@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-27T06:17:46-07:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>STEVEN WEINER CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>9003 LINCOLN DRIVE W SUITE G</AddressLine1>
+        <City>MARLTON</City>
+        <State>NJ</State>
+        <ZIPCode>080533205</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>205338399</EIN>
+      <Name>
+        <BusinessNameLine1>TIMOTHY F FITZGERALD AND CATHERINE FITZGERALD SCHOLARSHIP FUND</BusinessNameLine1>
+      </Name>
+      <NameControl>TIMO</NameControl>
+      <Phone>6093993079</Phone>
+      <USAddress>
+        <AddressLine1>C/O EDWARD SALER 806 E 7TH ST</AddressLine1>
+        <City>OCEAN CITY</City>
+        <State>NJ</State>
+        <ZIPCode>08226</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>EDWARD SALER</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>6093993079</Phone>
+      <DateSigned>2011-07-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>STEVEN WEINER</Name>
+      <Phone>8569839000</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>565864</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>5995</InterestOnSavingsRevAndExpnss>
+        <DividendsRevAndExpnss>16105</DividendsRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>6181</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>22100</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>6181</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>5000</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">2250</AccountingFeesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>7250</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>25250</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>32500</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-10400</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>6181</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>5421</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>4816</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>4816</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>485298</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="00000004" referenceDocumentName="InvestmentsCorpStockSchedule">504288</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>547922</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>39950</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="00000003" referenceDocumentName="InvestmentsCorpBondsSchedule">20000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>13126</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>530669</TotalAssetsBOY>
+        <TotalAssetsEOY>529104</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>565864</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>530669</CapitalStockBOY>
+        <CapitalStockEOY>529104</CapitalStockEOY>
+        <TotalNetAssetsBOY>530669</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>529104</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>530669</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>529104</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>530669</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-10400</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="00000005" referenceDocumentName="OtherIncreasesSchedule">8835</OtherIncreases>
+        <Subtotal>529104</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>529104</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2452 HARTFORD INC FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-05</DateAcquired>
+          <DateSold>2010-07-29</DateSold>
+          <GrossSalesPrice>24112</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>20016</CostOrOtherBasis>
+          <GainOrLoss>4096</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>4096</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1118 HARTFORD SHORT DURATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-12</DateAcquired>
+          <DateSold>2010-07-29</DateSold>
+          <GrossSalesPrice>10957</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>10163</CostOrOtherBasis>
+          <GainOrLoss>794</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>794</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>658 VAN KAMPEN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-04</DateAcquired>
+          <DateSold>2010-09-21</DateSold>
+          <GrossSalesPrice>10176</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>8336</CostOrOtherBasis>
+          <GainOrLoss>1840</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1840</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VAR ST SALES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-14</DateAcquired>
+          <DateSold>2011-04-13</DateSold>
+          <GrossSalesPrice>1003</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>979</CostOrOtherBasis>
+          <GainOrLoss>24</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>24</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VAR LT SALES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2011-04-12</DateAcquired>
+          <DateSold>2011-04-13</DateSold>
+          <GrossSalesPrice>61039</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>65289</CostOrOtherBasis>
+          <GainOrLoss>-4250</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-4250</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>305 IVY FDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-09</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>7500</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>5460</CostOrOtherBasis>
+          <GainOrLoss>2040</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>2040</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>544 TEMPLETON</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-13</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>7500</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>5863</CostOrOtherBasis>
+          <GainOrLoss>1637</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1637</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>6181</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <DistributionRatioYear1>0.000000</DistributionRatioYear1>
+        <DistributionRatioYear2>0.000000</DistributionRatioYear2>
+        <TotalDistributionRatio>0.000000</TotalDistributionRatio>
+        <AverageDistributionRatio>0.000000</AverageDistributionRatio>
+        <OnePercentNetInvestmentIncome>62</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>62</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>124</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>124</Subtotal>
+        <TaxBasedOnInvestmentIncome>124</TaxBasedOnInvestmentIncome>
+        <TaxPaidOriginalReturn>0</TaxPaidOriginalReturn>
+        <TaxDue>124</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NJ</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>EDWARD SALER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6093993079</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>806 E 7TH ST OCEAN</AddressLine1>
+          <City>CITY</City>
+          <State>NJ</State>
+          <ZIPCode>08226</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EDWARD SALER</PersonName>
+          <USAddress>
+            <AddressLine1>806 E 7TH ST</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2500</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ELAINE SALER</PersonName>
+          <USAddress>
+            <AddressLine1>806 E 7TH ST</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2500</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <TaxBasedOnInvestmentIncome>124</TaxBasedOnInvestmentIncome>
+        <TotalTax>124</TotalTax>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RecipientName>OCEAN CITY HIGH SCHOOL COLLEGE GUID</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>501 ATLANTIC AVENUE</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6093991290</RecipientPhoneNumber>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ANNA FEAIRHELLER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>OCEAN CITY</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>UNRELATED</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>8750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MELISSA TERWILLIGER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>OCEAN CITY</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>UNRELATED</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>REBECCA CANDERON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>OCEAN CITY</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>UNRELATED</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>EDWIN NESSBAUM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>OCEAN CITY</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>UNRELATED</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>25250</TotGrantOrContriPaidDuringYear>
+        <GrantOrContriApprovedForFuture>
+          <RecipientPersonName>RACHEL REESE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>OCEAN CITY</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>UNRELATED</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriApprovedForFuture>
+        <GrantOrContriApprovedForFuture>
+          <RecipientPersonName>MELISSA TERWILLIGER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>OCEAN CITY</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>UNRELATED</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriApprovedForFuture>
+        <GrantOrContriApprovedForFuture>
+          <RecipientPersonName>REBECCA CANDERON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>OCEAN CITY</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>UNRELATED</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>8000</Amount>
+        </GrantOrContriApprovedForFuture>
+        <GrantOrContriApprovedForFuture>
+          <RecipientPersonName>EDWIN NESSBAUM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>OCEAN CITY</AddressLine1>
+            <City>OCEAN CITY</City>
+            <State>NJ</State>
+            <ZIPCode>08226</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>UNRELATED</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriApprovedForFuture>
+        <TotGrantOrContriApprovedFuture>50500</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5995</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>16105</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>22100</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>22100</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFees>
+        <Category>STEVEN WEINER CPA TAX PREPARATION</Category>
+        <Amount>2250</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="00000003">
+      <InvestmentsCorpBonds>
+        <NameOfBond>BANK OF AMERICA BOND</NameOfBond>
+        <EOYBookValue>20000</EOYBookValue>
+        <EOYFMV>13126</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000004">
+      <InvestmentsCorpStock>
+        <NameOfStock>1218 TIBCX</NameOfStock>
+        <EOYBookValue>22223</EOYBookValue>
+        <EOYFMV>23814</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2921 CVLCX</NameOfStock>
+        <EOYBookValue>28157</EOYBookValue>
+        <EOYFMV>30611</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2174 DFICX</NameOfStock>
+        <EOYBookValue>21960</EOYBookValue>
+        <EOYFMV>22070</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JOY GLOBAL ETF</NameOfStock>
+        <EOYBookValue>20058</EOYBookValue>
+        <EOYFMV>20000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>3376 HSNCX</NameOfStock>
+        <EOYBookValue>25919</EOYBookValue>
+        <EOYFMV>31057</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1004 ECGMX</NameOfStock>
+        <EOYBookValue>10387</EOYBookValue>
+        <EOYFMV>10216</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2045 HBLCX</NameOfStock>
+        <EOYBookValue>22231</EOYBookValue>
+        <EOYFMV>22436</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>869 WASCX</NameOfStock>
+        <EOYBookValue>15548</EOYBookValue>
+        <EOYFMV>21954</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2425 JFICX</NameOfStock>
+        <EOYBookValue>23818</EOYBookValue>
+        <EOYFMV>25589</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1963 PIFCX</NameOfStock>
+        <EOYBookValue>21538</EOYBookValue>
+        <EOYFMV>22580</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2453 NDDCX</NameOfStock>
+        <EOYBookValue>21925</EOYBookValue>
+        <EOYFMV>25294</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1988 PASCX</NameOfStock>
+        <EOYBookValue>25270</EOYBookValue>
+        <EOYFMV>24298</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2023 PGMCX</NameOfStock>
+        <EOYBookValue>18230</EOYBookValue>
+        <EOYFMV>24077</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1894 SCCLX</NameOfStock>
+        <EOYBookValue>21592</EOYBookValue>
+        <EOYFMV>22691</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1614 TEGBX</NameOfStock>
+        <EOYBookValue>17871</EOYBookValue>
+        <EOYFMV>22484</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>3404 HLACX</NameOfStock>
+        <EOYBookValue>35139</EOYBookValue>
+        <EOYFMV>38578</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 CCW</NameOfStock>
+        <EOYBookValue>22432</EOYBookValue>
+        <EOYFMV>25400</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>600 ISF</NameOfStock>
+        <EOYBookValue>15000</EOYBookValue>
+        <EOYFMV>13482</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>4 IST TR EQ INC</NameOfStock>
+        <EOYBookValue>50</EOYBookValue>
+        <EOYFMV>52</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>25K CLAYMORE SEC</NameOfStock>
+        <EOYBookValue>25383</EOYBookValue>
+        <EOYFMV>24774</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>10K CLAYMORE SEC</NameOfStock>
+        <EOYBookValue>10026</EOYBookValue>
+        <EOYFMV>10152</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>759 CIBCX</NameOfStock>
+        <EOYBookValue>37054</EOYBookValue>
+        <EOYFMV>39302</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1673 FTCCX</NameOfStock>
+        <EOYBookValue>20714</EOYBookValue>
+        <EOYFMV>23160</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2099 OCGCX</NameOfStock>
+        <EOYBookValue>21763</EOYBookValue>
+        <EOYFMV>23851</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncreasesSchedule documentId="00000005">
+      <OtherIncreases>
+        <Description>GAIN ON SALE OF SECURITIES</Description>
+        <Amount>6181</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>RETURN OF BOND PRINCIPLE</Description>
+        <Amount>2654</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

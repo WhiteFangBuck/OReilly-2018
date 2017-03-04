@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-22T12:34:40-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>200316967</EIN>
+      <Name>
+        <BusinessNameLine1>THE BENNETT FOUNDATION MORQUIO RESEARCH</BusinessNameLine1>
+      </Name>
+      <NameControl>BENN</NameControl>
+      <Phone>9126353188</Phone>
+      <USAddress>
+        <AddressLine1>714 RICHMOND STREET</AddressLine1>
+        <City>BRUNSWICK</City>
+        <State>GA</State>
+        <ZIPCode>31520</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>J R WATERS</Name>
+      <Title>CFO SEC</Title>
+      <DateSigned>2011-07-22</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Darrell Davidson</Name>
+      <Phone>9126359494</Phone>
+      <DatePrepared>2011-07-22</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.13">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>19614</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>0</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="990PF:76">55</AccountingFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="990PF:153">2089</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:79">338</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>309</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>2482</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>309</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>2482</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>309</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-2482</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>20487</CashBOY>
+        <CashEOY>14414</CashEOY>
+        <CashEOYFMV>14414</CashEOYFMV>
+        <LandBuildingAndEquipmentBasis>7201</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>2089</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>1521</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="990PF:157">5112</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>5200</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>22008</TotalAssetsBOY>
+        <TotalAssetsEOY>19526</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>19614</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>22008</RetainedEarningsBOY>
+        <RetainedEarningsEOY>19526</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>22008</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>19526</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>22008</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>19526</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>22008</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-2482</ExcessOfRevenueOverExpenses>
+        <Subtotal>19526</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>19526</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>2897</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>94981</QualifyingDistributionsYear2>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>309</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.THEBENNETTFOUNDATION.ORG</WebsiteAddress>
+        <BooksInCareOfPersonName>J R WATERS</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9126353188</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>624 OLD PLANTATION ROAD</AddressLine1>
+          <City>JEKYLL ISLAND</City>
+          <State>GA</State>
+          <ZIPCode>31527</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>S T WATERS</PersonName>
+          <USAddress>
+            <AddressLine1>714 RICHMOND ST</AddressLine1>
+            <City>BRUNSWICK</City>
+            <State>GA</State>
+            <ZIPCode>31520</ZIPCode>
+          </USAddress>
+          <Title>CEO</Title>
+          <AvgHoursPerWkDevotedToPosition>005.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>J R WATERS</PersonName>
+          <USAddress>
+            <AddressLine1>624 OLD PLANTATION RD</AddressLine1>
+            <City>JEKYLL ISLAND</City>
+            <State>GA</State>
+            <ZIPCode>31527</ZIPCode>
+          </USAddress>
+          <Title>CFO SEC</Title>
+          <AvgHoursPerWkDevotedToPosition>003.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+      </SumOfProgramRelatedInvestments>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">309</ExpensesAndContributions>
+        <QualifyingDistributions>309</QualifyingDistributions>
+        <AdjQualifyingDistributions>309</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear1>2897</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>2897</TotalExcessDistriCarryover>
+        <QualifyingDistributions>309</QualifyingDistributions>
+        <RemainingDistriFromCorpus>309</RemainingDistriFromCorpus>
+        <TotalCorpus>3206</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>3206</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>2897</ExcessFromYear1>
+        <ExcessFromCurrentYear>309</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Year2>57666</Year2>
+          <Total>57666</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <Year2>49016</Year2>
+          <Total>49016</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>309</CurrentYear>
+          <Year1>2897</Year1>
+          <Year2>94981</Year2>
+          <Year3>2294</Year3>
+          <Total>100481</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>309</CurrentYear>
+          <Year1>2897</Year1>
+          <Year2>94981</Year2>
+          <Year3>2294</Year3>
+          <Total>100481</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <CurrentYear>19526</CurrentYear>
+          <Year1>22008</Year1>
+          <Year2>24905</Year2>
+          <Year3>27239</Year3>
+          <Total>93678</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <CurrentYear>19526</CurrentYear>
+          <Year1>22008</Year1>
+          <Year2>24905</Year2>
+          <Year3>27239</Year3>
+          <Total>93678</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TotalSupport>
+          <Year2>92647</Year2>
+          <Year3>2600</Year3>
+          <Total>95247</Total>
+        </TotalSupport>
+        <PublicSupport>
+          <Year2>92647</Year2>
+          <Year3>2600</Year3>
+          <Total>95247</Total>
+        </PublicSupport>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:76" softwareId="10000149" softwareVersion="2010.2.13">
+      <AccountingFees>
+        <Category>DARRELL U. DAVIDSON</Category>
+        <Amount>55</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="990PF:153" softwareId="10000149" softwareVersion="2010.2.13">
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER SYSTEM</DescriptionOfProperty>
+        <DateAcquired>2004-07-01</DateAcquired>
+        <CostOrOtherBasis>1521</CostOrOtherBasis>
+        <ComputationMethod>S/L - MY</ComputationMethod>
+        <Life>005</Life>
+        <CurrentYearExpense>1521</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>RESPIRATION SYSTEM</DescriptionOfProperty>
+        <DateAcquired>2010-09-05</DateAcquired>
+        <CostOrOtherBasis>5680</CostOrOtherBasis>
+        <ComputationMethod>S/L - MY</ComputationMethod>
+        <Life>005</Life>
+        <CurrentYearExpense>568</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.13"></GeneralExplanationAttachment>
+    <LandEtcSchedule2 documentId="990PF:157" softwareId="10000149" softwareVersion="2010.2.13">
+      <LandEtc>
+        <CategoryOrItem>COMPUTER SYSTEM</CategoryOrItem>
+        <CostOrOtherBasis>1521</CostOrOtherBasis>
+        <AccumulatedDepreciation>1521</AccumulatedDepreciation>
+        <EOYFMV>200</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>RESPIRATION SYSTEM</CategoryOrItem>
+        <CostOrOtherBasis>5680</CostOrOtherBasis>
+        <AccumulatedDepreciation>568</AccumulatedDepreciation>
+        <BookValue>5112</BookValue>
+        <EOYFMV>5000</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="10000149" softwareVersion="2010.2.13">
+      <OtherExpenses>
+        <Description>Fund Raising</Description>
+        <RevenueAndExpensesPerBooks>309</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>309</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Administration</Description>
+        <RevenueAndExpensesPerBooks>30</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Rounding</Description>
+        <RevenueAndExpensesPerBooks>-1</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

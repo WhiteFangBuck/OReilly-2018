@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T15:21:24-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>PARENTEBEARD LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1800 BYBERRY ROAD SUITE 1100</AddressLine1>
+        <City>HUNTINGDON VALLEY</City>
+        <State>PA</State>
+        <ZIPCode>190063523</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>232629692</EIN>
+      <Name>
+        <BusinessNameLine1>THE RUTH AND EARL SCOTT CHARITABLE TRUST</BusinessNameLine1>
+        <BusinessNameLine2>SAMUEL SCOTT TRUSTEE</BusinessNameLine2>
+      </Name>
+      <NameControl>RUTH</NameControl>
+      <Phone>6105256122</Phone>
+      <USAddress>
+        <AddressLine1>813 MT PLEASANT ROAD</AddressLine1>
+        <City>BRYN MAWR</City>
+        <State>PA</State>
+        <ZIPCode>190101917</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>SAMUEL SCOTT</Name>
+      <Title>OFFICER</Title>
+      <Phone>6105256122</Phone>
+      <DateSigned>2011-07-22</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>ROWLAND M SMITH III CPA</Name>
+      <Phone>2159472100</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>743391</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>63</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>63</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>44</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>44</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>6220</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>794472</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>6220</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>6327</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>6327</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">2056</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1028</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>1028</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">50</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>50</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>2106</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1078</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1028</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>68000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>68000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>70106</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1078</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>69028</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-63779</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>5249</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashEOY>985</CashEOY>
+        <CashEOYFMV>985</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>781052</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>696920</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>696920</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>20000</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">40000</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>45486</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>801052</TotalAssetsBOY>
+        <TotalAssetsEOY>737905</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>743391</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>565047</CapitalStockBOY>
+        <CapitalStockEOY>565047</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>236005</RetainedEarningsBOY>
+        <RetainedEarningsEOY>172858</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>801052</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>737905</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>801052</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>737905</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>801052</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-63779</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">632</OtherIncreases>
+        <Subtotal>737905</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>737905</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>371,041.09 SHS, JPM TAX FREE MONEY MARKET</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-17</DateAcquired>
+          <DateSold>2010-02-03</DateSold>
+          <GrossSalesPrice>371041</GrossSalesPrice>
+          <CostOrOtherBasis>371041</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>.54 SHS, JPM TAX FREE MONEY MARKET</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-01</DateAcquired>
+          <DateSold>2010-02-03</DateSold>
+          <GrossSalesPrice>1</GrossSalesPrice>
+          <CostOrOtherBasis>1</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>757.83 SHS, JPM TAX FREE MONEY MARKET</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-30</DateAcquired>
+          <DateSold>2010-02-03</DateSold>
+          <GrossSalesPrice>758</GrossSalesPrice>
+          <CostOrOtherBasis>758</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>156,451.72 SHS, JPM TAX FREE MONEY MARKET</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-10</DateAcquired>
+          <DateSold>2010-02-03</DateSold>
+          <GrossSalesPrice>156452</GrossSalesPrice>
+          <CostOrOtherBasis>156452</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>240,000 SHS, JPM TAX FREE MONEY MARKET</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-10</DateAcquired>
+          <DateSold>2010-02-05</DateSold>
+          <GrossSalesPrice>240000</GrossSalesPrice>
+          <CostOrOtherBasis>240000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>20,000 SHS, HSBC MARKET PLUS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-17</DateAcquired>
+          <DateSold>2010-12-16</DateSold>
+          <GrossSalesPrice>26220</GrossSalesPrice>
+          <CostOrOtherBasis>20000</CostOrOtherBasis>
+          <GainOrLoss>6220</GainOrLoss>
+          <GainsMinusExcessOrLosses>6220</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>6220</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>43601</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>737950</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.059084</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>68407</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1062702</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.064371</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>109104</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1269012</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.085976</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>41982</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1155378</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.036336</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>36001</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1058354</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.034016</DistributionRatioYear5>
+        <TotalDistributionRatio>0.279783</TotalDistributionRatio>
+        <AverageDistributionRatio>0.055957</AverageDistributionRatio>
+        <NetNoncharitableAssets>788049</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>44097</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>52</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>44149</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>69028</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>52</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>52</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>52</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1537</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1537</TotalCreditsAndPayments>
+        <Overpayment>1485</Overpayment>
+        <AmountCreditedToNextYear>1485</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>PA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>PARENTEBEARD LLC</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2159472100</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1800 BYBERRY ROAD STE 1100</AddressLine1>
+          <City>HUNTINGDON VALLEY</City>
+          <State>PA</State>
+          <ZIPCode>190063523</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>0</TrFailToQualifyAsExceptions>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SAMUEL SCOTT</PersonName>
+          <USAddress>
+            <AddressLine1>813 MT PLEASANT ROAD</AddressLine1>
+            <City>BRYN MAWR</City>
+            <State>PA</State>
+            <ZIPCode>19010</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANDREW SCOTT</PersonName>
+          <USAddress>
+            <AddressLine1>244 PHILIP PLACE</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19106</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>56235</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>743815</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>800050</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>800050</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>12001</CashDeemedCharitable>
+        <NetNoncharitableAssets>788049</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>39402</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>39402</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>52</TaxBasedOnInvestmentIncome>
+        <TotalTax>52</TotalTax>
+        <DistributableAmountBeforeAdj>39350</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>39350</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>39350</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>69028</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>69028</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>52</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>68976</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>39350</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear3>15658</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>15458</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>6731</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>37847</TotalExcessDistriCarryover>
+        <QualifyingDistributions>69028</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>39350</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>29678</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>67525</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>67525</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>15658</ExcessFromYear3>
+        <ExcessFromYear2>15458</ExcessFromYear2>
+        <ExcessFromYear1>6731</ExcessFromYear1>
+        <ExcessFromCurrentYear>29678</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PHILADELPHIA THEATRE COMPANY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>230 S BROAD ST SUITE 1105</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO FUND THE RECIPIENT'S OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE FRANKLIN INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>222 NORTH 20TH STREET</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO FUND THE RECIPIENT'S OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BRYN MAWR FILM INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>824 W LANCASTER AVE</AddressLine1>
+            <City>BRYN MAWR</City>
+            <State>PA</State>
+            <ZIPCode>19010</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO FUND THE RECIPIENT'S OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE BALDWIN SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>701 MONTGOMERY AVE</AddressLine1>
+            <City>BRYN MAWR</City>
+            <State>PA</State>
+            <ZIPCode>19010</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO FUND THE RECIPIENT'S OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JEWISH FEDERATION OF PHILADELPHIA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2100 ARCH ST</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO FUND THE RECIPIENT'S OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>16000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SETTLEMENT MUSIC SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 63966</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19147</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO FUND THE RECIPIENT'S OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PHILABUNDANCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3616 SOUTH GALLOWAY STREET</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19148</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO FUND THE RECIPIENT'S OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>4500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BETH DAVID REFORM CONGREGATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1130 VAUGHAN LANE</AddressLine1>
+            <City>LOWER MERION</City>
+            <State>PA</State>
+            <ZIPCode>19035</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO FUND THE RECIPIENT'S OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JEWISH FAMILY &amp; CHILDREN'S SERVICES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2100 ARCH STREET 5TH FLOOR</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO FUND THE RECIPIENT'S OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>68000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>63</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>44</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>6220</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>6327</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>6327</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>TAX PREPARATION FEES</Category>
+        <Amount>2056</Amount>
+        <NetInvestmentIncome>1028</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1028</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>HSBC MARKET PLUS NOTE</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>0</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>MS 18M SPX CALL BUFF EQ NOTE 09/01/11</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>40000</BookValue>
+        <EOYFMV>45486</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>MISCELLANEOUS ADJUSTMENT</Description>
+        <Amount>632</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT MANAGEMENT FEES</Category>
+        <Amount>50</Amount>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

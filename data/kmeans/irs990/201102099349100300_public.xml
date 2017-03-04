@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T07:28:37-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HAGEN PALEN &amp; CO CPAS PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>10181-A 6 MILE CYPRESS PKWY</AddressLine1>
+        <City>FORT MYERS</City>
+        <State>FL</State>
+        <ZIPCode>339666401</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>651143654</EIN>
+      <Name>
+        <BusinessNameLine1>TANYA B MILLER FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>TANY</NameControl>
+      <Phone>2394822721</Phone>
+      <USAddress>
+        <AddressLine1>962 SOUTH TOWN RIVER DRIVE</AddressLine1>
+        <City>FORT MYERS</City>
+        <State>FL</State>
+        <ZIPCode>33919</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>TANYA B MILLER</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2394822721</Phone>
+      <DateSigned>2011-07-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MICHAEL D BECK</Name>
+      <Phone>2392784455</Phone>
+      <DatePrepared>2011-07-27</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>9862</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>10</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>10</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>10</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>10</TotalNetInvestmentIncome>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc4">2</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>2</TaxesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>2</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>2</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>8</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>8</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>43</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>51</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>51</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>10546</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc3">10546</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>9811</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>10589</TotalAssetsBOY>
+        <TotalAssetsEOY>10597</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>9862</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>10589</RetainedEarningsBOY>
+        <RetainedEarningsEOY>10597</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>10589</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>10597</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>10589</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>10597</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>10589</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>8</ExcessOfRevenueOverExpenses>
+        <Subtotal>10597</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>10597</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <NoncharitableAssetsYear2>8650</NoncharitableAssetsYear2>
+        <NoncharitableAssetsYear3>10366</NoncharitableAssetsYear3>
+        <QualifyingDistributionsYear5>10000</QualifyingDistributionsYear5>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>TANYA B MILLER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2394822721</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>962 SOUTH TOWN RIVER DRIVE</AddressLine1>
+          <City>FORT MYERS</City>
+          <State>FL</State>
+          <ZIPCode>33919</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">TANYA B MILLER</PersonName>
+          <USAddress>
+            <AddressLine1>962 SO TOWN RIVER DR</AddressLine1>
+            <City>FORT MYERS</City>
+            <State>FL</State>
+            <ZIPCode>33919</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">SARA MILLER-BAUER</PersonName>
+          <USAddress>
+            <AddressLine1>17152 URBANK STREET NE</AddressLine1>
+            <City>HAM LAKE</City>
+            <State>MN</State>
+            <ZIPCode>55304</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">SHELLENE MILLER MCCAGG</PersonName>
+          <USAddress>
+            <AddressLine1>15830 E PRENTICE DR</AddressLine1>
+            <City>AURORA</City>
+            <State>CO</State>
+            <ZIPCode>80115</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>9056</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>10</ExcessDistriCarryoverYear4>
+        <TotalExcessDistriCarryover>9066</TotalExcessDistriCarryover>
+        <TotalCorpus>9066</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>9056</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>10</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>10</ExcessFromYear4>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>TANYA MILLER</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>10</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>10</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <CompensationExplanation documentId="RetDoc2">
+      <Compensation>
+        <PersonName>TANYA B MILLER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>SARA MILLER-BAUER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>SHELLENE MILLER MCCAGG</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorpStock>
+        <NameOfStock>GOOGLE, INC.</NameOfStock>
+        <EOYBookValue>5439</EOYBookValue>
+        <EOYFMV>5940</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>POTASH CORP SASK, INC.</NameOfStock>
+        <EOYBookValue>5107</EOYBookValue>
+        <EOYFMV>3871</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <TaxesSchedule documentId="RetDoc4">
+      <Taxes>
+        <Category>FOREIGN INCOME TAX</Category>
+        <Amount>2</Amount>
+        <NetInvestmentIncome>2</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

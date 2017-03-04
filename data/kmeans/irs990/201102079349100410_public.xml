@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T15:58:04-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Foundation Source</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>55 Walls Drive</AddressLine1>
+        <City>Fairfield</City>
+        <State>CT</State>
+        <ZIPCode>06824</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>061603317</EIN>
+      <Name>
+        <BusinessNameLine1>Eugene A &amp; Suzanne H Gorab Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>EUGE</NameControl>
+      <Phone>2033545010</Phone>
+      <USAddress>
+        <AddressLine1>c/o Greenfield Partners LLC 50 Nort</AddressLine1>
+        <City>South Norwalk</City>
+        <State>CT</State>
+        <ZIPCode>06854</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Eugene A Gorab</Name>
+      <Title>Trustee</Title>
+      <DateSigned>2011-07-26</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jeffrey D Haskell</Name>
+      <Phone>8008391754</Phone>
+      <DatePrepared>2011-07-26</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.15">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>165788</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>200000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>17</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>17</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>166</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>166</DividendsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>200183</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>183</TotalNetInvestmentIncome>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:79">4789</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>4789</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>4789</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>4789</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>297500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>297500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>302289</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>302289</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-102106</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>183</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>250360</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>148255</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>148255</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>2930</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="990PF:89">2929</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>17533</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>253290</TotalAssetsBOY>
+        <TotalAssetsEOY>151184</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>165788</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>253290</RetainedEarningsBOY>
+        <RetainedEarningsEOY>151184</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>253290</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>151184</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>253290</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>151184</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>253290</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-102106</ExcessOfRevenueOverExpenses>
+        <Subtotal>151184</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>151184</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>255632</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>364626</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.701080</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>189535</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>485351</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>000.390511</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>35250</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>255940</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>000.137728</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>22712</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>65853</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>000.344889</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>79732</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>93986</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>000.848339</DistributionRatioYear5>
+        <TotalDistributionRatio>002.422547</TotalDistributionRatio>
+        <AverageDistributionRatio>000.484509</AverageDistributionRatio>
+        <NetNoncharitableAssets>184158</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>89226</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>89228</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>302289</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>2</InvestmentIncomeExciseTax>
+        <Subtotal>2</Subtotal>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>22</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>22</TotalCreditsAndPayments>
+        <TaxPaidOriginalReturn>22</TaxPaidOriginalReturn>
+        <Overpayment>20</Overpayment>
+        <AmountCreditedToNextYear>20</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>true</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Foundation Source</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8008391754</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>501 Silverside Road Suite 123</AddressLine1>
+          <City>Wilmington</City>
+          <State>DE</State>
+          <ZIPCode>198091377</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>true</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Eugene A Gorab</PersonName>
+          <USAddress>
+            <AddressLine1>Greenfield Partners LLC 50 North Wa</AddressLine1>
+            <City>South Norwalk</City>
+            <State>CT</State>
+            <ZIPCode>06854</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Suzanne H Gorab</PersonName>
+          <USAddress>
+            <AddressLine1>Greenfield Partners LLC 50 North Wa</AddressLine1>
+            <City>South Norwalk</City>
+            <State>CT</State>
+            <ZIPCode>06854</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>14223</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>172739</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>186962</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>186962</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:240">2804</CashDeemedCharitable>
+        <NetNoncharitableAssets>184158</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>9208</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>9208</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <TotalTax>2</TotalTax>
+        <DistributableAmountBeforeAdj>9206</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>9206</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>9206</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">302289</ExpensesAndContributions>
+        <QualifyingDistributions>302289</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>2</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>302287</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>9206</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>79982</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>19599</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>22728</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>165297</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>237405</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>525011</TotalExcessDistriCarryover>
+        <QualifyingDistributions>302289</QualifyingDistributions>
+        <AppliedToCurrentYear>9206</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>293083</RemainingDistriFromCorpus>
+        <TotalCorpus>818094</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>79982</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>738112</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>19599</ExcessFromYear4>
+        <ExcessFromYear3>22728</ExcessFromYear3>
+        <ExcessFromYear2>165297</ExcessFromYear2>
+        <ExcessFromYear1>237405</ExcessFromYear1>
+        <ExcessFromCurrentYear>293083</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Eugene A Gorab</ContributingManager>
+        <ContributingManager>Suzanne H Gorab</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN JEWISH COMMITTEE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>55 E MONROE ST STE 2930</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60603</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable Event</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AUTISM SPEAKS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5455 WILSHIRE BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90036</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable Event</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOB WOODRUFF FAMILY FOUNDATION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 955</AddressLine1>
+            <City>BRISTOW</City>
+            <State>VA</State>
+            <ZIPCode>20136</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable Event</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BUCKNELL UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>112 MARTS HALL</AddressLine1>
+            <City>LEWISBURG</City>
+            <State>PA</State>
+            <ZIPCode>17837</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Gorab Endowment and Bucknell Fund</PurposeOfGrantOrContribution>
+          <Amount>160000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CLEVELAND CLINIC FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9500 EUCLID AVE STE DV3</AddressLine1>
+            <City>INDEPENDENCE</City>
+            <State>OH</State>
+            <ZIPCode>44195</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable Event</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GETTYSBURG COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>300 N WASHINGTON ST CAMPUS BOX</AddressLine1>
+            <City>GETTYSBURG</City>
+            <State>PA</State>
+            <ZIPCode>17325</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Orange Blue Club</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GREENFIELD HILL CONGREGATIONAL CHUR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1045 OLD ACADEMY RD</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06824</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>37500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INTERNATIONAL RESCUE COMMITTEE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>122 E 42ND ST</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10168</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORMA F PFRIEM BREAST CARE CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>111 BEACH RD</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06824</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NYU CHILD STUDY CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>577 1ST AVE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>297500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>17</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>166</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>183</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>183</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="990B" softwareId="10000149" softwareVersion="2010.2.15">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>0001</ContributorNumber>
+        <ContributorNameIndividual>Gorab Eugene A</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>205 Queens Grant Drive</AddressLine1>
+          <City>Fairfield</City>
+          <State>CT</State>
+          <ZIPCode>06824</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>200000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.15"></GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="990PF:89" softwareId="10000149" softwareVersion="2010.2.15">
+      <InvestmentsCorpStock>
+        <NameOfStock>187 shares of FACTSET RESH SYST INC. FDS</NameOfStock>
+        <EOYBookValue>2929</EOYBookValue>
+        <EOYFMV>17533</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LiquidationExplanationStmt documentId="990PF:238" softwareId="10000149" softwareVersion="2010.2.15">
+      <Statement>This statement is submitted to report the distribution of certain assets during the above-referenced year. The distributions resulted in a substantial contraction of assets. The following information is submitted in accordance with Treasury Regulation Section 1.6043-3a1 and the Form 990-PF instructions During the taxable year ending December 31, 2010, Eugene A. Suzanne H. Gorab Foundation the Foundation made distributions from assets from sources other than current income. Collectively, the distributions in excess of current income totaled 297,500. This amount represents over 25 of the Foundations net assets of 262,678 as measured by fair market value at the beginning of the Foundations taxable year ending December 31, 2010. Although the Foundation technically experienced a substantial contraction, it will continue in existence and has no plans for dissolution. The Foundation made distributions of cash to the grantees listed in the attachment to Part XV, Line 3a each such grant was made solely for the charitable purpose specified therein.</Statement>
+    </LiquidationExplanationStmt>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherExpenses>
+        <Description>Administrative Fees</Description>
+        <RevenueAndExpensesPerBooks>4789</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>4789</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T09:19:05-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>RIPPE &amp; KINGSTON CO PSC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1077 CELESTIAL STREET</AddressLine1>
+        <City>CINCINNATI</City>
+        <State>OH</State>
+        <ZIPCode>45202</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>311122410</EIN>
+      <Name>
+        <BusinessNameLine1>CHICKESAW FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>CHIC</NameControl>
+      <Phone>5132814996</Phone>
+      <USAddress>
+        <AddressLine1>3368 MORRISON AVENUE</AddressLine1>
+        <City>CINCINNATI</City>
+        <State>OH</State>
+        <ZIPCode>45220</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>KEVIN MCINTIRE</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>5132814996</Phone>
+      <DateSigned>2011-07-12</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>KEN SCHOSTER CPA</Name>
+      <Phone>5132411375</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>788777</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>11</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>11</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>32407</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>32407</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-6606</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>72354</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">6553</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>32365</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>32418</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">1971</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1478</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">404</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>179</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">5945</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>5945</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>8320</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>7602</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>30290</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>30290</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>38610</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>7602</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>30290</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-6245</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>24816</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>31922</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>45322</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>45322</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>535918</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">517315</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>499555</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>162950</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">161908</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>243900</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>730790</TotalAssetsBOY>
+        <TotalAssetsEOY>724545</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>788777</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>608928</CapitalStockBOY>
+        <CapitalStockEOY>608928</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>121862</RetainedEarningsBOY>
+        <RetainedEarningsEOY>115617</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>730790</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>724545</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>730790</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>724545</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>730790</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-6245</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>724545</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>724545</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PACE OIL &amp; GAS LTR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-07-20</DateAcquired>
+          <DateSold>2010-07-20</DateSold>
+          <GrossSalesPrice>2</GrossSalesPrice>
+          <GainOrLoss>2</GainOrLoss>
+          <GainsMinusExcessOrLosses>2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300 SHRS OF TRANSOCEAN LMT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-05-21</DateAcquired>
+          <DateSold>2010-12-02</DateSold>
+          <GrossSalesPrice>20980</GrossSalesPrice>
+          <CostOrOtherBasis>28947</CostOrOtherBasis>
+          <GainOrLoss>-7967</GainOrLoss>
+          <GainsMinusExcessOrLosses>-7967</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PASSTHROUGH FROM ALLIANCE RESOURCE K-1</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <CostOrOtherBasis>4</CostOrOtherBasis>
+          <GainOrLoss>-4</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>NICOLAS APPLEGATE CONV &amp; INCOME FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-06-16</DateSold>
+          <GrossSalesPrice>50009</GrossSalesPrice>
+          <CostOrOtherBasis>50009</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>1363</GrossSalesPrice>
+          <GainOrLoss>1363</GainOrLoss>
+          <GainsMinusExcessOrLosses>1363</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-6606</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>32703</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>620328</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.052719</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>36219</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>768918</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.047104</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>0</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>840003</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.0</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>3600</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>774065</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.004651</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>14400</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>730416</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.019715</DistributionRatioYear5>
+        <TotalDistributionRatio>0.124189</TotalDistributionRatio>
+        <AverageDistributionRatio>0.024838</AverageDistributionRatio>
+        <NetNoncharitableAssets>706013</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>17536</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>248</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>17784</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>30290</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>248</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>248</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>248</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>124</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>240</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>364</TotalCreditsAndPayments>
+        <Overpayment>116</Overpayment>
+        <AmountCreditedToNextYear>116</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>1</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>1</Form990TFiled>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>KEVIN MCINTIRE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5132814996</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3368 MORRISON AVENUE</AddressLine1>
+          <City>CINCINNATI</City>
+          <State>OH</State>
+          <ZIPCode>45220</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>1</UndistributedIncomePriorYears>
+        <UndistributedIncomePriorYear1>2009</UndistributedIncomePriorYear1>
+        <UndistrIncome4942a2NotApplied>1</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KEVIN MCINTIRE</PersonName>
+          <USAddress>
+            <AddressLine1>3368 MORRISON AVENUE</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45220</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SHERWOOD W MCINTIRE</PersonName>
+          <USAddress>
+            <AddressLine1>6055 TIERRA ENTRADA</AddressLine1>
+            <City>NORTH FORT MYERS</City>
+            <State>FL</State>
+            <ZIPCode>33903</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOSEPH P ROUSE CO KMK</PersonName>
+          <USAddress>
+            <AddressLine1>ONE EAST FOURTH STREET SUITE 1400</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45202</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>669263</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>47501</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>716764</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>716764</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>10751</CashDeemedCharitable>
+        <NetNoncharitableAssets>706013</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>35301</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>35301</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>248</TaxBasedOnInvestmentIncome>
+        <IncomeTaxForThisYear>382</IncomeTaxForThisYear>
+        <TotalTax>630</TotalTax>
+        <DistributableAmountBeforeAdj>34671</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>34671</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>34671</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>30290</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>30290</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>248</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>30042</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>34671</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>30359</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>30290</QualifyingDistributions>
+        <AppliedToYear1>30290</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>0</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>69</TaxableAmount2>
+        <UndistributedIncomeCY>34671</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>KEVIN MCINTIRE</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3368 MORRISON AVE</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45220</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5132814996</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>A LETTER STATING THEIR NEED AND A COPY OF THEIR IRS DETERMINATION LETTER</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>LIMITED TO SECTION 501(C)(3) ORGANIZATIONS WITH SUBSTANTIAL ACTIVITIES IN OHIO</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HONOR FLIGHT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>300 E AUBURN AVE</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>OH</State>
+            <ZIPCode>45505</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE TOURS FOR WWII VETERANS TO VISIT WWII MEMORIALS IN WASHINGTON, D.C</PurposeOfGrantOrContribution>
+          <Amount>12100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TURPENTINE CREEK WILDLIFE REFUGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>239 TURPENTIONE CREEK LANE</AddressLine1>
+            <City>EUREKA SPRINGS</City>
+            <State>AR</State>
+            <ZIPCode>72632</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE REFUGE FOR ABANDONED, ABUSED AND NEGLECTED B</PurposeOfGrantOrContribution>
+          <Amount>6050</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TENNIS FOR CHARITY INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>250 EAST FIFTH STREET</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ORGANIZERS TOURNAMENTS TO SUPPORT LOCAL COMMUNITY</PurposeOfGrantOrContribution>
+          <Amount>4600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COPES INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>845 BARRET AVE</AddressLine1>
+            <City>LOUISEVILLE</City>
+            <State>KY</State>
+            <ZIPCode>40204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE EDUCATION &amp; TRAINING SERVICES FOR YOUTH &amp; FA</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE ELEPHANT SANCTUARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 393</AddressLine1>
+            <City>HOHENWALD</City>
+            <State>TN</State>
+            <ZIPCode>38462</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE NATURAL REFUGE FOR SICK, OLD AND NEEDY ELEPHANTS</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PASSTHROUGH FROM ALLIANCE RESOURCE K1</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 22027</AddressLine1>
+            <City>TULSA</City>
+            <State>OK</State>
+            <ZIPCode>74121</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PASSTHROUGH FROM ALL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PASSTHROUGH FROM ALLIANCE RESOURCE K1</PurposeOfGrantOrContribution>
+          <Amount>40</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>30290</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>11</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>32407</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <BusinessCode>211110</BusinessCode>
+          <UnrelatedBusinessIncomeAmount>4786</UnrelatedBusinessIncomeAmount>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1363</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-7969</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>NATIONAL FINANCIAL SERVICES</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1767</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>4786</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>35548</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-7969</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>32365</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>NOT APPLICABLE</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>11</LineNumber>
+          <RelationshipStatement>NOT APPLICABLE</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>1971</Amount>
+        <NetInvestmentIncome>1478</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>PIMCO STRATEGIC GLOBAL GOVT</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TRANSOCEAN INC NEW SHS ISIN</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NEW AMER HIGH INC FD</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VARIOUS INVESTMENT FUNDS</NameOfStock>
+        <EOYBookValue>517315</EOYBookValue>
+        <EOYFMV>499555</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>HEALTHCARE REALTY TR</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>72637</BookValue>
+        <EOYFMV>52502</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ALLIANCE RESOURCE PARTNERS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>28607</BookValue>
+        <EOYFMV>131520</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>WST ASSET PREMIER BOND FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>55174</BookValue>
+        <EOYFMV>51928</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>PROVIDENT ENERGY TR</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>5490</BookValue>
+        <EOYFMV>7950</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>INVESTMENT MANAGEMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>5945</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>5945</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>ALLIANCE RESOURCE PARTNERS</Description>
+        <RevenueAndExpensesPerBooks>4786</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>4786</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>NATIONAL FINANCIAL SERVICES</Description>
+        <RevenueAndExpensesPerBooks>1767</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>1767</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FEDERAL TAXES PAID</Category>
+        <Amount>225</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAXES PAID</Category>
+        <Amount>179</Amount>
+        <NetInvestmentIncome>179</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>OHIO STATE TAXES PAID</Category>
+        <Amount>0</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

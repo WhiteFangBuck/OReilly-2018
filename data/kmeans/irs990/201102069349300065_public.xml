@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T15:19:02-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>PLANTE &amp; MORAN PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>750 TRADE CENTRE WAY STE 300</AddressLine1>
+        <City>PORTAGE</City>
+        <State>MI</State>
+        <ZIPCode>49002</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>383560640</EIN>
+      <Name>
+        <BusinessNameLine1>WOLVERINE POWER MARKETING COOPERATIVE INC</BusinessNameLine1>
+      </Name>
+      <NameControl>WOLV</NameControl>
+      <Phone>2317757500</Phone>
+      <USAddress>
+        <AddressLine1>10125 WEST WATERGATE ROAD</AddressLine1>
+        <City>CADILLAC</City>
+        <State>MI</State>
+        <ZIPCode>49601</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>SCOTT H FREDERICK</Name>
+      <Title>CHIEF FINANCIAL OFFICER</Title>
+      <Phone>2317757500</Phone>
+      <DateSigned>2011-07-07</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>CAROL LALONDE CPA</Name>
+      <Phone>2695674500</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>KIMBERLY B MOLITOR</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>10125 WEST WATERGATE ROAD</AddressLine1>
+        <City>CADILLAC</City>
+        <State>MI</State>
+        <ZIPCode>49601</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>81421273</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="12">X</Organization501c>
+      <WebSite>WWW.WPMC.COOP</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2000</YearFormation>
+      <StateLegalDomicile>MI</StateLegalDomicile>
+      <ActivityOrMissionDescription>PROVIDING ELECTRIC POWER TO MEMBERS</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>7</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>7</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>71425134</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>81299450</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>116929</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>65823</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>56000</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>71542063</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>81421273</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>32875</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>27100</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>70825906</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>81225689</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>70858781</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>81252789</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>683282</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>168484</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>14100552</TotalAssetsBOY>
+      <TotalAssetsEOY>13961212</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>6083564</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>6830754</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>8016988</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>7130458</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>NONE</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>80752970</Expense>
+      <Revenue>81299450</Revenue>
+      <Description>WOLVERINE POWER MARKETING COOPERATIVE (WOLVERINE) PROVIDES RETAIL ELECTRIC SERVICE AS AN ALTERNATIVE ELECTRIC SUPPLIER. WOLVERINE PROVIDES RETAIL ELECTRIC ENERGY TO TWENTY-THREE MEMBER-OWNERS.</Description>
+      <TotalProgramServiceExpense>80752970</TotalProgramServiceExpense>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">0</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">1</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>6</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <GrossIncomeFromMembers>81299450</GrossIncomeFromMembers>
+      <GrossIncomeOtherSources>121823</GrossIncomeOtherSources>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>7</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>7</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>1</MembersOrStockholders>
+      <ElectionOfBoardMembers>1</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>1</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>MI</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>KIMBERLY B MOLITOR</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2317757500</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>10125 W WATERGATE RD</AddressLine1>
+          <City>CADILLAC</City>
+          <State>MI</State>
+          <ZIPCode>49601</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>JERRY AKERS</NamePerson>
+        <Title>CHAIRMAN</Title>
+        <AverageHoursPerWeek>3.40</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>12500</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>GARY LEHMAN</NamePerson>
+        <Title>VICE CHAIRMAN</Title>
+        <AverageHoursPerWeek>2.60</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TERRY BLISSETT</NamePerson>
+        <Title>SECRETARY/TREASURER</Title>
+        <AverageHoursPerWeek>2.20</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>7300</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL MCDONALD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>7300</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TERRY PAHL</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>2.40</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LEROY BARNES</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.60</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DANIEL SOVINSKI</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>2.40</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>27100</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>WOLVERINE POWER SUPPLY COOPERATIVE INC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>10125 W WATERGATE ROAD</AddressLine1>
+            <City>CADILLAC</City>
+            <State>MI</State>
+            <ZIPCode>49601</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>MANAGMENT FEE</DescriptionOfServices>
+        <Compensation>308392</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>1</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>SALES FROM RESALE</Description>
+        <BusinessCode>221000</BusinessCode>
+        <TotalRevenueColumn>81299450</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>81299450</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>81299450</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>65823</TotalRevenueColumn>
+        <ExclusionAmount>65823</ExclusionAmount>
+      </InvestmentIncome>
+      <OtherRevenueMisc>
+        <Description>DEFERRED INCOME TAX RE</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>56000</TotalRevenueColumn>
+        <ExclusionAmount>56000</ExclusionAmount>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>56000</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>81421273</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>81299450</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>121823</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>27100</Total>
+        <ManagementAndGeneral>27100</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <FeesForServicesLegal>
+        <Total>50437</Total>
+        <ProgramServices>50437</ProgramServices>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>17100</Total>
+        <ManagementAndGeneral>17100</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>6776</Total>
+        <ManagementAndGeneral>6776</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <OfficeExpenses>
+        <Total>12882</Total>
+        <ManagementAndGeneral>12882</ManagementAndGeneral>
+      </OfficeExpenses>
+      <Travel>
+        <Total>19059</Total>
+        <ManagementAndGeneral>19059</ManagementAndGeneral>
+      </Travel>
+      <OtherExpenses>
+        <Description>PURCHASED POWER</Description>
+        <Total>80548139</Total>
+        <ProgramServices>80548139</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MANAGEMENT FEES</Description>
+        <Total>308392</Total>
+        <ManagementAndGeneral>308392</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PLANT CHARGES</Description>
+        <Total>154394</Total>
+        <ProgramServices>154394</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BOARD MEETING EXPENSE</Description>
+        <Total>65692</Total>
+        <ManagementAndGeneral>65692</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEMBERSHIP DUES</Description>
+        <Total>35825</Total>
+        <ManagementAndGeneral>35825</ManagementAndGeneral>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>6993</Total>
+        <ManagementAndGeneral>6993</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>81252789</Total>
+        <ProgramServices>80752970</ProgramServices>
+        <ManagementAndGeneral>499819</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <SavingsAndTempCashInvestments>
+        <BOY>2990395</BOY>
+        <EOY>2047138</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>5484355</BOY>
+        <EOY>6089272</EOY>
+      </AccountsReceivable>
+      <InvestmentsOtherSecurities>
+        <BOY>5625802</BOY>
+        <EOY>5775802</EOY>
+      </InvestmentsOtherSecurities>
+      <OtherAssetsTotal>
+        <BOY>0</BOY>
+        <EOY>49000</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>14100552</BOY>
+        <EOY>13961212</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>5248564</BOY>
+        <EOY>5995754</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>835000</BOY>
+        <EOY>835000</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>6083564</BOY>
+        <EOY>6830754</EOY>
+      </TotalLiabilities>
+      <DoNotFollowSFAS117>X</DoNotFollowSFAS117>
+      <CapStckTrstPrinCurrentFunds>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </CapStckTrstPrinCurrentFunds>
+      <PaidInCapSrplsLandBldgEqpFund>
+        <BOY>2900</BOY>
+        <EOY>2900</EOY>
+      </PaidInCapSrplsLandBldgEqpFund>
+      <RetainedEarningsEndowmentEtc>
+        <BOY>8014088</BOY>
+        <EOY>7127558</EOY>
+      </RetainedEarningsEndowmentEtc>
+      <TotalNetAssetsFundBalances>
+        <BOY>8016988</BOY>
+        <EOY>7130458</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>14100552</BOY>
+        <EOY>13961212</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>168484</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>-1055014</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <TotalOfBookValueLandBuildings>0</TotalOfBookValueLandBuildings>
+      <OtherSecurities>
+        <Description>PATRONAGE CAPITAL CREDIT</Description>
+        <BookValue>3940802</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>SHORT TERM NOTES</Description>
+        <BookValue>1835000</BookValue>
+        <MethodOfValuation>C</MethodOfValuation>
+      </OtherSecurities>
+      <TotalOfBookValueSecurities>5775802</TotalOfBookValueSecurities>
+      <OtherLiabilities>
+        <Description>MEMBER - CUSTOMER DEPOSITS</Description>
+        <Amount>835000</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>835000</TotalOfAmounts>
+      <TotalRevenue>81421273</TotalRevenue>
+      <TotalExpenses>81252789</TotalExpenses>
+      <ExcessOrDeficitForYear>168484</ExcessOrDeficitForYear>
+      <OtherAmount>-1055014</OtherAmount>
+      <TotalAdjustments>-1055014</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-886530</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>81421273</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>81421273</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>81421273</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>81252789</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>81252789</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>81252789</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XI, LINE 8 - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>PATRONAGE CAPITAL RETIRED -1,055,014.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 6</Identifier>
+        <Explanation>THE ORGANIZATION HAS TWENTY-THREE MEMBERS, AND EACH MEMBER HAS THE OPPORTUNITY TO RUN FOR ONE OF THE SEVEN BOARD SEATS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7A</Identifier>
+        <Explanation>THE SEVEN BOARD MEMBERS OF THE ORGANIZATION, REPRESENT THE COMPLETE MEMBERSHIP. BOARD MEMBERS ARE ELECTED TO THREE YEAR TERMS, AND CAN BE RE-ELECTED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7B</Identifier>
+        <Explanation>THE ORGANIZATION HOLDS AN ANNUAL MEETING WHERE BYLAW CHANGES AND ACTIONS OF THE BOARD ARE APPROVED BY THE MEMBERSHIP.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>THE BOARD MEMBERS ARE PRESENTED WITH A DRAFT COPY OF THE 990 PRIOR TO THE BOARD MEETING. COMMENTS AND CHANGES ARE THEN DISCUSSED AND APPROVED AT THE BOARD MEETING, THEN THE APPROVED FORM 990 IS FILED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>A WRITTEN DOCUMENT IS SIGNED AT THE BEGINNING OF EACH YEAR BY THE BOARD MEMBERS STATING ANY CONFLICTS OF INTEREST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15B</ReturnReference>
+        <Explanation>THE DIRECTORS, OR THE ORGANIZATIONS THEY WORK FOR, ARE PAID A PER DIEM FOR THE MEETINGS THEY ATTEND. THEY ALSO RECEIVE A QUARTERLY RETAINER.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE DOCUMENTS ARE AVAILABLE UPON REQUEST IN PERSON AT WOLVERINE POWER MARKETINGS CORPORATE OFFICE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CHANGES IN NET ASSETS OR FUND BALANCES:</Identifier>
+        <ReturnReference>FORM 990, PART XI, LINE 5:</ReturnReference>
+        <Explanation>PATRONAGE CAPITAL RETIRED -1,055,014. TOTAL TO FORM 990, PART XI, LINE 5: -1,055,014.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, SECTION XII, LINE 2C:</ReturnReference>
+        <Explanation>THE ORGANIZATION'S POLICY FOR OVERSIGHT OF THE AUDIT HAS NOT CHANGED FROM THE PRIOR YEAR.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

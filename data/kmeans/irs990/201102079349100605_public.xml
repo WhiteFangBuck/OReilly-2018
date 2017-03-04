@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T15:22:52-04:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Taxnet Services Inc</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>101 E Holly Ave Ste 7</AddressLine1>
+        <City>Sterling</City>
+        <State>VA</State>
+        <ZIPCode>20164</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>541740893</EIN>
+      <Name>
+        <BusinessNameLine1>Foundation of Youth</BusinessNameLine1>
+      </Name>
+      <NameControl>FOUN</NameControl>
+      <USAddress>
+        <AddressLine1>21747 Marigold Circle</AddressLine1>
+        <City>Sterling</City>
+        <State>VA</State>
+        <ZIPCode>20164</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Art Billings</Name>
+      <Title>Director</Title>
+      <Phone>5715276845</Phone>
+      <DateSigned>2011-07-26</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Faheem Ahmed</Name>
+      <Phone>7034219944</Phone>
+      <DatePrepared>2011-07-26</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>6501</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>128040</ContriReceivedRevAndExpnss>
+        <TotalRevenueAndExpenses>128040</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>52800</CompOfcrDirTrstRevAndExpnss>
+        <OthEmplSlrsWgsRevAndExpnss>12790</OthEmplSlrsWgsRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="STM108">525</AccountingFeesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="STM103">7706</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>73821</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>63274</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>137095</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-9055</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>14868</CashBOY>
+        <CashEOY>5972</CashEOY>
+        <CashEOYFMV>5972</CashEOYFMV>
+        <LandBuildingAndEquipmentBasis>1378</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>849</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>688</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY>529</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>529</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>15556</TotalAssetsBOY>
+        <TotalAssetsEOY>6501</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>6501</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>15556</UnrestrictedBOY>
+        <UnrestrictedEOY>6501</UnrestrictedEOY>
+        <TotalNetAssetsBOY>15556</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>6501</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>15556</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>6501</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>15556</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-9055</ExcessOfRevenueOverExpenses>
+        <Subtotal>6501</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>6501</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <AdjustedNoncharitableAssets>0</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>1</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>1</TotalCreditsAndPayments>
+        <Overpayment>1</Overpayment>
+        <AmountToBeRefunded>1</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <BooksInCareOfPersonName>Art Billings</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5715276845</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>21747 Marigold Circle</AddressLine1>
+          <City>Sterling</City>
+          <State>VA</State>
+          <ZIPCode>20164</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Art Billings</PersonName>
+          <USAddress>
+            <AddressLine1>21747 Marigold Circle</AddressLine1>
+            <City>Sterling</City>
+            <State>VA</State>
+            <ZIPCode>20164</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>40</AvgHoursPerWkDevotedToPosition>
+          <Compensation>52800</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>3729</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Provided financial assistance to low income students and donations to schools for various programs</Description1>
+        <Expenses1>10100</Expenses1>
+        <Description2>Provide financial assistance in the form of scholarships college tuition assistance to college bound and post graduate students</Description2>
+        <Expenses2>8900</Expenses2>
+        <Description3>Provide emergency financial assistance to families of low income students for rent electric and gas</Description3>
+        <Expenses3>36224</Expenses3>
+        <Description4>Rewards for low income students for excellence in education and good grades</Description4>
+        <Expenses4>8050</Expenses4>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>Art Billing</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>21747 Marigold Circle</AddressLine1>
+            <City>Sterling</City>
+            <State>VA</State>
+            <ZIPCode>20164</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5715276845</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>At risk youth are referred to the Youth Foundation from various sources such as schools and County social services</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>None</SubmissionDeadlines>
+          <RestrictionsOnAwards>None</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>See Attached Statement 1</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>Main Street</AddressLine1>
+            <City>Sterling</City>
+            <State>VA</State>
+            <ZIPCode>20164</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>None</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Need based assistStudent GrantsGood grade reward</PurposeOfGrantOrContribution>
+          <Amount>63274</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>63274</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="990B">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Choices Inc</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>4701 N Keystone Ave Ste 150</AddressLine1>
+          <City>Indianapolis</City>
+          <State>IN</State>
+          <ZIPCode>46205</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>128040</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="STM108">
+      <AccountingFees>
+        <Category>Accounting</Category>
+        <Amount>525</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="STM126">
+      <Depreciation>
+        <DescriptionOfProperty>Office Furniture</DescriptionOfProperty>
+        <DateAcquired>2007-06-01</DateAcquired>
+        <CostOrOtherBasis>1378</CostOrOtherBasis>
+        <PriorYearsDepreciation>690</PriorYearsDepreciation>
+        <ComputationMethod>MACRS</ComputationMethod>
+        <Life>5</Life>
+      </Depreciation>
+    </DepreciationSchedule>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpenses>
+        <Description>Paper</Description>
+        <RevenueAndExpensesPerBooks>300</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Envelopes</Description>
+        <RevenueAndExpensesPerBooks>377</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Business cards &amp; Brochures</Description>
+        <RevenueAndExpensesPerBooks>200</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Stamps</Description>
+        <RevenueAndExpensesPerBooks>89</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Vehicle signs</Description>
+        <RevenueAndExpensesPerBooks>126</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Reimbursements</Description>
+        <RevenueAndExpensesPerBooks>3729</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Credit card</Description>
+        <RevenueAndExpensesPerBooks>2726</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Depreciation expense</Description>
+        <RevenueAndExpensesPerBooks>159</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

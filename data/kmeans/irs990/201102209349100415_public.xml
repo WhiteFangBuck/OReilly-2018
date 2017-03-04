@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T14:47:47-07:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>McClanahan and Holmes LLP CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>228 Sixth Street SE</AddressLine1>
+        <City>Paris</City>
+        <State>TX</State>
+        <ZIPCode>75460</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>756015315</EIN>
+      <Name>
+        <BusinessNameLine1>LP MCCUISTION SANITARIUM FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>LPMC</NameControl>
+      <USAddress>
+        <AddressLine1>228 SE SIXTH ST</AddressLine1>
+        <City>PARIS</City>
+        <State>TX</State>
+        <ZIPCode>75460</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RICHARD M AMIS</Name>
+      <Title>Trustee</Title>
+      <DateSigned>2011-08-08</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>GEORGE STRUVE</Name>
+      <Phone>9037844316</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>60058</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>66</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>66</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>66</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">14045</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>14045</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>14111</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>14111</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>66</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">580</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>580</AccountingFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">5027</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>5027</TaxesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>5607</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>5607</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>5607</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>5607</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>8504</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>8504</NetInvestmentIncome>
+        <AdjustedNetIncome>66</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>18189</CashBOY>
+        <CashEOY>27773</CashEOY>
+        <CashEOYFMV>27773</CashEOYFMV>
+        <PrepaidExpensesBOY>1200</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>120</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>120</PrepaidExpensesEOYFMV>
+        <InvestmentsOtherBOY>32165</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY>32165</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>32165</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>51554</TotalAssetsBOY>
+        <TotalAssetsEOY>60058</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>60058</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1069472</CapitalStockBOY>
+        <CapitalStockEOY>1069472</CapitalStockEOY>
+        <RetainedEarningsBOY>-1017918</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-1009414</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>51554</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>60058</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>51554</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>60058</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>51554</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>8504</ExcessOfRevenueOverExpenses>
+        <Subtotal>60058</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>60058</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>170</InvestmentIncomeExciseTax>
+        <Subtotal>170</Subtotal>
+        <TaxBasedOnInvestmentIncome>170</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>120</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>120</TotalCreditsAndPayments>
+        <TaxDue>50</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>RICHARD AMIS</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>630 CLARKSVILLE ST</AddressLine1>
+          <City>PARIS</City>
+          <State>TX</State>
+          <ZIPCode>75460</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>FRANK RAY</PersonName>
+          <USAddress>
+            <AddressLine1>228 SE SIXTH ST</AddressLine1>
+            <City>PARIS</City>
+            <State>TX</State>
+            <ZIPCode>75460</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICHARD M AMIS</PersonName>
+          <USAddress>
+            <AddressLine1>630 CLARKSVILLE ST</AddressLine1>
+            <City>PARIS</City>
+            <State>TX</State>
+            <ZIPCode>75460</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>22958</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>32165</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>55123</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>55123</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>827</CashDeemedCharitable>
+        <NetNoncharitableAssets>54296</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2715</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2715</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>170</TaxBasedOnInvestmentIncome>
+        <TotalTax>170</TotalTax>
+        <DistributableAmountBeforeAdj>2545</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>2545</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>2545</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2545</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>197205</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>197205</TotalExcessDistriCarryover>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>2545</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>2545</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>194660</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>194660</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>194660</ExcessFromYear2>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>66</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <OtherRevenueDescribed>
+          <Description>ROYALTIES - NET</Description>
+          <ExclusionCode>15</ExclusionCode>
+          <ExclusionAmount>14045</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>14111</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>14111</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>580</Amount>
+        <NetInvestmentIncome>580</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>ROYALTIES - NET</Description>
+        <RevenueAndExpensesPerBooks>14045</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>14045</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>TAX ON INVESTMENT INCOME</Category>
+        <Amount>106</Amount>
+        <NetInvestmentIncome>106</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>AD VALOREM TAXES</Category>
+        <Amount>4921</Amount>
+        <NetInvestmentIncome>4921</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

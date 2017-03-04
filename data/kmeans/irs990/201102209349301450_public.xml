@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T13:44:44-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Eide Bailly LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>5601 Green Valley Drive Ste 700</AddressLine1>
+        <City>Minneapolis</City>
+        <State>MN</State>
+        <ZIPCode>554371145</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>411458930</EIN>
+      <Name>
+        <BusinessNameLine1>Edendale Residence Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>EDEN</NameControl>
+      <Phone>6516339336</Phone>
+      <USAddress>
+        <AddressLine1>7645 Lyndale Avenue South No 110</AddressLine1>
+        <City>Richfield</City>
+        <State>MN</State>
+        <ZIPCode>55423</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Chris Schmidt</Name>
+      <Title>Director of Finance</Title>
+      <Phone>6516339336</Phone>
+      <DateSigned>2011-08-04</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Kim Hunwardsen CPA</Name>
+      <Phone>9529446166</Phone>
+      <DatePrepared>2011-08-08</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <AddressChange>X</AddressChange>
+      <NameOfPrincipalOfficerPerson>Nancy Starr</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>7645 Lyndale Avenue South No 110</AddressLine1>
+        <City>Richfield</City>
+        <State>MN</State>
+        <ZIPCode>55423</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>691902</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>www.tcchomes.org</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1982</YearFormation>
+      <StateLegalDomicile>MN</StateLegalDomicile>
+      <ActivityOrMissionDescription>Care for the elderly</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>4</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>4</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>7</TotalNbrEmployees>
+      <TotalNbrVolunteers>4</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>42050</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>638328</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>691639</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>549</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>263</InvestmentIncomeCurrentYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>680927</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>691902</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>162885</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>161462</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>510565</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>512208</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>673450</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>673670</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>7477</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>18232</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>1816207</TotalAssetsBOY>
+      <TotalAssetsEOY>1805106</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>2795503</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>2766170</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>-979296</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>-961064</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>None</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>561442</Expense>
+      <Revenue>691639</Revenue>
+      <Description>Edendale Residence, Inc. is a provider of housing with support services to individuals age 62 and older and/or adults with a qualifying disability who have annual incomes that are considered to be very low or extremely low, and operates as a HUD 202 project. It is the only facility providing low income housing in the city of Eden Prairie, Minnesota, the community in which it is located.Services provided at no charge to residents include transportation, an on staff social worker, staffing 24/7 and chaplaincy.</Description>
+      <TotalProgramServiceExpense>561442</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">1</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="RetDoc1040000001">1</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity referenceDocumentId="RetDoc1043400001">1</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>2</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>7</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>4</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>4</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>1</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>1</MembersOrStockholders>
+      <ElectionOfBoardMembers>1</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>MN</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>Chris Schmidt</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>6128612799</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>7645 Lyndale Avenue S Ste 110</AddressLine1>
+          <City>Richfield</City>
+          <State>MN</State>
+          <ZIPCode>55423</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <NoListedPersonsCompensated>X</NoListedPersonsCompensated>
+      <Form990PartVIISectionA>
+        <NamePerson>Halgeir Grodahl</NamePerson>
+        <Title>Chair</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Linda Nelson</NamePerson>
+        <Title>Vice Chair</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>John Kantke</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Jeff Jonswold</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Nancy Starr</NamePerson>
+        <Title>Executive Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>116000</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>6061</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Chris Schmidt</NamePerson>
+        <Title>Director of Finance</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>98020</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Barbara Kuhlman</NamePerson>
+        <Title>Director of Operations</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>83566</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>5011</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>297586</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>11072</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>Rental revenue</Description>
+        <BusinessCode>623990</BusinessCode>
+        <TotalRevenueColumn>679626</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>679626</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Other supporting reven</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>6175</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>6175</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Laundry revenue</Description>
+        <BusinessCode>812300</BusinessCode>
+        <TotalRevenueColumn>5838</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>5838</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>691639</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>263</TotalRevenueColumn>
+        <ExclusionAmount>263</ExclusionAmount>
+      </InvestmentIncome>
+      <TotalRevenue>
+        <TotalRevenueColumn>691902</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>691639</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>263</ExclusionAmount>
+      </TotalRevenue>
+      <OtherSalariesAndWages>
+        <Total>144749</Total>
+        <ProgramServices>112660</ProgramServices>
+        <ManagementAndGeneral>32089</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>682</Total>
+        <ProgramServices>534</ProgramServices>
+        <ManagementAndGeneral>148</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>6317</Total>
+        <ProgramServices>4949</ProgramServices>
+        <ManagementAndGeneral>1368</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>9714</Total>
+        <ProgramServices>7611</ProgramServices>
+        <ManagementAndGeneral>2103</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>37332</Total>
+        <ManagementAndGeneral>37332</ManagementAndGeneral>
+      </FeesForServicesManagement>
+      <FeesForServicesAccounting>
+        <Total>16175</Total>
+        <ManagementAndGeneral>16175</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>2129</Total>
+        <ProgramServices>317</ProgramServices>
+        <ManagementAndGeneral>1812</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>3520</Total>
+        <ManagementAndGeneral>3520</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>23075</Total>
+        <ProgramServices>8943</ProgramServices>
+        <ManagementAndGeneral>14132</ManagementAndGeneral>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>122682</Total>
+        <ProgramServices>121992</ProgramServices>
+        <ManagementAndGeneral>690</ManagementAndGeneral>
+      </Occupancy>
+      <Travel>
+        <Total>305</Total>
+        <ManagementAndGeneral>305</ManagementAndGeneral>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>663</Total>
+        <ManagementAndGeneral>663</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>175568</Total>
+        <ProgramServices>174578</ProgramServices>
+        <ManagementAndGeneral>990</ManagementAndGeneral>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>129859</Total>
+        <ProgramServices>129127</ProgramServices>
+        <ManagementAndGeneral>732</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>399</Total>
+        <ProgramServices>397</ProgramServices>
+        <ManagementAndGeneral>2</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Pre-admission Screening</Description>
+        <Total>334</Total>
+        <ProgramServices>334</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <Total>167</Total>
+        <ManagementAndGeneral>167</ManagementAndGeneral>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>673670</Total>
+        <ProgramServices>561442</ProgramServices>
+        <ManagementAndGeneral>112228</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <SavingsAndTempCashInvestments>
+        <BOY>69367</BOY>
+        <EOY>96452</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <EOY>184</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <EOY>502</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>3560769</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>2152389</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>1500230</BOY>
+        <EOY>1408380</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>246610</BOY>
+        <EOY>299588</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>1816207</BOY>
+        <EOY>1805106</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>46570</BOY>
+        <EOY>44539</EOY>
+      </AccountsPayableAccruedExpenses>
+      <EscrowAccountLiability>
+        <BOY>21948</BOY>
+        <EOY>23464</EOY>
+      </EscrowAccountLiability>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>2726955</BOY>
+        <EOY>2697721</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>30</BOY>
+        <EOY>446</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>2795503</BOY>
+        <EOY>2766170</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>-979296</BOY>
+        <EOY>-961064</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>-979296</BOY>
+        <EOY>-961064</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>1816207</BOY>
+        <EOY>1805106</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>0</AuditCommittee>
+      <FinancialStatementBoth>X</FinancialStatementBoth>
+      <FederalGrantAuditRequired>1</FederalGrantAuditRequired>
+      <FederalGrantAuditPerformed>1</FederalGrantAuditPerformed>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus3Years>89000</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus1Year>42050</CurrentTaxYearMinus1Year>
+        <Total>131050</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>560059</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>566852</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>583094</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>638328</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>691639</CurrentTaxYear>
+        <Total>3039972</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>560059</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>655852</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>583094</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>680378</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>691639</CurrentTaxYear>
+        <Total>3171022</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <CurrentTaxYearMinus4Years>206382</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>149071</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>269860</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>317184</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>226338</CurrentTaxYear>
+        <Total>1168835</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <CurrentTaxYearMinus4Years>206382</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>149071</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>269860</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>317184</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>226338</CurrentTaxYear>
+        <Total>1168835</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>2002187</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>584</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>2236</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1563</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>549</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>263</CurrentTaxYear>
+        <Total>5195</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>584</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>2236</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1563</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>549</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>263</CurrentTaxYear>
+        <Total>5195</Total>
+      </InvestmentIncomeAndUBTI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>560643</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>658088</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>584657</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>680927</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>691902</CurrentTaxYear>
+        <Total>3176217</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.63040</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.62420</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00160</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.00200</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <AgentTrusteeEtc>0</AgentTrusteeEtc>
+      <IncludedOnFS>1</IncludedOnFS>
+      <Land>
+        <OtherCostOrOtherBasis>294781</OtherCostOrOtherBasis>
+        <BookValue>294781</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>3056184</OtherCostOrOtherBasis>
+        <Depreciation>2018104</Depreciation>
+        <BookValue>1038080</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>209804</OtherCostOrOtherBasis>
+        <Depreciation>134285</Depreciation>
+        <BookValue>75519</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>1408380</TotalOfBookValueLandBuildings>
+      <OtherAssets>
+        <Description>Mortgage escrow deposits</Description>
+        <BookValue>48220</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Reserve for replacement</Description>
+        <BookValue>109153</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Residual receipts reserve</Description>
+        <BookValue>51279</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Repair escrow</Description>
+        <BookValue>9343</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Deferred financing costs, net</Description>
+        <BookValue>58129</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Tenant security deposits</Description>
+        <BookValue>23464</BookValue>
+      </OtherAssets>
+      <TotalBookValueOtherAssets>299588</TotalBookValueOtherAssets>
+      <OtherLiabilities>
+        <Description>Due to Related Party</Description>
+        <Amount>446</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>446</TotalOfAmounts>
+      <TotalRevenue>691902</TotalRevenue>
+      <TotalExpenses>673670</TotalExpenses>
+      <ExcessOrDeficitForYear>18232</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>18232</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>691902</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>691902</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>691902</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>673670</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>673670</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>673670</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part IV, Line 2b:</Identifier>
+        <Explanation>The organization holds funds on behalf of its residents.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part X:</Identifier>
+        <ReturnReference>Description of Uncertain Tax Positions Under FIN 48:</ReturnReference>
+        <Explanation>During 2010, the Organization adopted the provision of Accounting Standards Codification (ASC)740-10 (previously Financial Interpretation No.48, Accounting for Uncertainty in Income Taxes). The Organization undergoes an annual analysis of its various tax positions, assessing the likelihood of those positions being upheld upon examination with relevant tax authorities. The implementation of this standard had no material impact on the financial statements. As of both the date of adoption and as of September 30, 2010, no amounts were recorded as a result of this analysis. The Organization is no longer subject to Federal and State tax examinations by tax authorities for years before 2007.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section A, line 3</Identifier>
+        <Explanation>Twin City Christian Homes Services Co. is the management agent.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section A, line 6</Identifier>
+        <Explanation>The sole member of the organization is Twin City Christian Homes, Inc.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section A, line 7a</Identifier>
+        <Explanation>The number of directors shall be not less than three (3) and not more than five (5). The directors shall be appointed by the members. Each director shall be a natural person and shall hold office until the annual meeting of the members in the third year following his or her appointment, or until his or her death, resignation or removal as hereinafter provided. Directors may be appointed for less than a three-year term.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>Prior to the Form 990 being filed, it will be provided to all members of the Board of Directors for their review. It will also be provided to the Executive Director and Director of Finance. Sufficient time will be allowed for them to review the Form 990 and for them to raise questions or concerns prior to filing.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 12c</Identifier>
+        <Explanation>The Conflict of Interest Policy requires that all board members, officers, other volunteers and employees must fully disclose all areas of interest where potential conflict(s) may exist and that this disclosure should take place prior to any transactions being consummated. Transactions with parties with whom a conflicting interest does exist, may be undertaken only if all of the following are observed: 1.The person with the conflict of interest is excluded from the discussion and approval of such transaction; 2.A competitive bid or comparable valuation exists; and 3.The board, Executive Director or Director of Finance has determined that the transaction is in the best interest of the organization. To help insure compliance with this policy, all board members and all employees are required to complete a Conflict of Interest Disclosure Statement, which are reviewed by the Executive Director or Director of Finance for indication of any potential conflicts of interest. If any material conflicts of interest are determined to exist, they are dealt with on a case by case basis and are brought to the Board of Director's attention, as appropriate.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>Form 990, Part VI, Section B, Line 15: Compensation for the Executive Director and all other officers and key employees are determined by a related organization that has policies in place for determining compensation.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section C, line 19</Identifier>
+        <Explanation>The financial statements are available upon request. The governing documents and conflict of interest policy may be made available on a case by case basis if requested.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part XI, Line 2c:</Identifier>
+        <Explanation>The Board of Directors of Twin City Christian Homes Inc., the sole member, assumes responsibility for oversight of the audit of its financial statements and selection of an independent accountant.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VII, Section A:</Identifier>
+        <Explanation>The following individuals devoted time providing services to these related organizations. Twin City Christian Homes, Inc. Halgeir Grodahl .5 hours per week Linda Nelson .5 hours per week John Kantke .5 hours per week Jeff Jonswold .5 hours per week Nancy Starr 1 hour per week Chris Schmidt 1 hour per week Barbara Kuhlman 1 hour per week Twin City Christian Homes Services Co. Halgeir Grodahl .5 hours per week Linda Nelson .5 hours per week John Kantke .5 hours per week Jeff Jonswold .5 hours per week Nancy Starr 40 hours per week Chris Schmidt 40 hours per week Barbara Kuhlman 40 hours per week Twin City Christian Homes Foundation Halgeir Grodahl .5 hours per week Linda Nelson .5 hours per week John Kantke 1 hour per week Jeff Jonswold .5 hours per week Nancy Starr 1 hour per week Chris Schmidt 1 hour per week Barbara Kuhlman 1 hour per week Richfield Senior Housing, Inc. d/b/a Mainstreet Village Senior Housing Halgeir Grodahl .5 hours per week Linda Nelson .5 hours per week John Kantke 1 hour per week Nancy Starr 1 hour per week Chris Schmidt 1 hour per week Barbara Kuhlman 1 hour per week WestRidge Senior Housing, Inc. Halgeir Grodahl .5 hours per week Linda Nelson .5 hours per week John Kantke .5 hours per week Nancy Starr 1 hour per week Chris Schmidt 1 hour per week Barbara Kuhlman 1 hour per week Shoreview Senior Residence d/b/a Scandia Shores Halgeir Grodahl .5 hours per week Linda Nelson .5 hours per week John Kantke .5 hours per week Nancy Starr 1 hour per week Chris Schmidt 1 hour per week Barbara Kuhlman 1 hour per week</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Schedule R, Part V, Line 2:</Identifier>
+        <Explanation>The method used to determine the amounts on Part V are the actual amounts on the organization's books.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Twin City Christian Homes Inc</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>7645 Lyndale Avenue S Ste 110</AddressLine1>
+          <City>Richfield</City>
+          <State>MN</State>
+          <ZIPCode>55423</ZIPCode>
+        </AddressUS>
+        <EIN>411538892</EIN>
+        <PrimaryActivities>Care for the elderly</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11b</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Twin City Christian Homes Foundation</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>7645 Lyndale Avenue S Ste 110</AddressLine1>
+          <City>Richfield</City>
+          <State>MN</State>
+          <ZIPCode>55423</ZIPCode>
+        </AddressUS>
+        <EIN>411538890</EIN>
+        <PrimaryActivities>Support affiliates</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>7</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Twin City Christian Homes Services Co</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>7645 Lyndale Avenue S Ste 110</AddressLine1>
+          <City>Richfield</City>
+          <State>MN</State>
+          <ZIPCode>55423</ZIPCode>
+        </AddressUS>
+        <EIN>363594171</EIN>
+        <PrimaryActivities>Support affiliates</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11b</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Shoreview Senior Residence dba Scandia Shores</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>7645 Lyndale Avenue S Ste 110</AddressLine1>
+          <City>Richfield</City>
+          <State>MN</State>
+          <ZIPCode>55423</ZIPCode>
+        </AddressUS>
+        <EIN>411812410</EIN>
+        <PrimaryActivities>Care for the elderly</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>WestRidge Senior Housing Inc</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>7645 Lyndale Avenue S Ste 110</AddressLine1>
+          <City>Richfield</City>
+          <State>MN</State>
+          <ZIPCode>55423</ZIPCode>
+        </AddressUS>
+        <EIN>311522545</EIN>
+        <PrimaryActivities>Care for the elderly</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Richfield Senior Housing Inc dba Mainstreet Vlg Sr Housing</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>7645 Lyndale Avenue S Ste 110</AddressLine1>
+          <City>Richfield</City>
+          <State>MN</State>
+          <ZIPCode>55423</ZIPCode>
+        </AddressUS>
+        <EIN>311626065</EIN>
+        <PrimaryActivities>Care for the elderly</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>Twin City Christian Homes Management Co Inc</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>7645 Lyndale Avenue S Ste 110</AddressLine1>
+          <City>Richfield</City>
+          <State>MN</State>
+          <ZIPCode>55423</ZIPCode>
+        </AddressUS>
+        <EIN>411751126</EIN>
+        <PrimaryActivity>Management services</PrimaryActivity>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+        <TypeOfEntity>C</TypeOfEntity>
+      </Form990ScheduleRPartIV>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>0</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>1</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>1</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>1</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>0</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>0</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Twin City Christian Homes Services Co</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>O</TransactionType>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Twin City Christian Homes Services Co</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>L</TransactionType>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Twin City Christian Homes Services Co</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>N</TransactionType>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Twin City Christian Homes Foundation</BusinessNameLine1>
+        </NameOfOtherOrganization>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Richfield Senior Housing dba Mainstreet Village Senior Housing</BusinessNameLine1>
+        </NameOfOtherOrganization>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>WestRidge Senior Housing Inc</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>O</TransactionType>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Shoreview Senior Residence dba Scandia Shores</BusinessNameLine1>
+        </NameOfOtherOrganization>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

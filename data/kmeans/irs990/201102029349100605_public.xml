@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-21T13:50:05-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CELIA C HALL CPA PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3423 49TH STREET NORTH</AddressLine1>
+        <City>ST PETERSBURG</City>
+        <State>FL</State>
+        <ZIPCode>337102147</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>226033694</EIN>
+      <Name>
+        <BusinessNameLine1>THE HONEYBROOK FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>HONE</NameControl>
+      <Phone>7275228500</Phone>
+      <USAddress>
+        <AddressLine1>C/O 3423 - 49TH STREET NORTH</AddressLine1>
+        <City>ST PETERSBURG</City>
+        <State>FL</State>
+        <ZIPCode>337102147</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ANNE P VON ROSENSTIEL</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>7275228500</Phone>
+      <DateSigned>2011-07-21</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>CELIA C HALL</Name>
+      <Phone>7275228500</Phone>
+      <DatePrepared>2011-07-21</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>19488</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>25</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>7482</InterestOnSavingsRevAndExpnss>
+        <DividendsRevAndExpnss>17919</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>17919</DividendsNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc5">13331</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>38757</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>17919</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1195</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>895</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>300</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc6">711</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>290</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">228</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>2134</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1185</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>300</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>50100</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>50100</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>52234</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1185</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>50400</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-13477</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>16734</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>32965</CashBOY>
+        <CashEOY>19488</CashEOY>
+        <CashEOYFMV>19488</CashEOYFMV>
+        <TotalAssetsBOY>32965</TotalAssetsBOY>
+        <TotalAssetsEOY>19488</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>19488</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>15267</CapitalStockBOY>
+        <CapitalStockEOY>15267</CapitalStockEOY>
+        <RetainedEarningsBOY>17698</RetainedEarningsBOY>
+        <RetainedEarningsEOY>4221</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>32965</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>19488</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>32965</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>19488</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>32965</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-13477</ExcessOfRevenueOverExpenses>
+        <Subtotal>19488</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>19488</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>31275</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>25177</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>1.242205</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>44500</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>27967</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>1.591161</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>27250</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>30369</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.897297</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>41850</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>17126</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>2.443653</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>15675</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>26403</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.593683</DistributionRatioYear5>
+        <TotalDistributionRatio>6.767999</TotalDistributionRatio>
+        <AverageDistributionRatio>1.353600</AverageDistributionRatio>
+        <NetNoncharitableAssets>20722</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>28049</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>167</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>28216</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>50400</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>167</InvestmentIncomeExciseTax>
+        <Subtotal>167</Subtotal>
+        <TaxBasedOnInvestmentIncome>167</TaxBasedOnInvestmentIncome>
+        <TaxDue>167</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>CELIA C HALL CPA</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7275228500</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3423 49TH ST N</AddressLine1>
+          <City>ST PETERSBURG</City>
+          <State>FL</State>
+          <ZIPCode>337102147</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">ANNE P VON ROSENSTIEL</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 3423 49TH ST NO</AddressLine1>
+            <City>ST PETERSBURG</City>
+            <State>FL</State>
+            <ZIPCode>33710</ZIPCode>
+          </USAddress>
+          <Title>PRES/DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">DANIEL KING</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 3423 49TH ST NO</AddressLine1>
+            <City>ST PETERSBURG</City>
+            <State>FL</State>
+            <ZIPCode>33710</ZIPCode>
+          </USAddress>
+          <Title>TREAS/DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>21038</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>21038</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>21038</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>316</CashDeemedCharitable>
+        <NetNoncharitableAssets>20722</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>1036</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>1036</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>167</TaxBasedOnInvestmentIncome>
+        <TotalTax>167</TotalTax>
+        <DistributableAmountBeforeAdj>869</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>869</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>869</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>50400</ExpensesAndContributions>
+        <QualifyingDistributions>50400</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>167</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>50233</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>869</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>14578</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>41294</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>25933</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>43542</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>30412</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>155759</TotalExcessDistriCarryover>
+        <QualifyingDistributions>50400</QualifyingDistributions>
+        <AppliedToCurrentYear>869</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>49531</RemainingDistriFromCorpus>
+        <TotalCorpus>205290</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>14578</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>190712</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>41294</ExcessFromYear4>
+        <ExcessFromYear3>25933</ExcessFromYear3>
+        <ExcessFromYear2>43542</ExcessFromYear2>
+        <ExcessFromYear1>30412</ExcessFromYear1>
+        <ExcessFromCurrentYear>49531</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST PETE FREE CLINIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>863 3RD AVE N</AddressLine1>
+            <City>ST PETERSBURG</City>
+            <State>FL</State>
+            <ZIPCode>33701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY SOUTH FLORIDA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>140 7TH AVE S</AddressLine1>
+            <City>ST PETERSBURG</City>
+            <State>FL</State>
+            <ZIPCode>33701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>COLLEGE OF MARINE SCIENCE</PurposeOfGrantOrContribution>
+          <Amount>8000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9099 130TH AVE</AddressLine1>
+            <City>LARGO</City>
+            <State>FL</State>
+            <ZIPCode>33773</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PATH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 900922</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98109</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GUIDE DOG FOUNDATION</BusinessNameLine1>
+            <BusinessNameLine2>FOR THE BLIND INC</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>371 E JERICHO TURNPIKE</AddressLine1>
+            <City>SMITHTOWN</City>
+            <State>NY</State>
+            <ZIPCode>11787</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FINCA INTERNATIONAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1101 14TH ST NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SERRV</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>122 STATE ST STE 600</AddressLine1>
+            <City>MADISON</City>
+            <State>WI</State>
+            <ZIPCode>53703</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>50100</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>7482</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>17919</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherRevenueDescribed>
+          <Description>PEYTON TRUST U/W - CORPUS</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>13331</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>38732</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>38732</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>1195</Amount>
+        <NetInvestmentIncome>895</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>300</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>ANNE P VON ROSENSTIEL</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>DANIEL KING</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>228</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc5">
+      <OtherIncome>
+        <Description>PEYTON TRUST U/W - CORPUS</Description>
+        <RevenueAndExpensesPerBooks>13331</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc6">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>290</Amount>
+        <NetInvestmentIncome>290</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>LICENSE</Category>
+        <Amount>25</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAX</Category>
+        <Amount>396</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

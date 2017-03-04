@@ -1,0 +1,765 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-24T04:31:57-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>JAMES E HOLMGREN CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>410 BELMONT ST</AddressLine1>
+        <City>BROCKTON</City>
+        <State>MA</State>
+        <ZIPCode>02301</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>042103796</EIN>
+      <Name>
+        <BusinessNameLine1>HOWARD HOME</BusinessNameLine1>
+        <BusinessNameLine2>TRUSTEES HOME FOR AGED MEN BROCKTON</BusinessNameLine2>
+      </Name>
+      <NameControl>HOWA</NameControl>
+      <Phone>5085844088</Phone>
+      <USAddress>
+        <AddressLine1>71 LEGION PARKWAY</AddressLine1>
+        <City>BROCKTON</City>
+        <State>MA</State>
+        <ZIPCode>02301</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN F CREEDON</Name>
+      <Title>TREASURER</Title>
+      <Phone>5085844088</Phone>
+      <DateSigned>2011-07-21</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>JAMES E HOLMGREN CPA</Name>
+      <Phone>5085887772</Phone>
+      <DatePrepared>2011-07-24</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>4820394</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>43301</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>43301</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>43301</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>120661</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>120661</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>120661</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc5">60724</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1576346</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>8394</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>224686</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>172356</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>163962</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>24450</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstDsbrsChrtblPrps>24450</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>5100</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>5100</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>2598</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftDsbrsChrtblPrps>2598</PensionEmplBnftDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">10760</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>10760</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc9">37553</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>37553</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc10">4824</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>4824</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc8">3998</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>3998</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>89283</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>42377</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>46906</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>125000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>125000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>214283</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>42377</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>171906</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>10403</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>129979</NetInvestmentIncome>
+        <AdjustedNetIncome>163962</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashEOY>48083</CashEOY>
+        <CashEOYFMV>48083</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>238328</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>313611</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>313611</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>55115</AccountsReceivable>
+        <AccountsReceivableBOY>49352</AccountsReceivableBOY>
+        <AccountsReceivableEOY>55115</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>5763</AccountsReceivableEOYFMV>
+        <InvestmentsCorpStockBOY>3362978</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc7">3416018</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>3974812</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>639066</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc6">458734</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>478125</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>4289724</TotalAssetsBOY>
+        <TotalAssetsEOY>4291561</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>4820394</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>13118</AccountsPayableBOY>
+        <AccountsPayableEOY>4552</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>13118</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>4552</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>4276606</UnrestrictedBOY>
+        <UnrestrictedEOY>4287009</UnrestrictedEOY>
+        <TotalNetAssetsBOY>4276606</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>4287009</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>4289724</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>4291561</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>4276606</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>10403</ExcessOfRevenueOverExpenses>
+        <Subtotal>4287009</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>4287009</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>8394</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>205342</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>4347770</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.047229</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>193720</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>4679849</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.041394</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>10000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>5126935</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.001950</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>115000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>4931040</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.023322</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>305631</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>4912133</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.062220</DistributionRatioYear5>
+        <TotalDistributionRatio>0.176115</TotalDistributionRatio>
+        <AverageDistributionRatio>0.035223</AverageDistributionRatio>
+        <NetNoncharitableAssets>4649413</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>163766</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1300</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>165066</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>171906</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>1300</InvestmentIncomeExciseTax>
+        <Subtotal>1300</Subtotal>
+        <TaxBasedOnInvestmentIncome>1300</TaxBasedOnInvestmentIncome>
+        <Form2220Attached referenceDocumentId="RetDoc2">X</Form2220Attached>
+        <PenaltyForUnderpayment>36</PenaltyForUnderpayment>
+        <TaxDue>1336</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JOHN F CREEDON ESQUIRE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5085844088</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>71 LEGION PARKWAY</AddressLine1>
+          <City>BROCKTON</City>
+          <State>MA</State>
+          <ZIPCode>02301</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>true</UndistributedIncomePriorYears>
+        <UndistributedIncomePriorYear1>2009</UndistributedIncomePriorYear1>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">JOHN F CREEDON</PersonName>
+          <USAddress>
+            <AddressLine1>71 LEGION PARKWAY</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02301</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>15000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">VAUGHN BOYAJIAN</PersonName>
+          <USAddress>
+            <AddressLine1>71 LEGION PARKWAY</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02301</ZIPCode>
+          </USAddress>
+          <Title>CLERK</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>6450</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">ROBERT PRINCE</PersonName>
+          <USAddress>
+            <AddressLine1>71 LEGION PARKWAY</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02301</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>3000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>DONATIONS TO ELDERLY AND NOT FOR PROFIT ENTITIES</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>4414163</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>300261</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>5792</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>4720216</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>4720216</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>70803</CashDeemedCharitable>
+        <NetNoncharitableAssets>4649413</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>232471</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>232471</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1300</TaxBasedOnInvestmentIncome>
+        <TotalTax>1300</TotalTax>
+        <DistributableAmountBeforeAdj>231171</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>231171</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>231171</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>171906</ExpensesAndContributions>
+        <QualifyingDistributions>171906</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>1300</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>170606</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>231171</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>215720</UndistributedIncomePriorYear>
+        <QualifyingDistributions>171906</QualifyingDistributions>
+        <AppliedToYear1>171906</AppliedToYear1>
+        <TaxableAmount2>43814</TaxableAmount2>
+        <UndistributedIncomeCY>231171</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>JOHN CREEDON TRUST</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>71 LEGION PARKWAY</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02301</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5085844088</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATIONS SHOOULD BE IN THE FORM OF A SIMPLE LETTER GIVING A BRIEF SUMMARRY OF THE PROPOSAL AND HOW THE FUNDS ARE TO BE USED. (NO PREDETERMINED FORMAT.)</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NO SUBMISSION DEADLINES</SubmissionDeadlines>
+          <RestrictionsOnAwards>THERE ARE GEOGRAPHICAL RESTRICTIONS: WITHIN 35 MILES OF BOSTON. THE FUND MUST BE USED FOR ELDERLY SITUATIONS (60 YEARS OR OLDER). WE DONATE TO CHARITABLE AND NON-CHARITABLE INSTITUTIONS AND WE REQUEST A FOLLOWUP ATTESTATION FROM THE DONEE AS TO THE ACTUAL EXPENDITURES OF THE FUNDS.FUNDS MAY NOT BE USED TO FUND SALARIES OF CAOITAL BUILDING PROJECTS.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LIVING INDEPENDANTLY FOR</BusinessNameLine1>
+            <BusinessNameLine2>EQUALITY INC</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>54 HAVERHILL STREET</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02304</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OLD COLONY YMCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>465 MAIN STREET</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02301</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MY BROTHERS KEEPER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>RT 123</AddressLine1>
+            <City>NORTH EASTON</City>
+            <State>MA</State>
+            <ZIPCode>02356</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BROKTON VNA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>RT 123</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02301</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SIGNATURE HEALTH CARE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>680 CENTRE ST</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHARITY GUILD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>501 MAIN ST</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02301</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STONEHILL COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>RT 123 BELONT ST</AddressLine1>
+            <City>NO EASTON</City>
+            <State>MA</State>
+            <ZIPCode>02356</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CITY OF BROCKTON PUBLIC L</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>27 SCHOOL ST</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02301</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BAMSI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>424 BELMONT ST</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02301</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>125000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>43301</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>120661</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>8394</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>52330</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>172356</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>52330</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>224686</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>10760</Amount>
+        <DisbursementsCharitablePrps>10760</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc4">
+      <Compensation>
+        <PersonName>JOHN F CREEDON</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>VAUGHN BOYAJIAN</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>ROBERT PRINCE</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc5">
+      <GainLossSaleOtherAsset>
+        <Name>100000-FHLMC</Name>
+        <DateAcquired>1970-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>104900</GrossSalesPrice>
+        <Basis>104220</Basis>
+        <TotalNet>680</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>50000-GOLDMAN SACHS</Name>
+        <DateAcquired>2005-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>50000</GrossSalesPrice>
+        <Basis>49890</Basis>
+        <TotalNet>110</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500-CVS CAREMARK</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>18421</GrossSalesPrice>
+        <Basis>9322</Basis>
+        <TotalNet>9099</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500-ENERGY TRANS EQUITY</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>17568</GrossSalesPrice>
+        <Basis>14970</Basis>
+        <TotalNet>2598</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>10000-UNUMPROVIDENT CORP</Name>
+        <DateAcquired>2003-02</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>23726</GrossSalesPrice>
+        <Basis>21467</Basis>
+        <TotalNet>2259</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500-VARIAN MEDICAL SYS</Name>
+        <DateAcquired>2009-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>27030</GrossSalesPrice>
+        <Basis>17825</Basis>
+        <TotalNet>9205</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>650-CAREFUSION CORP</Name>
+        <DateAcquired>2009-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>18426</GrossSalesPrice>
+        <Basis>14320</Basis>
+        <TotalNet>4106</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500-DEVON ENERGY</Name>
+        <DateAcquired>2009-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>32383</GrossSalesPrice>
+        <Basis>35586</Basis>
+        <TotalNet>-3203</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>5898-IVY ASSET STRATEGY INC</Name>
+        <DateAcquired>2007-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>118735</GrossSalesPrice>
+        <Basis>115594</Basis>
+        <TotalNet>3141</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>9950-EVERGREEN ASSET ALLOCATION</Name>
+        <DateAcquired>2009-05</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>106563</GrossSalesPrice>
+        <Basis>103027</Basis>
+        <TotalNet>3536</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>525-BP PLC</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>15311</GrossSalesPrice>
+        <Basis>29183</Basis>
+        <TotalNet>-13872</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>100000-STATE STREET</Name>
+        <DateAcquired>2009-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>104650</Basis>
+        <TotalNet>-4650</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>5765-IVY ASSET STRATEGY INC</Name>
+        <DateAcquired>2006-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>119569</GrossSalesPrice>
+        <Basis>108390</Basis>
+        <TotalNet>11179</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>9820-WELLS FARGO ASSET ALLOCATION</Name>
+        <DateAcquired>2009-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>105572</GrossSalesPrice>
+        <Basis>115273</Basis>
+        <TotalNet>-9701</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>8848-GOLDMAN SACHS</Name>
+        <DateAcquired>2009-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>77504</GrossSalesPrice>
+        <Basis>82058</Basis>
+        <TotalNet>-4554</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>240-FRONTIER COMMUNICATIONS</Name>
+        <DateAcquired>2010-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>1933</GrossSalesPrice>
+        <Basis>1884</Basis>
+        <TotalNet>49</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>200000-PIMCO TOTAL RETURN</Name>
+        <DateAcquired>2006-10</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-10</DateSold>
+        <GrossSalesPrice>238714</GrossSalesPrice>
+        <Basis>218332</Basis>
+        <TotalNet>20382</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>100000-KRAFT BOND</Name>
+        <DateAcquired>2007-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2011-01</DateSold>
+        <GrossSalesPrice>106671</GrossSalesPrice>
+        <Basis>103535</Basis>
+        <TotalNet>3136</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1000-ENERGY TRANS EQUITY</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2011-01</DateSold>
+        <GrossSalesPrice>38795</GrossSalesPrice>
+        <Basis>29941</Basis>
+        <TotalNet>8854</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1000-HOME DEPOT</Name>
+        <DateAcquired>2010-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2011-01</DateSold>
+        <GrossSalesPrice>35886</GrossSalesPrice>
+        <Basis>27578</Basis>
+        <TotalNet>8308</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>8017-MERGER FUND</Name>
+        <DateAcquired>2010-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2011-02</DateSold>
+        <GrossSalesPrice>127958</GrossSalesPrice>
+        <Basis>126675</Basis>
+        <TotalNet>1283</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1000-ALLSTATE CORP</Name>
+        <DateAcquired>2004-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2011-02</DateSold>
+        <GrossSalesPrice>31754</GrossSalesPrice>
+        <Basis>36299</Basis>
+        <TotalNet>-4545</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500-COVIDIEN</Name>
+        <DateAcquired>2010-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2011-03</DateSold>
+        <GrossSalesPrice>25283</GrossSalesPrice>
+        <Basis>21476</Basis>
+        <TotalNet>3807</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500-RAYTHEON</Name>
+        <DateAcquired>2010-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2001-03</DateSold>
+        <GrossSalesPrice>25250</GrossSalesPrice>
+        <Basis>24127</Basis>
+        <TotalNet>1123</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc6">
+      <InvestmentsCorpBonds>
+        <EOYBookValue>458734</EOYBookValue>
+        <EOYFMV>478125</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc7">
+      <InvestmentsCorpStock>
+        <NameOfStock>STOCKS</NameOfStock>
+        <EOYBookValue>811303</EOYBookValue>
+        <EOYFMV>1127745</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUNDS</NameOfStock>
+        <EOYBookValue>2604715</EOYBookValue>
+        <EOYFMV>2847067</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>2898</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2898</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>700</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>700</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>400</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>400</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc9">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT FEES</Category>
+        <Amount>37553</Amount>
+        <NetInvestmentIncome>37553</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc10">
+      <Taxes>
+        <Category>MISC</Category>
+        <Amount>4824</Amount>
+        <NetInvestmentIncome>4824</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

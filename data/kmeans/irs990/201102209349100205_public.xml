@@ -1,0 +1,667 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T09:20:54-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CLIFTON GUNDERSON LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>301 SW ADAMS STREET BOX 1835</AddressLine1>
+        <City>PEORIA</City>
+        <State>IL</State>
+        <ZIPCode>616561835</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>261606873</EIN>
+      <Name>
+        <BusinessNameLine1>CULLINANFALCON FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>CULL</NameControl>
+      <Phone>3096711820</Phone>
+      <USAddress>
+        <AddressLine1>C/O CLIFTON GUNDERSON-PO BOX 1835</AddressLine1>
+        <City>PEORIA</City>
+        <State>IL</State>
+        <ZIPCode>616561835</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>STEPHEN CULLINAN</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>3096711820</Phone>
+      <DateSigned>2011-07-22</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JAMES D STUCKEY</Name>
+      <Phone>3096714500</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2830367</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>150</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>150</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>81523</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>81307</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>42931</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>2691460</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>42931</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>124604</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>124388</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">2638</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>2638</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">3050</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>3050</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">1120</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">18480</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>18330</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>150</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>25288</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>18330</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>5838</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>986000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>986000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1011288</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>18330</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>991838</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-886684</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>106058</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>25994</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>621116</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>621116</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>1020198</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">2122452</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>2209251</InvestmentsCorpStockEOYFMV>
+        <LandBuildingAndEquipmentBasis>3889</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>3889</AccumDeprecLandBldgAndEquip>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">2584060</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">0</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">0</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>3630252</TotalAssetsBOY>
+        <TotalAssetsEOY>2743568</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2830367</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>3630252</RetainedEarningsBOY>
+        <RetainedEarningsEOY>2743568</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>3630252</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2743568</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3630252</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2743568</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3630252</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-886684</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>2743568</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>2743568</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MORGAN STANLEY-TRADED SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>1807196</GrossSalesPrice>
+          <CostOrOtherBasis>1794029</CostOrOtherBasis>
+          <GainOrLoss>13167</GainOrLoss>
+          <GainsMinusExcessOrLosses>13167</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MORGAN STANLEY-TRADED SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>879545</GrossSalesPrice>
+          <CostOrOtherBasis>854500</CostOrOtherBasis>
+          <GainOrLoss>25045</GainOrLoss>
+          <GainsMinusExcessOrLosses>25045</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>4719</GrossSalesPrice>
+          <GainOrLoss>4719</GainOrLoss>
+          <GainsMinusExcessOrLosses>4719</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>42931</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>180797</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>2085514</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.086692</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>722651</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1485214</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.486564</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>0</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1318716</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.0</DistributionRatioYear3>
+        <TotalDistributionRatio>0.573256</TotalDistributionRatio>
+        <AverageDistributionRatio>0.191085</AverageDistributionRatio>
+        <NetNoncharitableAssets>3228830</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>616981</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1061</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>618042</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>991838</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>1061</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>1061</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>1061</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>2000</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>2000</TotalCreditsAndPayments>
+        <PenaltyForUnderpayment>28</PenaltyForUnderpayment>
+        <Overpayment>911</Overpayment>
+        <AmountCreditedToNextYear>911</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>IL</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>STEPHEN CULLINAN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3096933564</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>308 E MORNINGSIDE DR</AddressLine1>
+          <City>PEORIA</City>
+          <State>IL</State>
+          <ZIPCode>61614</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <TaxExemptInterestReceived>0</TaxExemptInterestReceived>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STEPHEN CULLINAN</PersonName>
+          <USAddress>
+            <AddressLine1>308 E MORNINGSIDE DR</AddressLine1>
+            <City>PEORIA</City>
+            <State>IL</State>
+            <ZIPCode>61614</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EDWARD VOGELSINGER</PersonName>
+          <USAddress>
+            <AddressLine1>1314 CROWN CT</AddressLine1>
+            <City>BLOOMINGTON</City>
+            <State>IL</State>
+            <ZIPCode>61704</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANJULI S NAYAK</PersonName>
+          <USAddress>
+            <AddressLine1>1906 CRIMSON LANE</AddressLine1>
+            <City>BLOOMINGTON</City>
+            <State>IL</State>
+            <ZIPCode>61704</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>3278000</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3278000</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>3278000</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>49170</CashDeemedCharitable>
+        <NetNoncharitableAssets>3228830</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>161442</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>161442</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1061</TaxBasedOnInvestmentIncome>
+        <TotalTax>1061</TotalTax>
+        <DistributableAmountBeforeAdj>160381</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>160381</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>160381</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>991838</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>991838</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>1061</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>990777</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>160381</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear2>648581</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>77608</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>726189</TotalExcessDistriCarryover>
+        <QualifyingDistributions>991838</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>160381</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>831457</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>1557646</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>1557646</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>648581</ExcessFromYear2>
+        <ExcessFromYear1>77608</ExcessFromYear1>
+        <ExcessFromCurrentYear>831457</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>STEPHEN CULLINAN</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>308 EAST MORNINGSIDE DRIVE</AddressLine1>
+            <City>PEORIA</City>
+            <State>IL</State>
+            <ZIPCode>61614</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>3096933564</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>LETTER</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BRADLEY UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1501 W BRADLEY AVE</AddressLine1>
+            <City>PEORIA</City>
+            <State>IL</State>
+            <ZIPCode>61625</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DONATION TO UNIVERSITY FOR MBA PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>500000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF ILLINOIS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1305 WEST GREEN STREET MC-386</AddressLine1>
+            <City>URBANA</City>
+            <State>IL</State>
+            <ZIPCode>61801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DONATION TO DR. STEPHEN A. CULLINAN PROFESSORSHIP PATIENT SAFETY FUND</PurposeOfGrantOrContribution>
+          <Amount>250000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF ILLINOIS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1305 WEST GREEN STREET MC-386</AddressLine1>
+            <City>URBANA</City>
+            <State>IL</State>
+            <ZIPCode>61801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DONATION TO UNIVERSITY COLLEGE OF MEDICINE</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MAYO CLINIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>200 FIRST STREET SW</AddressLine1>
+            <City>ROCHESTER</City>
+            <State>MN</State>
+            <ZIPCode>55905</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP FUND</PurposeOfGrantOrContribution>
+          <Amount>200000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LOYOLA UNIV CHICAHO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1032 W SHERIDAN RD</AddressLine1>
+            <City>CHICAHO</City>
+            <State>IL</State>
+            <ZIPCode>60660</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP FUND</PurposeOfGrantOrContribution>
+          <Amount>11000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>986000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>150</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>81523</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>42931</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>124604</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>124604</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>3050</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>3050</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>CONOCOPHILLIPS STOCK</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SPDR GOLD STOCK</NameOfStock>
+        <EOYBookValue>32306</EOYBookValue>
+        <EOYFMV>41616</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-RIVERSOURCE PTF FLD MOD</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-RIVERSOURCE INFL PROTEC</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-RIVERSOURCE SH DUR US G</NameOfStock>
+        <EOYBookValue>139035</EOYBookValue>
+        <EOYFMV>140269</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-ALLIANCE HIGH INCOME</NameOfStock>
+        <EOYBookValue>41620</EOYBookValue>
+        <EOYFMV>41965</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-BLACKROCK GLOBAL</NameOfStock>
+        <EOYBookValue>108949</EOYBookValue>
+        <EOYFMV>114070</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-CALAMOS MARKET NEUTRAL INC</NameOfStock>
+        <EOYBookValue>41356</EOYBookValue>
+        <EOYFMV>42223</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-COLUMBIA INFLATION PROT SEC A</NameOfStock>
+        <EOYBookValue>109747</EOYBookValue>
+        <EOYFMV>113539</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-COLUMBIA PTF BUILDR MOD CNSVA</NameOfStock>
+        <EOYBookValue>66546</EOYBookValue>
+        <EOYFMV>71052</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-FIRST AMERICAN REAL EST SEC A</NameOfStock>
+        <EOYBookValue>39854</EOYBookValue>
+        <EOYFMV>44090</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-GAMCO WESTWOOD MGHTY MITES A</NameOfStock>
+        <EOYBookValue>37280</EOYBookValue>
+        <EOYFMV>42454</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-HARTFORD FLOATING RATE BD A</NameOfStock>
+        <EOYBookValue>83636</EOYBookValue>
+        <EOYFMV>84100</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-HARTFORD GLB ALL ASSET A</NameOfStock>
+        <EOYBookValue>55891</EOYBookValue>
+        <EOYFMV>56969</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-JOHN HANCOCK GLBL OPPORT A</NameOfStock>
+        <EOYBookValue>58912</EOYBookValue>
+        <EOYFMV>57830</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-MAINSTAY HIGH YIELD OPPORT A</NameOfStock>
+        <EOYBookValue>56119</EOYBookValue>
+        <EOYFMV>56285</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-NUVEEN PREFERRED SEC A</NameOfStock>
+        <EOYBookValue>26480</EOYBookValue>
+        <EOYFMV>27114</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-NUVEEN TRADEWINDS INTL VAL A</NameOfStock>
+        <EOYBookValue>78998</EOYBookValue>
+        <EOYFMV>84375</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-PIMCO REAL RETURN A</NameOfStock>
+        <EOYBookValue>136199</EOYBookValue>
+        <EOYFMV>141817</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-PIMCO TOTAL RETURN A</NameOfStock>
+        <EOYBookValue>144548</EOYBookValue>
+        <EOYFMV>141932</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-PRUDENTIAL JENNISON EQ INC A</NameOfStock>
+        <EOYBookValue>77217</EOYBookValue>
+        <EOYFMV>85375</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-PRUDENTIAL JENNISON NAT RES A</NameOfStock>
+        <EOYBookValue>22936</EOYBookValue>
+        <EOYFMV>29014</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-PRUDENTIAL SHT TRM CORP BD A</NameOfStock>
+        <EOYBookValue>140329</EOYBookValue>
+        <EOYFMV>140113</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-RS EMERGING MARKETS</NameOfStock>
+        <EOYBookValue>37427</EOYBookValue>
+        <EOYFMV>43494</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-RS FLOATING RATE</NameOfStock>
+        <EOYBookValue>82524</EOYBookValue>
+        <EOYFMV>83723</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-RS VALUE</NameOfStock>
+        <EOYBookValue>34323</EOYBookValue>
+        <EOYFMV>43046</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-TA MULTI-MGR ALT STRAT</NameOfStock>
+        <EOYBookValue>55472</EOYBookValue>
+        <EOYFMV>56538</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-TEMPLETON GLOBAL BD FD</NameOfStock>
+        <EOYBookValue>140017</EOYBookValue>
+        <EOYFMV>144117</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-VIRTUS MULTI SECT SHT TRM BD</NameOfStock>
+        <EOYBookValue>137423</EOYBookValue>
+        <EOYFMV>140870</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUND-WESTERN ASSET CORE PLUS BD FI</NameOfStock>
+        <EOYBookValue>137308</EOYBookValue>
+        <EOYFMV>141261</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>2638</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>2638</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>IRA ACCOUNTS - NAMED BENEFICIARY (DOD 8/29/09)</Description>
+        <BOYBookValue>2584060</BOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>AAA ANNUAL SERVICE FEE</Description>
+        <RevenueAndExpensesPerBooks>150</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>150</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MORGAN STANLEY INVESTMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>18330</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>18330</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FEDERAL TAXES</Category>
+        <Amount>1120</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

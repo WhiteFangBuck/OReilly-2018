@@ -1,0 +1,803 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T10:31:28-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LYNN C RUST CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>217R OLD HOMESTEAD HIGHWAY</AddressLine1>
+        <City>SWANZEY</City>
+        <State>NH</State>
+        <ZIPCode>034462140</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>223030420</EIN>
+      <Name>
+        <BusinessNameLine1>THE MONADNOCK CONSERVANCY</BusinessNameLine1>
+      </Name>
+      <NameControl>MONA</NameControl>
+      <Phone>6033570600</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 337</AddressLine1>
+        <City>KEENE</City>
+        <State>NH</State>
+        <ZIPCode>03431</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>SUZANNE WHITTEMORE</Name>
+      <Title>EXECUTIVE DIRECTOR</Title>
+      <Phone>6033570600</Phone>
+      <DateSigned>2011-07-19</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Phone>6033586565</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>PO BOX 337</AddressLine1>
+        <City>KEENE</City>
+        <State>NH</State>
+        <ZIPCode>03431</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>806148</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.MONADNOCKCONSERVANCY.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1990</YearFormation>
+      <StateLegalDomicile>NH</StateLegalDomicile>
+      <ActivityOrMissionDescription>CONSERVATION OF SIGNIFICANT NATURAL, AESTHETIC, AND HISTORICAL OPEN SPACES IN SOUTHWEST NH.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>15</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>15</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>8</TotalNbrEmployees>
+      <TotalNbrVolunteers>68</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>365323</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>428697</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>72061</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>15523</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>-80272</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>58369</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>11569</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>357112</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>514158</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>286931</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>349338</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>343795</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>28530</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>282582</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>114239</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>631920</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>744965</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-274808</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-230807</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>3251420</TotalAssetsBOY>
+      <TotalAssetsEOY>3101454</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>6984</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>9222</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>3244436</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>3092232</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>TO IDENTIFY, PROMOTE, AND ACTIVELY SEEK PROTECTION OF SIGNIFICANT NATURAL, AESTHETIC, AND HISTORIC RESOURCES IN THE MONADNOCK REGION; AND TO MONITOR AND ENFORCE THE PROTECTION OF LANDS IN THE TRUST.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>436372</Expense>
+      <Grants>286931</Grants>
+      <Revenue>53592</Revenue>
+      <Description>ACQUIRED PERMANENT CONSERVATION EASEMENTS ON AN ADDITIONAL 228.1 ACRES OF HIGHLY SIGNIFICANT NATURAL AREAS, WATER RESOURCES, FORESTS, FARMS, RECREATIONAL AREAS, AND WILDLIFE HABITATS.</Description>
+      <Activity2>
+        <Expense>87584</Expense>
+        <Revenue>18077</Revenue>
+        <Description>PROVIDED TECHNICAL CONSERVATION PLANNING AND IMPLEMENTATION ASSISTANCE SERVICES TO NINE TOWNS. DELIVERED A CONSERVATION LEADERSHIP TRAINING PROGRAM TO 21 PARTICIPANTS FROM NINE TOWNS.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>69675</Expense>
+        <Revenue>7466</Revenue>
+        <Description>TRAINED VOLUNTEER LAND MONITORS AND MONITORED 167 CONSERVATION EASEMENTS AND 6 FEE-OWNED PROPERTIES TOTALING 14,135.1 ACRES.</Description>
+      </Activity3>
+      <ActivityOther>
+        <Expense>59027</Expense>
+        <Revenue>6326</Revenue>
+        <Description>PUBLISHED A QUARTERLY PRINT &amp; ELECTRONIC NEWSLETTER ABOUT LAND CONSERVATION AND LAND STEWARDSHIP IN SOUTHWEST NEW HAMPSHIRE. CONSTRUCTED APPROXIMATELY 2.5 NEW MILES AND MAINTAINED APPROXIMATELY 6.3 EXISTING MILES OF PUBLIC HIKING TRAILS IN SOUTHWEST NEW HAMPSHIRE.</Description>
+      </ActivityOther>
+      <TotalOfOtherProgramServiceExp>59027</TotalOfOtherProgramServiceExp>
+      <TotalOfOtherProgramServiceRev>6326</TotalOfOtherProgramServiceRev>
+      <TotalProgramServiceExpense>652658</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1039900001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1039900001">1</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1039900001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1039900001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1039900001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1039900001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1039900001">1</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1039900001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1039900001">1</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1039900001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1039900001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1039900001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1039900001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">1</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt referenceDocumentId="RetDoc1042900001">1</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>10</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>8</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>15</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>15</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>0</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>NH</StatesWhereCopyOfReturnIsFiled>
+      <OtherWebsite>X</OtherWebsite>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>THE MONADNOCK CONSERVANCY</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>6033570600</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>15 EAGLE COURT</AddressLine1>
+          <City>KEENE</City>
+          <State>NH</State>
+          <ZIPCode>03431</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <NoListedPersonsCompensated>X</NoListedPersonsCompensated>
+      <Form990PartVIISectionA>
+        <NamePerson>CAROL THOMPSON</NamePerson>
+        <Title>IMMEDIATE PAST PRESIDENT</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JEFFREY MILLER</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KAREN BENNETT</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>STEPHEN GEHLBACH</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THOMAS DUSTON</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>NANCY HAYDEN</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DIANE SCHOTT</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICHARD PENDLETON</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICHARD CHURCH</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ELIZABETH STORY WRIGHT</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KEN STEWART</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SHELDON PENNOYER</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL KRINSKY</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THOMAS R HANNA</NamePerson>
+        <Title>VICE PRESIDENT</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SUZANNE WHITTEMORE</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <MembershipDues>16306</MembershipDues>
+      <AllOtherContributions>412391</AllOtherContributions>
+      <NoncashContributions>78269</NoncashContributions>
+      <TotalContributions>428697</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>COMMUNITY CONSERVATION</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>8692</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>8692</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>LAND CONSERVATION</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>6831</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>6831</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>15523</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>26249</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>26249</RelatedOrExemptFunctionIncome>
+      </InvestmentIncome>
+      <GrossAmountSalesAssets>
+        <Securities>323252</Securities>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>291132</Securities>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>32120</Securities>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>32120</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>32120</RelatedOrExemptFunctionIncome>
+      </NetGainOrLossInvestments>
+      <GrossSalesOfInventory>545</GrossSalesOfInventory>
+      <CostOfGoodsSold>858</CostOfGoodsSold>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>-313</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>-313</RelatedOrExemptFunctionIncome>
+      </NetIncomeOrLoss>
+      <OtherRevenueMisc>
+        <Description>TIMBER INCOME</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>11882</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>11882</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>11882</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>514158</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>85461</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>286931</Total>
+        <ProgramServices>286931</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <OtherSalariesAndWages>
+        <Total>268487</Total>
+        <ProgramServices>204048</ProgramServices>
+        <ManagementAndGeneral>22239</ManagementAndGeneral>
+        <Fundraising>42200</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>9768</Total>
+        <ProgramServices>7582</ProgramServices>
+        <ManagementAndGeneral>780</ManagementAndGeneral>
+        <Fundraising>1406</Fundraising>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>45984</Total>
+        <ProgramServices>34518</ProgramServices>
+        <ManagementAndGeneral>4136</ManagementAndGeneral>
+        <Fundraising>7330</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>19556</Total>
+        <ProgramServices>14725</ProgramServices>
+        <ManagementAndGeneral>1667</ManagementAndGeneral>
+        <Fundraising>3164</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>12634</Total>
+        <ProgramServices>12634</ProgramServices>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>12086</Total>
+        <ManagementAndGeneral>12086</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesInvstMgmntFees>
+        <Total>6320</Total>
+        <ManagementAndGeneral>6320</ManagementAndGeneral>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>24433</Total>
+        <ProgramServices>24256</ProgramServices>
+        <ManagementAndGeneral>177</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>30443</Total>
+        <ProgramServices>17163</ProgramServices>
+        <Fundraising>13280</Fundraising>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>11423</Total>
+        <ProgramServices>3998</ProgramServices>
+        <ManagementAndGeneral>6283</ManagementAndGeneral>
+        <Fundraising>1142</Fundraising>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>14316</Total>
+        <ProgramServices>10021</ProgramServices>
+        <ManagementAndGeneral>1432</ManagementAndGeneral>
+        <Fundraising>2863</Fundraising>
+      </Occupancy>
+      <Travel>
+        <Total>6013</Total>
+        <ProgramServices>4510</ProgramServices>
+        <ManagementAndGeneral>601</ManagementAndGeneral>
+        <Fundraising>902</Fundraising>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>5233</Total>
+        <ProgramServices>4710</ProgramServices>
+        <Fundraising>523</Fundraising>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>1258</Total>
+        <ManagementAndGeneral>1258</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>4847</Total>
+        <ManagementAndGeneral>4847</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>LAND PROTECTION</Description>
+        <Total>16431</Total>
+        <ProgramServices>16431</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>COMMUNITY CONSERVATION</Description>
+        <Total>6387</Total>
+        <ProgramServices>6387</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>RECREATION PROJECTS</Description>
+        <Total>2565</Total>
+        <ProgramServices>2565</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LAND STEWARDSHIP</Description>
+        <Total>2179</Total>
+        <ProgramServices>2179</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES &amp; SUBSCRIPTIONS</Description>
+        <Total>1824</Total>
+        <ManagementAndGeneral>1824</ManagementAndGeneral>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>-44153</Total>
+        <ManagementAndGeneral>127</ManagementAndGeneral>
+        <Fundraising>-44280</Fundraising>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>744965</Total>
+        <ProgramServices>652658</ProgramServices>
+        <ManagementAndGeneral>63777</ManagementAndGeneral>
+        <Fundraising>28530</Fundraising>
+      </TotalFunctionalExpenses>
+      <SavingsAndTempCashInvestments>
+        <BOY>1045204</BOY>
+        <EOY>988763</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>531417</BOY>
+        <EOY>69900</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>48775</BOY>
+        <EOY>7246</EOY>
+      </AccountsReceivable>
+      <LandBuildingsEquipmentBasis>687235</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>4048</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>684445</BOY>
+        <EOY>683187</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsOtherSecurities>
+        <BOY>500981</BOY>
+        <EOY>889187</EOY>
+      </InvestmentsOtherSecurities>
+      <OtherAssetsTotal>
+        <BOY>440598</BOY>
+        <EOY>463171</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>3251420</BOY>
+        <EOY>3101454</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>6984</BOY>
+        <EOY>9222</EOY>
+      </AccountsPayableAccruedExpenses>
+      <TotalLiabilities>
+        <BOY>6984</BOY>
+        <EOY>9222</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>2122733</BOY>
+        <EOY>2144668</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>440403</BOY>
+        <EOY>266264</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>681300</BOY>
+        <EOY>681300</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>3244436</BOY>
+        <EOY>3092232</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>3251420</BOY>
+        <EOY>3101454</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>-230807</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>78603</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus4Years>2921145</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>2366932</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>824052</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>368388</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>428697</CurrentTaxYear>
+        <Total>6909214</Total>
+      </GiftsGrantsContribReceived170>
+      <Total170>
+        <CurrentTaxYearMinus4Years>2921145</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>2366932</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>824052</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>368388</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>428697</CurrentTaxYear>
+        <Total>6909214</Total>
+      </Total170>
+      <PublicSupportTotal170>6909214</PublicSupportTotal170>
+      <GrossInvestmentIncome170>
+        <CurrentTaxYearMinus4Years>45899</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>91574</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>39252</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>13984</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>58056</CurrentTaxYear>
+        <Total>248765</Total>
+      </GrossInvestmentIncome170>
+      <OtherIncome170>
+        <CurrentTaxYear>11882</CurrentTaxYear>
+        <Total>11882</Total>
+      </OtherIncome170>
+      <TotalSupport>7169861</TotalSupport>
+      <GrossReceiptsFromAdmissionsEtc>218402</GrossReceiptsFromAdmissionsEtc>
+      <PublicSupportPertcentage170>0.96360</PublicSupportPertcentage170>
+      <PublicSupportPertcentPriorYear>0.97070</PublicSupportPertcentPriorYear>
+      <ThirtyThreePercntTestsCY170>X</ThirtyThreePercntTestsCY170>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1039900001">
+      <PreservationForPublicUse>X</PreservationForPublicUse>
+      <ProtectionOfNaturalHabitat>X</ProtectionOfNaturalHabitat>
+      <PreservationOfOpenSpace>X</PreservationOfOpenSpace>
+      <HistoricLandArea>X</HistoricLandArea>
+      <TotalNumberOfEasements>170</TotalNumberOfEasements>
+      <TotalAcreage>14363.20</TotalAcreage>
+      <NmbrHistStructEasements>0</NmbrHistStructEasements>
+      <NmbrHistStructEasementsAfter>0</NmbrHistStructEasementsAfter>
+      <NmbrEasementsModified>0</NmbrEasementsModified>
+      <NmbrStatesInWhichEasementsHeld>1</NmbrStatesInWhichEasementsHeld>
+      <WrittenPolicyMonitoring>1</WrittenPolicyMonitoring>
+      <StaffHoursSpentOnEnforcement>3470.00</StaffHoursSpentOnEnforcement>
+      <ExpensesIncurredForEnforcement>69675</ExpensesIncurredForEnforcement>
+      <Land>
+        <OtherCostOrOtherBasis>681300</OtherCostOrOtherBasis>
+        <BookValue>681300</BookValue>
+      </Land>
+      <Equipment>
+        <OtherCostOrOtherBasis>2862</OtherCostOrOtherBasis>
+        <Depreciation>2450</Depreciation>
+        <BookValue>412</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>3073</OtherCostOrOtherBasis>
+        <Depreciation>1598</Depreciation>
+        <BookValue>1475</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>683187</TotalOfBookValueLandBuildings>
+      <OtherSecurities>
+        <Description>MUTUAL FUNDS</Description>
+        <BookValue>889187</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <TotalOfBookValueSecurities>889187</TotalOfBookValueSecurities>
+      <OtherAssets>
+        <Description>NH CHARITABLE FOUNDATION AGENCY FUN</Description>
+        <BookValue>463171</BookValue>
+      </OtherAssets>
+      <TotalBookValueOtherAssets>463171</TotalBookValueOtherAssets>
+      <TotalRevenue>514158</TotalRevenue>
+      <TotalExpenses>744965</TotalExpenses>
+      <ExcessOrDeficitForYear>-230807</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>78603</NetUnrealizedGLOnInvestments>
+      <TotalAdjustments>78603</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-152204</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>592761</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>78603</NetUnrealizedGainsInvestments>
+      <RevenueNotRptdF990>78603</RevenueNotRptdF990>
+      <RevenueSubtotal>514158</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>514158</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>744965</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>744965</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>744965</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Explanation>PART II, LINE 9: BECAUSE A CONSERVATION EASEMENT IS PERMANENT, AND CANNOT BE SOLD, IT HAS NO MONETARY VALUE TO THE HOLDER. ACCORDINGLY, THE MONADNOCK CONSERVANCY ASSIGNS A ZERO VALUE TO THE EASEMENTS FOR THE PURPOSES OF REVENUE AND EXPENSE STATEMENTS AND BALANCE SHEETS.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>HARRIS CENTER FOR CONSERVATION EDUCATION INC</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>83 KINGS HIGHWAY</AddressLine1>
+          <City>HANCOCK</City>
+          <State>NH</State>
+          <ZIPCode>03449</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>237085105</EINOfRecipient>
+        <IRCSection>501(C)(3)</IRCSection>
+        <AmountOfCashGrant>286931</AmountOfCashGrant>
+        <AmountOfNonCashAssistance>0</AmountOfNonCashAssistance>
+        <PurposeOfGrant>EASEMENT PURCHASE</PurposeOfGrant>
+      </RecipientTable>
+      <TotalNbrOf501C3AndGovtGrants>1</TotalNbrOf501C3AndGovtGrants>
+      <TotalNbrOfOtherOrganizations>0</TotalNbrOfOtherOrganizations>
+      <Form990ScheduleIPartIV>
+        <Explanation>THE MONADNOCK CONSERVANCY IS NOT USUALLY A GRANT MAKING ORGANIZATION, AND THE GRANT PAID IN 2010 WAS AN UNCOMMON OCCURANCE. THE GRANT WAS USED BY A PARTNER 501(C)(3) ORGANIZATION TO PURCHASE A CONSERVATION EASEMENT ON LAND OF SIGNIFICANCE TO BOTH THAT ORGANIZATION AND THE MONADNOCK CONSERVANCY. APPROPRIATE USE OF THE GRANT FUNDS WAS ENSURED BY VIRTUE OF THE GRANT BEING WIRED DIRECTLY TO THE CLOSING AGENT OF THE AFOREMENTIONED CONSERVATION EASEMENT PURCHASE. THE ENTIRE GRANT WAS SPENT AT ONCE ON THAT TRANSACTION.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <SecuritiesPubliclyTraded>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>7</NumberOfContributions>
+        <NoncashContribsRptdF990>78269</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FMV AT DATE RECEIVED.</MethodOfDeterminingRevenues>
+      </SecuritiesPubliclyTraded>
+      <QualifiedContribOther>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>3</NumberOfContributions>
+        <MethodOfDeterminingRevenues>ZERO VALUE ASSIGNED.</MethodOfDeterminingRevenues>
+      </QualifiedContribOther>
+      <NumberOf8283Received>14</NumberOf8283Received>
+      <AnyPropertyThatMustBeHeld>0</AnyPropertyThatMustBeHeld>
+      <ReviewProcessUnusualNCGifts>1</ReviewProcessUnusualNCGifts>
+      <ThirdPartiesUsed>0</ThirdPartiesUsed>
+      <Form990ScheduleMPartII>
+        <Identifier>NON REPORTING OF REVENUE:</Identifier>
+        <ReturnReference>PART I, LINE 33:</ReturnReference>
+        <Explanation>BECAUSE A CONSERVATION EASEMENT IS PERMANENT, AND CANNOT BE SOLD, IT HAS NO TANGIBLE MONETARY VALUE TO THE HOLDER. ACCORDINGLY, THE MONADNOCK CONSERVANCY ASSIGNS A ZERO VALUE TO THE CONSERVATION EASEMENTS FOR THE PURPOSES OF REVENUE AND EXPENSE STATEMENTS AND BALANCE SHEETS.</Explanation>
+      </Form990ScheduleMPartII>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>AFTER INITIAL DRAFT PREPARATION BY THE ORGANIZATIONS'S CPA, THE ORGANIZATION'S EXECUTIVE DIRECTOR CONDUCTS AN INITIAL REVIEW OF THE 990, ASKING QUESTIONS AND MAKING EDITS AS NECESSARY. THE DOCUMENT IS THEN PROVIDED ELECTRONICALLY TO THE FULL BOARD OF TRUSTEES FOR REVIEW, COMMENT, AND EDITS AS NECESSARY PRIOR TO FILING.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>ALL OFFICERS, TRUSTEES, AND KEY EMPLOYEES ARE REQUIRED TO COMPLETE AND/OR UPDATE DISCLOURES OF POTENTIAL CONFLICTS OF INTEREST ANNUALLY FOLLOWING THE ELECTION OF NEW TRUSTEES AND OFFICERS IN JULY AND AUGUST. ALL NEW OFFICERS, TRUSTEES, AND KEY EMPLOYEES ARE BRIEFED ON THE CONFLICT OF INTEREST POLICY WHEN JOINING THE ORGANIZATION, AND COMPLIANCE IS MONITORED AND ENFORCED THEREAFTER BY USING THE DISCLOSURES TO ENSURE APPROPRIATE RECUSALS FROM BOARD VOTES AND ACTIONS. IF/WHEN AN ACTUAL OR POTENTIAL CONFLICT IS DISCOVERED, APPROPRIATE PUBLIC DISCLOSURES ARE MADE CONSISTENT WITH STATE LAW.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>NO TRUSTEES OR OFFICERS OF THE ORGANIZATION ARE COMPENSATED. PAID EMPLOYEES INCLUDE THE EXECUTIVE DIRECTOR AND OTHER SUBORDINATE MANAGERS AND ASSOCIATES, NONE OF WHOM ARE COMPENSATED AT OR ABOVE $100,000 PER YEAR. THE EXECUTIVE DIRECTOR'S SALARY IS DETERMINED BY THE BOARD USING COMPARABILITY DATA FROM THE LAND TRUST ALLIANCE'S SURVEY OF SALARIES AND BENEFITS FOR LAND TRUST STAFF. ALL OTHER STAFF SALARIES ARE DETERMINED BY THE EXECUTIVE DIRECTOR, IN CONSULTATION WITH THE FINANCE COMMITTEE OF THE BOARD, USING COMPARABILITY DATA FROM THE AFOREMENTIONED LAND TRUST ALLIANCE SURVEY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE ORGANIZATION'S GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS ARE AVAILABLE FOR PUBLIC INSPECTION IN THE ORGANIZATION'S OFFICE, UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CONTACT ADDRESSES FOR OFFICERS, DIRECTORS, ETC</Identifier>
+        <ReturnReference>FORM 990, PART VII</ReturnReference>
+        <Explanation>CAROL THOMPSON - 102 SHERWOOD LANE, JAFFREY, NH 03452. JEFFREY MILLER - 240 STONE POND ROAD, MARLBOROUGH, NH 03455. KAREN BENNETT - PO BOX 261, ANTRIM, NH 03440. STEPHEN GEHLBACH - 225 GILSON ROAD, JAFFREY, NH 03452. THOMAS DUSTON - 202 STAGE ROAD, CHESTERFIELD, NH 03443. NANCY HAYDEN - TOO BAD FARM, 180 OLD HARRISVILLE ROAD, MARLBOROUGH, NH 03455. DIANE SCHOTT - 641 OLD MARLBOROUGH ROAD, DUBLIN, NH 03444. RICHARD PENDLETON - 21 CALLIES COMMON, PETERBOROUGH, NH 03458. RICHARD CHURCH - 117 LOG CABIN ROAD, NELSON, NH 03457. ELIZABETH STORY WRIGHT - PO BOX 100, DUBLIN, NH 03444. KEN STEWART - 11 ALGONQUIN DRIVE, KEENE, NH 03431. SHELDON PENNOYER - 81 FLETCHER FARM ROAD, GREENFIELD, NH 03047. MICHAEL KRINSKY - PO BOX 428, MARLBOROUGH, NH 03455. THOMAS R. HANNA - 36 ALDRICH ROAD, WESTMORELAND, NH 03467. SUZANNE WHITTEMORE - PO BOX 10452, SWANZEY, NH 03446.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CHANGES IN NET ASSETS OR FUND BALANCES:</Identifier>
+        <ReturnReference>FORM 990, PART XI, LINE 5:</ReturnReference>
+        <Explanation>NET UNREALIZED GAINS ON INVESTMENTS: 78603.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>FORM 990, PART XIII, LINE 2(C): THERE HAVE BEEN NO CHANGES TO THE OVERSIGHT PROCESS OR SELECTION PROCESS DURING THE TAX YEAR.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-19T13:53:10-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SCHNEIDER &amp; KOBATA PS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>16300 CHRISTENSEN RD STE 320</AddressLine1>
+        <City>TUKWILA</City>
+        <State>WA</State>
+        <ZIPCode>981883421</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>911164679</EIN>
+      <Name>
+        <BusinessNameLine1>MOTODA FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>MOTO</NameControl>
+      <Phone>2067721203</Phone>
+      <USAddress>
+        <AddressLine1>P O BOX 3424</AddressLine1>
+        <City>SEATTLE</City>
+        <State>WA</State>
+        <ZIPCode>981143424</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>NOBUYUKI KODA</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2067721203</Phone>
+      <DateSigned>2011-07-06</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>GARY KOBATA</Name>
+      <Phone>2068350200</Phone>
+      <DatePrepared>2011-07-06</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>402551</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>2</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>2</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>2</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>4502</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>4502</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>4502</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc4">-47371</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>97355</GrossSalesPrice>
+        <TotalRevenueAndExpenses>-42867</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>4504</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>4504</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>53600</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>10100</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>43500</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">7900</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>3000</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>4900</AccountingFeesDsbrsChrtblPrps>
+        <OccupancyRevAndExpnss>2000</OccupancyRevAndExpnss>
+        <OccupancyNetInvstIncm>400</OccupancyNetInvstIncm>
+        <OccupancyDsbrsChrtblPrps>1600</OccupancyDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>7400</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingDsbrsChrtblPrps>7400</TravConfMeetingDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc8">4232</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>1289</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>2943</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>75132</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>14789</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>60343</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>11000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>11000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>86132</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>14789</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>71343</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-128999</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>4504</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>27281</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>42544</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>42544</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>55256</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc7">55256</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>50197</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>125460</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc6">52278</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>158085</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>221085</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc5">150005</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>151725</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>429082</TotalAssetsBOY>
+        <TotalAssetsEOY>300083</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>402551</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>429082</UnrestrictedBOY>
+        <UnrestrictedEOY>300083</UnrestrictedEOY>
+        <TotalNetAssetsBOY>429082</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>300083</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>429082</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>300083</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>429082</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-128999</ExcessOfRevenueOverExpenses>
+        <Subtotal>300083</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>300083</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>88686</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>432078</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.205255</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>89231</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>588360</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.151661</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>103769</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>763748</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.135868</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>110941</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>811975</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.136631</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>104441</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>841339</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.124137</DistributionRatioYear5>
+        <TotalDistributionRatio>0.753552</TotalDistributionRatio>
+        <AverageDistributionRatio>0.150710</AverageDistributionRatio>
+        <NetNoncharitableAssets>380086</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>57283</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>57283</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>71343</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <EstTaxPaymentsAndOverpayment>566</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>566</TotalCreditsAndPayments>
+        <Overpayment>566</Overpayment>
+        <AmountCreditedToNextYear>566</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>NONE</WebsiteAddress>
+        <BooksInCareOfPersonName>KYOKO KODA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2066236983</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 3424</AddressLine1>
+          <City>SEATTLE</City>
+          <State>WA</State>
+          <ZIPCode>98114</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">MATT KOHLER</PersonName>
+          <USAddress>
+            <AddressLine1>7514 S LAUREL</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98178</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>12600</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">NOBUYUKI KODA</PersonName>
+          <USAddress>
+            <AddressLine1>4887-24TH AVE S</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98108</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>20000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">KYOKO KODA</PersonName>
+          <USAddress>
+            <AddressLine1>4887-24TH AVE S</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98108</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>11.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>21000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>351522</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>34352</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>385874</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>385874</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>5788</CashDeemedCharitable>
+        <NetNoncharitableAssets>380086</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>19004</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>19004</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>19004</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>19004</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>19004</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>71343</ExpensesAndContributions>
+        <QualifyingDistributions>71343</QualifyingDistributions>
+        <AdjQualifyingDistributions>71343</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>19004</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>63492</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>70796</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>65772</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>59833</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>67082</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>326975</TotalExcessDistriCarryover>
+        <QualifyingDistributions>71343</QualifyingDistributions>
+        <AppliedToCurrentYear>19004</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>52339</RemainingDistriFromCorpus>
+        <TotalCorpus>379314</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>63492</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>315822</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>70796</ExcessFromYear4>
+        <ExcessFromYear3>65772</ExcessFromYear3>
+        <ExcessFromYear2>59833</ExcessFromYear2>
+        <ExcessFromYear1>67082</ExcessFromYear1>
+        <ExcessFromCurrentYear>52339</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>MATT KOHLER</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 3424</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98178</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2067721203</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>A LETTER WITH TAX STATUS, HISTORY OF ORGANIZATION AND PURPOSE OF REQUEST</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NO DEADLINE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NO RESTRICTIONS</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HYOGO BUSINESS &amp; CUTURAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2001-6TH AVE STE 2610</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98121</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EASTSIDE NIHON MATSURI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>17419 NE 126TH PL</AddressLine1>
+            <City>REDMOND</City>
+            <State>WA</State>
+            <ZIPCode>98052</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SEATTLE JAPANESE QUEEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1825 S JACKSON</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98144</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CULTURE</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JAPANESE AMERICAN NATL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 590598</AddressLine1>
+            <City>SAN FRANCISCO</City>
+            <State>CA</State>
+            <ZIPCode>94159</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KAWABE MEMORIAL HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>221-18TH AVE S</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98144</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>11000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>4502</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-47371</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>4504</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-47371</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-42867</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>7900</Amount>
+        <NetInvestmentIncome>3000</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>4900</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>MATT KOHLER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>NOBUYUKI KODA</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>KYOKO KODA</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAsset>
+        <Name>MUTUAL SERIES</Name>
+        <DateAcquired>2004-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>35216</GrossSalesPrice>
+        <Basis>26319</Basis>
+        <TotalNet>8897</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FRANKLIN FOUNDING</Name>
+        <DateAcquired>2004-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>30000</GrossSalesPrice>
+        <Basis>36904</Basis>
+        <TotalNet>-6904</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LUCENT</Name>
+        <DateAcquired>1999-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-11</DateSold>
+        <GrossSalesPrice>557</GrossSalesPrice>
+        <Basis>46863</Basis>
+        <TotalNet>-46306</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FRANKLIN FOUNDING</Name>
+        <DateAcquired>2004-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-11</DateSold>
+        <GrossSalesPrice>31582</GrossSalesPrice>
+        <Basis>34640</Basis>
+        <TotalNet>-3058</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc5">
+      <InvestmentsCorpBonds>
+        <NameOfBond>BANK OF AMERICA CORP MTN 07/2011</NameOfBond>
+        <EOYBookValue>150005</EOYBookValue>
+        <EOYFMV>151725</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FRANKLIN FOUNDING</NameOfBond>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc6">
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL DISCOVERY</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HONDA MOTOR(4000 SHARES)</NameOfStock>
+        <EOYBookValue>16980</EOYBookValue>
+        <EOYFMV>158000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ALCATEL LUCENT(195SHARES)</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WA MUTUAL (1500 SHARES)</NameOfStock>
+        <EOYBookValue>35298</EOYBookValue>
+        <EOYFMV>85</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc7">
+      <USGovtSecuritiesEOYBookValue>55256</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>50197</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>4168</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1250</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>2918</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>39</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>39</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

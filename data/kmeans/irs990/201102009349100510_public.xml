@@ -1,0 +1,829 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-19T14:03:15-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BERTZ HESS &amp; CO LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3002 Hempland Road</AddressLine1>
+        <City>Lancaster</City>
+        <State>PA</State>
+        <ZIPCode>176011362</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>232698073</EIN>
+      <Name>
+        <BusinessNameLine1>FAMILY RESOURCE AND COUNSELING CENTER</BusinessNameLine1>
+      </Name>
+      <NameControl>FAMI</NameControl>
+      <Phone>7174429577</Phone>
+      <USAddress>
+        <AddressLine1>835 HOUSTON RUN DRIVE SUITE 230</AddressLine1>
+        <City>GAP</City>
+        <State>PA</State>
+        <ZIPCode>17527</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BRAD ALDRICH</Name>
+      <Title>Executive Direc</Title>
+      <DateSigned>2011-07-19</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Jack L Hess CPA</Name>
+      <Phone>7173922987</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>272166</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>429451</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>1325</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1325</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>1325</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">425803</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>856579</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>1325</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>1325</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>67406</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstDsbrsChrtblPrps>67406</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>397978</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>397978</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>62097</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftDsbrsChrtblPrps>62097</PensionEmplBnftDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">4775</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>4775</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">7359</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesDsbrsChrtblPrps>7359</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">34029</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>34029</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">4022</DeprecAndDepletionRevAndExpnss>
+        <OccupancyRevAndExpnss>121870</OccupancyRevAndExpnss>
+        <OccupancyDsbrsChrtblPrps>121870</OccupancyDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">93304</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>93304</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>792840</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>788818</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>792840</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>788818</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>63739</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1325</NetInvestmentIncome>
+        <AdjustedNetIncome>1325</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>72253</CashBOY>
+        <CashEOY>72088</CashEOY>
+        <CashEOYFMV>72088</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>103171</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>169496</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>169496</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>16353</AccountsReceivable>
+        <AllwncForDbtflAcctAcctRcvbl>3025</AllwncForDbtflAcctAcctRcvbl>
+        <AccountsReceivableBOY>9883</AccountsReceivableBOY>
+        <AccountsReceivableEOY>13328</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>13328</AccountsReceivableEOYFMV>
+        <PrepaidExpensesBOY>7872</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>8688</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>8688</PrepaidExpensesEOYFMV>
+        <LandBuildingAndEquipmentBasis>44676</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>36110</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>9627</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId=" LandEtcSchedule2">8566</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>8566</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>202806</TotalAssetsBOY>
+        <TotalAssetsEOY>272166</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>272166</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>11344</AccountsPayableBOY>
+        <AccountsPayableEOY>12487</AccountsPayableEOY>
+        <OtherLiabilitiesBOY referenceDocumentId=" OtherLiabilitiesSchedule">13208</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId=" OtherLiabilitiesSchedule">17686</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>24552</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>30173</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>174774</UnrestrictedBOY>
+        <UnrestrictedEOY>238513</UnrestrictedEOY>
+        <TemporarilyRestrictedBOY>3480</TemporarilyRestrictedBOY>
+        <TemporarilyRestrictedEOY>3480</TemporarilyRestrictedEOY>
+        <TotalNetAssetsBOY>178254</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>241993</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>202806</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>272166</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>178254</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>63739</ExcessOfRevenueOverExpenses>
+        <Subtotal>241993</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>241993</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>669947</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>169781</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>3.94595</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>766321</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>210968</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>3.63240</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>452801</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>131353</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>3.44721</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>452801</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>41914</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>10.80310</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>526228</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>53153</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>9.90025</DistributionRatioYear5>
+        <TotalDistributionRatio>31.72891</TotalDistributionRatio>
+        <AverageDistributionRatio>6.34578</AverageDistributionRatio>
+        <NetNoncharitableAssets>212181</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>1346454</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>13</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>1346467</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>788818</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>27</InvestmentIncomeExciseTax>
+        <Subtotal>27</Subtotal>
+        <TaxBasedOnInvestmentIncome>27</TaxBasedOnInvestmentIncome>
+        <TaxDue>27</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>PA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.FRACC.ORG</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BRAD ALDRICH</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7174429577</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>835 HOUSTON RUN DRIVE SUITE 230</AddressLine1>
+          <City>GAP</City>
+          <State>PA</State>
+          <ZIPCode>17527</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRAD ALDRICH</PersonName>
+          <USAddress>
+            <AddressLine1>835 HOUSTON RUN DR 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </USAddress>
+          <Title>Executive Direc</Title>
+          <AvgHoursPerWkDevotedToPosition>35.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>67406</Compensation>
+          <ContriToEmplBenefitPlansEtc>18357</ContriToEmplBenefitPlansEtc>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JERE WEIGAND</PersonName>
+          <USAddress>
+            <AddressLine1>835 HOUSTON RUN DR 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DORIS SWAIM</PersonName>
+          <USAddress>
+            <AddressLine1>835 HOUSTON RUN DR 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </USAddress>
+          <Title>Chairman</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>G RYAN RUTT</PersonName>
+          <USAddress>
+            <AddressLine1>835 HOUSTON RUN DR 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TOM NEWCOME</PersonName>
+          <USAddress>
+            <AddressLine1>835 HOUSTON RUN DR 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROB SKACEL</PersonName>
+          <USAddress>
+            <AddressLine1>835 HOUSTON RUN DR 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BILL WARNER</PersonName>
+          <USAddress>
+            <AddressLine1>835 HOUSTON RUN DR 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TERRY KILE</PersonName>
+          <USAddress>
+            <AddressLine1>835 HOUSTON RUN DRIVE 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KEITH BRAUCHER</PersonName>
+          <USAddress>
+            <AddressLine1>835 HOUSTON RUN DRIVE 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LAVALE BEILER</PersonName>
+          <USAddress>
+            <AddressLine1>835 HOUSTON RUND RIVE 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>THE ORGANIZATION PROVIDES VARIOUS FORMS OF COUNSELING TO INDIVIDUALS-PROFESSIONAL COUNSELING AND MATERIALS ARE AVAILABLE TO THE PUBLIC.</Description1>
+        <Expenses1>441317</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>215412</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>215412</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>215412</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3231</CashDeemedCharitable>
+        <NetNoncharitableAssets>212181</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>10609</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>788818</ExpensesAndContributions>
+        <QualifyingDistributions>788818</QualifyingDistributions>
+        <AdjQualifyingDistributions>788818</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>1325</CurrentYear>
+          <Year1>1326</Year1>
+          <Total>2651</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>1126</CurrentYear>
+          <Year1>1127</Year1>
+          <Total>2253</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>788818</CurrentYear>
+          <Year1>669947</Year1>
+          <Year2>766321</Year2>
+          <Year3>452801</Year3>
+          <Total>2677887</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>788818</CurrentYear>
+          <Year1>669947</Year1>
+          <Year2>766321</Year2>
+          <Year3>452801</Year3>
+          <Total>2677887</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <CurrentYear>272166</CurrentYear>
+          <Year1>202805</Year1>
+          <Year2>194835</Year2>
+          <Year3>182724</Year3>
+          <Total>852530</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <CurrentYear>272166</CurrentYear>
+          <Year1>202805</Year1>
+          <Year2>194835</Year2>
+          <Year3>182724</Year3>
+          <Total>852530</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>BRAD ALDRICH</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>835 HOUSTON RUND DRIVE SUITE 230</AddressLine1>
+            <City>GAP</City>
+            <State>PA</State>
+            <ZIPCode>17527</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7174429577</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN REQUEST FOR FUNDING</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE. APPLICATIONS ACCEPTED AT ANY TIME.</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>WORKSHOPS</Description>
+          <RelatedOrExemptFunctionIncome>4890</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>COUNSELING FEES</Description>
+          <RelatedOrExemptFunctionIncome>383615</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1325</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <NetIncomeLossFromSpecialEvents>
+          <RelatedOrExemptFunctionIncome>35688</RelatedOrExemptFunctionIncome>
+        </NetIncomeLossFromSpecialEvents>
+        <OtherRevenueDescribed>
+          <Description>MISCELLANEOUS REVENUE</Description>
+          <RelatedOrExemptFunctionIncome>1610</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>1325</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>425803</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>427128</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>11A</LineNumber>
+          <RelationshipStatement>MISCELLANEOUS REVENUE IS GENERATED BY ACTIVITIES RELATED TO THE ORGANIZATION'S MISSION, AS DEFINED FOR LINE 1 ABOVE.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>9</LineNumber>
+          <RelationshipStatement>SPECIAL EVENTS RAISE AWARENESS ABOUT THE ORGANIZATION'S PROGRAMS AND PROVIDE A MEANS OF ACCOMPLISHING ITS PURPOSE AS DEFINED FOR LINE 1 ABOVE.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>2</LineNumber>
+          <RelationshipStatement>PROVIDING WORKSHOPS IS A MEANS OF ACCOMPLISHING THE ORGANIZATION'S COUNSELING MINISTRY, AS DEFINED IN LINE 1 ABOVE.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>PERFORMANCE OF COUNSELING SESSIONS IS THE PRIMARY MEANS BY WHICH THE ORGANIZATION ACCOMPLISHES ITS PURPOSE, WHICH IS A MINISTRY OF COUNSELING SERVICES TO INDIVIDUALS AND CHURCHES IN THE LANCASTER AND GAP, PA AREA.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameIndividual>CLARK FOUNDATION</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>1475 RIVER RD POBOX 466</AddressLine1>
+          <City>MARIETTA</City>
+          <State>PA</State>
+          <ZIPCode>17547</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>25000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>REITZEL DORIS SWAIM</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>835 HOUSTON RUN DR 230</AddressLine1>
+          <City>GAP</City>
+          <State>PA</State>
+          <ZIPCode>17527</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>ANGELA FOUNDATION</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>POBOX 488</AddressLine1>
+          <City>GAP</City>
+          <State>PA</State>
+          <ZIPCode>175270488</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>304000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>4775</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>4775</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER-LANCASTER CAMPUS</DescriptionOfProperty>
+        <DateAcquired>2010-10-12</DateAcquired>
+        <CostOrOtherBasis>753</CostOrOtherBasis>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.2000</Rate>
+        <CurrentYearExpense>151</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LAPTOP-DEVELOPMENT DIR.</DescriptionOfProperty>
+        <DateAcquired>2010-09-01</DateAcquired>
+        <CostOrOtherBasis>1240</CostOrOtherBasis>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.2000</Rate>
+        <CurrentYearExpense>248</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LAPTOP-EXEC. DIRECTOR</DescriptionOfProperty>
+        <DateAcquired>2010-08-01</DateAcquired>
+        <CostOrOtherBasis>978</CostOrOtherBasis>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.2000</Rate>
+        <CurrentYearExpense>196</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>4 CABINETS-PLAYRM/FRONT</DescriptionOfProperty>
+        <DateAcquired>2008-08-19</DateAcquired>
+        <CostOrOtherBasis>2887</CostOrOtherBasis>
+        <PriorYearsDepreciation>1120</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1749</Rate>
+        <CurrentYearExpense>505</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>2 LATERAL FILES-HR/FINANC</DescriptionOfProperty>
+        <DateAcquired>2008-08-19</DateAcquired>
+        <CostOrOtherBasis>1331</CostOrOtherBasis>
+        <PriorYearsDepreciation>516</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1749</Rate>
+        <CurrentYearExpense>233</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LATERAL CABIENT-EXEC. DIR</DescriptionOfProperty>
+        <DateAcquired>2008-08-19</DateAcquired>
+        <CostOrOtherBasis>1089</CostOrOtherBasis>
+        <PriorYearsDepreciation>423</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1749</Rate>
+        <CurrentYearExpense>190</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WARDROBE UNIT-EXEC. DIR</DescriptionOfProperty>
+        <DateAcquired>2008-08-19</DateAcquired>
+        <CostOrOtherBasis>814</CostOrOtherBasis>
+        <PriorYearsDepreciation>315</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1749</Rate>
+        <CurrentYearExpense>142</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>OVERHEAD STORAGE-EXEC DIR</DescriptionOfProperty>
+        <DateAcquired>2008-08-19</DateAcquired>
+        <CostOrOtherBasis>705</CostOrOtherBasis>
+        <PriorYearsDepreciation>274</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1749</Rate>
+        <CurrentYearExpense>123</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CREDENZA-EXEC. DIRECTOR</DescriptionOfProperty>
+        <DateAcquired>2008-08-19</DateAcquired>
+        <CostOrOtherBasis>540</CostOrOtherBasis>
+        <PriorYearsDepreciation>209</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1749</Rate>
+        <CurrentYearExpense>94</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DESK-EXEC. DIR'S OFFICE</DescriptionOfProperty>
+        <DateAcquired>2008-08-19</DateAcquired>
+        <CostOrOtherBasis>672</CostOrOtherBasis>
+        <PriorYearsDepreciation>261</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1749</Rate>
+        <CurrentYearExpense>118</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>THREE COMPUTERS</DescriptionOfProperty>
+        <DateAcquired>2008-10-20</DateAcquired>
+        <CostOrOtherBasis>1856</CostOrOtherBasis>
+        <PriorYearsDepreciation>965</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1920</Rate>
+        <CurrentYearExpense>356</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>2 LAPTOP COMPUTERS</DescriptionOfProperty>
+        <DateAcquired>2007-10-01</DateAcquired>
+        <CostOrOtherBasis>1768</CostOrOtherBasis>
+        <PriorYearsDepreciation>1163</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1368</Rate>
+        <CurrentYearExpense>242</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER</DescriptionOfProperty>
+        <DateAcquired>2007-01-09</DateAcquired>
+        <CostOrOtherBasis>1035</CostOrOtherBasis>
+        <PriorYearsDepreciation>792</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1101</Rate>
+        <CurrentYearExpense>114</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>TELEPHONE SYSTEM</DescriptionOfProperty>
+        <DateAcquired>2006-12-18</DateAcquired>
+        <CostOrOtherBasis>5150</CostOrOtherBasis>
+        <PriorYearsDepreciation>3230</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1152</Rate>
+        <CurrentYearExpense>593</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>PLAY ATTENTION SYSTEM</DescriptionOfProperty>
+        <DateAcquired>2006-05-04</DateAcquired>
+        <CostOrOtherBasis>2670</CostOrOtherBasis>
+        <PriorYearsDepreciation>2031</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.1152</Rate>
+        <CurrentYearExpense>308</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER-DELL 8400 DIMENS</DescriptionOfProperty>
+        <DateAcquired>2005-04-12</DateAcquired>
+        <CostOrOtherBasis>1950</CostOrOtherBasis>
+        <PriorYearsDepreciation>1838</PriorYearsDepreciation>
+        <ComputationMethod>53</ComputationMethod>
+        <Rate>0.0576</Rate>
+        <CurrentYearExpense>112</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LEASEHOLD IMPROVEMENTS</DescriptionOfProperty>
+        <DateAcquired>2005-05-03</DateAcquired>
+        <CostOrOtherBasis>1830</CostOrOtherBasis>
+        <PriorYearsDepreciation>1533</PriorYearsDepreciation>
+        <ComputationMethod>91</ComputationMethod>
+        <Life>5.0000</Life>
+        <CurrentYearExpense>297</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <LandEtc>
+        <CategoryOrItem>Improvements</CategoryOrItem>
+        <CostOrOtherBasis>9955</CostOrOtherBasis>
+        <AccumulatedDepreciation>9955</AccumulatedDepreciation>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Machinery and Equipment</CategoryOrItem>
+        <CostOrOtherBasis>26683</CostOrOtherBasis>
+        <AccumulatedDepreciation>21632</AccumulatedDepreciation>
+        <BookValue>5051</BookValue>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Furniture and Fixtures</CategoryOrItem>
+        <CostOrOtherBasis>8038</CostOrOtherBasis>
+        <AccumulatedDepreciation>4523</AccumulatedDepreciation>
+        <BookValue>3515</BookValue>
+        <EOYFMV>8566</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>TRAVEL</Description>
+        <RevenueAndExpensesPerBooks>1097</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1097</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SEMINAR &amp; BREAKFAST</Description>
+        <RevenueAndExpensesPerBooks>4407</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>4407</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>21959</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>21959</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MOVING EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>6370</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>6370</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>2280</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2280</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MARKETING, ADS, PRINTING</Description>
+        <RevenueAndExpensesPerBooks>6255</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>6255</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>7837</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>7837</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FUNDRAISING</Description>
+        <RevenueAndExpensesPerBooks>11041</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>11041</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES &amp; LICENSES</Description>
+        <RevenueAndExpensesPerBooks>650</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>650</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CLARK CHILDREN'S GRANT</Description>
+        <RevenueAndExpensesPerBooks>25000</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>25000</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BOARD EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>-483</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>-483</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>4814</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>4814</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BAD DEBT EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>2077</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2077</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>WORKSHOPS</Description>
+        <RevenueAndExpensesPerBooks>4890</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>MISCELLANEOUS REVENUE</Description>
+        <RevenueAndExpensesPerBooks>1610</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Income From Special Events</Description>
+        <RevenueAndExpensesPerBooks>35688</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>COUNSELING FEES</Description>
+        <RevenueAndExpensesPerBooks>383615</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherLiabilities>
+        <Description>Rounding</Description>
+        <BOYBookValue>1</BOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Accrued payroll and payroll taxes</Description>
+        <BOYBookValue>13207</BOYBookValue>
+        <EOYBookValue>17686</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherProfessionalFees>
+        <Category>CONSULTING/COACHING</Category>
+        <Amount>1125</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1125</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>COMPUTER SPECIALISTS</Category>
+        <Amount>6234</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>6234</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>PAYROLL TAXES</Category>
+        <Amount>34029</Amount>
+        <DisbursementsCharitablePrps>34029</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

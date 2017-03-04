@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-23T06:40:52-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Charles J Ras CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>765 Frederick Court</AddressLine1>
+        <City>Wyckoff</City>
+        <State>NJ</State>
+        <ZIPCode>07481</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>260487974</EIN>
+      <Name>
+        <BusinessNameLine1>INTERNATIONAL HUMANITARIAN AID</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION INC</BusinessNameLine2>
+      </Name>
+      <NameControl>INTE</NameControl>
+      <Phone>2014100155</Phone>
+      <USAddress>
+        <AddressLine1>238 SQUAW BROOK ROAD</AddressLine1>
+        <City>NORTH HALEDON</City>
+        <State>NJ</State>
+        <ZIPCode>07508</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ANDREW TOPP</Name>
+      <Title>President &amp; CEO</Title>
+      <DateSigned>2011-07-23</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Charles J Ras</Name>
+      <Phone>2018912817</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>35273</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>198938</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>198938</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">25</LegalFeesRevAndExpnss>
+        <LegalFeesDsbrsChrtblPrps>25</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">12000</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>12000</AccountingFeesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OccupancyRevAndExpnss>5500</OccupancyRevAndExpnss>
+        <OccupancyDsbrsChrtblPrps>5500</OccupancyDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>5513</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingDsbrsChrtblPrps>5513</TravConfMeetingDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">236753</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>236753</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>259791</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>259791</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>259791</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>259791</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-60853</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>96126</CashBOY>
+        <CashEOY>35273</CashEOY>
+        <CashEOYFMV>35273</CashEOYFMV>
+        <TotalAssetsBOY>96126</TotalAssetsBOY>
+        <TotalAssetsEOY>35273</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>35273</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>96126</UnrestrictedBOY>
+        <UnrestrictedEOY>35273</UnrestrictedEOY>
+        <TotalNetAssetsBOY>96126</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>35273</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>96126</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>35273</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>96126</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-60853</ExcessOfRevenueOverExpenses>
+        <Subtotal>35273</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>35273</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NJ</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>IHAF.US</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ANDREW TOPP</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2014100155</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>238 SQUAW BROOK ROAD</AddressLine1>
+          <City>NORTH HALEDON</City>
+          <State>NJ</State>
+          <ZIPCode>07508</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANDREW TOPP</PersonName>
+          <USAddress>
+            <AddressLine1>238 SQUAW BROOK ROAD</AddressLine1>
+            <City>NORTH HALEDON</City>
+            <State>NJ</State>
+            <ZIPCode>07508</ZIPCode>
+          </USAddress>
+          <Title>President &amp; CEO</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Relief mission to Haiti to provide shelter and other basic essential needs primarily to women and children with minimal means of support.</Description1>
+        <Expenses1>236753</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>259791</ExpensesAndContributions>
+        <QualifyingDistributions>259791</QualifyingDistributions>
+        <AdjQualifyingDistributions>259791</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>54342</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>336744</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>391086</TotalExcessDistriCarryover>
+        <QualifyingDistributions>259791</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <RemainingDistriFromCorpus>259791</RemainingDistriFromCorpus>
+        <TotalCorpus>650877</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>650877</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>54342</ExcessFromYear2>
+        <ExcessFromYear1>336744</ExcessFromYear1>
+        <ExcessFromCurrentYear>259791</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>KBLD, LLC</Category>
+        <Amount>12000</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>12000</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>MISC</Category>
+        <Amount>25</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>UTILITIES</Description>
+        <RevenueAndExpensesPerBooks>450</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>450</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PUBLICITY</Description>
+        <RevenueAndExpensesPerBooks>2810</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2810</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>450</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>450</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISSION SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>6508</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>6508</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEDICAL SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>1275</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1275</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MAJOR MISSION</Description>
+        <RevenueAndExpensesPerBooks>98727</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>98727</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MAIL EXPENS</Description>
+        <RevenueAndExpensesPerBooks>784</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>784</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>IHAF MISSION SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>3000</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>3000</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>IHAF MISSION COSTS</Description>
+        <RevenueAndExpensesPerBooks>10066</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>10066</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>IHAF MISSION ACCT</Description>
+        <RevenueAndExpensesPerBooks>22755</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>22755</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>HAITI SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>6248</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>6248</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EARTHQUAKE RELIEF</Description>
+        <RevenueAndExpensesPerBooks>9915</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>9915</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CONSOLATION CENTER SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>73323</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>73323</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>442</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>442</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-21T09:45:30-07:00</Timestamp>
+    <TaxPeriodEndDate>2011-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HAGGERTY &amp; HAGGERTY PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>510 PHILADELPHIA PIKE</AddressLine1>
+        <City>WILMINGTON</City>
+        <State>DE</State>
+        <ZIPCode>198092169</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>222728117</EIN>
+      <Name>
+        <BusinessNameLine1>MAPLEWOOD HOUSING FOR THE ELDERLY CORPORATION</BusinessNameLine1>
+      </Name>
+      <NameControl>MAPL</NameControl>
+      <Phone>3024219198</Phone>
+      <USAddress>
+        <AddressLine1>501 S RODNEY STREET</AddressLine1>
+        <City>WILMINGTON</City>
+        <State>DE</State>
+        <ZIPCode>19805</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>HENRY SUPNISKI</Name>
+      <Title>TREASURER</Title>
+      <Phone>3024219198</Phone>
+      <DateSigned>2011-07-18</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>VINCENT S BARBONE CPA CFE</Name>
+      <Phone>3027626380</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1892683</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>418120</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1695</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1695</InterestOnSavingsNetInvstIncm>
+        <GrossRentsRevAndExpnss>169991</GrossRentsRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000007" referenceDocumentName="OtherIncomeSchedule2">7667</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>597473</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>1695</TotalNetInvestmentIncome>
+        <OthEmplSlrsWgsRevAndExpnss>83475</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>83475</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>6098</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftDsbrsChrtblPrps>6098</PensionEmplBnftDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="AccountingFeesSchedule">9670</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1640</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>8030</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="00000008" referenceDocumentName="OtherProfessionalFeesSchedule">34666</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>4384</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>30282</OtherProfFeesDsbrsChrtblPrps>
+        <InterestRevAndExpnss>209183</InterestRevAndExpnss>
+        <InterestDsbrsChrtblPrps>209183</InterestDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="00000009" referenceDocumentName="TaxesSchedule">6848</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>6848</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss>73526</DeprecAndDepletionRevAndExpnss>
+        <OccupancyRevAndExpnss>146968</OccupancyRevAndExpnss>
+        <OccupancyDsbrsChrtblPrps>146968</OccupancyDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000006" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">37242</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>1333</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>35909</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>607676</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>7357</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>526793</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>607676</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>7357</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>526793</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-10203</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>2365</CashBOY>
+        <CashEOY>33206</CashEOY>
+        <CashEOYFMV>33206</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>306722</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>305038</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>305038</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>1407</AccountsReceivable>
+        <AccountsReceivableEOY>1407</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>1407</AccountsReceivableEOYFMV>
+        <GrantsReceivableBOY>8032</GrantsReceivableBOY>
+        <GrantsReceivableEOY>2745</GrantsReceivableEOY>
+        <GrantsReceivableEOYFMV>2745</GrantsReceivableEOYFMV>
+        <PrepaidExpensesBOY>5680</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>5887</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>5887</PrepaidExpensesEOYFMV>
+        <LandBuildingAndEquipmentBasis>3176767</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>1632367</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>1614816</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="00000004" referenceDocumentName="LandEtcSchedule2">1544400</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>1544400</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>1937615</TotalAssetsBOY>
+        <TotalAssetsEOY>1892683</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1892683</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>63842</AccountsPayableBOY>
+        <AccountsPayableEOY>60431</AccountsPayableEOY>
+        <MortgagesAndNotesPayableBOY>2362981</MortgagesAndNotesPayableBOY>
+        <MortgagesAndNotesPayableEOY referenceDocumentId="00000005" referenceDocumentName="MortgagesAndNotesPayableSchedule">2331131</MortgagesAndNotesPayableEOY>
+        <OtherLiabilitiesBOY>14627</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY>15159</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>2441450</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>2406721</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>-503835</UnrestrictedBOY>
+        <UnrestrictedEOY>-514038</UnrestrictedEOY>
+        <TotalNetAssetsBOY>-503835</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>-514038</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1937615</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1892683</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>-503835</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-10203</ExcessOfRevenueOverExpenses>
+        <Subtotal>-514038</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>-514038</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>500417</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>328233</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>1.524579</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>457803</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>292116</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>1.567196</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>474191</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>259849</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>1.824871</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>458107</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>224655</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>2.039158</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>493215</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>211877</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>2.327836</DistributionRatioYear5>
+        <TotalDistributionRatio>9.283640</TotalDistributionRatio>
+        <AverageDistributionRatio>1.856728</AverageDistributionRatio>
+        <NetNoncharitableAssets>318811</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>591945</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>591945</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>526793</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>DE</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ST ANTHONY'S HOUSING MANAGEMENT CORPORATION</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3024213724</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1703 W 10TH STREET</AddressLine1>
+          <City>WILMINGTON</City>
+          <State>DE</State>
+          <ZIPCode>198052709</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STANLEY SOJA</PersonName>
+          <USAddress>
+            <AddressLine1>501 S RODNEY STREET</AddressLine1>
+            <City>WILMINGTON</City>
+            <State>DE</State>
+            <ZIPCode>19805</ZIPCode>
+          </USAddress>
+          <Title>CHAIR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARK MUROWANY</PersonName>
+          <USAddress>
+            <AddressLine1>501 S RODNEY STREET</AddressLine1>
+            <City>WILMINGTON</City>
+            <State>DE</State>
+            <ZIPCode>19805</ZIPCode>
+          </USAddress>
+          <Title>CO-CHAIR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HENRY SUPINSKI</PersonName>
+          <USAddress>
+            <AddressLine1>501 S RODNEY STREET</AddressLine1>
+            <City>WILMINGTON</City>
+            <State>DE</State>
+            <ZIPCode>19805</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DONNA MANSURE-MCPOLAND</PersonName>
+          <USAddress>
+            <AddressLine1>501 S RODNEY STREET</AddressLine1>
+            <City>WILMINGTON</City>
+            <State>DE</State>
+            <ZIPCode>19805</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MIKE KOZIKOWSKI</PersonName>
+          <USAddress>
+            <AddressLine1>501 S RODNEY STREET</AddressLine1>
+            <City>WILMINGTON</City>
+            <State>DE</State>
+            <ZIPCode>19805</ZIPCode>
+          </USAddress>
+          <Title>BOARD MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>FRANCIS MIECZKOWSKI</PersonName>
+          <USAddress>
+            <AddressLine1>501 S RODNEY STREET</AddressLine1>
+            <City>WILMINGTON</City>
+            <State>DE</State>
+            <ZIPCode>19805</ZIPCode>
+          </USAddress>
+          <Title>BOARD MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN MODICA</PersonName>
+          <USAddress>
+            <AddressLine1>501 S RODNEY STREET</AddressLine1>
+            <City>WILMINGTON</City>
+            <State>DE</State>
+            <ZIPCode>19805</ZIPCode>
+          </USAddress>
+          <Title>BOARD MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOSEPH CZERWINSKI</PersonName>
+          <USAddress>
+            <AddressLine1>501 S RODNEY STREET</AddressLine1>
+            <City>WILMINGTON</City>
+            <State>DE</State>
+            <ZIPCode>19805</ZIPCode>
+          </USAddress>
+          <Title>BOARD MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>THE CORPORATION WAS FORMED AS A NONPROFIT ORGANIZATION FOR THE PURPOSEOF CONSTRUCTING AND OPERATING AN ELDERLY HOUSING FACILITY. THE ELDERLYHOUSING FACILITY IS COMPRISED OF 52 RENTAL UNITS, OF WHICH 51 ARE SECTION 8.</Description1>
+        <Expenses1>526793</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>323666</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>323666</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>323666</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4855</CashDeemedCharitable>
+        <NetNoncharitableAssets>318811</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>15941</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>15941</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>15941</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>15941</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>15941</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>526793</ExpensesAndContributions>
+        <QualifyingDistributions>526793</QualifyingDistributions>
+        <AdjQualifyingDistributions>526793</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>15941</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>482621</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>446911</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>461249</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>443197</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>484005</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>2317983</TotalExcessDistriCarryover>
+        <QualifyingDistributions>526793</QualifyingDistributions>
+        <AppliedToCurrentYear>15941</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>510852</RemainingDistriFromCorpus>
+        <TotalCorpus>2828835</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>482621</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>2346214</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>446911</ExcessFromYear4>
+        <ExcessFromYear3>461249</ExcessFromYear3>
+        <ExcessFromYear2>443197</ExcessFromYear2>
+        <ExcessFromYear1>484005</ExcessFromYear1>
+        <ExcessFromCurrentYear>510852</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RecipientUSAddress>
+            <AddressLine1>N/A</AddressLine1>
+            <City>NA</City>
+            <State>DE</State>
+            <ZIPCode>19805</ZIPCode>
+          </RecipientUSAddress>
+          <FormAndInfoAndMaterials>NONE</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>RENTAL INCOME</Description>
+          <RelatedOrExemptFunctionIncome>169991</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>LAUNDRY AND VENDING</Description>
+          <ExclusionCode>3</ExclusionCode>
+          <ExclusionAmount>2806</ExclusionAmount>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1695</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <OtherRevenueDescribed>
+          <Description>INSURANCE CLAIM PROCEEDS</Description>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>4861</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>9362</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>169991</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>179353</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>THE CORPORATION WAS FORMED AS NONPROFIT ORGANIZATION FOR THE PURPOSE OF</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>CONSTRUCTING &amp; OPERATING AN ELDERLY HOUSING FACILITY LOCATED IN WILMINGTON,</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>DELAWARE. THE FACILITY CONSISTS OF 52 RENTAL UNITS, OF WHICH 51 UNITS ARE</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>FOR SECTION 8 HOUSING. THE RENTAL INCOME REFLECTED ABOVE IS THE PORTION</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>PAID BY THE TENANTS AND NOT SUBSIDIZED UNDER THE HUD SECTION 8 HOUSING AGREEMENT.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000003">
+      <AccountingFees>
+        <Category>HAGGERTY &amp; HAGGERTY, P.A AUDIT AND TAX SERVICES</Category>
+        <Amount>9670</Amount>
+        <NetInvestmentIncome>1640</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>8030</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LandEtcSchedule2 documentId="00000004">
+      <LandEtc>
+        <CategoryOrItem>LAND AND IMPROVEMENTS</CategoryOrItem>
+        <CostOrOtherBasis>82500</CostOrOtherBasis>
+        <BookValue>82500</BookValue>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUILDING AND IMPROVEMENTS</CategoryOrItem>
+        <CostOrOtherBasis>3071788</CostOrOtherBasis>
+        <AccumulatedDepreciation>1609888</AccumulatedDepreciation>
+        <BookValue>1461900</BookValue>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>FURNITURE AND FIXTURES</CategoryOrItem>
+        <CostOrOtherBasis>22479</CostOrOtherBasis>
+        <AccumulatedDepreciation>22479</AccumulatedDepreciation>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <MortgagesAndNotesPayableSch documentId="00000005">
+      <TotalMortgageAmount>2298566</TotalMortgageAmount>
+      <NotePayable>
+        <LendersName>
+          <Business>
+            <BusinessNameLine1>DELAWARE STATE HOUSING AUTHORITY</BusinessNameLine1>
+          </Business>
+        </LendersName>
+        <LendersTitle>STATE GOVERNMENT</LendersTitle>
+        <RelationshipToInsider>NONE</RelationshipToInsider>
+        <OriginalAmountOfLoan>173102</OriginalAmountOfLoan>
+        <BalanceDue>32565</BalanceDue>
+        <DateOfNote>1993-07</DateOfNote>
+        <MaturityDate>1933-03</MaturityDate>
+        <RepaymentTerms>WITH ANNUAL RESIDUAL RECEIPTS</RepaymentTerms>
+        <InterestRate>0.03000000</InterestRate>
+        <SecurityProvidedByBorrower>APARTMENT BUILDING</SecurityProvidedByBorrower>
+        <PurposeOfLoan>CONSTRUCTED HOUSING FOR THE ELDERLY</PurposeOfLoan>
+        <DescOfLenderConsideration>REAL PROPERTY</DescOfLenderConsideration>
+      </NotePayable>
+    </MortgagesAndNotesPayableSch>
+    <OtherExpensesSchedule documentId="00000006">
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>23674</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>23674</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>13325</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1333</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>11992</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING/MARKETING</Description>
+        <RevenueAndExpensesPerBooks>243</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>243</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000007">
+      <OtherIncome>
+        <Description>LAUNDRY AND VENDING</Description>
+        <RevenueAndExpensesPerBooks>2806</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>INSURANCE CLAIM PROCEEDS</Description>
+        <RevenueAndExpensesPerBooks>4861</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="00000008">
+      <OtherProfessionalFees>
+        <Category>ST ANTHONY'S MANAGEMENT CORP. MANAGEMENT FEES</Category>
+        <Amount>28556</Amount>
+        <NetInvestmentIncome>2856</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>25700</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>ST ANTHONY'S MANAGEMENT CORP. BOOKKEEPING FEES</Category>
+        <Amount>6110</Amount>
+        <NetInvestmentIncome>1528</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>4582</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="00000009">
+      <Taxes>
+        <Category>PAYROLL TAXES</Category>
+        <Amount>6143</Amount>
+        <DisbursementsCharitablePrps>6143</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>OTHER TAXES</Category>
+        <Amount>705</Amount>
+        <DisbursementsCharitablePrps>705</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

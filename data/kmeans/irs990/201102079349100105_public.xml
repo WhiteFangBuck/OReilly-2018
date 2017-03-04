@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-26T11:47:32-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Foundation Source</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>55 Walls Drive</AddressLine1>
+        <City>Fairfield</City>
+        <State>CT</State>
+        <ZIPCode>06824</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>016186086</EIN>
+      <Name>
+        <BusinessNameLine1>Randolph Family Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>RAND</NameControl>
+      <Phone>8008391754</Phone>
+      <USAddress>
+        <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+        <City>Wilmington</City>
+        <State>DE</State>
+        <ZIPCode>198091377</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Michael Joseph Randolph</Name>
+      <Title>Executive Trustee</Title>
+      <DateSigned>2011-07-26</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jeffrey D Haskell</Name>
+      <Phone>8008391754</Phone>
+      <DatePrepared>2011-07-26</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.15">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>67843</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>1945</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>1945</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="990PF:72">13171</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>88790</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>13171</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>15116</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>15116</TotalNetInvestmentIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="990PF:77">630</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>630</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="990PF:78">20</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:79">2538</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>8</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>2530</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>3188</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>638</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>2530</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>10000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>10000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>13188</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>638</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>12530</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>1928</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>14478</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>1376</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>67843</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>67843</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>64539</InvestmentsCorpStockBOY>
+        <TotalAssetsBOY>65915</TotalAssetsBOY>
+        <TotalAssetsEOY>67843</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>67843</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>65915</RetainedEarningsBOY>
+        <RetainedEarningsEOY>67843</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>65915</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>67843</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>65915</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>67843</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>65915</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>1928</ExcessOfRevenueOverExpenses>
+        <Subtotal>67843</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>67843</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Publicly-traded Securities</DescriptionOfAsset>
+          <GrossSalesPrice>88790</GrossSalesPrice>
+          <CostOrOtherBasis>75619</CostOrOtherBasis>
+          <GainOrLoss>13171</GainOrLoss>
+          <GainsMinusExcessOrLosses>13171</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>13171</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>2530</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>62454</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.040510</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>12578</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>83021</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>000.151504</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>2467</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>106654</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>000.023131</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>2286</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>96161</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>000.023773</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>2840</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>90048</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>000.031539</DistributionRatioYear5>
+        <TotalDistributionRatio>000.270457</TotalDistributionRatio>
+        <AverageDistributionRatio>000.054091</AverageDistributionRatio>
+        <NetNoncharitableAssets>59635</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>3226</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>145</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>3371</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>12530</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>145</InvestmentIncomeExciseTax>
+        <Subtotal>145</Subtotal>
+        <TaxBasedOnInvestmentIncome>145</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>148</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>148</TotalCreditsAndPayments>
+        <TaxPaidOriginalReturn>148</TaxPaidOriginalReturn>
+        <Overpayment>3</Overpayment>
+        <AmountCreditedToNextYear>3</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>co Foundation Source</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8008391754</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>501 Silverside Road Suite 123</AddressLine1>
+          <City>Wilmington</City>
+          <State>DE</State>
+          <ZIPCode>198091377</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>true</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>J Creighton Randolph</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Michael Joseph Randolph</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>Executive Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>56892</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>3651</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>60543</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>60543</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:240">908</CashDeemedCharitable>
+        <NetNoncharitableAssets>59635</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2982</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2982</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>145</TaxBasedOnInvestmentIncome>
+        <TotalTax>145</TotalTax>
+        <DistributableAmountBeforeAdj>2837</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>2837</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>2837</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">12530</ExpensesAndContributions>
+        <QualifyingDistributions>12530</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>145</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>12385</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2837</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>6555</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>6555</TotalExcessDistriCarryover>
+        <QualifyingDistributions>12530</QualifyingDistributions>
+        <AppliedToCurrentYear>2837</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>9693</RemainingDistriFromCorpus>
+        <TotalCorpus>16248</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>16248</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>6555</ExcessFromYear2>
+        <ExcessFromCurrentYear>9693</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BEAR VALLEY BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10001 W JEWELL AVENEUE</AddressLine1>
+            <City>LAKEWOOD</City>
+            <State>CO</State>
+            <ZIPCode>80232</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>10000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1945</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>13171</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>15116</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>15116</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.15"></GeneralExplanationAttachment>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherExpenses>
+        <Description>Administrative Fees</Description>
+        <RevenueAndExpensesPerBooks>2530</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2530</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank Charges</Description>
+        <RevenueAndExpensesPerBooks>8</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>8</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="990PF:77" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherProfessionalFees>
+        <Category>Investment Management Services</Category>
+        <Amount>630</Amount>
+        <NetInvestmentIncome>630</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="990PF:78" softwareId="10000149" softwareVersion="2010.2.15">
+      <Taxes>
+        <Category>Excise Tax for 2009</Category>
+        <Amount>20</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

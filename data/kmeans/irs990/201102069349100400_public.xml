@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-25T08:50:17-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ANNEKEN HUEY &amp; MOSER PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>909 WRIGHTS SUMMIT PARKWAY STE 12</AddressLine1>
+        <City>FORT WRIGHT</City>
+        <State>KY</State>
+        <ZIPCode>41011</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>352210882</EIN>
+      <Name>
+        <BusinessNameLine1>WW CARPENTER ENAMEL FOUNDATION I</BusinessNameLine1>
+      </Name>
+      <NameControl>WWCA</NameControl>
+      <Phone>8592913800</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 76007</AddressLine1>
+        <City>COLD SPRING</City>
+        <State>KY</State>
+        <ZIPCode>410760007</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>WOODROW CARPENTER</Name>
+      <Title>CHAIRMAN</Title>
+      <Phone>8592913800</Phone>
+      <DateSigned>2011-07-15</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>KEVIN J MOSER</Name>
+      <Phone>8593315622</Phone>
+      <DatePrepared>2011-07-18</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1">
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>168306</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <GrossSalesLessReturnsAndAllwnc>38968</GrossSalesLessReturnsAndAllwnc>
+        <CostOfGoodsSold>30509</CostOfGoodsSold>
+        <GrossProfitRevAndExpnss referenceDocumentId="RetDoc7">8459</GrossProfitRevAndExpnss>
+        <GrossProfitAdjNetIncm>8459</GrossProfitAdjNetIncm>
+        <TotalRevenueAndExpenses>8459</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>8459</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc4">750</LegalFeesRevAndExpnss>
+        <LegalFeesDsbrsChrtblPrps>750</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1675</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>1675</AccountingFeesDsbrsChrtblPrps>
+        <OccupancyRevAndExpnss>1605</OccupancyRevAndExpnss>
+        <OccupancyDsbrsChrtblPrps>1605</OccupancyDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">393</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>393</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>4423</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>4423</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>4923</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>4923</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>3536</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>8459</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>26846</CashBOY>
+        <CashEOY>30382</CashEOY>
+        <CashEOYFMV>30382</CashEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc5">137924</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc5">137924</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc5">137924</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>164770</TotalAssetsBOY>
+        <TotalAssetsEOY>168306</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>168306</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>26846</UnrestrictedBOY>
+        <UnrestrictedEOY>30382</UnrestrictedEOY>
+        <PermanentlyRestrictedBOY>137924</PermanentlyRestrictedBOY>
+        <PermanentlyRestrictedEOY>137924</PermanentlyRestrictedEOY>
+        <TotalNetAssetsBOY>164770</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>168306</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>164770</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>168306</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>164770</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>3536</ExcessOfRevenueOverExpenses>
+        <Subtotal>168306</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>168306</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>4950</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>166739</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.029687</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>2087</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>31962</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.065296</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>2420</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>31744</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.076235</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>2788</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>32185</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.086624</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>1504</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>20548</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.073194</DistributionRatioYear5>
+        <TotalDistributionRatio>0.331036</TotalDistributionRatio>
+        <AverageDistributionRatio>0.066207</AverageDistributionRatio>
+        <NetNoncharitableAssets>192225</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>12727</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>12727</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>4923</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>KY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>WOODROW W CARPENTER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8592913800</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>4737 WINTERS LANE</AddressLine1>
+          <City>COLD SPRING</City>
+          <State>KY</State>
+          <ZIPCode>41076</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">WOODROW CARPENTER</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 76007</AddressLine1>
+            <City>COLD SPRING</City>
+            <State>KY</State>
+            <ZIPCode>41076</ZIPCode>
+          </USAddress>
+          <Title>CHAIRMAN</Title>
+          <AvgHoursPerWkDevotedToPosition>20.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">IRMGARD K CARPENTER</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 76007</AddressLine1>
+            <City>COLD SPRING</City>
+            <State>KY</State>
+            <ZIPCode>41076</ZIPCode>
+          </USAddress>
+          <Title>VICE CHAIRMA</Title>
+          <AvgHoursPerWkDevotedToPosition>20.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">HAROLD B HELWIG</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 76007</AddressLine1>
+            <City>COLD SPRING</City>
+            <State>KY</State>
+            <ZIPCode>41076</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">GUIDO MAEHREN</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 76007</AddressLine1>
+            <City>COLD SPRING</City>
+            <State>KY</State>
+            <ZIPCode>41076</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">JOHN S BROOKING</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 76007</AddressLine1>
+            <City>COLD SPRING</City>
+            <State>KY</State>
+            <ZIPCode>41076</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">KEVIN MOSER</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 76007</AddressLine1>
+            <City>COLD SPRING</City>
+            <State>KY</State>
+            <ZIPCode>41076</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>WW CARPENTER ENAMEL FOUNDATION RAISES REVENUE BY SELLING MAGAZINE SUBSCRIPTIONS TO EDUCATE OTHERS ABOUT ENAMELS, THE EXEMPT PURPOSE OF THIS FOUNDATION. THESE MAGAZINE SUBSCRIPTIONS ARE A MEANS BY WHICH THIS ORGANIZATION ACCOMPLISHES ITS CULTURAL AND EDUCATIONAL PURPOSES.</Description1>
+        <Expenses1>30509</Expenses1>
+        <Description2>WW CARPENTER ENAMEL FOUNDATION RAISES REVENUE BY HOLDING WORKSHOPS TO EDUCATE OTHERS ABOUT ENAMELS, THE EXEMPT PURPOSE OF THIS FOUNDATION. THE WORKSHOPS ARE A MEANS BY WHICH THIS ORGANIZATION ACCOMPLISHES ITS CULTURAL AND EDUCATIONAL.</Description2>
+        <Expenses2>14231</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>28614</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>166538</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>195152</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>195152</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2927</CashDeemedCharitable>
+        <NetNoncharitableAssets>192225</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>9611</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>4923</ExpensesAndContributions>
+        <QualifyingDistributions>4923</QualifyingDistributions>
+        <AdjQualifyingDistributions>4923</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <QualifyingDistributions>4923</QualifyingDistributions>
+        <RemainingDistriFromCorpus>4923</RemainingDistriFromCorpus>
+        <TotalCorpus>4923</TotalCorpus>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>2004-01-27</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>8459</CurrentYear>
+          <Year2>1598</Year2>
+          <Total>10057</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>7190</CurrentYear>
+          <Year2>1358</Year2>
+          <Total>8548</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>4923</CurrentYear>
+          <Year1>4950</Year1>
+          <Year2>2087</Year2>
+          <Year3>2420</Year3>
+          <Total>14380</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>4923</CurrentYear>
+          <Year1>4950</Year1>
+          <Year2>2087</Year2>
+          <Year3>2420</Year3>
+          <Total>14380</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <CurrentYear>168306</CurrentYear>
+          <Year1>164770</Year1>
+          <Year2>171441</Year2>
+          <Year3>166343</Year3>
+          <Total>670860</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <CurrentYear>168306</CurrentYear>
+          <Year1>164770</Year1>
+          <Year2>171441</Year2>
+          <Year3>166343</Year3>
+          <Total>670860</Total>
+        </TotalAssetsSect4942j3Bi>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RecipientName>WW CARPENTER ENAMEL FOUNDATION INC</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 7</AddressLine1>
+            <City>COLD SPRING</City>
+            <State>KY</State>
+            <ZIPCode>41076</ZIPCode>
+          </RecipientUSAddress>
+          <FormAndInfoAndMaterials>SEE STATEMENT FOR LINE 2A</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>SEE STATEMENT FOR LINE 2A</SubmissionDeadlines>
+          <RestrictionsOnAwards>SEE STATEMENT FOR LINE 2A</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LAWRENCE ARTS CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>940 NEW HAMPSHIRE ST</AddressLine1>
+            <City>LAWRENCE</City>
+            <State>KS</State>
+            <ZIPCode>66044</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <GrossProfitLossSalesOfInvntry>
+          <RelatedOrExemptFunctionIncome>8459</RelatedOrExemptFunctionIncome>
+        </GrossProfitLossSalesOfInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>8459</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>8459</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>10</LineNumber>
+          <RelationshipStatement>WW CARPENTER ENAMEL FOUNDATION RAISES REVENUE BY SELLING</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ANNEKEN &amp; MOSER-TAX PREPARATION</Category>
+        <Amount>1675</Amount>
+        <DisbursementsCharitablePrps>1675</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>WOODROW CARPENTER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>IRMGARD K CARPENTER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>HAROLD B HELWIG</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>GUIDO MAEHREN</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>JOHN S BROOKING</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>KEVIN MOSER</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <LegalFeesSchedule documentId="RetDoc4">
+      <LegalFees>
+        <Category>LEGAL FEES RELATED TO ANNUAL MEE</Category>
+        <Amount>750</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc5">
+      <OtherAssets>
+        <Description>COLLECTION OF ENAMELS</Description>
+        <BOYBookValue>137924</BOYBookValue>
+        <EOYBookValue>137924</EOYBookValue>
+        <EOYFMV>137924</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES AND SUBSCRIPTIONS</Description>
+        <RevenueAndExpensesPerBooks>250</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>250</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LICENSE FEE</Description>
+        <RevenueAndExpensesPerBooks>4</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>4</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BOOKS &amp; SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>139</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>139</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SalesOfInventoryList documentId="RetDoc7">
+      <SaleOfInventory>
+        <Category>SALE OF MAGAZINES, WORKSHOP</Category>
+        <GrossSales>38968</GrossSales>
+        <CostOfGoodsSold>30509</CostOfGoodsSold>
+        <Net>8459</Net>
+      </SaleOfInventory>
+    </SalesOfInventoryList>
+  </ReturnData>
+</Return>

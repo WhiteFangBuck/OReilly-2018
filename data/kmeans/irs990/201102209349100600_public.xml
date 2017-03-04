@@ -1,0 +1,1589 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T08:56:25-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BARATZ &amp; ASSOCIATES PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>4A EVES DRIVE SUITE 106</AddressLine1>
+        <City>MARLTON</City>
+        <State>NJ</State>
+        <ZIPCode>08053</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010636574</EIN>
+      <Name>
+        <BusinessNameLine1>GEORGEJACK &amp; JOAN SHUSTER</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION C/O JACOB SHUSTER</BusinessNameLine2>
+      </Name>
+      <NameControl>GEOR</NameControl>
+      <Phone>8568570669</Phone>
+      <USAddress>
+        <AddressLine1>1840 FRONTAGE RD APT 1006</AddressLine1>
+        <City>CHERRY HILL</City>
+        <State>NJ</State>
+        <ZIPCode>080342204</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JACK SHUSTER</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>8568570669</Phone>
+      <DateSigned>2011-08-02</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MARK H WANDER CPA</Name>
+      <Phone>8569855688</Phone>
+      <DatePrepared>2011-08-08</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3452235</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>111969</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>111921</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>111969</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>15842</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>15842</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>15842</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc5">1231</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>783572</GrossSalesPrice>
+        <TotalRevenueAndExpenses>129042</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>127763</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>127811</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc8">263</LegalFeesRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">3350</AccountingFeesRevAndExpnss>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc10">374</OtherProfFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc11">2554</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>428</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>428</TaxesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>6541</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>428</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>428</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>210156</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>210156</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>216697</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>428</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>428</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>210156</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-87655</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>127335</NetInvestmentIncome>
+        <AdjustedNetIncome>127383</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>177904</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>144281</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>144281</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>493260</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY>716592</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>716592</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>395708</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc6">443116</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>443116</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>2405481</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc7">2148246</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>2148246</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>3472353</TotalAssetsBOY>
+        <TotalAssetsEOY>3452235</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3452235</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>3472353</UnrestrictedBOY>
+        <UnrestrictedEOY>3452235</UnrestrictedEOY>
+        <TotalNetAssetsBOY>3472353</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>3452235</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3472353</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>3452235</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3472353</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-87655</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc9">67537</OtherIncreases>
+        <Subtotal>3452235</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>3452235</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>208990</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>3266817</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.063974</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>155574</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>3334863</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.046651</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>145827</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>3280091</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.044458</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>67424</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>3203192</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.021049</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>91415</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>3159306</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.028935</DistributionRatioYear5>
+        <TotalDistributionRatio>0.205067</TotalDistributionRatio>
+        <AverageDistributionRatio>0.041013</AverageDistributionRatio>
+        <NetNoncharitableAssets>3422874</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>140382</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1273</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>141655</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>210156</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>1273</InvestmentIncomeExciseTax>
+        <Subtotal>1273</Subtotal>
+        <TaxBasedOnInvestmentIncome>1273</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1190</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1190</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId="RetDoc2">X</Form2220Attached>
+        <PenaltyForUnderpayment>7</PenaltyForUnderpayment>
+        <TaxDue>90</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JACOB SHUSTER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8568570669</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1840 FRONTAGE RD</AddressLine1>
+          <AddressLine2>APT 1006</AddressLine2>
+          <City>CHERRY HILL</City>
+          <State>NJ</State>
+          <ZIPCode>080342204</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">JACOB SHUSTER</PersonName>
+          <USAddress>
+            <AddressLine1>CHERRY HILL NJ 08034</AddressLine1>
+            <City>CHERRY HILL</City>
+            <State>NJ</State>
+            <ZIPCode>08034</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">GAIL NORRY</PersonName>
+          <USAddress>
+            <AddressLine1>RYDAL PA 19046</AddressLine1>
+            <City>RYDAL</City>
+            <State>PA</State>
+            <ZIPCode>19046</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">ELLIOT NORRY</PersonName>
+          <USAddress>
+            <AddressLine1>RYDAL PA 19046</AddressLine1>
+            <City>RYDAL</City>
+            <State>PA</State>
+            <ZIPCode>19046</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>3301202</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>173797</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3474999</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>3474999</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>52125</CashDeemedCharitable>
+        <NetNoncharitableAssets>3422874</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>171144</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>171144</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1273</TaxBasedOnInvestmentIncome>
+        <TotalTax>1273</TotalTax>
+        <DistributableAmountBeforeAdj>169871</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>169871</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>169871</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>210156</ExpensesAndContributions>
+        <QualifyingDistributions>210156</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>1273</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>208883</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>169871</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>117618</UndistributedIncomePriorYear>
+        <QualifyingDistributions>210156</QualifyingDistributions>
+        <AppliedToYear1>117618</AppliedToYear1>
+        <AppliedToCurrentYear>92538</AppliedToCurrentYear>
+        <UndistributedIncomeCY>77333</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ABRAMSON CENTER FOR LIFE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>1425 HORSHAM ROAD</AddressLine2>
+            <City>NORTH WALES</City>
+            <State>PA</State>
+            <ZIPCode>19454</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMER JEWISH JOINT DISTRIB</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>PO BOX 530 132 E 43RD ST</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>360</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMERIBACH AGENCY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>4950 MURPHY CANYON ROAD</AddressLine2>
+            <City>SAN DIEGO</City>
+            <State>CA</State>
+            <ZIPCode>92123</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMERICAN FRIENDS OF ISRAE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>PO BOX 828084</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19182</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>1360</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMERICAN FRIENDS OF YEMIN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>12230 WILKINS AVE</AddressLine2>
+            <City>ROCKVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20852</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>360</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMERICAN JEWISH WORLD SER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>45 WEST 36TH ST</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10018</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>2317</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BARRACK HEBREW ACADEMY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>272 S BRYN MAWR AVE</AddressLine2>
+            <City>BRYN MAWR</City>
+            <State>PA</State>
+            <ZIPCode>19010</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>2800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BETH SHOLOM CONGREGATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>8231 OLD YORK ROAD</AddressLine2>
+            <City>ELKINS PARK</City>
+            <State>PA</State>
+            <ZIPCode>19027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>1800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BOYS TOWN JERUSALEM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>1 PENN PLAZA SUITE 6250</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10119</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>216</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CAMP RAMAH IN THE POCONOS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>2618 UPPER WOODS ROAD</AddressLine2>
+            <City>LAKEWOOD</City>
+            <State>PA</State>
+            <ZIPCode>18439</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>11000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CENTER FOR TORAH STUDIES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>PO BOX 301133</AddressLine2>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11230</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHABAD OF MAIN LINE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>625 MONTGOMERY AVE</AddressLine2>
+            <City>ARDMORE</City>
+            <State>PA</State>
+            <ZIPCode>19003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>613</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHABAD HOUSE - TUFTS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>1925 KRESSON ROAD</AddressLine2>
+            <City>CHERRY HILL</City>
+            <State>NJ</State>
+            <ZIPCode>08003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHABAD OF CC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>946 N VALLEY FORGE ROAD</AddressLine2>
+            <City>DEVON</City>
+            <State>PA</State>
+            <ZIPCode>19333</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>749</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHESED FUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>7045 NORTH RIDGEWAY</AddressLine2>
+            <City>LINCOLNWOOD</City>
+            <State>IL</State>
+            <ZIPCode>60712</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELPING STRUGGLING FAMILIES</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>COLEL CHABAD</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>806 EASTERN PARKWAY</AddressLine2>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11213</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELPING STRUGGLING FAMILIES</PurposeOfGrantOrContribution>
+          <Amount>36</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CONG SHIVTEI YESHURON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>2015 S 4TH STREET</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19148</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>BUILDING PLEDGE</PurposeOfGrantOrContribution>
+          <Amount>680</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DEL VAL TORAH INSTITUTE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>31 MAPLE AVE</AddressLine2>
+            <City>CHERRY HILL</City>
+            <State>NJ</State>
+            <ZIPCode>08002</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUACTION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>11980</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FEMALE HEBREW BEN SOC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>1932 LOMBARD ST</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19146</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELPING STRUGGLING FAMILIES</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>GOLDEN SLIPPERS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>215 N PRESIDENTIAL BLVD</AddressLine2>
+            <City>BALA CYNWYD</City>
+            <State>PA</State>
+            <ZIPCode>19004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>467</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>GRATZ COLLEGE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>7605 OLD YORK ROAD</AddressLine2>
+            <City>MELROSE PARK</City>
+            <State>PA</State>
+            <ZIPCode>19027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>270</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>GREATER MIAMI JEWISH FED</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>4200 BISCAYNE BLVD</AddressLine2>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33137</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELP JOB SEEKERS TO FIND JOB</PurposeOfGrantOrContribution>
+          <Amount>118</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HAMMONTON EDUCATION CENTE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>601 NORTH 4TH ST</AddressLine2>
+            <City>HAMMONTON</City>
+            <State>NJ</State>
+            <ZIPCode>08037</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>1800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HILEL FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>800 EIGHTH ST NW</AddressLine2>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HOPE FOR HEROISM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>5901 WILSON AVE SOUTH</AddressLine2>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98118</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEPLING WOUNDED SOLDIERS</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ISRAEL YOUTH VILLAGE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>806 EASTERN PKY</AddressLine2>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11213</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JCHAI</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>21 BALA AVE SUITE 100</AddressLine2>
+            <City>BALA CYNWYD</City>
+            <State>PA</State>
+            <ZIPCode>19004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUPORTING ADULTS WITH SPECIAL NEEDS</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEW FAMILY AND CHILDREN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>10125 VERREE ROAD 304</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19116</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDING SOCIAL SERVICES</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEWISH COMMUNITY VOICE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>1301 SPRINGDALE ROAD</AddressLine2>
+            <City>CHERRY HILL</City>
+            <State>NJ</State>
+            <ZIPCode>08003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>BIULFING AWARENESS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEWISH EDUCATORS ASSEMBLY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>BROADWAY LOCUST AVE</AddressLine2>
+            <City>CEDARHURST</City>
+            <State>NY</State>
+            <ZIPCode>11516</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO CONSERVE JEWISH EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEWISH FAMILY SERV OF S J</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>1301 SPRINGDALE RD SUITE</AddressLine2>
+            <City>CHERRY HILL</City>
+            <State>NJ</State>
+            <ZIPCode>08003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDING SOCIAL SERVICES</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEWISH FED OF PHILADELPH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>226 16TH ST</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MOBILIZE FINANCIAL AND VOLUNTEER RES</PurposeOfGrantOrContribution>
+          <Amount>33300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEWISH JOINT DISTRICT COM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>132 EAST 43RD ST</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>BRING RELIEF TO JEWS IN NEED</PurposeOfGrantOrContribution>
+          <Amount>360</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEWISH NATIONAL FUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>42 E 69TH STREET</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10021</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEWISH RELIEF AGENCY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>125 MONTGOMERY AVE SUIT</AddressLine2>
+            <City>BALA CYNWYD</City>
+            <State>PA</State>
+            <ZIPCode>19004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOOD DISTRIBUTION SERVICES</PurposeOfGrantOrContribution>
+          <Amount>1800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KLEIN FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>P O BOX 314</AddressLine2>
+            <City>HARBERTH</City>
+            <State>PA</State>
+            <ZIPCode>190720314</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KOHELET YESHIVA HIGH SCHO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>223 HIGHLAND AVE NORTH</AddressLine2>
+            <City>MERION STATION</City>
+            <State>PA</State>
+            <ZIPCode>19066</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>360</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MESMCHE LEV</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>90 PENN ST</AddressLine2>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11211</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELPING POOR AND DESTITUDE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MOVING TRADITIONS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>115 WEST AVE 102</AddressLine2>
+            <City>JENKINTOWN</City>
+            <State>PA</State>
+            <ZIPCode>19046</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>360</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MUSEUM OF AMER JEW HIST</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>101 S INDEPENDENCE MALL E</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19106</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EXPLORE &amp; CELEBRATE JEWISH HISTORY</PurposeOfGrantOrContribution>
+          <Amount>3540</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NER TAMID SYNAGOUGE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>1705 BERLIN ROAD</AddressLine2>
+            <City>CHERRY HILL</City>
+            <State>NJ</State>
+            <ZIPCode>08003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONSERVE &amp; STRENGTHEN JUDAISM</PurposeOfGrantOrContribution>
+          <Amount>540</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>OHEV SHOLOM SYNAGOGUE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>2 CHESTER RD</AddressLine2>
+            <City>WALLINGFORD</City>
+            <State>PA</State>
+            <ZIPCode>19086</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONSERVE &amp; STRENGTHEN JUDAISM</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>OROT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>604 HARPER AVE</AddressLine2>
+            <City>JENKINTOWN</City>
+            <State>PA</State>
+            <ZIPCode>19046</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>22156</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PERELMAN DAY SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>49 HAVERFORD RD</AddressLine2>
+            <City>WYNNEWOOD</City>
+            <State>PA</State>
+            <ZIPCode>19096</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>POLITZ SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>720 COOPER LANDING RD</AddressLine2>
+            <City>CHERRY HILL</City>
+            <State>NJ</State>
+            <ZIPCode>08002</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>BUILDING PLEDGE</PurposeOfGrantOrContribution>
+          <Amount>32529</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RAMAH DAROM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>70 DAROM LANE</AddressLine2>
+            <City>CLAYTON</City>
+            <State>GA</State>
+            <ZIPCode>30525</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>360</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RODELPH SHALOM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>615 N BOARD ST</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19123</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>JEWISH EDUCATION &amp; COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>2540</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SONS OF ISRAEL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>2715 TILGHMAN STREET</AddressLine2>
+            <City>ALLENTOWN</City>
+            <State>PA</State>
+            <ZIPCode>18104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>26035</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>STERN HEBEW HIGH SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>1630 HOFFNAGLE ST</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19152</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE CHEVRA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>PHILADELPHIA</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19152</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROFESSINAL COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE FRIENDSHIP CIRCLE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>754 SOUTH 9TH STREET</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19147</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>5580</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE GERSHMAN Y</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>401 S BOARD ST</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19147</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>JEWISH ART &amp; CULTURE CENTER</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TORAH LINKS OF CH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>304-D KRESSON ROAD</AddressLine2>
+            <City>CHERRY HILL</City>
+            <State>NJ</State>
+            <ZIPCode>08003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>25180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TUFTS HILLEL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>220 PACKARD AVENUE</AddressLine2>
+            <City>MEDFORD</City>
+            <State>MA</State>
+            <ZIPCode>02155</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TZIDKATH YOSEPH NAPHTALI</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>1840 FRONTAGE RD</AddressLine2>
+            <City>CHERRY HILL</City>
+            <State>NJ</State>
+            <ZIPCode>08034</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UNITED SOUP KITCHEN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>806 EASTERN PARKWAY</AddressLine2>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11213</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FEEDING POOR</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>VILNA CONG</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE LINE 2</AddressLine1>
+            <AddressLine2>509 PINE ST</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19106</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>JEWISH COMMUNITY SERVICE</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>210156</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>111969</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>15842</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>1231</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>129042</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>129042</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>3350</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc4">
+      <Compensation>
+        <PersonName>JACOB SHUSTER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>GAIL NORRY</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>ELLIOT NORRY</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc5">
+      <GainLossSaleOtherAsset>
+        <Name>CHEVY CHASE SAVINGS BANK</Name>
+        <DateAcquired>2008-10</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>50000</GrossSalesPrice>
+        <Basis>50000</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>CITIZENS BANK OF MICHIGAN</Name>
+        <DateAcquired>2008-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-08</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>100000</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>JP MORGAN 3.5Y COMMODITY</Name>
+        <DateAcquired>2007-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>50000</GrossSalesPrice>
+        <Basis>50000</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LEHMAN BROTHERS COMMERCIAL</Name>
+        <DateAcquired>2008-08</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-08</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>100007</Basis>
+        <TotalNet>-7</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>M&amp;I BANK</Name>
+        <DateAcquired>2008-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>100000</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>MERRICK BANK CORP</Name>
+        <DateAcquired>2008-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>75000</GrossSalesPrice>
+        <Basis>75000</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>NSTAR</Name>
+        <DateAcquired>2009-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>4694</GrossSalesPrice>
+        <Basis>3871</Basis>
+        <TotalNet>823</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>PROVIDIAN BANK</Name>
+        <DateAcquired>2006-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>11000</GrossSalesPrice>
+        <Basis>10578</Basis>
+        <TotalNet>422</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>SOUTHSIDE BANK</Name>
+        <DateAcquired>2009-08</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-08</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>100000</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>WELLS FARGO</Name>
+        <DateAcquired>2007-05</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-11</DateSold>
+        <GrossSalesPrice>50000</GrossSalesPrice>
+        <Basis>50000</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>WESTERN BANK</Name>
+        <DateAcquired>2008-08</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>100007</Basis>
+        <TotalNet>-7</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GINNIE MAE</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>2021</GrossSalesPrice>
+        <Basis>2021</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GINNIE MAE II</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>3417</GrossSalesPrice>
+        <Basis>3417</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GINNIE MAE II</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>2732</GrossSalesPrice>
+        <Basis>2732</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GINNIE MAE</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>553</GrossSalesPrice>
+        <Basis>553</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GINNIE MAE</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>6582</GrossSalesPrice>
+        <Basis>6582</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GINNIE MAE</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>2395</GrossSalesPrice>
+        <Basis>2395</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GINNIE MAE</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>9397</GrossSalesPrice>
+        <Basis>9397</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GNMA REMIC TRUST 2003-111</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>5418</GrossSalesPrice>
+        <Basis>5418</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GNMA REMIC TRUST 2003-51</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>448</GrossSalesPrice>
+        <Basis>448</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GNMA REMIC TRUST 2004-47</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>8252</GrossSalesPrice>
+        <Basis>8252</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GNMA REMIC TRUST 2010-107</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>739</GrossSalesPrice>
+        <Basis>739</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GNMA REMIC TRUST 2010-114</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>368</GrossSalesPrice>
+        <Basis>368</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GNMA REMIC TRUST 2010-129</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>541</GrossSalesPrice>
+        <Basis>541</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>GNMA REMIC TRUST 2010-138</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-12</DateSold>
+        <GrossSalesPrice>15</GrossSalesPrice>
+        <Basis>15</Basis>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc6">
+      <InvestmentsCorpStock>
+        <NameOfStock>100 DUKE ENERGY CORP.</NameOfStock>
+        <EOYBookValue>1781</EOYBookValue>
+        <EOYFMV>1781</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>60 LAB CORP. AMER HLDGS</NameOfStock>
+        <EOYBookValue>5275</EOYBookValue>
+        <EOYFMV>5275</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>34 MONSANTO CO.</NameOfStock>
+        <EOYBookValue>2368</EOYBookValue>
+        <EOYFMV>2368</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>6769 NSTAR</NameOfStock>
+        <EOYBookValue>285584</EOYBookValue>
+        <EOYFMV>285584</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 SPECTRA ENERGY CORP.</NameOfStock>
+        <EOYBookValue>1250</EOYBookValue>
+        <EOYFMV>1250</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1207 TORONTO DOMINION BANK</NameOfStock>
+        <EOYBookValue>89692</EOYBookValue>
+        <EOYFMV>89692</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1,060 WAL MART STORES INC.</NameOfStock>
+        <EOYBookValue>57166</EOYBookValue>
+        <EOYFMV>57166</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc7">
+      <InvestmentsOther>
+        <CategoryOrItem>VANGUARD 500 INDEX FUND INV</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>VANGUARD 500 INDEX FUND ADM</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>31213</BookValue>
+        <EOYFMV>31213</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 WESTERNBANK 2/16/10 4.20%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>11,000 PROVID NAT BANK 2/26/10 4.05%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>50,000 CHEVY CHASE 4/8/10 4.05%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>75,000 MERRICK BANK 6/24/10 3.00%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 CITIZENS BANK 8/6/10 4.30%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 LEHMAN BROS 8/13/10 4.35%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>50,000 JP MORGAN 9/23/10</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>50,000 WELLS FARGO 11/24/10</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 CAPMARK BANK 2/11/11 2.5%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>100193</BookValue>
+        <EOYFMV>100193</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 GUARANTY BANK 7/29/11 4.6%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>102293</BookValue>
+        <EOYFMV>102293</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 CAPITAL ONE 8/1/11 4.5%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>102262</BookValue>
+        <EOYFMV>102262</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 LASALLE BANK 12/22/11 0.82%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>99160</BookValue>
+        <EOYFMV>99160</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 STANDARD FED 12/22/11 0.82%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>99160</BookValue>
+        <EOYFMV>99160</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>50,000 MERRILL LYNCH 12/29/11</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>51465</BookValue>
+        <EOYFMV>51465</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 GIBRALTAR PRIV 1/31/12 4.60%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>104105</BookValue>
+        <EOYFMV>104105</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 GE CAPITAL 4/16/12 3.00%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>102726</BookValue>
+        <EOYFMV>102726</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 BMW BANK 4/24/12 3.00%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>102758</BookValue>
+        <EOYFMV>102758</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 CAPITAL ONE 7/30/12 4.75%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>105799</BookValue>
+        <EOYFMV>105799</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 DISCOVER BANK 7/30/12 4.75%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>105799</BookValue>
+        <EOYFMV>105799</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 LEHMAN BROS 7/30/12 4.75%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>104367</BookValue>
+        <EOYFMV>104367</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 ALLY BANK 10/22/13 1.35%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>99690</BookValue>
+        <EOYFMV>99690</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 AMERICAN EXP 12/9/13 2.75%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>103050</BookValue>
+        <EOYFMV>103050</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 SOUTHSIDE BNK 12/26/13 3.00%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>50,000 WELLS FARGO 12/26/13</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>49000</BookValue>
+        <EOYFMV>49000</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 TOYOTA FIN 6/17/14 3.45%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>104884</BookValue>
+        <EOYFMV>104884</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 WELLS FARGO 8/29/14</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>121625</BookValue>
+        <EOYFMV>121625</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 M&amp;I BANK 12/26/14 4.00%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,00 HSBC BANK 3/2/15</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>108700</BookValue>
+        <EOYFMV>108700</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 BARCLAY BANK DE 3/3/15 2.75%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>102666</BookValue>
+        <EOYFMV>102666</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>50,000 WELLS FARGO 4.5 Y 4/30/15</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>45438</BookValue>
+        <EOYFMV>45438</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 WEBSTER FIVE CENTS 2/19/16</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>100327</BookValue>
+        <EOYFMV>100327</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>100,000 GE MONEY BANK 8/21/17 2.75%</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>101566</BookValue>
+        <EOYFMV>101566</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc8">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>263</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc9">
+      <OtherIncreases>
+        <Description>UNREALIZED GAIN ON INVESTMENTS</Description>
+        <Amount>67537</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc10">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT MANAGEMENT FEES</Category>
+        <Amount>374</Amount>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc11">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>428</Amount>
+        <NetInvestmentIncome>428</NetInvestmentIncome>
+        <AdjustedNetIncome>428</AdjustedNetIncome>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAX</Category>
+        <Amount>2126</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

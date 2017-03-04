@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-19T08:52:45-07:00</Timestamp>
+    <TaxPeriodEndDate>2011-02-28</TaxPeriodEndDate>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-03-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>431921559</EIN>
+      <Name>
+        <BusinessNameLine1>THE ROBERT E AND POLLY A ZIMMERMAN FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>ROBE</NameControl>
+      <Phone>9132347529</Phone>
+      <USAddress>
+        <AddressLine1>120 W 12TH STREET</AddressLine1>
+        <City>KANSAS CITY</City>
+        <State>MO</State>
+        <ZIPCode>64105</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DAVID N ZIMMERMAN</Name>
+      <Title>VICE PRESIDENT</Title>
+      <Phone>9132347529</Phone>
+      <DateSigned>2011-07-08</DateSigned>
+    </Officer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>782282</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>21963</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>21963</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">5480</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>213084</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>5480</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>27443</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>27443</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">850</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>850</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="00000008" referenceDocumentName="OtherProfessionalFeesSchedule">10190</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>10190</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="00000009" referenceDocumentName="TaxesSchedule">480</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>356</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000007" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">10</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>10</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>11530</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>10546</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>860</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>37000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>37000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>48530</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>10546</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>37860</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-21087</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>16897</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>34646</CashBOY>
+        <CashEOY>34216</CashEOY>
+        <CashEOYFMV>34216</CashEOYFMV>
+        <InvestmentsGovtObligBOY>172837</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="00000006" referenceDocumentName="InvestmentsGovtObligationsSchedule">157289</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>163753</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>379946</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="00000005" referenceDocumentName="InvestmentsCorpStockSchedule">378162</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>481087</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>97452</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="00000004" referenceDocumentName="InvestmentsCorpBondsSchedule">94127</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>103226</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>684881</TotalAssetsBOY>
+        <TotalAssetsEOY>663794</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>782282</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>684881</CapitalStockBOY>
+        <CapitalStockEOY>663794</CapitalStockEOY>
+        <TotalNetAssetsBOY>684881</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>663794</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>684881</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>663794</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>684881</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-21087</ExcessOfRevenueOverExpenses>
+        <Subtotal>663794</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>663794</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Merrill Lynch Investment Mgmt. Accts</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-04-12</DateAcquired>
+          <DateSold>2011-02-03</DateSold>
+          <GrossSalesPrice>213084</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>207604</CostOrOtherBasis>
+          <GainOrLoss>5480</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>5480</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>5480</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>43126</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>720533</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.059853</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>49479</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>875427</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.056520</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>43550</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1038160</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.041949</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>55773</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1000371</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.055752</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>46115</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>990041</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.046579</DistributionRatioYear5>
+        <TotalDistributionRatio>0.260653</TotalDistributionRatio>
+        <AverageDistributionRatio>0.052131</AverageDistributionRatio>
+        <NetNoncharitableAssets>741408</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>38650</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>169</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>38819</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>37860</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>338</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>338</Subtotal>
+        <TaxBasedOnInvestmentIncome>338</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>338</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>338</TotalCreditsAndPayments>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MO</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>DAVID ZIMMERMAN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9132347529</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>6201 COLLEGE BLVD STE 500</AddressLine1>
+          <City>OVERLAND PARK</City>
+          <State>KS</State>
+          <ZIPCode>66211</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ELAINE A ADAMS</PersonName>
+          <USAddress>
+            <AddressLine1>5701 W 86TH TERRACE</AddressLine1>
+            <City>OVERLAND PARK</City>
+            <State>KS</State>
+            <ZIPCode>66207</ZIPCode>
+          </USAddress>
+          <Title>V. Pres. &amp; Dir.</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID N ZIMMERMAN</PersonName>
+          <USAddress>
+            <AddressLine1>12800 OUTLOOK</AddressLine1>
+            <City>OVERLAND PARK</City>
+            <State>KS</State>
+            <ZIPCode>66209</ZIPCode>
+          </USAddress>
+          <Title>Pres. &amp; Dir.</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARK E ZIMMERMAN</PersonName>
+          <USAddress>
+            <AddressLine1>5025 SUMMIT RIDGE</AddressLine1>
+            <City>LAS CRUCES</City>
+            <State>NM</State>
+            <ZIPCode>88011</ZIPCode>
+          </USAddress>
+          <Title>V.P./Treas/Dir.</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CAROL Z BARRY</PersonName>
+          <USAddress>
+            <AddressLine1>3504 W 101ST TERRACE</AddressLine1>
+            <City>LEAWOOD</City>
+            <State>KS</State>
+            <ZIPCode>66206</ZIPCode>
+          </USAddress>
+          <Title>V.P./Sec./Dir.</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>712368</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>40330</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>752698</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>752698</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>11290</CashDeemedCharitable>
+        <NetNoncharitableAssets>741408</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>37070</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>37070</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>338</TaxBasedOnInvestmentIncome>
+        <TotalTax>338</TotalTax>
+        <DistributableAmountBeforeAdj>36732</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>36732</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>36732</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>37860</ExpensesAndContributions>
+        <QualifyingDistributions>37860</QualifyingDistributions>
+        <AdjQualifyingDistributions>37860</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>36732</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>35855</UndistributedIncomePriorYear>
+        <QualifyingDistributions>37860</QualifyingDistributions>
+        <AppliedToYear1>35855</AppliedToYear1>
+        <AppliedToCurrentYear>2005</AppliedToCurrentYear>
+        <UndistributedIncomeCY>34727</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>POLLY A ZIMMERMAN</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BISHOP SULLIVAN CTR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6435 TRUMAN RD</AddressLine1>
+            <City>KANSAS CITY</City>
+            <State>MO</State>
+            <ZIPCode>64126</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purposes.</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILD PROTECTION SERVICES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3101 BORADWAY STE 750</AddressLine1>
+            <City>KANSAS CITY</City>
+            <State>MO</State>
+            <ZIPCode>64111</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILDREN'S MERCY HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2401 GILLHAM RD</AddressLine1>
+            <City>KANSAS CITY</City>
+            <State>MO</State>
+            <ZIPCode>64108</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CITY UNION MISSION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1100 E 11TH ST</AddressLine1>
+            <City>KANSAS CITY</City>
+            <State>MO</State>
+            <ZIPCode>64106</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE NATURE CONSERVANCY INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>212 E MARCY 200</AddressLine1>
+            <City>SANTA FE</City>
+            <State>NM</State>
+            <ZIPCode>87501</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEW MEXICO STATE UNIV FDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 3590</AddressLine1>
+            <City>LAS CRUCES</City>
+            <State>NM</State>
+            <ZIPCode>88003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST AGNES CATHOLIC SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5130 MISSION RD</AddressLine1>
+            <City>ROELAND PARK</City>
+            <State>KS</State>
+            <ZIPCode>66205</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHARE IT FORWARD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2800 W 76 COUNTRY BLVD</AddressLine1>
+            <City>BRANSON</City>
+            <State>MO</State>
+            <ZIPCode>65616</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITARIAN FELLOWSHIP OF LAS CRUCES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2000 S SOLANO</AddressLine1>
+            <City>LAS CRUCES</City>
+            <State>NM</State>
+            <ZIPCode>88001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WASHBURN LAW SCHOOL FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1700 SW COLLEGE AVE</AddressLine1>
+            <City>TOPEKA</City>
+            <State>KS</State>
+            <ZIPCode>66621</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WYANDOTTE CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3615 EATON ST</AddressLine1>
+            <City>KANSAS CITY</City>
+            <State>KS</State>
+            <ZIPCode>66103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WAYSIDE WAIFS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3901 MARTHA TRUMAN RD</AddressLine1>
+            <City>KANSAS CITY</City>
+            <State>MO</State>
+            <ZIPCode>64137</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHURCH OF THE NATIVITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3800 W 119TH</AddressLine1>
+            <City>LEAWOOD</City>
+            <State>KS</State>
+            <ZIPCode>66209</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KS CHILDREN SERVICE LEAGUE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1365 N CUSTER</AddressLine1>
+            <City>WICHITA</City>
+            <State>KS</State>
+            <ZIPCode>67201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Supply funds to carryout exempt purpose.</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>37000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>21963</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>5480</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>27443</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>27443</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>Interest &amp; dividend income from the investment of assets of the Foundation.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>Net Capital Gain from sale of assets held by the Foundation.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFees>
+        <Category>J Pennington Gen. Admin.</Category>
+        <Amount>850</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="00000003">
+      <GainLossSaleOtherAsset>
+        <Name>Merrill Lynch Investment Mgmt. Accounts</Name>
+        <DateAcquired>2004-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2011-02</DateSold>
+        <GrossSalesPrice>213084</GrossSalesPrice>
+        <Basis>207604</Basis>
+        <TotalNet>5480</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="00000004">
+      <InvestmentsCorpBonds>
+        <NameOfBond>Merrill Lynch/Manager Acct. 04B90</NameOfBond>
+        <EOYBookValue>94127</EOYBookValue>
+        <EOYFMV>103226</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000005">
+      <InvestmentsCorpStock>
+        <NameOfStock>Merrill Lynch/Lord Abbett Fixed Acct. 04B79</NameOfStock>
+        <EOYBookValue>94022</EOYBookValue>
+        <EOYFMV>116579</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Merrill Lynch/MFS Large Cap Value Acct. 04B80</NameOfStock>
+        <EOYBookValue>105197</EOYBookValue>
+        <EOYFMV>143853</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Merrill Lynch/Ashland Large Cap Growth Account 04B81</NameOfStock>
+        <EOYBookValue>87428</EOYBookValue>
+        <EOYFMV>117161</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Merrill Lynch/Manager Acct. 04B94</NameOfStock>
+        <EOYBookValue>91515</EOYBookValue>
+        <EOYFMV>103494</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="00000006">
+      <USGovtSecuritiesEOYBookValue>157289</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>163753</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="00000007">
+      <OtherExpenses>
+        <Description>Annual Report Fee</Description>
+        <RevenueAndExpensesPerBooks>10</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>10</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="00000008">
+      <OtherProfessionalFees>
+        <Category>Merrill Lynch Acct. Mgmt Fees</Category>
+        <Amount>10190</Amount>
+        <NetInvestmentIncome>10190</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="00000009">
+      <Taxes>
+        <Category>Foreign Dividend Tax</Category>
+        <Amount>356</Amount>
+        <NetInvestmentIncome>356</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>Excise Tax on Inv. Income</Category>
+        <Amount>124</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

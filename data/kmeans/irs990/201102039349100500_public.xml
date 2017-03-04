@@ -1,0 +1,737 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-22T10:46:07-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>KUHL &amp; SCHULTZ PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3343 SPRING ARBOR ROAD STE 400</AddressLine1>
+        <City>JACKSON</City>
+        <State>MI</State>
+        <ZIPCode>49203</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>300002491</EIN>
+      <Name>
+        <BusinessNameLine1>BILL &amp; VI SIGMUND FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>BILL</NameControl>
+      <Phone>8139384399</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 1128</AddressLine1>
+        <City>JACKSON</City>
+        <State>MI</State>
+        <ZIPCode>492041128</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CHARLES C MCCLAFFERTY</Name>
+      <Title>TREASURER</Title>
+      <Phone>8139384399</Phone>
+      <DateSigned>2011-07-01</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>JOHN A SCHULTZ</Name>
+      <Phone>5177898185</Phone>
+      <DatePrepared>2011-07-22</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>9744493</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>579</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>18009</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>18009</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>238917</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>238917</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc4">-1702202</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>721815</GrossSalesPrice>
+        <TotalRevenueAndExpenses>-1444697</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>256926</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>18958</CompOfcrDirTrstRevAndExpnss>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc6">5670</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>5670</LegalFeesNetInvstIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1480</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1480</AccountingFeesNetInvstIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc9">28949</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>28949</OtherProfFeesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc8">3828</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>3828</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>58885</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>36099</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>3828</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>513570</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>513570</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>572455</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>36099</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>517398</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-2017152</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>220827</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>27195</CashBOY>
+        <CashEOY>53319</CashEOY>
+        <CashEOYFMV>53319</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>250785</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>417444</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>210874</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>9619166</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">7402231</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>9480300</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>9897146</TotalAssetsBOY>
+        <TotalAssetsEOY>7872994</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>9744493</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1006619</CapitalStockBOY>
+        <CapitalStockEOY>1006619</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>4802450</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>4802450</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>4088077</RetainedEarningsBOY>
+        <RetainedEarningsEOY>2063925</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>9897146</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>7872994</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>9897146</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>7872994</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>9897146</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-2017152</ExcessOfRevenueOverExpenses>
+        <Subtotal>7879994</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc7">7000</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>7872994</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>567610</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>9090283</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.062441</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>549092</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>7233820</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.075906</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>384292</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>5950326</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.064583</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>305699</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>5697797</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.053652</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>422359</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>5764361</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.073271</DistributionRatioYear5>
+        <TotalDistributionRatio>0.329853</TotalDistributionRatio>
+        <AverageDistributionRatio>0.065971</AverageDistributionRatio>
+        <NetNoncharitableAssets>9523507</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>628275</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2208</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>630483</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>517398</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>4417</InvestmentIncomeExciseTax>
+        <Subtotal>4417</Subtotal>
+        <TaxBasedOnInvestmentIncome>4417</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>4320</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>4320</TotalCreditsAndPayments>
+        <TaxDue>97</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.SIGMUNDFOUNDATION.ORG</WebsiteAddress>
+        <BooksInCareOfPersonName>CHARLES C MCCLAFFERTY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8139384399</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 1128</AddressLine1>
+          <City>JACKSON</City>
+          <State>MI</State>
+          <ZIPCode>492041128</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <BusinessName referenceDocumentId="RetDoc3">
+            <BusinessNameLine1>CHARLES C MCCLAFFERTY PC</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>2208 GREENHAVEN DR</AddressLine1>
+            <City>SUN CITY</City>
+            <State>FL</State>
+            <ZIPCode>33573</ZIPCode>
+          </USAddress>
+          <Title>PRES / TREAS</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">RALPH L BODMAN</PersonName>
+          <USAddress>
+            <AddressLine1>705 ILLINOIS CT</AddressLine1>
+            <City>TECUMSEH</City>
+            <State>MI</State>
+            <ZIPCode>49286</ZIPCode>
+          </USAddress>
+          <Title>V. PRES.</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <BusinessName referenceDocumentId="RetDoc3">
+            <BusinessNameLine1>DILLON &amp; ASSOCIATES INC</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>PO BOX 1347</AddressLine1>
+            <City>JACKSON</City>
+            <State>MI</State>
+            <ZIPCode>49204</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">JOHN MACCHIA</PersonName>
+          <USAddress>
+            <AddressLine1>128 FLAMINGO AVE</AddressLine1>
+            <City>NAPLES</City>
+            <State>FL</State>
+            <ZIPCode>34108</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">KENT MAUER</PersonName>
+          <USAddress>
+            <AddressLine1>2153 NOON RD</AddressLine1>
+            <City>JACKSON</City>
+            <State>MI</State>
+            <ZIPCode>49201</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">CAROLYN M PRATT</PersonName>
+          <USAddress>
+            <AddressLine1>4876 WOODLANE</AddressLine1>
+            <City>JACKSON</City>
+            <State>MI</State>
+            <ZIPCode>49203</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>18958</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>9364104</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>304431</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>9668535</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>9668535</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>145028</CashDeemedCharitable>
+        <NetNoncharitableAssets>9523507</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>476175</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>476175</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>4417</TaxBasedOnInvestmentIncome>
+        <TotalTax>4417</TotalTax>
+        <DistributableAmountBeforeAdj>471758</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>471758</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>471758</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>517398</ExpensesAndContributions>
+        <QualifyingDistributions>517398</QualifyingDistributions>
+        <AdjQualifyingDistributions>517398</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>471758</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>135431</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>22302</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>91466</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>190633</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>117416</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>557248</TotalExcessDistriCarryover>
+        <QualifyingDistributions>517398</QualifyingDistributions>
+        <AppliedToCurrentYear>471758</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>45640</RemainingDistriFromCorpus>
+        <TotalCorpus>602888</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>135431</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>467457</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>22302</ExcessFromYear4>
+        <ExcessFromYear3>91466</ExcessFromYear3>
+        <ExcessFromYear2>190633</ExcessFromYear2>
+        <ExcessFromYear1>117416</ExcessFromYear1>
+        <ExcessFromCurrentYear>45640</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>CAROLYN M PRATT</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1128</AddressLine1>
+            <City>JACKSON</City>
+            <State>MI</State>
+            <ZIPCode>49204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5177845464</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATIONS SHALL BE MADE IN GRANT FORM, INCLUDE DESCRIPTION OF PROGRAM, FUNDING NEEDED AND COPY OF APPLICANTS 501(C)(3) LETTER.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>APPLICATIONS FOR CALENDAR 2011 MUST BE RECEIVED ON OR BEFORE APRIL 15, 2011.</SubmissionDeadlines>
+          <RestrictionsOnAwards>GIFTS, GRANTS AND AWARDS SHALL BE LIMITED TO PERSONS AND ORGANIZATIONS RESIDING IN JACKSON AND LENAWEE COUNTIES IN THE STATE OF MICHIGAN.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>GRANTS DONATIONS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1</AddressLine1>
+            <City>JACKSON</City>
+            <State>MI</State>
+            <ZIPCode>49203</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>146600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SCHOLARSHIPS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1</AddressLine1>
+            <City>JACKSON</City>
+            <State>MI</State>
+            <ZIPCode>49203</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TUITION, FEES AND BOOKS</PurposeOfGrantOrContribution>
+          <Amount>366970</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>513570</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>18009</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>238917</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-1702202</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>-1445276</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-1445276</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>KUHL &amp; SCHULTZ,P.C.</Category>
+        <Amount>1480</Amount>
+        <NetInvestmentIncome>1480</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <BusinessName>
+          <BusinessNameLine1>CHARLES C MCCLAFFERTY PC</BusinessNameLine1>
+        </BusinessName>
+      </Compensation>
+      <Compensation>
+        <PersonName>RALPH L BODMAN</PersonName>
+      </Compensation>
+      <Compensation>
+        <BusinessName>
+          <BusinessNameLine1>DILLON ASSOCIATES INC</BusinessNameLine1>
+        </BusinessName>
+      </Compensation>
+      <Compensation>
+        <PersonName>JOHN MACCHIA</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>KENT MAUER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>CAROLYN M PRATT</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAsset>
+        <Name>STANDARD CHARTERED RIGHTS</Name>
+        <DateAcquired>2010-10</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-10</DateSold>
+        <GrossSalesPrice>7302</GrossSalesPrice>
+        <Basis>200000</Basis>
+        <TotalNet>-192698</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>PACIFIC BELL</Name>
+        <DateAcquired>2009-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-08</DateSold>
+        <GrossSalesPrice>107000</GrossSalesPrice>
+        <Basis>298650</Basis>
+        <TotalNet>-191650</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>BURLINGTON NORTHERN SANTA FE - ST</Name>
+        <DateAcquired>2008-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>49732</GrossSalesPrice>
+        <Basis>236143</Basis>
+        <TotalNet>-186411</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>BURLINGTON NORTHERN SANTA FE - LT</Name>
+        <DateAcquired>2009-02</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>99464</GrossSalesPrice>
+        <Basis>297198</Basis>
+        <TotalNet>-197734</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>BP PLC ADR</Name>
+        <DateAcquired>2003-10</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>133192</GrossSalesPrice>
+        <Basis>373113</Basis>
+        <TotalNet>-239921</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>CORE LABORATORIES N.V.</Name>
+        <DateAcquired>2007-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-08</DateSold>
+        <GrossSalesPrice>46939</GrossSalesPrice>
+        <Basis>234794</Basis>
+        <TotalNet>-187855</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>CISCO SYSTEMS</Name>
+        <DateAcquired>2002-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>26093</GrossSalesPrice>
+        <Basis>213645</Basis>
+        <TotalNet>-187552</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>JOHNSON &amp; JOHNSON</Name>
+        <DateAcquired>2002-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>252093</GrossSalesPrice>
+        <Basis>570474</Basis>
+        <TotalNet>-318381</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>ABBOTT LABS</NameOfStock>
+        <EOYBookValue>349035</EOYBookValue>
+        <EOYFMV>472800</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ADP</NameOfStock>
+        <EOYBookValue>376570</EOYBookValue>
+        <EOYFMV>529000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AIR PRODUCTS &amp; CHEMICAL</NameOfStock>
+        <EOYBookValue>322959</EOYBookValue>
+        <EOYFMV>364000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BP, PLC</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BURLINGTON NORTHERN</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CANADIAN NAT'L R.R.</NameOfStock>
+        <EOYBookValue>142133</EOYBookValue>
+        <EOYFMV>198000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CENOVUS ENERGY</NameOfStock>
+        <EOYBookValue>74319</EOYBookValue>
+        <EOYFMV>99000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CISCO SYSTEMS</NameOfStock>
+        <EOYBookValue>274600</EOYBookValue>
+        <EOYFMV>380000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>COCA-COLA</NameOfStock>
+        <EOYBookValue>106987</EOYBookValue>
+        <EOYFMV>132000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>COLGATE-PALMOLIVE</NameOfStock>
+        <EOYBookValue>379688</EOYBookValue>
+        <EOYFMV>576000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>COMPUSHARE LTD</NameOfStock>
+        <EOYBookValue>84200</EOYBookValue>
+        <EOYFMV>110000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CORE LABORATORIES</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DIAGEO, PLC</NameOfStock>
+        <EOYBookValue>254260</EOYBookValue>
+        <EOYFMV>229400</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EMERSON ELECTRIC</NameOfStock>
+        <EOYBookValue>183367</EOYBookValue>
+        <EOYFMV>228000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ENCANA CORP</NameOfStock>
+        <EOYBookValue>78916</EOYBookValue>
+        <EOYFMV>87000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HEINEKEN HLDG</NameOfStock>
+        <EOYBookValue>67609</EOYBookValue>
+        <EOYFMV>88000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTEL</NameOfStock>
+        <EOYBookValue>67485</EOYBookValue>
+        <EOYFMV>63000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JARDINE MATHESON</NameOfStock>
+        <EOYBookValue>63409</EOYBookValue>
+        <EOYFMV>88000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JOHNSON &amp; JOHNSON</NameOfStock>
+        <EOYBookValue>557559</EOYBookValue>
+        <EOYFMV>620000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>LINEAR TECHNOLOGY</NameOfStock>
+        <EOYBookValue>321328</EOYBookValue>
+        <EOYFMV>374500</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MCDONALDS</NameOfStock>
+        <EOYBookValue>124675</EOYBookValue>
+        <EOYFMV>462000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MEDTRONIC</NameOfStock>
+        <EOYBookValue>104552</EOYBookValue>
+        <EOYFMV>74000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MICROSOFT</NameOfStock>
+        <EOYBookValue>212590</EOYBookValue>
+        <EOYFMV>229600</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NOVARTIS A.G. ADR</NameOfStock>
+        <EOYBookValue>100181</EOYBookValue>
+        <EOYFMV>118000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PAYCHEX</NameOfStock>
+        <EOYBookValue>232598</EOYBookValue>
+        <EOYFMV>223200</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PEPSICO</NameOfStock>
+        <EOYBookValue>300074</EOYBookValue>
+        <EOYFMV>461500</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PROCTOR &amp; GAMBLE</NameOfStock>
+        <EOYBookValue>312480</EOYBookValue>
+        <EOYFMV>448000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>QUALCOMM</NameOfStock>
+        <EOYBookValue>93254</EOYBookValue>
+        <EOYFMV>225400</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHLUMBERGER</NameOfStock>
+        <EOYBookValue>289859</EOYBookValue>
+        <EOYFMV>336000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>STD. CHARTER BANK</NameOfStock>
+        <EOYBookValue>219515</EOYBookValue>
+        <EOYFMV>189000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>STRYKER</NameOfStock>
+        <EOYBookValue>248220</EOYBookValue>
+        <EOYFMV>432000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SYSCO</NameOfStock>
+        <EOYBookValue>567064</EOYBookValue>
+        <EOYFMV>617700</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNITED TECHNOLOGIES</NameOfStock>
+        <EOYBookValue>149456</EOYBookValue>
+        <EOYFMV>158000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WAL-MART</NameOfStock>
+        <EOYBookValue>277402</EOYBookValue>
+        <EOYFMV>286200</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WALGREEN</NameOfStock>
+        <EOYBookValue>219268</EOYBookValue>
+        <EOYFMV>273000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WOODSIDE PETRO</NameOfStock>
+        <EOYBookValue>246619</EOYBookValue>
+        <EOYFMV>308000</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc6">
+      <LegalFees>
+        <Category>CHARLES C. MCCLAFFERTY, P.C.</Category>
+        <Amount>5670</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc7">
+      <OtherDecreases>
+        <Description>FEDERAL INCOME TAX</Description>
+        <Amount>7000</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES</Description>
+        <RevenueAndExpensesPerBooks>839</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>839</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE &amp; OFFICE EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>1924</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1924</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>112</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>112</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FROEIGN TAXES PAID</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FEES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TRAVEL EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>953</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>953</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc9">
+      <OtherProfessionalFees>
+        <Category>DILLON &amp; ASSOCIATES</Category>
+        <Amount>28949</Amount>
+        <NetInvestmentIncome>28949</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

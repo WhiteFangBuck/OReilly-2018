@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T06:27:42-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Bencivenga Ward &amp; Company CPAs PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>420 Columbus Avenue Suite 304</AddressLine1>
+        <City>Valhalla</City>
+        <State>NY</State>
+        <ZIPCode>105951382</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>133906533</EIN>
+      <Name>
+        <BusinessNameLine1>JEWISH RENAISSANCE FDN INC</BusinessNameLine1>
+      </Name>
+      <NameControl>JEWI</NameControl>
+      <Phone>2125724128</Phone>
+      <USAddress>
+        <AddressLine1>767 FIFTH AVENUE</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10153</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Jacob Z Schuster</Name>
+      <Title>Treasurer</Title>
+      <DateSigned>2011-08-08</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Leonard J Bencivenga CPA</Name>
+      <Phone>9147695005</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>14415736</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1205</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1205</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>1205</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>87943</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>87943</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>87943</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>89148</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>89148</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>89148</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">8512</LegalFeesRevAndExpnss>
+        <LegalFeesDsbrsChrtblPrps>8821</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">7947</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>7498</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">1854</TaxesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <TravConfMeetingRevAndExpnss>6649</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingDsbrsChrtblPrps>6457</TravConfMeetingDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>72</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubDsbrsChrtblPrps>72</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">1750</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>1750</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>26784</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>24598</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>26784</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>24598</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>62364</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>89148</NetInvestmentIncome>
+        <AdjustedNetIncome>89148</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>355472</CashBOY>
+        <CashEOY>416283</CashEOY>
+        <CashEOYFMV>416283</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>333800</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>334563</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>334563</SavingsAndTempCashInvstEOYFMV>
+        <OtherNotesAndLoansReceivable>4200000</OtherNotesAndLoansReceivable>
+        <OtherNotesAndLoansRcvblBOY>4200000</OtherNotesAndLoansRcvblBOY>
+        <OtherNotesAndLoansRcvblEOY referenceDocumentId=" OtherNotesLoansReceivableShort">4200000</OtherNotesAndLoansRcvblEOY>
+        <OtherNotesAndLoansRcvblEOYFMV>4200000</OtherNotesAndLoansRcvblEOYFMV>
+        <InvestmentsCorpStockBOY>5670549</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId=" InvestmentsCorpStockSchedule">9462640</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>9462640</InvestmentsCorpStockEOYFMV>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">2250</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId=" OtherAssetsSchedule">2250</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>10559821</TotalAssetsBOY>
+        <TotalAssetsEOY>14415736</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>14415736</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>231</AccountsPayableBOY>
+        <AccountsPayableEOY>1691</AccountsPayableEOY>
+        <OtherLiabilitiesBOY referenceDocumentId=" OtherLiabilitiesSchedule">400000</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId=" OtherLiabilitiesSchedule">400000</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>400231</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>401691</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>10159590</UnrestrictedBOY>
+        <UnrestrictedEOY>14014045</UnrestrictedEOY>
+        <TotalNetAssetsBOY>10159590</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>14014045</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>10559821</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>14415736</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>10159590</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>62364</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId=" OtherIncreasesSchedule">3792091</OtherIncreases>
+        <Subtotal>14014045</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>14014045</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>18337</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>4297600</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.00427</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>74833</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>5207687</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.01437</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>222067</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>5639747</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.03938</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>293576</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>5103276</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.05753</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>2463294</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>5358794</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.45967</DistributionRatioYear5>
+        <TotalDistributionRatio>0.57521</TotalDistributionRatio>
+        <AverageDistributionRatio>0.11504</AverageDistributionRatio>
+        <NetNoncharitableAssets>7895060</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>908263</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>891</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>909154</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>24598</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1783</InvestmentIncomeExciseTax>
+        <Subtotal>1783</Subtotal>
+        <TaxBasedOnInvestmentIncome>1783</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1550</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>2850</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>4400</TotalCreditsAndPayments>
+        <Overpayment>2617</Overpayment>
+        <AmountCreditedToNextYear>2617</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Leonard J Bencivenga CPA</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>9147695005</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>420 Columbus Ave</AddressLine1>
+          <City>Valhalla</City>
+          <State>NY</State>
+          <ZIPCode>105951382</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>true</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jacob Z Schuster resigned</PersonName>
+          <USAddress>
+            <AddressLine1>767 Fifth Ave Suite 4200</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10153</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Charles A Goldstein</PersonName>
+          <USAddress>
+            <AddressLine1>767 Fifth Ave Suite 4200</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10153</ZIPCode>
+          </USAddress>
+          <Title>Secretary VP/Ex</Title>
+          <AvgHoursPerWkDevotedToPosition>15.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Malcolm Hoenlein</PersonName>
+          <USAddress>
+            <AddressLine1>767 Fifth Ave Suite 4600</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10153</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Ronald S Lauder</PersonName>
+          <USAddress>
+            <AddressLine1>767 Fifth Ave Suite 4200</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10153</ZIPCode>
+          </USAddress>
+          <Title>President/Direc</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Prozna Street Project:These program expenses relate to restoration of a certain street in Warsaw, Poland that is one of the last remnants of Warsaw's pre-World War II Jewish Districts. The program's goal is to preserve for posterity the unique character of this site as an authentic remnant of centuries-old Polish/Jewish culture, a culture almost completely destroyed during the Holocaust. This project was conceived in 1996 and in the ensuing years progressed to include the purchase of land and buildings in what is now a four-building complex on the site. In 2005, having fulfilled its objective, as stated above, the organization disposed of its Warsaw properties.</Description1>
+        <Expenses1>15161</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>7332080</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>683209</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>8015289</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>8015289</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>120229</CashDeemedCharitable>
+        <NetNoncharitableAssets>7895060</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>394753</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>394753</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1783</TaxBasedOnInvestmentIncome>
+        <TotalTax>1783</TotalTax>
+        <DistributableAmountBeforeAdj>392970</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>392970</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>392970</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>24598</ExpensesAndContributions>
+        <QualifyingDistributions>24598</QualifyingDistributions>
+        <AdjQualifyingDistributions>24598</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>392970</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>2196294</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>39635</ExcessDistriCarryoverYear4>
+        <TotalExcessDistriCarryover>2235929</TotalExcessDistriCarryover>
+        <QualifyingDistributions>24598</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>24598</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>368372</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>368372</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>1867557</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>1827922</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>39635</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>39635</ExcessFromYear4>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Ronald S Lauder</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1205</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>87943</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>89148</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>89148</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>Administrative</Category>
+        <Amount>7947</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>7498</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsCorpStock>
+        <NameOfStock>117,257 shs Estee Lauder Class A Common</NameOfStock>
+        <EOYBookValue>9462640</EOYBookValue>
+        <EOYFMV>9462640</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>Program activities</Category>
+        <Amount>8512</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>8821</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherAssets>
+        <Description>OTHER ASSETS</Description>
+        <EOYBookValue>2250</EOYBookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <EOYFMV>2250</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>1750</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1750</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncreases>
+        <Description>UNREALIZED APPREC ON EQUITY INVESTMENTS</Description>
+        <Amount>3792091</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherNotesLoansRcvblShortSch2 documentId="OtherNotesLoansReceivableShort" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherNotesLoansRcvblShort>
+        <NameOf501c3Organization>
+          <BusinessNameLine1>Ronald Lauder FDN</BusinessNameLine1>
+        </NameOf501c3Organization>
+        <BalanceDue>4200000</BalanceDue>
+      </OtherNotesLoansRcvblShort>
+    </OtherNotesLoansRcvblShortSch2>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>Federal Excise Tax</Category>
+        <Amount>1854</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

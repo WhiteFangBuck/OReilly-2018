@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T06:50:43-04:00</Timestamp>
+    <TaxPeriodEndDate>2011-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Tobie L Schlosstein</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>807 Main Street</AddressLine1>
+        <City>Warren</City>
+        <State>MA</State>
+        <ZIPCode>010830898</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>042582959</EIN>
+      <Name>
+        <BusinessNameLine1>WARREN RURAL IMPROVEMENT ASSOCIATION</BusinessNameLine1>
+      </Name>
+      <NameControl>WARR</NameControl>
+      <USAddress>
+        <AddressLine1>253 WASHINGTON STREET</AddressLine1>
+        <City>WARREN</City>
+        <State>MA</State>
+        <ZIPCode>01083</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN J DYJAK</Name>
+      <Title>PRESIDENT</Title>
+      <DateSigned>2011-07-09</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Tobie Schlosstein</Name>
+      <Phone>4134369441</Phone>
+      <DatePrepared>2011-07-28</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>25486</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>3465</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>496</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>496</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>496</InterestOnSavingsAdjNetIncm>
+        <TotalRevenueAndExpenses>3961</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>496</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>496</TotalAdjustedNetIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="STM109">175</OtherProfFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="STM110">8</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="STM103">108</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>291</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3422</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3422</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>3713</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>3422</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>248</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>496</NetInvestmentIncome>
+        <AdjustedNetIncome>496</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>25238</CashBOY>
+        <CashEOY>25486</CashEOY>
+        <CashEOYFMV>25486</CashEOYFMV>
+        <TotalAssetsBOY>25238</TotalAssetsBOY>
+        <TotalAssetsEOY>25486</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>25486</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>25238</UnrestrictedBOY>
+        <UnrestrictedEOY>25486</UnrestrictedEOY>
+        <TotalNetAssetsBOY>25238</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>25486</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>25238</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>25486</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>25238</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>248</ExcessOfRevenueOverExpenses>
+        <Subtotal>25486</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>25486</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>2377</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>25029</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.09497</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>2455</QualifyingDistributionsYear2>
+        <QualifyingDistributionsYear3>1429</QualifyingDistributionsYear3>
+        <QualifyingDistributionsYear4>1472</QualifyingDistributionsYear4>
+        <QualifyingDistributionsYear5>2214</QualifyingDistributionsYear5>
+        <TotalDistributionRatio>0.09497</TotalDistributionRatio>
+        <AverageDistributionRatio>0.018994</AverageDistributionRatio>
+        <NetNoncharitableAssets>24982</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>475</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>5</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>480</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>3422</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>5</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>5</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>5</TaxBasedOnInvestmentIncome>
+        <TaxDue>5</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfPersonName>LINDA CUNNINGHAM</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4134369865</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 1315</AddressLine1>
+          <City>WARREN</City>
+          <State>MA</State>
+          <ZIPCode>01083</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN J DYJAK</PersonName>
+          <USAddress>
+            <AddressLine1>253 WASHINGTON STREET</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PATRICIA FRAZIER</PersonName>
+          <USAddress>
+            <AddressLine1>SOUTH STREET</AddressLine1>
+            <City>WEST WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01092</ZIPCode>
+          </USAddress>
+          <Title>1ST VP</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PHYLLIS LASKA</PersonName>
+          <USAddress>
+            <AddressLine1>SOUTHBRIDGE STREET</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </USAddress>
+          <Title>2ND VP</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LINDA CUNNINGHAM</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1315</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>URSALA WRIGHT</PersonName>
+          <USAddress>
+            <AddressLine1>19 MILLER DRIVE</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </USAddress>
+          <Title>SECCLERK</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BEVERLY SAWYER</PersonName>
+          <USAddress>
+            <AddressLine1>260 COY HILL ROAD</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GEORGETTE KORZEC</PersonName>
+          <USAddress>
+            <AddressLine1>SOUTH STREET</AddressLine1>
+            <City>WEST WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01092</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KENNETH FRAZIER</PersonName>
+          <USAddress>
+            <AddressLine1>SOUTH STREET</AddressLine1>
+            <City>WEST WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01092</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DEBORAH LEDGER</PersonName>
+          <USAddress>
+            <AddressLine1>253 WASHINGTON STREET</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARTHA GIGUERE</PersonName>
+          <USAddress>
+            <AddressLine1>SOUTHBRIDGE ROAD</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEAN MCCAUGHEY</PersonName>
+          <USAddress>
+            <AddressLine1>BURBANK AVENUE</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DIANE BANFIELD</PersonName>
+          <USAddress>
+            <AddressLine1>RICHARDSON STREET</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAMELA ROZZEN</PersonName>
+          <USAddress>
+            <AddressLine1>EAST ROAD</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TIMOTHY OBRIEN</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 772</AddressLine1>
+            <City>WEST WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01092</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>25362</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>25362</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>25362</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>380</CashDeemedCharitable>
+        <NetNoncharitableAssets>24982</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>1249</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>1249</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>5</TaxBasedOnInvestmentIncome>
+        <TotalTax>5</TotalTax>
+        <DistributableAmountBeforeAdj>1244</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>1244</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>1244</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>3422</ExpensesAndContributions>
+        <QualifyingDistributions>3422</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>5</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>3417</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>1244</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>2220</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>1496</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>1449</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>2467</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>2377</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>10009</TotalExcessDistriCarryover>
+        <QualifyingDistributions>3422</QualifyingDistributions>
+        <AppliedToCurrentYear>1244</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>2178</RemainingDistriFromCorpus>
+        <TotalCorpus>12187</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>2220</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>9967</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>1496</ExcessFromYear4>
+        <ExcessFromYear3>1449</ExcessFromYear3>
+        <ExcessFromYear2>2467</ExcessFromYear2>
+        <ExcessFromYear1>2377</ExcessFromYear1>
+        <ExcessFromCurrentYear>2178</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CLEAN-UP DAY TOWN OF WARREN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>48 HIGH STREET</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CLEAN UP TOWN</PurposeOfGrantOrContribution>
+          <Amount>87</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SENTRY UNIFORM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>803 JAMES ST SUITE 101</AddressLine1>
+            <City>CHICOPEE</City>
+            <State>MA</State>
+            <ZIPCode>01020</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TOWN FLAG POLE</PurposeOfGrantOrContribution>
+          <Amount>395</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TRACIE LUKASKIEWICZ</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3 ASHLEY STREET</AddressLine1>
+            <City>WARE</City>
+            <State>MA</State>
+            <ZIPCode>01082</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TOWN FLOWERS</PurposeOfGrantOrContribution>
+          <Amount>299</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LIZAK BUS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1301 MAIN STREET</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TOWN TOUR</PurposeOfGrantOrContribution>
+          <Amount>385</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TOWN OF WARREN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>48 HIGH STREET</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TOWN EVENT</PurposeOfGrantOrContribution>
+          <Amount>145</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SUSAN SILVA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 214</AddressLine1>
+            <City>WHEELWRIGHT</City>
+            <State>MA</State>
+            <ZIPCode>01094</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SWIMMING PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>271</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RYAN HIBBARD</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>127 WEST MAIN STREET</AddressLine1>
+            <City>WESTFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01085</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TENNIS PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>EMILY MCCARTHY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>8 COTTAGE STREET</AddressLine1>
+            <City>WEST BROOKFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01585</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TENNIS PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>350TH ANNIVERSARY PARADE COMM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>48 HIGH STREET</AddressLine1>
+            <City>WARREN</City>
+            <State>MA</State>
+            <ZIPCode>01083</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PARADE EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>1240</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>3422</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>496</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>496</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>496</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpenses>
+        <Description>LEGAL NOTICE</Description>
+        <RevenueAndExpensesPerBooks>44</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>US POST OFFICE</Description>
+        <RevenueAndExpensesPerBooks>14</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>COMMONWEALTH OF MASSACHUSETTS</Description>
+        <RevenueAndExpensesPerBooks>15</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>COMMONWELATH OF MASSACHUSETTS</Description>
+        <RevenueAndExpensesPerBooks>35</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="STM109">
+      <OtherProfessionalFees>
+        <Category>PROFESSIONAL FEES</Category>
+        <Amount>175</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="STM110">
+      <Taxes>
+        <Category>US TREASURY</Category>
+        <Amount>8</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,1010 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-22T06:59:09-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BERTZ HESS &amp; CO LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3002 Hempland Road</AddressLine1>
+        <City>Lancaster</City>
+        <State>PA</State>
+        <ZIPCode>176011362</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>231993908</EIN>
+      <Name>
+        <BusinessNameLine1>ELIZABETHTOWN HISTORICAL SOCIETY</BusinessNameLine1>
+      </Name>
+      <NameControl>ELIZ</NameControl>
+      <Phone>7173619382</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 301</AddressLine1>
+        <City>ELIZABETHTOWN</City>
+        <State>PA</State>
+        <ZIPCode>17602</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>NATHAN OLWEILER</Name>
+      <Title>Treasurer</Title>
+      <DateSigned>2011-07-22</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Jack L Hess CPA</Name>
+      <Phone>7173922987</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>881958</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>41</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>18277</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>18277</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>18277</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>2924</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>183529</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>2924</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>1912</NetSTCGAdjNetIncm>
+        <GrossSalesLessReturnsAndAllwnc>857</GrossSalesLessReturnsAndAllwnc>
+        <GrossProfitRevAndExpnss referenceDocumentId=" SalesOfInventorySchedule">857</GrossProfitRevAndExpnss>
+        <GrossProfitAdjNetIncm>857</GrossProfitAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">1407</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>23506</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>21201</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>21046</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">2100</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>2100</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">92</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesDsbrsChrtblPrps>92</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">248</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>248</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>61</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>61</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">11041</DeprecAndDepletionRevAndExpnss>
+        <OccupancyRevAndExpnss>10077</OccupancyRevAndExpnss>
+        <OccupancyDsbrsChrtblPrps>10077</OccupancyDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>394</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubDsbrsChrtblPrps>394</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">11096</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>5870</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>5870</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>5226</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>35048</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>6118</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>5931</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>17950</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>750</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>750</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>35798</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>6118</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>5931</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>18700</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-12292</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>15083</NetInvestmentIncome>
+        <AdjustedNetIncome>15115</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>2246</CashBOY>
+        <CashEOY>313</CashEOY>
+        <CashEOYFMV>313</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>71492</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>21370</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>21370</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>281646</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY>278230</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>278230</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>234322</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>314496</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>314496</InvestmentsCorpStockEOYFMV>
+        <LandBuildingAndEquipmentBasis>419772</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>152223</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>270679</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId=" LandEtcSchedule2">267549</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>267549</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>860385</TotalAssetsBOY>
+        <TotalAssetsEOY>881958</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>881958</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>860385</UnrestrictedBOY>
+        <UnrestrictedEOY>881958</UnrestrictedEOY>
+        <TotalNetAssetsBOY>860385</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>881958</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>860385</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>881958</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>860385</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-12292</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId=" OtherIncreasesSchedule">33865</OtherIncreases>
+        <Subtotal>881958</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>881958</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 VODAFONE GROUP PLC NEW SPONS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-01-19</DateAcquired>
+          <DateSold>2010-11-12</DateSold>
+          <GrossSalesPrice>1406</GrossSalesPrice>
+          <CostOrOtherBasis>1224</CostOrOtherBasis>
+          <GainOrLoss>182</GainOrLoss>
+          <GainsMinusExcessOrLosses>182</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>124 VANGUARD 500 INDEX FD SIGNAL 1340</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-29</DateAcquired>
+          <DateSold>2010-11-08</DateSold>
+          <GrossSalesPrice>11538</GrossSalesPrice>
+          <CostOrOtherBasis>10000</CostOrOtherBasis>
+          <GainOrLoss>1538</GainOrLoss>
+          <GainsMinusExcessOrLosses>1538</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>475 TYSON FOODS INC.</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-12-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>8744</GrossSalesPrice>
+          <CostOrOtherBasis>4587</CostOrOtherBasis>
+          <GainOrLoss>4157</GainOrLoss>
+          <GainsMinusExcessOrLosses>4157</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 SHAW GROUP INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-30</DateAcquired>
+          <DateSold>2010-10-20</DateSold>
+          <GrossSalesPrice>3129</GrossSalesPrice>
+          <CostOrOtherBasis>2876</CostOrOtherBasis>
+          <GainOrLoss>253</GainOrLoss>
+          <GainsMinusExcessOrLosses>253</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 PROGRESS ENERGY INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-02-14</DateAcquired>
+          <DateSold>2010-04-15</DateSold>
+          <GrossSalesPrice>3873</GrossSalesPrice>
+          <CostOrOtherBasis>3897</CostOrOtherBasis>
+          <GainOrLoss>-24</GainOrLoss>
+          <GainsMinusExcessOrLosses>-24</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 PFIZER INC COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-12-15</DateAcquired>
+          <DateSold>2010-09-27</DateSold>
+          <GrossSalesPrice>1714</GrossSalesPrice>
+          <CostOrOtherBasis>2808</CostOrOtherBasis>
+          <GainOrLoss>-1094</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1094</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 GLAXO PLC ADRS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-02-15</DateAcquired>
+          <DateSold>2010-01-06</DateSold>
+          <GrossSalesPrice>3097</GrossSalesPrice>
+          <CostOrOtherBasis>4350</CostOrOtherBasis>
+          <GainOrLoss>-1253</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1253</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60 FRONTIER COMM CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-01-06</DateAcquired>
+          <DateSold>2010-07-12</DateSold>
+          <GrossSalesPrice>437</GrossSalesPrice>
+          <CostOrOtherBasis>462</CostOrOtherBasis>
+          <GainOrLoss>-25</GainOrLoss>
+          <GainsMinusExcessOrLosses>-25</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4000 FED HOME LN BKS 3.750% 4/1/10</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-11-12</DateAcquired>
+          <DateSold>2010-04-01</DateSold>
+          <GrossSalesPrice>40000</GrossSalesPrice>
+          <CostOrOtherBasis>39559</CostOrOtherBasis>
+          <GainOrLoss>441</GainOrLoss>
+          <GainsMinusExcessOrLosses>441</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 DEERE &amp; CO.</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-12-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>2826</GrossSalesPrice>
+          <CostOrOtherBasis>2676</CostOrOtherBasis>
+          <GainOrLoss>150</GainOrLoss>
+          <GainsMinusExcessOrLosses>150</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 CONOCOPHILLIPS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-12-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>4094</GrossSalesPrice>
+          <CostOrOtherBasis>3533</CostOrOtherBasis>
+          <GainOrLoss>561</GainOrLoss>
+          <GainsMinusExcessOrLosses>561</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 CHEVRONTEXACO CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-09-11</DateAcquired>
+          <DateSold>2010-08-13</DateSold>
+          <GrossSalesPrice>1927</GrossSalesPrice>
+          <CostOrOtherBasis>1541</CostOrOtherBasis>
+          <GainOrLoss>386</GainOrLoss>
+          <GainsMinusExcessOrLosses>386</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 CAMECO CORP.</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-12-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>2756</GrossSalesPrice>
+          <CostOrOtherBasis>2485</CostOrOtherBasis>
+          <GainOrLoss>271</GainOrLoss>
+          <GainsMinusExcessOrLosses>271</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 BRISTOL-MYERS SQUIBB CO COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-02-17</DateAcquired>
+          <DateSold>2010-08-11</DateSold>
+          <GrossSalesPrice>658</GrossSalesPrice>
+          <CostOrOtherBasis>603</CostOrOtherBasis>
+          <GainOrLoss>55</GainOrLoss>
+          <GainsMinusExcessOrLosses>55</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 BP PLC ADR SPON</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-12-19</DateAcquired>
+          <DateSold>2010-05-05</DateSold>
+          <GrossSalesPrice>2553</GrossSalesPrice>
+          <CostOrOtherBasis>2000</CostOrOtherBasis>
+          <GainOrLoss>553</GainOrLoss>
+          <GainsMinusExcessOrLosses>553</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>225 WEATHERFORD INTL LTD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-26</DateAcquired>
+          <DateSold>2010-05-06</DateSold>
+          <GrossSalesPrice>3520</GrossSalesPrice>
+          <CostOrOtherBasis>4107</CostOrOtherBasis>
+          <GainOrLoss>-587</GainOrLoss>
+          <GainsMinusExcessOrLosses>-587</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>411 VANGUARD MID CAP INDEX FD- SIGNAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-13</DateAcquired>
+          <DateSold>2010-11-08</DateSold>
+          <GrossSalesPrice>11494</GrossSalesPrice>
+          <CostOrOtherBasis>10000</CostOrOtherBasis>
+          <GainOrLoss>1494</GainOrLoss>
+          <GainsMinusExcessOrLosses>1494</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>178 VANGUARD INTL GROWTH FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-13</DateAcquired>
+          <DateSold>2010-11-08</DateSold>
+          <GrossSalesPrice>11124</GrossSalesPrice>
+          <CostOrOtherBasis>10000</CostOrOtherBasis>
+          <GainOrLoss>1124</GainOrLoss>
+          <GainsMinusExcessOrLosses>1124</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>125 UNITED HEALTH GROUP INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-26</DateAcquired>
+          <DateSold>2010-07-16</DateSold>
+          <GrossSalesPrice>3792</GrossSalesPrice>
+          <CostOrOtherBasis>4146</CostOrOtherBasis>
+          <GainOrLoss>-354</GainOrLoss>
+          <GainsMinusExcessOrLosses>-354</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 SOUTHERN COMPANY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-10-01</DateSold>
+          <GrossSalesPrice>3724</GrossSalesPrice>
+          <CostOrOtherBasis>3245</CostOrOtherBasis>
+          <GainOrLoss>479</GainOrLoss>
+          <GainsMinusExcessOrLosses>479</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>175 SAFEWAY INC. NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-07</DateAcquired>
+          <DateSold>2010-06-08</DateSold>
+          <GrossSalesPrice>3627</GrossSalesPrice>
+          <CostOrOtherBasis>4148</CostOrOtherBasis>
+          <GainOrLoss>-521</GainOrLoss>
+          <GainsMinusExcessOrLosses>-521</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 QUALCOMM INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-20</DateAcquired>
+          <DateSold>2010-03-31</DateSold>
+          <GrossSalesPrice>3146</GrossSalesPrice>
+          <CostOrOtherBasis>3191</CostOrOtherBasis>
+          <GainOrLoss>-45</GainOrLoss>
+          <GainsMinusExcessOrLosses>-45</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 POTASH CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-11</DateAcquired>
+          <DateSold>2010-04-05</DateSold>
+          <GrossSalesPrice>2877</GrossSalesPrice>
+          <CostOrOtherBasis>2732</CostOrOtherBasis>
+          <GainOrLoss>145</GainOrLoss>
+          <GainsMinusExcessOrLosses>145</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>125 PAYCHEX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-17</DateAcquired>
+          <DateSold>2010-07-06</DateSold>
+          <GrossSalesPrice>3126</GrossSalesPrice>
+          <CostOrOtherBasis>3705</CostOrOtherBasis>
+          <GainOrLoss>-579</GainOrLoss>
+          <GainsMinusExcessOrLosses>-579</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 MONSANTO CO NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-12-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>5358</GrossSalesPrice>
+          <CostOrOtherBasis>6020</CostOrOtherBasis>
+          <GainOrLoss>-662</GainOrLoss>
+          <GainsMinusExcessOrLosses>-662</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150 KROGER CO.</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-24</DateAcquired>
+          <DateSold>2010-05-25</DateSold>
+          <GrossSalesPrice>3023</GrossSalesPrice>
+          <CostOrOtherBasis>3441</CostOrOtherBasis>
+          <GainOrLoss>-418</GainOrLoss>
+          <GainsMinusExcessOrLosses>-418</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 KELLOGG CO COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-21</DateAcquired>
+          <DateSold>2010-12-10</DateSold>
+          <GrossSalesPrice>1243</GrossSalesPrice>
+          <CostOrOtherBasis>1348</CostOrOtherBasis>
+          <GainOrLoss>-105</GainOrLoss>
+          <GainsMinusExcessOrLosses>-105</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 JP MORGAN CHASE &amp; CO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-22</DateAcquired>
+          <DateSold>2010-01-21</DateSold>
+          <GrossSalesPrice>3150</GrossSalesPrice>
+          <CostOrOtherBasis>3148</CostOrOtherBasis>
+          <GainOrLoss>2</GainOrLoss>
+          <GainsMinusExcessOrLosses>2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 GLAXO PLC ADRS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-29</DateAcquired>
+          <DateSold>2010-01-06</DateSold>
+          <GrossSalesPrice>1032</GrossSalesPrice>
+          <CostOrOtherBasis>996</CostOrOtherBasis>
+          <GainOrLoss>36</GainOrLoss>
+          <GainsMinusExcessOrLosses>36</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 FRONTIER COMM CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-12-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>44</GrossSalesPrice>
+          <CostOrOtherBasis>44</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>125 FOSTER WHEELER AG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-05</DateAcquired>
+          <DateSold>2010-07-06</DateSold>
+          <GrossSalesPrice>2678</GrossSalesPrice>
+          <CostOrOtherBasis>4033</CostOrOtherBasis>
+          <GainOrLoss>-1355</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1355</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 EXELON CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-12-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>3635</GrossSalesPrice>
+          <CostOrOtherBasis>3751</CostOrOtherBasis>
+          <GainOrLoss>-116</GainOrLoss>
+          <GainsMinusExcessOrLosses>-116</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200 EMC CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-21</DateAcquired>
+          <DateSold>2010-01-21</DateSold>
+          <GrossSalesPrice>3474</GrossSalesPrice>
+          <CostOrOtherBasis>3516</CostOrOtherBasis>
+          <GainOrLoss>-42</GainOrLoss>
+          <GainsMinusExcessOrLosses>-42</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 CONOCOPHILLIPS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-12-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>6341</GrossSalesPrice>
+          <CostOrOtherBasis>6071</CostOrOtherBasis>
+          <GainOrLoss>270</GainOrLoss>
+          <GainsMinusExcessOrLosses>270</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>125 CISCO SYS INC.</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-28</DateAcquired>
+          <DateSold>2010-12-07</DateSold>
+          <GrossSalesPrice>2435</GrossSalesPrice>
+          <CostOrOtherBasis>2829</CostOrOtherBasis>
+          <GainOrLoss>-394</GainOrLoss>
+          <GainsMinusExcessOrLosses>-394</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 BUNGE LIMITED</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-12-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>3916</GrossSalesPrice>
+          <CostOrOtherBasis>5013</CostOrOtherBasis>
+          <GainOrLoss>-1097</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1097</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 BP PLC ADR SPON</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-12</DateAcquired>
+          <DateSold>2010-05-05</DateSold>
+          <GrossSalesPrice>3829</GrossSalesPrice>
+          <CostOrOtherBasis>4252</CostOrOtherBasis>
+          <GainOrLoss>-423</GainOrLoss>
+          <GainsMinusExcessOrLosses>-423</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 AMGEN INC.</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-15</DateAcquired>
+          <DateSold>2010-05-14</DateSold>
+          <GrossSalesPrice>4083</GrossSalesPrice>
+          <CostOrOtherBasis>4573</CostOrOtherBasis>
+          <GainOrLoss>-490</GainOrLoss>
+          <GainsMinusExcessOrLosses>-490</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 AIR PRODUCTS &amp; CHEM COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-08-31</DateAcquired>
+          <DateSold>2010-09-17</DateSold>
+          <GrossSalesPrice>4106</GrossSalesPrice>
+          <CostOrOtherBasis>3695</CostOrOtherBasis>
+          <GainOrLoss>411</GainOrLoss>
+          <GainsMinusExcessOrLosses>411</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>2924</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>1912</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>17383</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>561645</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.03095</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>27429</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>585627</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.04684</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>18130</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>627522</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.02889</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>16829</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>593625</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.02835</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>17061</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>559158</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.03051</DistributionRatioYear5>
+        <TotalDistributionRatio>0.16554</TotalDistributionRatio>
+        <AverageDistributionRatio>0.03311</AverageDistributionRatio>
+        <NetNoncharitableAssets>587795</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>19461</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>151</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>19612</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>26611</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>151</InvestmentIncomeExciseTax>
+        <Subtotal>151</Subtotal>
+        <TaxBasedOnInvestmentIncome>151</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>113</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>113</TotalCreditsAndPayments>
+        <TaxDue>38</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>PA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>NATHAN OLWEILER TREASURER</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7173619382</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>POBOX 301</AddressLine1>
+          <City>ELIZABETHTOWN</City>
+          <State>PA</State>
+          <ZIPCode>17022</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOANNE FERRARI</PersonName>
+          <USAddress>
+            <AddressLine1>POBOX 301</AddressLine1>
+            <City>ELIZABETHTOWN</City>
+            <State>PA</State>
+            <ZIPCode>17022</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NATHAN OLWEILER</PersonName>
+          <USAddress>
+            <AddressLine1>POBOX 301</AddressLine1>
+            <City>ELIZABETHTOWN</City>
+            <State>PA</State>
+            <ZIPCode>17022</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM BRADY</PersonName>
+          <USAddress>
+            <AddressLine1>POBOX 301</AddressLine1>
+            <City>ELIZABETHTOWN</City>
+            <State>PA</State>
+            <ZIPCode>17022</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KATHLEEN FORNEY</PersonName>
+          <USAddress>
+            <AddressLine1>POBOX 301</AddressLine1>
+            <City>ELIZABETHTOWN</City>
+            <State>PA</State>
+            <ZIPCode>17022</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>563449</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>33297</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>596746</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>596746</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>8951</CashDeemedCharitable>
+        <NetNoncharitableAssets>587795</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>29390</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>29390</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>151</TaxBasedOnInvestmentIncome>
+        <TotalTax>151</TotalTax>
+        <DistributableAmountBeforeAdj>29239</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>29239</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>29239</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>18700</ExpensesAndContributions>
+        <AmountsPaidAcqCharitableAssets>7911</AmountsPaidAcqCharitableAssets>
+        <QualifyingDistributions>26611</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>151</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>26460</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>29239</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>18831</UndistributedIncomePriorYear>
+        <QualifyingDistributions>26611</QualifyingDistributions>
+        <AppliedToYear1>18831</AppliedToYear1>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>7780</AppliedToCurrentYear>
+        <UndistributedIncomeCY>21459</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NORTHWEST EMERGENCY MEDICAL SVC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>308 W BAINBRDIGE STREET</AddressLine1>
+            <City>ELIZABETHTOWN</City>
+            <State>PA</State>
+            <ZIPCode>17022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ELIZABETHTOWN PUBLIC LIBRARY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>10 S MARKET STREET</AddressLine1>
+            <City>ELIZABETHTOWN</City>
+            <State>PA</State>
+            <ZIPCode>17022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FRIENDSHIP FIRE HOSE CO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>171 N MOUNT JOY STREET</AddressLine1>
+            <City>ELIZABETHTOWN</City>
+            <State>PA</State>
+            <ZIPCode>17022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>750</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>MEMBERSHIP DUES</Description>
+          <RelatedOrExemptFunctionIncome>860</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>18277</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2924</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <GrossProfitLossSalesOfInvntry>
+          <RelatedOrExemptFunctionIncome>857</RelatedOrExemptFunctionIncome>
+        </GrossProfitLossSalesOfInvntry>
+        <OtherRevenueDescribed>
+          <Description>MISCELLANEOUS REVENUE</Description>
+          <RelatedOrExemptFunctionIncome>547</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>21201</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>2264</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>23465</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>11A</LineNumber>
+          <RelationshipStatement>MISCELLANEOUS REVENUE IS GENERATED FROM THE ANNUAL CHRISTMAS DINNER, WHICH BRINGS TOGETHER MEMBERS AND INCLUDES A PRESENTATION ON THE HISTORY OF ELIZABETHTOWN, IN KEEPING WITH THE SOCIETY'S MISSION.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>10</LineNumber>
+          <RelationshipStatement>INVENTORY SOLD BY THE SOCIETY CONSISTS OF BOOKS, DVDS AND TAPES RELATED TO THE HISTORY OF ELIZABETHTOWN, AS WELL AS MAPS OF THE AREA.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>BY OFFERING MEMBERSHIPS, THE SOCIETY FOSTERS INTEREST IN AND COMMITMENT TO PRESERVING THE HISTORY OF ELIZABETHTOWN.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>2100</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2100</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Depreciation>
+        <DescriptionOfProperty>Track Light; Motion Detec</DescriptionOfProperty>
+        <DateAcquired>2010-10-06</DateAcquired>
+        <CostOrOtherBasis>4925</CostOrOtherBasis>
+        <ComputationMethod>54</ComputationMethod>
+        <Rate>0.0125</Rate>
+        <CurrentYearExpense>62</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>New AC Compressor</DescriptionOfProperty>
+        <DateAcquired>2010-08-16</DateAcquired>
+        <CostOrOtherBasis>2986</CostOrOtherBasis>
+        <ComputationMethod>54</ComputationMethod>
+        <Rate>0.0750</Rate>
+        <CurrentYearExpense>224</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Dell Desktop &amp; Laptop</DescriptionOfProperty>
+        <DateAcquired>2007-12-27</DateAcquired>
+        <CostOrOtherBasis>2000</CostOrOtherBasis>
+        <PriorYearsDepreciation>850</PriorYearsDepreciation>
+        <ComputationMethod>54</ComputationMethod>
+        <Rate>0.2000</Rate>
+        <CurrentYearExpense>400</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>6 Display Cases</DescriptionOfProperty>
+        <DateAcquired>2007-04-19</DateAcquired>
+        <CostOrOtherBasis>1030</CostOrOtherBasis>
+        <PriorYearsDepreciation>386</PriorYearsDepreciation>
+        <ComputationMethod>58</ComputationMethod>
+        <Rate>0.1429</Rate>
+        <CurrentYearExpense>147</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Land Improvements</DescriptionOfProperty>
+        <DateAcquired>1999-06-24</DateAcquired>
+        <CostOrOtherBasis>8578</CostOrOtherBasis>
+        <PriorYearsDepreciation>5720</PriorYearsDepreciation>
+        <ComputationMethod>91</ComputationMethod>
+        <Life>15.0000</Life>
+        <CurrentYearExpense>572</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Construction Costs 1998</DescriptionOfProperty>
+        <DateAcquired>1998-04-01</DateAcquired>
+        <CostOrOtherBasis>309347</CostOrOtherBasis>
+        <PriorYearsDepreciation>92879</PriorYearsDepreciation>
+        <ComputationMethod>87</ComputationMethod>
+        <Rate>0.0256</Rate>
+        <CurrentYearExpense>7932</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Landscaping</DescriptionOfProperty>
+        <DateAcquired>1998-08-03</DateAcquired>
+        <CostOrOtherBasis>3791</CostOrOtherBasis>
+        <PriorYearsDepreciation>2888</PriorYearsDepreciation>
+        <ComputationMethod>91</ComputationMethod>
+        <Life>15.0000</Life>
+        <CurrentYearExpense>253</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Construction Costs 1997</DescriptionOfProperty>
+        <DateAcquired>1997-12-31</DateAcquired>
+        <CostOrOtherBasis>33899</CostOrOtherBasis>
+        <PriorYearsDepreciation>10428</PriorYearsDepreciation>
+        <ComputationMethod>87</ComputationMethod>
+        <Rate>0.0256</Rate>
+        <CurrentYearExpense>869</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>School House</DescriptionOfProperty>
+        <DateAcquired>1992-03-06</DateAcquired>
+        <CostOrOtherBasis>16000</CostOrOtherBasis>
+        <PriorYearsDepreciation>10355</PriorYearsDepreciation>
+        <ComputationMethod>91</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>582</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <LandEtc>
+        <CategoryOrItem>Land</CategoryOrItem>
+        <CostOrOtherBasis>19540</CostOrOtherBasis>
+        <BookValue>19540</BookValue>
+        <EOYFMV>19540</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Improvements</CategoryOrItem>
+        <CostOrOtherBasis>360540</CostOrOtherBasis>
+        <AccumulatedDepreciation>121603</AccumulatedDepreciation>
+        <BookValue>238937</BookValue>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Buildings</CategoryOrItem>
+        <CostOrOtherBasis>16000</CostOrOtherBasis>
+        <AccumulatedDepreciation>10937</AccumulatedDepreciation>
+        <BookValue>5063</BookValue>
+        <EOYFMV>239074</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Machinery and Equipment</CategoryOrItem>
+        <CostOrOtherBasis>4986</CostOrOtherBasis>
+        <AccumulatedDepreciation>1474</AccumulatedDepreciation>
+        <BookValue>3512</BookValue>
+        <EOYFMV>8437</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Furniture and Fixtures</CategoryOrItem>
+        <CostOrOtherBasis>18706</CostOrOtherBasis>
+        <AccumulatedDepreciation>18209</AccumulatedDepreciation>
+        <BookValue>497</BookValue>
+        <EOYFMV>498</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>TRUST FEES</Description>
+        <RevenueAndExpensesPerBooks>5870</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>5870</NetInvestmentIncome>
+        <AdjustedNetIncome>5870</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SPEAKERS &amp; REFRESHMENTS</Description>
+        <RevenueAndExpensesPerBooks>768</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>768</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PUBLICITY</Description>
+        <RevenueAndExpensesPerBooks>2611</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2611</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>350</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>350</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEMBERSHIP</Description>
+        <RevenueAndExpensesPerBooks>110</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>110</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CHRISTMAS DINNER</Description>
+        <RevenueAndExpensesPerBooks>672</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>672</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ACQUISITION OF ARTIFACTS</Description>
+        <RevenueAndExpensesPerBooks>715</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>715</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>MISCELLANEOUS REVENUE</Description>
+        <RevenueAndExpensesPerBooks>547</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>MEMBERSHIP DUES</Description>
+        <RevenueAndExpensesPerBooks>860</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncreases>
+        <Description>UNREALIZED GAINS ON INVESTMENTS</Description>
+        <Amount>33865</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherProfessionalFees>
+        <Category>LEGAL AD PUBLICATION</Category>
+        <Amount>92</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>92</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <SalesOfInventoryList documentId="SalesOfInventorySchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <SaleOfInventory>
+        <Category>SALES OF BOOKS/DVDS/ATLASES</Category>
+        <GrossSales>857</GrossSales>
+        <Net>857</Net>
+      </SaleOfInventory>
+    </SalesOfInventoryList>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>FOREIGN TAXES ON INVESTMENTS</Category>
+        <Amount>61</Amount>
+        <NetInvestmentIncome>61</NetInvestmentIncome>
+        <AdjustedNetIncome>61</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>61</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAXES ON INVESTMENT INCOME</Category>
+        <Amount>187</Amount>
+        <NetInvestmentIncome>187</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

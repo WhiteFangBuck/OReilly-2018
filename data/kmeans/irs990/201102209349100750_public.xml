@@ -1,0 +1,883 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T10:42:09-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>FOX ROTHSCHILD LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2000 MARKET ST - 20TH FLR</AddressLine1>
+        <City>PHILADELPHIA</City>
+        <State>PA</State>
+        <ZIPCode>191033222</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>232762647</EIN>
+      <Name>
+        <BusinessNameLine1>THE ALICE DEBRA DONNA POWELL TRUST</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION DATED 4/20/94</BusinessNameLine2>
+      </Name>
+      <NameControl>ALIC</NameControl>
+      <Phone>2152992174</Phone>
+      <USAddress>
+        <AddressLine1>C/O GM HATFIELD 2000 MARKET ST-20TH</AddressLine1>
+        <AddressLine2>FLR</AddressLine2>
+        <City>PHILADELPHIA</City>
+        <State>PA</State>
+        <ZIPCode>191033222</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ALICE POWELL</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>2152992174</Phone>
+      <DateSigned>2011-08-08</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>GERALD M HATFIELD</Name>
+      <Phone>2152992174</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>272806</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>3435</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>3435</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>2610</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2610</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>3322</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>73634</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>3322</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>9367</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>9367</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">4671</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">1397</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>1397</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>6068</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1397</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>8285</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>8285</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>14353</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1397</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>8285</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-4986</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>7970</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>117229</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>107030</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>107030</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>2477</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">6822</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>6493</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>134809</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">135705</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>159283</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>254515</TotalAssetsBOY>
+        <TotalAssetsEOY>249557</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>272806</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>254515</CapitalStockBOY>
+        <CapitalStockEOY>249557</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>254515</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>249557</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>254515</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>249557</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>254515</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-4986</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">28</OtherIncreases>
+        <Subtotal>249557</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>249557</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>65 SHS SPDR BARCLAY CAPITAL 1-3</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-09</DateAcquired>
+          <DateSold>2010-01-21</DateSold>
+          <GrossSalesPrice>2980</GrossSalesPrice>
+          <CostOrOtherBasis>2981</CostOrOtherBasis>
+          <GainOrLoss>-1</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>31 SHS CONSUMERS DISCRETIONARY SPDR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>1063</GrossSalesPrice>
+          <CostOrOtherBasis>833</CostOrOtherBasis>
+          <GainOrLoss>230</GainOrLoss>
+          <GainsMinusExcessOrLosses>230</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>29 SHS ISHARES IBOXX$ HIGH YLD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>2576</GrossSalesPrice>
+          <CostOrOtherBasis>2433</CostOrOtherBasis>
+          <GainOrLoss>143</GainOrLoss>
+          <GainsMinusExcessOrLosses>143</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 SHS ISHARES IBOXX$ HIGH YLD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-09</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>444</GrossSalesPrice>
+          <CostOrOtherBasis>420</CostOrOtherBasis>
+          <GainOrLoss>24</GainOrLoss>
+          <GainsMinusExcessOrLosses>24</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>18 SHS ISHARES S&amp;P GLOBAL FINLS SECT INDEX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-09</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>894</GrossSalesPrice>
+          <CostOrOtherBasis>823</CostOrOtherBasis>
+          <GainOrLoss>71</GainOrLoss>
+          <GainsMinusExcessOrLosses>71</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 SHS ISHARES TR S&amp;P GLOBAL CONSUMER STAPLES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>296</GrossSalesPrice>
+          <CostOrOtherBasis>267</CostOrOtherBasis>
+          <GainOrLoss>29</GainOrLoss>
+          <GainsMinusExcessOrLosses>29</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 SHS PLUM CREEK TIMBER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>161</GrossSalesPrice>
+          <CostOrOtherBasis>119</CostOrOtherBasis>
+          <GainOrLoss>42</GainOrLoss>
+          <GainsMinusExcessOrLosses>42</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>30 SHS SPDR BARCLAY CAPITAL 1-3</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-09</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>1375</GrossSalesPrice>
+          <CostOrOtherBasis>1376</CostOrOtherBasis>
+          <GainOrLoss>-1</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>8 SHS SPDR DJ WILSHIRE REIT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>456</GrossSalesPrice>
+          <CostOrOtherBasis>361</CostOrOtherBasis>
+          <GainOrLoss>95</GainOrLoss>
+          <GainsMinusExcessOrLosses>95</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 SHS SPDR SP BIOTECH</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>244</GrossSalesPrice>
+          <CostOrOtherBasis>207</CostOrOtherBasis>
+          <GainOrLoss>37</GainOrLoss>
+          <GainsMinusExcessOrLosses>37</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35 SHS SPDR SP OIL GAS EXPLR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-09</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>1552</GrossSalesPrice>
+          <CostOrOtherBasis>1324</CostOrOtherBasis>
+          <GainOrLoss>228</GainOrLoss>
+          <GainsMinusExcessOrLosses>228</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 SHS VANGUARD CONSUMER STAPLES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>280</GrossSalesPrice>
+          <CostOrOtherBasis>258</CostOrOtherBasis>
+          <GainOrLoss>22</GainOrLoss>
+          <GainsMinusExcessOrLosses>22</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>23 SHS VANGUARD ENERGY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-04-14</DateSold>
+          <GrossSalesPrice>2018</GrossSalesPrice>
+          <CostOrOtherBasis>1808</CostOrOtherBasis>
+          <GainOrLoss>210</GainOrLoss>
+          <GainsMinusExcessOrLosses>210</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>84 SHS VANGUARD ENERGY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-05-14</DateSold>
+          <GrossSalesPrice>6848</GrossSalesPrice>
+          <CostOrOtherBasis>6603</CostOrOtherBasis>
+          <GainOrLoss>245</GainOrLoss>
+          <GainsMinusExcessOrLosses>245</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40 SHS ISHARES S&amp;P GLOBAL FINLS SECT INDEX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-09</DateAcquired>
+          <DateSold>2010-09-14</DateSold>
+          <GrossSalesPrice>1780</GrossSalesPrice>
+          <CostOrOtherBasis>1828</CostOrOtherBasis>
+          <GainOrLoss>-48</GainOrLoss>
+          <GainsMinusExcessOrLosses>-48</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>79 SHS PLUM CREEK TIMBER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-11-12</DateSold>
+          <GrossSalesPrice>2966</GrossSalesPrice>
+          <CostOrOtherBasis>2358</CostOrOtherBasis>
+          <GainOrLoss>608</GainOrLoss>
+          <GainsMinusExcessOrLosses>608</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>84 SHS SPDR DJ WILSHIRE REIT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-11-12</DateSold>
+          <GrossSalesPrice>5034</GrossSalesPrice>
+          <CostOrOtherBasis>3790</CostOrOtherBasis>
+          <GainOrLoss>1244</GainOrLoss>
+          <GainsMinusExcessOrLosses>1244</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 SHS VANGUARD UTILITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-11-12</DateSold>
+          <GrossSalesPrice>1667</GrossSalesPrice>
+          <CostOrOtherBasis>1523</CostOrOtherBasis>
+          <GainOrLoss>144</GainOrLoss>
+          <GainsMinusExcessOrLosses>144</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>41,000 JPMORGAN CHASE CERT OF DEPOSIT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-12-20</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>41000</GrossSalesPrice>
+          <CostOrOtherBasis>41000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>3322</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>6000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>214283</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.028000</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>12440</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>265903</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.046784</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>15696</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>305468</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.051383</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>15116</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>311014</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.048602</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>13710</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>298556</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.045921</DistributionRatioYear5>
+        <TotalDistributionRatio>0.220690</TotalDistributionRatio>
+        <AverageDistributionRatio>0.044138</AverageDistributionRatio>
+        <NetNoncharitableAssets>263811</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>11644</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>80</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>11724</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>8285</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>159</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>159</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>159</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>130</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>229</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>359</TotalCreditsAndPayments>
+        <Overpayment>200</Overpayment>
+        <AmountCreditedToNextYear>200</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>PA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>GERALD M HATFIELD</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2152992174</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2000 MARKET ST - 20TH FLR</AddressLine1>
+          <City>PHILADELPHIA</City>
+          <State>PA</State>
+          <ZIPCode>191033222</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALICE E POWELL</PersonName>
+          <USAddress>
+            <AddressLine1>313 LINDEN DRIVE</AddressLine1>
+            <City>ELKINS PARK</City>
+            <State>PA</State>
+            <ZIPCode>19027</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DEBRA POWELL</PersonName>
+          <USAddress>
+            <AddressLine1>169 FOREST TRAIL DRIVE</AddressLine1>
+            <City>LANSDALE</City>
+            <State>PA</State>
+            <ZIPCode>19446</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DONNA ABEL</PersonName>
+          <USAddress>
+            <AddressLine1>3520 LEGACY HILLS COURT</AddressLine1>
+            <City>LONGWOOD</City>
+            <State>FL</State>
+            <ZIPCode>32779</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>155413</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>112415</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>267828</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>267828</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4017</CashDeemedCharitable>
+        <NetNoncharitableAssets>263811</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>13191</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>13191</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>159</TaxBasedOnInvestmentIncome>
+        <TotalTax>159</TotalTax>
+        <DistributableAmountBeforeAdj>13032</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>13032</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>13032</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>8285</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>8285</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>8285</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>13032</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>6901</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>8285</QualifyingDistributions>
+        <AppliedToYear1>6901</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>1384</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>11648</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>ALICE E POWELL</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN LEGION OF LAS VEGAS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>733 VETERANS MEMORIAL DRIVE</AddressLine1>
+            <City>LAS VEGAS</City>
+            <State>NV</State>
+            <ZIPCode>89101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARON FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>243 NORTH GALEN HALL ROAD</AddressLine1>
+            <City>WERNERSVILLE</City>
+            <State>PA</State>
+            <ZIPCode>19565</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>285</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTGOMERY COUNTY SPCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>19 E RIDGE PIKE PO BOX 222</AddressLine1>
+            <City>CONSHOHOCKEN</City>
+            <State>PA</State>
+            <ZIPCode>19428</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PIONEERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10123 WILLIAM CAREY DRIVE</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32832</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UKRANIAN EDUCATIONAL AND CULTURAL CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>700 CEDAR RD</AddressLine1>
+            <City>JENKINTOWN</City>
+            <State>PA</State>
+            <ZIPCode>19046</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>615 SLATERS LANE PO BOX 269</AddressLine1>
+            <City>ALEXANDRIA</City>
+            <State>VA</State>
+            <ZIPCode>22313</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HERITAGE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>214 MASSACHUSETTS AVE NE</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20002</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VETERANS OF FOREIGN WARS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>406 WEST 34TH ST</AddressLine1>
+            <City>KANSAS CITY</City>
+            <State>MO</State>
+            <ZIPCode>64111</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>8285</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3435</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2610</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>3322</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>9367</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>9367</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>147 SHS BP PLC</NameOfStock>
+        <EOYBookValue>6822</EOYBookValue>
+        <EOYFMV>6493</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>83 SHS PLUM CREEK TIMBER</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>102 SHS ISHARES S&amp;P GLOBAL FINLS SECTOR INDEX</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>4662</BookValue>
+        <EOYFMV>4705</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>118 SHS ISHARES TR S&amp;P GSSI MULTIMEDIA NETWORKING INDEX</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>3092</BookValue>
+        <EOYFMV>3954</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>134 SHS MARKET VECTORS ETF TR</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>5861</BookValue>
+        <EOYFMV>8237</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>158 SHS ISHARES S&amp;P GLOBAL HEALTH CARE</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>7595</BookValue>
+        <EOYFMV>8178</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>160 SHS VANGUARD INDUSTRIAL</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>7912</BookValue>
+        <EOYFMV>10371</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>167 SHS ISHARES DOW JONES US FINL SVCS COMP INDEX</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>9212</BookValue>
+        <EOYFMV>9614</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>185.814 SHS NATIXIS GATEWAY FD</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>4781</BookValue>
+        <EOYFMV>4842</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>19 SHS VANGUARD ENERGY</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>1494</BookValue>
+        <EOYFMV>1894</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>211 SHS VANGUARD INFORMATION TECH</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>10792</BookValue>
+        <EOYFMV>12981</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>25 SHS VANGUARD UTILITIES</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>1523</BookValue>
+        <EOYFMV>1677</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>258 SHS VANGUARD EMERGING MARKETS</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>10516</BookValue>
+        <EOYFMV>12422</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>274 SHS CONSUMER DISCRETIONARY SPDR</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>7680</BookValue>
+        <EOYFMV>10250</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>28 SHS VANGUARD TELECOMM SERVICES</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>1505</BookValue>
+        <EOYFMV>1838</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>32 SHS ISHARES AEROSPACE</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>1523</BookValue>
+        <EOYFMV>1883</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>34 SHS ISHARES IBOXX$ HY CORP BOND</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>0</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>34 SHS ISHARES TR S&amp;P GSSI SEMICONDUCTOR INDEX</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>1474</BookValue>
+        <EOYFMV>1894</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>346.635 SHS BLACKROCK GLOBAL ALLOCATION FD</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>6277</BookValue>
+        <EOYFMV>6759</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>42 SHS ISHARES TR DJ US OIL EQUIP</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>1688</BookValue>
+        <EOYFMV>2367</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>43 SHS SPDR SP OIL GAS EXPLR</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>1627</BookValue>
+        <EOYFMV>2268</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>453 SHS VANGUARD FTSE ALL WORLD EX US</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>19406</BookValue>
+        <EOYFMV>21622</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>49 SHS ISHARES TR S&amp;P GLOBAL MA MATERIALS</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>2643</BookValue>
+        <EOYFMV>3589</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>54 SHS SPDR SP BIOTECH</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>2790</BookValue>
+        <EOYFMV>3406</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>71 SHS ISHARES TR S&amp;P GSSI SOFTWARE INDEX</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>3064</BookValue>
+        <EOYFMV>4148</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>747.607 SHS NEUBERGER BERMAN EQUITY INC FD</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>7999</BookValue>
+        <EOYFMV>8171</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>83 SHS VANGUARD CONSUMERS STAPLES</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>5347</BookValue>
+        <EOYFMV>6091</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>92 SHS SPDR DJ WILSHIRE REIT</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>0</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>95 SHS SPDR BARCLAY CAPTL 1-3 MO BILL</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>0</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>98 SHS ISHARES TR S&amp;P GLOBAL CONSUMER STAPLES</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>5242</BookValue>
+        <EOYFMV>6122</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>FOX ROTHSCHILD LLP</Category>
+        <Amount>4671</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>MERRILL LYNCH - CONSULTING AND ADVISORY FEES</Description>
+        <RevenueAndExpensesPerBooks>1397</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1397</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>NORTELL SECURITIES - US LITIGATION SETTLEMENT</Description>
+        <Amount>12</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>WORLDCOM SETTLEMENT FUND</Description>
+        <Amount>6</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>SMITH BARNEY - CASH RECEIVED ON CLOSING OF THE ACCOUNT</Description>
+        <Amount>10</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

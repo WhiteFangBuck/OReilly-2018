@@ -1,0 +1,925 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-20T10:38:52-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LARSONALLEN LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>220 SOUTH SIXTH STREET SUITE 300</AddressLine1>
+        <City>MINNEAPOLIS</City>
+        <State>MN</State>
+        <ZIPCode>55402</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>510175508</EIN>
+      <Name>
+        <BusinessNameLine1>THE BAKKEN</BusinessNameLine1>
+      </Name>
+      <NameControl>THEB</NameControl>
+      <Phone>6129263878</Phone>
+      <USAddress>
+        <AddressLine1>3537 ZENITH AVE S</AddressLine1>
+        <City>MINNEAPOLIS</City>
+        <State>MN</State>
+        <ZIPCode>554164623</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DAVID J RHEES</Name>
+      <Title>EXECUTIVE DIRECTOR</Title>
+      <Phone>6129263878</Phone>
+      <DateSigned>2011-06-01</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JOHN TAUER</Name>
+      <Phone>6123764500</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>DAVID J RHEES</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>3537 ZENITH AVE S</AddressLine1>
+        <City>MINNEAPOLIS</City>
+        <State>MN</State>
+        <ZIPCode>554164623</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>2560168</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.THEBAKKEN.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1975</YearFormation>
+      <StateLegalDomicile>MN</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO INSPIRE A PASSION FOR SCIENCE BY EXPLORING THE HISTORY AND NATURE OF ELECTRICITY.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>20</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>20</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>61</TotalNbrEmployees>
+      <TotalNbrVolunteers>152</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>1650843</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>2274119</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>260253</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>266567</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>1339</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>3348</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>6237</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>1110</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>1918672</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>2545144</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>10643</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>5850</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>1361284</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>1440155</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>217785</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>676036</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>710208</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>2047963</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>2156213</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-129291</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>388931</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>9218068</TotalAssetsBOY>
+      <TotalAssetsEOY>9613372</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>92014</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>98387</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>9126054</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>9514985</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>TO INSPIRE A PASSION FOR SCIENCE AND ITS POTENTIAL FOR SOCIAL GOOD BY HELPING PEOPLE EXPLORE THE HISTORY AND NATURE OF ELECTRICITY AND MAGNETISM.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>542489</Expense>
+      <Grants>4250</Grants>
+      <Revenue>0</Revenue>
+      <Description>EXHIBITS AND COLLECTIONS: THE BAKKEN COLLECTS, PRESERVES, AND ASSISTS STUDENTS AND RESEARCHERS IN USING ITS WORLD-RENOWNED HISTORICAL COLLECTION OF RARE BOOKS AND ARTIFACTS. CHANGING EXHIBITS UTILIZE THE HISTORICAL COLLECTION AND HANDS-ON DISPLAYS TO EDUCATE AND INSPIRE VISITORS. (19,766 SERVED).</Description>
+      <Activity2>
+        <Expense>462394</Expense>
+        <Grants>0</Grants>
+        <Revenue>135868</Revenue>
+        <Description>SCHOOL AND YOUTH PROGRAMS: THE BAKKEN SPARKS INTEREST IN SCIENCE AND SUPPORTS SCIENCE TEACHING IN AREA SCHOOLS THROUGH SCHOOL FIELD TRIPS, INVENTION PROGRAMS AND TEACHER PROFESSIONAL DEVELOPMENT. (14,125 SERVED)</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>456147</Expense>
+        <Grants>1600</Grants>
+        <Revenue>61540</Revenue>
+        <Description>SCIENCE THEATER AND OUTREACH: PERFORMING ARTS TECHNIQUES BRING SCIENCE AND HISTORY TO LIFE THROUGH SHORT PLAYS, OFFSITE SCHOOL PARTNERSHIPS, AND OUTREACH ACTIVITIES. (41,952 SERVED)</Description>
+      </Activity3>
+      <ActivityOther>
+        <Expense>119936</Expense>
+        <Grants>0</Grants>
+        <Revenue>69159</Revenue>
+        <Description>PUBLIC PROGRAMS: PUBLIC PROGRAMS ENHANCE THE EDUCATIONAL EXPERIENCE FOR CHILDREN, FAMILIES, AND ADULTS VISITING THE MUSEUM THROUGH SUPER SCIENCE SATURDAYS, AND SPECIAL EVENTS. (10,152 SERVED)</Description>
+      </ActivityOther>
+      <TotalOfOtherProgramServiceExp>119936</TotalOfOtherProgramServiceExp>
+      <TotalOfOtherProgramServiceRev>69159</TotalOfOtherProgramServiceRev>
+      <TotalProgramServiceExpense>1580966</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1039900001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1039900001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1039900001">1</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1039900001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1039900001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1039900001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1039900001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1039900001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1039900001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1039900001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1039900001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1039900001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1039900001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>1</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">0</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">1</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt referenceDocumentId="RetDoc1042900001">0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>12</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>61</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>20</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>20</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>1</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>MN</StatesWhereCopyOfReturnIsFiled>
+      <OtherWebsite>X</OtherWebsite>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>NANCY ALVARADO</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>6129263878</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>3537 ZENITH AVE S</AddressLine1>
+          <City>MINNEAPOLIS</City>
+          <State>MN</State>
+          <ZIPCode>554164623</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>EARL E BAKKEN</NamePerson>
+        <Title>BOARD CHAIR</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRAD BAKKEN</NamePerson>
+        <Title>BOARD PRESIDENT</Title>
+        <AverageHoursPerWeek>2.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARJORIE F ANDERSEN</NamePerson>
+        <Title>BOARD VICE-PRESIDENT</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>GEORGINE L BUSCH</NamePerson>
+        <Title>BOARD TREASURER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN L POWERS</NamePerson>
+        <Title>BOARD SECRETARY</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>REBECCA BERGMAN</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LARRY BICK</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LAWRENCE BOLL</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRUCE BRUEMMER</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL DAY</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KANDACE OLSEN</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DONALD E GERHARDT</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RON HAGENSON</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>NEIL MACCORMICK</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL MCDAID</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THOMAS F PETERSON JR</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LESA RAMOS</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATHY SCOGGIN</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROGER H STUEWER</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MATTHEW THELL</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID WHITMAN</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID J RHEES</NamePerson>
+        <Title>EXECUTIVE DIRECTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>111017</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>19248</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>NANCY ALVARADO - DEPUTY</NamePerson>
+        <Title>DIRECTOR FOR ADMINISTRATION</Title>
+        <AverageHoursPerWeek>35.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>66923</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>5996</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KELLY FINNERTY - DEPUTY</NamePerson>
+        <Title>DIRECTOR FOR PROGRAMS</Title>
+        <AverageHoursPerWeek>35.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>67708</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>14867</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHRISTINE OLSEN</NamePerson>
+        <Title>DIRECTOR OF MARKETING AND PROGRAMS</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>52236</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>4656</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>STEVEN WALVIG</NamePerson>
+        <Title>DIRECTOR OF EDUCATION</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>47380</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>10109</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>245648</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>40111</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <FundraisingEvents>54998</FundraisingEvents>
+      <GovernmentGrants>20925</GovernmentGrants>
+      <AllOtherContributions>2198196</AllOtherContributions>
+      <NoncashContributions>580257</NoncashContributions>
+      <TotalContributions>2274119</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>PROGRAM SERVICE FEES</Description>
+        <BusinessCode>541900</BusinessCode>
+        <TotalRevenueColumn>238810</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>238810</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>FACILITY USE FEES</Description>
+        <BusinessCode>541900</BusinessCode>
+        <TotalRevenueColumn>27757</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>27757</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>266567</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>3348</TotalRevenueColumn>
+        <ExclusionAmount>3348</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossIncomeFundraisingEvents>522</GrossIncomeFundraisingEvents>
+      <CntrbtnsRprtdFundraisingEvents>54998</CntrbtnsRprtdFundraisingEvents>
+      <FundraisingDirectExpenses>6601</FundraisingDirectExpenses>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>-6079</TotalRevenueColumn>
+        <ExclusionAmount>-6079</ExclusionAmount>
+      </NetIncomeFromFundraisingEvents>
+      <GrossSalesOfInventory>15117</GrossSalesOfInventory>
+      <CostOfGoodsSold>8423</CostOfGoodsSold>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>6694</TotalRevenueColumn>
+        <ExclusionAmount>6694</ExclusionAmount>
+      </NetIncomeOrLoss>
+      <OtherRevenueMisc>
+        <Description>MISC REVENUE</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>495</TotalRevenueColumn>
+        <ExclusionAmount>495</ExclusionAmount>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>495</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>2545144</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>266567</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>4458</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticIndividuals>
+        <Total>5850</Total>
+        <ProgramServices>5850</ProgramServices>
+      </GrantsToDomesticIndividuals>
+      <CompCurrentOfficersDirectors>
+        <Total>285759</Total>
+        <ProgramServices>82574</ProgramServices>
+        <ManagementAndGeneral>138052</ManagementAndGeneral>
+        <Fundraising>65133</Fundraising>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>979850</Total>
+        <ProgramServices>801364</ProgramServices>
+        <ManagementAndGeneral>101487</ManagementAndGeneral>
+        <Fundraising>76999</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>15526</Total>
+        <ProgramServices>14960</ProgramServices>
+        <Fundraising>566</Fundraising>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>65411</Total>
+        <ProgramServices>56314</ProgramServices>
+        <ManagementAndGeneral>3596</ManagementAndGeneral>
+        <Fundraising>5501</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>93609</Total>
+        <ProgramServices>66696</ProgramServices>
+        <ManagementAndGeneral>16903</ManagementAndGeneral>
+        <Fundraising>10010</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>3000</Total>
+        <ManagementAndGeneral>3000</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>12755</Total>
+        <ManagementAndGeneral>12755</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>59796</Total>
+        <ProgramServices>55317</ProgramServices>
+        <ManagementAndGeneral>2413</ManagementAndGeneral>
+        <Fundraising>2066</Fundraising>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>24142</Total>
+        <ProgramServices>22449</ProgramServices>
+        <ManagementAndGeneral>13</ManagementAndGeneral>
+        <Fundraising>1680</Fundraising>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>102545</Total>
+        <ProgramServices>86707</ProgramServices>
+        <ManagementAndGeneral>9108</ManagementAndGeneral>
+        <Fundraising>6730</Fundraising>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>36188</Total>
+        <ProgramServices>32609</ProgramServices>
+        <ManagementAndGeneral>2073</ManagementAndGeneral>
+        <Fundraising>1506</Fundraising>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>128395</Total>
+        <ProgramServices>97487</ProgramServices>
+        <ManagementAndGeneral>18677</ManagementAndGeneral>
+        <Fundraising>12231</Fundraising>
+      </Occupancy>
+      <Travel>
+        <Total>18154</Total>
+        <ProgramServices>11662</ProgramServices>
+        <ManagementAndGeneral>5899</ManagementAndGeneral>
+        <Fundraising>593</Fundraising>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>8331</Total>
+        <ProgramServices>3768</ProgramServices>
+        <ManagementAndGeneral>2584</ManagementAndGeneral>
+        <Fundraising>1979</Fundraising>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>271902</Total>
+        <ProgramServices>212736</ProgramServices>
+        <ManagementAndGeneral>31884</ManagementAndGeneral>
+        <Fundraising>27282</Fundraising>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>34525</Total>
+        <ProgramServices>26214</ProgramServices>
+        <ManagementAndGeneral>5022</ManagementAndGeneral>
+        <Fundraising>3289</Fundraising>
+      </Insurance>
+      <OtherExpenses>
+        <Description>STAFF DVLPMNT/RECRTING</Description>
+        <Total>8416</Total>
+        <ProgramServices>4259</ProgramServices>
+        <ManagementAndGeneral>3587</ManagementAndGeneral>
+        <Fundraising>570</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BAD DEBT EXPENSE</Description>
+        <Total>2059</Total>
+        <ManagementAndGeneral>409</ManagementAndGeneral>
+        <Fundraising>1650</Fundraising>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>2156213</Total>
+        <ProgramServices>1580966</ProgramServices>
+        <ManagementAndGeneral>357462</ManagementAndGeneral>
+        <Fundraising>217785</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>259731</BOY>
+        <EOY>190313</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>121537</BOY>
+        <EOY>202214</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>2294690</BOY>
+        <EOY>2901373</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>13591</BOY>
+        <EOY>14981</EOY>
+      </AccountsReceivable>
+      <InventoriesForSaleOrUse>
+        <BOY>2258</BOY>
+        <EOY>1853</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>1604</BOY>
+        <EOY>14154</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>7665547</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>4306501</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>3586126</BOY>
+        <EOY>3359046</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>2938531</BOY>
+        <EOY>2929438</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>9218068</BOY>
+        <EOY>9613372</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>87474</BOY>
+        <EOY>95567</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>4540</BOY>
+        <EOY>2820</EOY>
+      </DeferredRevenue>
+      <TotalLiabilities>
+        <BOY>92014</BOY>
+        <EOY>98387</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>6752316</BOY>
+        <EOY>6453167</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>2373738</BOY>
+        <EOY>3061818</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>9126054</BOY>
+        <EOY>9514985</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>9218068</BOY>
+        <EOY>9613372</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>388931</ReconcilationRevenueExpenses>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus4Years>1620600</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1297034</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1577200</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1659014</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>2282905</CurrentTaxYear>
+        <Total>8436753</Total>
+      </GiftsGrantsContribReceived170>
+      <Total170>
+        <CurrentTaxYearMinus4Years>1620600</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1297034</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1577200</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1659014</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>2282905</CurrentTaxYear>
+        <Total>8436753</Total>
+      </Total170>
+      <AmountsSubstContributorsTotal>6054434</AmountsSubstContributorsTotal>
+      <PublicSupportTotal170>2382319</PublicSupportTotal170>
+      <GrossInvestmentIncome170>
+        <CurrentTaxYearMinus4Years>8482</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>5908</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>3510</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1339</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>3348</CurrentTaxYear>
+        <Total>22587</Total>
+      </GrossInvestmentIncome170>
+      <OtherIncome170>
+        <CurrentTaxYearMinus4Years>2948</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>2006</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>4901</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>6237</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>495</CurrentTaxYear>
+        <Total>16587</Total>
+      </OtherIncome170>
+      <TotalSupport>8475927</TotalSupport>
+      <GrossReceiptsFromAdmissionsEtc>1495223</GrossReceiptsFromAdmissionsEtc>
+      <PublicSupportPertcentage170>0.28110</PublicSupportPertcentage170>
+      <PublicSupportPertcentPriorYear>0.21630</PublicSupportPertcentPriorYear>
+      <TenPercentTestCurrentYear>X</TenPercentTestCurrentYear>
+      <FactsAndCircumstancesTest>SCHEDULE A, PART II, LINE 17A, EXPLANATION FOR FACTS AND CIRCUMSTANCES TESTTHE ORGANIZATION MAINTAINS ACTIVE COMMUNITY SUPPORT WHICH HAS SUCCESSFULLY ATTRACTED CONTRIBUTIONS FROM THE GENERAL PUBLIC. THEIR ANNUAL SPECIAL EVENT PROVIDES AN OPPORTUNITY FOR THE GENERAL PUBLIC TO KNOW MORE ABOUT THE ORGANZATION AND TO SUPPORT THE ORGANIZATION'S PROGRAMS. THE ORGANIZATION'S BOARD OF DIRECTORS REPRESENTS LEADERSHIP FROM AND OF THE COMMUNITY, AS WELL AS NONPROFIT MANAGEMENT EXPERTISE. THE BOARD HAS BEEN DESIGNED BOTH TO FACILIATE INVOLVEMENT BY FUNDERS AND TO ENSURE ACCOUNTABILITY TO THE BROAD COMMUNITY THE BAKKEN SERVES. THE ORGANIZATION HAS MANY PROGRAMS, COLLABORATIONS, AND RESOURCES AVAILABLE BOTH ON-SITE AND OFF-SITE THAT PROVIDE THE PUBLIC AND COMMUNITY WITH EDUCATION AND ACCESS TO LEARNING ABOUT THE WORLD OF SCIENCE IN GENERAL WITH SPECIFIC EXPERTISE AND EMPHASIS ON ELECTRICITY AND MAGNETISM.</FactsAndCircumstancesTest>
+      <GeneralExplanation>SCHEDULE A, PART II, LINE 10, EXPLANATION OF OTHER INCOME: MISCELLANEOUS REVENUE</GeneralExplanation>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1039900001">
+      <ArtPublicExhibitionAmts>
+        <RevenuesIncluded>183</RevenuesIncluded>
+        <AssetsInPartX>2929438</AssetsInPartX>
+      </ArtPublicExhibitionAmts>
+      <HeldWorksOfArtAmts>
+        <RevenuesIncluded>0</RevenuesIncluded>
+        <AssetsInPartX>0</AssetsInPartX>
+      </HeldWorksOfArtAmts>
+      <CollectUsedForPublicExhibition>X</CollectUsedForPublicExhibition>
+      <CollectUsedForScholarResearch>X</CollectUsedForScholarResearch>
+      <CollectUsedForPreservation>X</CollectUsedForPreservation>
+      <CollectUsedForLoanOrExchPrgrms>X</CollectUsedForLoanOrExchPrgrms>
+      <SolicitedAssetsForSale>0</SolicitedAssetsForSale>
+      <Buildings>
+        <OtherCostOrOtherBasis>7041802</OtherCostOrOtherBasis>
+        <Depreciation>3718242</Depreciation>
+        <BookValue>3323560</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>601212</OtherCostOrOtherBasis>
+        <Depreciation>567726</Depreciation>
+        <BookValue>33486</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>22533</OtherCostOrOtherBasis>
+        <Depreciation>20533</Depreciation>
+        <BookValue>2000</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>3359046</TotalOfBookValueLandBuildings>
+      <OtherAssets>
+        <Description>LIBRARY &amp; MUSEUM COLLECTIONS</Description>
+        <BookValue>2929438</BookValue>
+      </OtherAssets>
+      <TotalBookValueOtherAssets>2929438</TotalBookValueOtherAssets>
+      <TotalRevenue>2545144</TotalRevenue>
+      <TotalExpenses>2156213</TotalExpenses>
+      <ExcessOrDeficitForYear>388931</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>388931</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>2567129</TotRevenueEtcAuditedFinclStmt>
+      <DonatedSrvcAndUseOfFacilities>6961</DonatedSrvcAndUseOfFacilities>
+      <OtherRevenues>15024</OtherRevenues>
+      <RevenueNotRptdF990>21985</RevenueNotRptdF990>
+      <RevenueSubtotal>2545144</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>2545144</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>2178198</TotExpensesEtcAuditedFinclStmt>
+      <DonatedServicesUseOfFacilities>6961</DonatedServicesUseOfFacilities>
+      <OtherExpensesIncluded>15024</OtherExpensesIncluded>
+      <ExpensesNotRptdF990>21985</ExpensesNotRptdF990>
+      <ExpensesSubtotal>2156213</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>2156213</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <ReturnReference>PART III, LINE 4:</ReturnReference>
+        <Explanation>THE BAKKEN HAS A COLLECTION OF APPROXIMATELY 11,000 RARE BOOKS AND 2,000 ARTIFACTS DOCUMENTING THE HISTORY OF ELECTRICITY AND MAGNETISM. THE COLLECTION OFFERS A UNIQUE RESOURCE TO SCHOLARS, SCIENTISTS, STUDENTS, TEACHERS, PHYSICIANS, AND THE GENERAL PUBLIC. THE COLLECTION IS UTILIZED IN CHANGING EXHIBITS, PUBLIC PROGRAMS, AND AS A SOURCE OF INFORMATION FOR K-12 EDUCATIONAL PROGRAMS IN ORDER TO INSPIRE GREATER INTEREST IN AND UNDERSTANDING OF SCIENCE.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF UNCERTAIN TAX POSITIONS UNDER FIN 48:</Identifier>
+        <ReturnReference>PART X:</ReturnReference>
+        <Explanation>THE ORGANIZATION FOLLOWS GUIDANCE IN THE INCOME TAX STANDARD REGARDING THE RECOGNITION OF UNCERTAIN TAX POSITIONS. THIS GUIDANCE PRESCRIBES RECOGNITION THRESHOLD PRINCIPLES FOR THE FINANCIAL STATEMENT RECOGNITION OF TAX POSITIONS TAKEN OR EXPECTED TO BE TAKEN ON A TAX RETURN THAT ARE NOT CERTAIN TO BE REALIZED. THE ORGANIZATION IS NOT AWARE OF ANY UNCERTAIN TAX POSITIONS TAKEN. THE ORGANIZATIONS TAX RETURNS ARE SUBJECT TO REVIEW AND EXAMINATION BY FEDERAL AND STATE AUTHORITIES. THE TAX RETURNS FOR THE YEARS 2007 THROUGH 2010 ARE OPEN TO EXAMINATION BY FEDERAL AND STATE AUTHORITIES.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XII, LINE 2D - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>COST OF GOODS SOLD 8,423. SPECIAL EVENT EXPENSES 6,601.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XIII, LINE 2D - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>COST OF GOODS SOLD 8,423. SPECIAL EVENT EXPENSES 6,601.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleG documentId="RetDoc1041300001">
+      <EventsInformation>
+        <NameOfEvent1>BREAKFAST</NameOfEvent1>
+        <GrossReceiptsEvent1>44425</GrossReceiptsEvent1>
+        <CharitableContributionsEvent1>44425</CharitableContributionsEvent1>
+        <FoodAndBeverageEvent1>1458</FoodAndBeverageEvent1>
+        <OtherDirectExpensesEvent1>1482</OtherDirectExpensesEvent1>
+        <NameOfEvent2>YOUNG FRANKENSTEIN EVENT</NameOfEvent2>
+        <GrossReceiptsEvent2>11095</GrossReceiptsEvent2>
+        <CharitableContributionsEvent2>10573</CharitableContributionsEvent2>
+        <GrossRevenueEvent2>522</GrossRevenueEvent2>
+        <FoodAndBeverageEvent2>3206</FoodAndBeverageEvent2>
+        <OtherDirectExpensesEvent2>455</OtherDirectExpensesEvent2>
+        <GrossReceiptsTotal>55520</GrossReceiptsTotal>
+        <CharitableContributionsTotal>54998</CharitableContributionsTotal>
+        <GrossRevenueTotalEvents>522</GrossRevenueTotalEvents>
+        <FoodAndBeverageTotalEvents>4664</FoodAndBeverageTotalEvents>
+        <OtherDirectExpensesTotalEvents>1937</OtherDirectExpensesTotalEvents>
+        <DirectExpenseSummaryEvents>6601</DirectExpenseSummaryEvents>
+        <NetIncomeSummary>-6079</NetIncomeSummary>
+      </EventsInformation>
+    </IRS990ScheduleG>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>ADULT EDUCATION AND RESEARCH STIPENDS</TypeOfGrant>
+        <NumberOfRecipients>18</NumberOfRecipients>
+        <AmountOfCashGrant>5850</AmountOfCashGrant>
+        <AmountOfNonCashAssistance>0</AmountOfNonCashAssistance>
+        <MethodOfValuation>N/A</MethodOfValuation>
+        <DescriptionOfNonCashAssistance>N/A</DescriptionOfNonCashAssistance>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIV>
+        <Identifier>PROCEDURE FOR MONITORING GRANTS IN THE U.S.:</Identifier>
+        <ReturnReference>PART I, LINE 2:</ReturnReference>
+        <Explanation>SCHEDULE I, PART I, LINE 2: GRANT FUNDS ARE AWARDED ONLY FOR ADULTS PARTICIPATING IN TEACHER AND SCHOLAR DEVELOPMENT WORKSHOPS OR SCHOLARLY RESEARCH AT THE BAKKEN.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <BooksAndPublications>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NoncashContribsRptdF990>183</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FAIR MARKET VALUE</MethodOfDeterminingRevenues>
+      </BooksAndPublications>
+      <SecuritiesPubliclyTraded>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>1</NumberOfContributions>
+        <NoncashContribsRptdF990>588860</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>STOCK MARKET QUOTES</MethodOfDeterminingRevenues>
+      </SecuritiesPubliclyTraded>
+      <NumberOf8283Received>0</NumberOf8283Received>
+      <AnyPropertyThatMustBeHeld>0</AnyPropertyThatMustBeHeld>
+      <ReviewProcessUnusualNCGifts>1</ReviewProcessUnusualNCGifts>
+      <ThirdPartiesUsed>0</ThirdPartiesUsed>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 2</Identifier>
+        <Explanation>EARL BAKKEN AND BRAD BAKKEN - FAMILY RELATIONSHIP; EARL BAKKEN AND MAJORIE ANDERSEN - FAMILY RELATIONSHIP; BRAD BAKKEN AND MAJORIE ANDERSEN - FAMILY RELATIONSHIP</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>THE BAKKEN'S MANAGEMENT REVIEWS THE FORM 990. THE FINANCE COMMITTEE AND SENIOR STAFF MEET TO REVIEW AND APPROVE THE RETURN. THE RETURN IS THEN SENT TO THE GOVERNING BODY PRIOR TO FILING.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>THE BAKKEN ANNUALLY ASKS ALL TRUSTEES AND KEY EMPLOYEES TO COMPLETE A CONFLICT OF INTEREST FORM. CONFLICTS ARE REVIEWED BY THE EXECUTIVE DIRECTOR WITH THE EXECUTIVE COMMITTEE OF THE BOARD. TRUSTEES OR KEY EMPLOYEES WHO DISCLOSE CONFLICTS ARE REQUIRED TO REFRAIN FROM DISCUSSING OR VOTING ON THE PARTICULAR TRANSACTION IN WHICH HE/SHE HAS AN INTEREST, OR OTHERWISE ATTEMPTING TO EXERT ANY INFLUENCE ON THE BAKKEN OR ITS COMPONENTS TO AFFECT A DECISION TO PARTICIPATE OR NOT PARTICIPATE IN SUCH TRANSACTION. ALL PROCEEDINGS RELATED TO CONFLICTS OF INTEREST ARE DOCUMENTED IN THE MEETING MINUTES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15A</ReturnReference>
+        <Explanation>THE PERSONEL COMMITTEE OF THE BAKKEN BOARD OF DIRECTORS EVALUATES THE PERFORMANCE OF THE EXECUTIVE DIRECTOR, AND CONSIDERS THAT IN RELATION TO AT LEAST TWO SALARY SURVEYS, INCLUDING THE MOST RECENT MN COUNCIL OF NONPROFITS SALARY AND BENEFITS SURVEY, IN DETERMINING COMPENSATION FOR THE EXECUTIVE DIRECTOR. THE COMMITTEE MAKES A RECOMMENDATION TO THE FULL BOARD AND THE ACTION IS DOCUMENTED IN THE MINUTES. THE PROCESS WAS LAST UNDERTAKEN IN 2010 FOR D. RHEES. THE EXECUTIVE DIRECTOR EVALUATES THE PERFORMANCE OF THE DEPUTY DIRECTOR FOR ADMINISTRATION AND DETERMINES COMPENSATION WITHIN THE SALARY RANGE FOR THE POSITION. ALL STAFF COMPENSATION IS APPROVED BY THE BOARD AS PART OF THE ORGANIZATION'S BUDGET PROCESS. THE PROCESS WAS LAST UNDERTAKEN IN 2009 FOR N. ALVARADO AND K. FINNERTY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE ORGANIZATION'S FINANCIAL STATEMENTS ARE AVAILABLE TO THE PUBLIC UPON REQUEST. THE ORGANIZATION'S GOVERNING DOCUMENTS AND CONFLICT OF INTEREST POLICY ARE NOT AVAILABLE TO THE PUBLIC.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

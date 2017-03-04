@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-28T16:32:50-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>COLUMBUS ACCOUNTANCY CORPORATION</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>14 MONARCH BAY PLAZA 350</AddressLine1>
+        <City>MONARCH BEACH</City>
+        <State>CA</State>
+        <ZIPCode>92629</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>753226454</EIN>
+      <Name>
+        <BusinessNameLine1>ASHBY WINDWARD FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>ASHB</NameControl>
+      <Phone>6467231949</Phone>
+      <USAddress>
+        <AddressLine1>3109 GRAND AVENUE</AddressLine1>
+        <AddressLine2>ROOM/SUITE 465</AddressLine2>
+        <City>COCONUT GROVE</City>
+        <State>FL</State>
+        <ZIPCode>33133</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CHRISTOFER ASHBY</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>6467231949</Phone>
+      <DateSigned>2011-08-01</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>PATTI COLUMBUS</Name>
+      <Phone>9494895602</Phone>
+      <DatePrepared>2011-07-28</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>13497</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>16900</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <TotalRevenueAndExpenses>16900</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>5600</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">750</AccountingFeesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc5">19447</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>14734</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>25797</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>14734</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>17162</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>17162</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>42959</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>31896</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-26059</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>38256</CashBOY>
+        <CashEOY>12197</CashEOY>
+        <CashEOYFMV>12197</CashEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc4">1300</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc4">1300</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc4">1300</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>39556</TotalAssetsBOY>
+        <TotalAssetsEOY>13497</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>13497</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>39556</RetainedEarningsBOY>
+        <RetainedEarningsEOY>13497</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>39556</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>13497</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>39556</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>13497</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>39556</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-26059</ExcessOfRevenueOverExpenses>
+        <Subtotal>13497</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>13497</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>40570</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>56953</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.712342</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>76449</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>43835</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>1.744017</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>50294</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>22201</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>2.265393</DistributionRatioYear3>
+        <NoncharitableAssetsYear4>19700</NoncharitableAssetsYear4>
+        <TotalDistributionRatio>4.721752</TotalDistributionRatio>
+        <AverageDistributionRatio>1.573917</AverageDistributionRatio>
+        <NetNoncharitableAssets>22556</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>35501</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>35501</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>31896</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>DE</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc6">false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.ASHBYWINDWARDFOUNDATION.ORG</WebsiteAddress>
+        <BooksInCareOfPersonName>DR CHRISTOFER ASHBY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9494895602</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3109 GRAND AVE 465</AddressLine1>
+          <City>COCONUT GROVE</City>
+          <State>FL</State>
+          <ZIPCode>33133</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">CHRISTOFER ASHBY PHD</PersonName>
+          <USAddress>
+            <AddressLine1>3109 GRAND AVE 465</AddressLine1>
+            <City>COCONUT GROVE</City>
+            <State>FL</State>
+            <ZIPCode>33133</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">HANSEL ASHBY MD</PersonName>
+          <USAddress>
+            <AddressLine1>3109 GRAND AVE 465</AddressLine1>
+            <City>COCONUT GROVE</City>
+            <State>FL</State>
+            <ZIPCode>33133</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">HOWARD ASHBY DVM</PersonName>
+          <USAddress>
+            <AddressLine1>3109 GRAND AVE 465</AddressLine1>
+            <City>COCONUT GROVE</City>
+            <State>FL</State>
+            <ZIPCode>33133</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">JAMES RANDALL MILNE MD</PersonName>
+          <USAddress>
+            <AddressLine1>3109 GRAND AVE 465</AddressLine1>
+            <City>COCONUT GROVE</City>
+            <State>FL</State>
+            <ZIPCode>33133</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">LAURIE ASHBY MD</PersonName>
+          <USAddress>
+            <AddressLine1>3109 GRAND AVE 465</AddressLine1>
+            <City>COCONUT GROVE</City>
+            <State>FL</State>
+            <ZIPCode>33133</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">CORINE MILNE</PersonName>
+          <USAddress>
+            <AddressLine1>3109 GRAND AVE 465</AddressLine1>
+            <City>COCONUT GROVE</City>
+            <State>FL</State>
+            <ZIPCode>33133</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>6.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>5600</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>DURING THE CURRENT YEAR, THE FOUNDATION FURTHERED IT'S EXEMPT PURPOSE OF PROVIDING SUPPORT TO THE CITIZENS OF GRENADA BY PROVIDING FUNDS FOR MEDICAL TREATMENTS AND LIFE-SAVING SURGERIES FOR INDIVIDUALS WHO COULD NOT OTHERWISE AFFORD SUCH TREATMENTS AND SURGERIES. THE FOUNDATION ALSO PAID FOR THE TRANSPORTATION OF QUALIFIED PHYSICIANS TO THE MEDICAL FACILITIES FOR THE PURPOSES OF PERFORMING THE ABOVE-MENTIONED SURGERIES AND TO PROVIDE MEDICAL CARE FOR THE CITIZENS OF GRENADA. IN ADDITION, THE FOUNDATION PURCHASED MEDICAL EQUIPMENT FOR CARRIACOU HEALTH SERVICES AND PAID FOR THE SHIPMENT AND DELIVERY OF THE EQUIPMENT TO THE FACILITY.</Description1>
+        <Expenses1>24950</Expenses1>
+        <Description2>DURING THE CURRENT YEAR, THE FOUNDATION PROVIDED SUPPORT TO HARVEY VALE GOVERNMENT SCHOOL, AN ELEMENTARY SCHOOL LOCATED IN GRENADA. THE SCHOOL'S SEPTIC TANK WAS OLD, BADLY DAMAGED, AND WOULD OFTEN FAIL. THE SCHOOL WOULD HAVE TO CLOSE FOR DAYS OR WEEKS WHILE THE SYSTEM WAS BEING TEMPORARILY REPAIRED. THIS RESULTED IN THE STUDENTS MISSING A SUBSTANTIAL PART OF THE ACADEMIC YEAR. THE SCHOOL DID NOT HAVE THE FUNDS TO PROPERLY REPAIR THE SYSTEM. THE FOUNDATION DONATED MONIES TO THE SCHOOL, AND THE SCHOOL USED THE FUNDS TO PAY FOR THE RECONSTRUCTION OF IT'S DAMAGED SEPTIC TANK. THE STUDENTS WERE ABLE TO START THE 2010-2011 ACADEMIC YEAR WITH A FULLY FUNCTIONING SEPTIC SYSTEM.</Description2>
+        <Expenses2>6140</Expenses2>
+        <Description3>IN 2009, THE FOUNDATION ESTABLISHED A SUBSIDIARY CALLED FRIENDS THROUGH BOOKS. THE PURPOSE OF FRIENDS THROUGH BOOKS IS TO PROVIDE READING BOOKS AND EDUCATIONAL MATERIALS TO THE STUDENTS OF CARRIACOU AND GRENADA. DURING THE CURRENT YEAR, STUDENTS IN THE U.S. DONATED THEIR USED BOOKS TO FRIENDS THROUGH BOOKS. THE FOUNDATION'S FUNDS WERE USED TO SHIP THE BOOKS AND MATERIALS FROM THE U.S. TO CARRIACOU AND GRENADA.</Description3>
+        <Expenses3>806</Expenses3>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>21599</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>1300</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>22899</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>22899</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>343</CashDeemedCharitable>
+        <NetNoncharitableAssets>22556</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>1128</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>1128</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>1128</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>1128</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>1128</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>31896</ExpensesAndContributions>
+        <QualifyingDistributions>31896</QualifyingDistributions>
+        <AdjQualifyingDistributions>31896</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>1128</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>49098</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>74257</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>37722</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>161077</TotalExcessDistriCarryover>
+        <QualifyingDistributions>31896</QualifyingDistributions>
+        <AppliedToCurrentYear>1128</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>30768</RemainingDistriFromCorpus>
+        <TotalCorpus>191845</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>191845</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>49098</ExcessFromYear3>
+        <ExcessFromYear2>74257</ExcessFromYear2>
+        <ExcessFromYear1>37722</ExcessFromYear1>
+        <ExcessFromCurrentYear>30768</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>CHRIS ASHBYL'ESTERRE HOLDINGS INC</ContributingManager>
+        <ContributingManager>HANSEL ASHBY</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARRIACOU HEALTH SERVICES</BusinessNameLine1>
+            <BusinessNameLine2>CARRIACOU CHARITABLE HEALTH SERVICES INC</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>40 W 135 135TH ST</AddressLine1>
+            <AddressLine2>40 W 135 135TH ST</AddressLine2>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11224</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MEDICAL SERVICES &amp; SURGERIES</PurposeOfGrantOrContribution>
+          <Amount>10572</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CLEVELAND CLINC</BusinessNameLine1>
+            <BusinessNameLine2>CLEVELAND CLINIC</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2950 CLEVELAND CLINIC ST</AddressLine1>
+            <AddressLine2>2950 CLEVELAND CLINIC ST</AddressLine2>
+            <City>WESTON</City>
+            <State>FL</State>
+            <ZIPCode>33331</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MEDICAL SERVICES</PurposeOfGrantOrContribution>
+          <Amount>450</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARVEY VALE GOVT SCHOOL</BusinessNameLine1>
+            <BusinessNameLine2>HARVEY VALE GOVT SCHOOL</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1>HARVEY VALE</AddressLine1>
+            <AddressLine2>HARVEY VALE</AddressLine2>
+            <ProvinceOrState>GRENADA</ProvinceOrState>
+            <Country>GJ</Country>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RECONSTRUCTION OF SEPTIC TANK</PurposeOfGrantOrContribution>
+          <Amount>6140</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>17162</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>TAX RETURN PREPARATION</Category>
+        <Amount>750</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>CHRISTOFER ASHBY PHD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>HANSEL ASHBY MD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>HOWARD ASHBY DVM</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>JAMES RANDALL MILNE MD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>LAURIE ASHBY MD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>CORINE MILNE</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <OtherAssetsSchedule documentId="RetDoc4">
+      <OtherAssets>
+        <Description>OFFICE FURNITURE</Description>
+        <BOYBookValue>1300</BOYBookValue>
+        <EOYBookValue>1300</EOYBookValue>
+        <EOYFMV>1300</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>150</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>123</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>23</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SHIPPING &amp; CUSTOMS DUTIES</Description>
+        <RevenueAndExpensesPerBooks>7702</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>7702</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>1945</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OUTSIDE COMPUTER SERVICES</Description>
+        <RevenueAndExpensesPerBooks>575</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WEBSITE DEVELOPMENT &amp; DESIGN</Description>
+        <RevenueAndExpensesPerBooks>1750</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FOR FRIENDS THROUGH BOOKS</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DELAWARE CORPORATION TAX</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DELAWARE AGENT FEE</Description>
+        <RevenueAndExpensesPerBooks>168</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PRINTING &amp; COPYING</Description>
+        <RevenueAndExpensesPerBooks>233</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>233</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PATIENT &amp; PHYSICIAN TRAVEL</Description>
+        <RevenueAndExpensesPerBooks>2038</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2038</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SPECIFIC ASSISTANCE</Description>
+        <RevenueAndExpensesPerBooks>620</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>620</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEALS FOR TRAVELING PHYSICIAN</Description>
+        <RevenueAndExpensesPerBooks>458</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>458</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SURGICAL EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>3660</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>3660</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc6">
+      <SubstantialContributor>
+        <PersonName>L'ESTERRE HOLDINGS INCCHRIS ASHBY</PersonName>
+        <USAddress>
+          <AddressLine1>3109 GRAND AVENUE 465</AddressLine1>
+          <City>COCONUT GROVE</City>
+          <State>FL</State>
+          <ZIPCode>33133</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+      <SubstantialContributor>
+        <PersonName>FRANK GRITT</PersonName>
+        <USAddress>
+          <AddressLine1>3109 GRAND AVENUE 465</AddressLine1>
+          <City>COCONUT GROVE</City>
+          <State>FL</State>
+          <ZIPCode>33133</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+      <SubstantialContributor>
+        <PersonName>HANSEL ASHBY</PersonName>
+        <USAddress>
+          <AddressLine1>3109 GRAND AVENUE 465</AddressLine1>
+          <City>COCONUT GROVE</City>
+          <State>FL</State>
+          <ZIPCode>33133</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-20T15:08:35-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Lee &amp; Cochran CPAs LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>31255 Cedarvalley Drive Suite 304</AddressLine1>
+        <City>Westlake Village</City>
+        <State>CA</State>
+        <ZIPCode>91362</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>954695254</EIN>
+      <Name>
+        <BusinessNameLine1>Foundation for Human Rabies Education &amp;</BusinessNameLine1>
+        <BusinessNameLine2>Eradication</BusinessNameLine2>
+      </Name>
+      <NameControl>FOUN</NameControl>
+      <Phone>3104579666</Phone>
+      <USAddress>
+        <AddressLine1>30540 Morning View Drive</AddressLine1>
+        <City>Malibu</City>
+        <State>CA</State>
+        <ZIPCode>90265</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Martine j Work</Name>
+      <Title>President</Title>
+      <DateSigned>2011-07-20</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Steve Cochran CPA</Name>
+      <Phone>8189915430</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>7000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>3</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>3</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>3</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>7003</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>3</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>3</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">390</AccountingFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">1293</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1683</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>7045</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>7045</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>8728</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>7045</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-1725</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>3</NetInvestmentIncome>
+        <AdjustedNetIncome>3</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>7911</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>6186</SavingsAndTempCashInvstEOY>
+        <TotalAssetsBOY>7911</TotalAssetsBOY>
+        <TotalAssetsEOY>6186</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>7911</UnrestrictedBOY>
+        <UnrestrictedEOY>6186</UnrestrictedEOY>
+        <TotalNetAssetsBOY>7911</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>6186</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>7911</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>6186</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>7911</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-1725</ExcessOfRevenueOverExpenses>
+        <Subtotal>6186</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>6186</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Martine J Work MD</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3104579666</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>30540 Morning View Drive</AddressLine1>
+          <City>Malibu</City>
+          <State>CA</State>
+          <ZIPCode>90265</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Dr Martine J Work</PersonName>
+          <USAddress>
+            <AddressLine1>30540 Morning View Dr</AddressLine1>
+            <City>Malibu</City>
+            <State>CA</State>
+            <ZIPCode>90265</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>5000</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>5000</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>5000</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>75</CashDeemedCharitable>
+        <NetNoncharitableAssets>4925</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>246</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>246</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>246</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>246</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>246</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>7045</ExpensesAndContributions>
+        <QualifyingDistributions>7045</QualifyingDistributions>
+        <AdjQualifyingDistributions>7045</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>246</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>4599</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>8465</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>4872</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>17936</TotalExcessDistriCarryover>
+        <QualifyingDistributions>7045</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>246</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>6799</RemainingDistriFromCorpus>
+        <TotalCorpus>24735</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>24735</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>4599</ExcessFromYear3>
+        <ExcessFromYear2>8465</ExcessFromYear2>
+        <ExcessFromYear1>4872</ExcessFromYear1>
+        <ExcessFromCurrentYear>6799</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>Martine Work MD</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>30540 MORNING VIEW DRIVE</AddressLine1>
+            <City>MALIBU</City>
+            <State>CA</State>
+            <ZIPCode>90265</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>3104579666</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN INFORMATION AS APPROPRIATE TO DETERMINE CHARITABLE BENEFIT SERVED BY CHARITABLE ORGANIZATIONS TAX-EXEMPT UNDER IRC SECTION 501(C)(3) AND THAT QUALIFY UNDER IRC SECTION 509.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>none</SubmissionDeadlines>
+          <RestrictionsOnAwards>none</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Marwar Trust India</RecipientPersonName>
+          <RecipientForeignAddress>
+            <AddressLine1>Tripureswor</AddressLine1>
+            <City>Kathmandu, Nepal</City>
+            <ProvinceOrState>Kathmandu</ProvinceOrState>
+            <Country>NP</Country>
+            <PostalCode>85</PostalCode>
+          </RecipientForeignAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>NGO</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Rabies control and education</PurposeOfGrantOrContribution>
+          <Amount>7045</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>7045</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>1</ExclusionCode>
+          <RelatedOrExemptFunctionIncome>3</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>3</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>3</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Martine J Work MD</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>30540 Morning View Drive</AddressLine1>
+          <City>Malibu</City>
+          <State>CA</State>
+          <ZIPCode>90265</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>7000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>accounting and tax preparation</Category>
+        <Amount>390</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>insurance</Description>
+        <RevenueAndExpensesPerBooks>1238</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CA State Attorney</Description>
+        <RevenueAndExpensesPerBooks>10</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank Charges</Description>
+        <RevenueAndExpensesPerBooks>45</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>
