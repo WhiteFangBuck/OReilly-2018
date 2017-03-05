@@ -81,7 +81,7 @@ object validationsol {
       .setEstimator(pipeline)
       .setEvaluator(new BinaryClassificationEvaluator)
       .setEstimatorParamMaps(paramGrid)
-      .setNumFolds(2)  // Use 3+ in practice
+      .setNumFolds(2) // Use 3+ in practice
 
     /**
       * Run cross validation
@@ -107,5 +107,5 @@ object validationsol {
       .foreach { case Row(id: Long, text: String, prob: Vector, prediction: Double) =>
         println(s"($id, $text) --> prob=$prob, prediction=$prediction")
       }
-
+  }
 }
