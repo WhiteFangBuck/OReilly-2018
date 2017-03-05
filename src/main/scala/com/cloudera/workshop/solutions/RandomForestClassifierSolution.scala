@@ -2,7 +2,8 @@ package com.cloudera.workshop.solutions
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.Pipeline
-import org.apache.spark.ml.classification.RandomForestClassifier
+import org.apache.spark.ml.classification.{RandomForestClassificationModel, RandomForestClassifier}
+import org.apache.spark.ml.evaluation.MulticlassClassificationEvaluator
 import org.apache.spark.ml.feature._
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
@@ -147,6 +148,24 @@ object RandomForestClassifierSolution {
       * Display Result
       */
     predictions.select("predictedLabel", "sentiment", "features").show(30)
+
+    /**
+      * Select (prediction, true label) and compute test error
+      */
+
+    val evaluator = new MulticlassClassificationEvaluator()
+      .setLabelCol("indexedLabel")
+      .setPredictionCol("prediction")
+      .setMetricName("accuracy")
+    val accuracy = evaluator.evaluate(predictions)
+
+
+    /**
+      * Print the error
+      */
+    println("Test Error = " + (1.0 - accuracy))
+    val rfModel = model.stages(2).asInstanceOf[RandomForestClassificationModel]
+    println("Learned classification forest model:\n" + rfModel.toDebugString)
 
 
   }

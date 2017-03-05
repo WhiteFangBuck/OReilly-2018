@@ -97,6 +97,12 @@ object ProblemFourRandomForestClassifier {
       * Display Result
       */
 
+    /**
+      * Select (prediction, true label) and compute test error
+      */
 
+    /**
+      * Print the error
+      */
   }
 }
