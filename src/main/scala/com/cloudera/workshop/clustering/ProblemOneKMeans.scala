@@ -17,10 +17,10 @@ object ProblemOneKMeans{
       .getOrCreate()
 
     // Create the DataFrame using csv method
-    val input_data = "data/kmeans/flightinfo/flights_nofeatures.csv"
+    val dataset = "data/kmeans/flightinfo/flights_nofeatures.csv"
     val inputData = session.read
         .option("header","true")
-        .option("inferSchema","true").csv(input_data)
+        .option("inferSchema","true").csv(dataset)
 
     inputData.printSchema()
     inputData.show(50)
@@ -59,14 +59,14 @@ object ProblemOneKMeans{
     }
 
     val transformedTime = transformedDay.withColumn ("dateFract",dayFract(transformedDay("Arrival Time")))
-                                          .withColumn("LocInt",toInt(transformedDay("Location")))
+                                          .withColumn("Grade",toInt(transformedDay("PayGrade")))
     transformedTime.printSchema()
     transformedTime.show()
 
     // Use VectorAssembler to assemble feature vector
     // From relevant columns
     val assembler = new VectorAssembler()
-                          .setInputCols(Array("Saturday","Sunday","Monday","dateFract","LocInt"))
+                          .setInputCols(Array("Saturday","Sunday","Monday","dateFract","Grade"))
                           .setOutputCol("features")
 
     val featurizedData = assembler.transform(transformedTime)
@@ -86,12 +86,12 @@ object ProblemOneKMeans{
     // Trains a k-means model
     val kmeans = new KMeans()
       .setK(20)
-      .setFeaturesCol("features")
+      .setFeaturesCol("scaled_features")
       .setPredictionCol("clusterId")
     val model = kmeans.fit(scaledData)
 
 
-    val predictedCluster = model.transform(featurizedData)
+    val predictedCluster = model.transform(scaledData)
     predictedCluster.printSchema()
     predictedCluster.show(100)
 
