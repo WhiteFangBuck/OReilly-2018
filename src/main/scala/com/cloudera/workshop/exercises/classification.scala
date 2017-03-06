@@ -31,7 +31,7 @@ import org.apache.spark.sql.types._
 import org.apache.spark.sql.SparkSession
 
 
-object ChurnExample {
+object TelcoChurnPrediction {
 
   def main(args: Array[String]) {
 

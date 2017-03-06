@@ -31,7 +31,7 @@ import org.apache.spark.sql.types._
 import org.apache.spark.sql.SparkSession
 
 
-object SpamExample {
+object SpamClassification {
 
   def main(args: Array[String]) {
 
