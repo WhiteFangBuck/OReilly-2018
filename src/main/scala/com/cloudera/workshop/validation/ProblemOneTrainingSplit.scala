@@ -29,7 +29,10 @@ object ProblemOneTrainingSplit {
     /**
       * Load the data
      */
-    val data = spark.read.format("libsvm").load("data/mllib/sample_linear_regression_data.txt")
+    val data = spark.read.format("libsvm").load("data/validation/sample_linear_regression_data.txt")
+
+    data.printSchema()
+    data.show()
 
     /**
       * Split into training and testing
