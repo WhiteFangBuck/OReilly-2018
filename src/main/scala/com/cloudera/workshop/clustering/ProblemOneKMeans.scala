@@ -1,7 +1,7 @@
 package com.cloudera.workshop
 import org.apache.log4j._
 import org.apache.spark.ml.clustering.KMeans
-import org.apache.spark.ml.feature.VectorAssembler
+import org.apache.spark.ml.feature.{MinMaxScaler, StandardScaler, VectorAssembler}
 import org.apache.spark.sql.functions._
 
 object ProblemOneKMeans{
@@ -53,34 +53,42 @@ object ProblemOneKMeans{
                           }
                         }
 
+    // UDF to convert to Int
+    val  toInt = udf {(s: String) =>
+      s.toInt
+    }
+
     val transformedTime = transformedDay.withColumn ("dateFract",dayFract(transformedDay("Arrival Time")))
+                                          .withColumn("LocInt",toInt(transformedDay("Location")))
     transformedTime.printSchema()
     transformedTime.show()
 
     // Use VectorAssembler to assemble feature vector
     // From relevant columns
     val assembler = new VectorAssembler()
-                          .setInputCols(Array("Saturday","Sunday","Monday","dateFract","Flight"))
+                          .setInputCols(Array("Saturday","Sunday","Monday","dateFract","LocInt"))
                           .setOutputCol("features")
 
     val featurizedData = assembler.transform(transformedTime)
     featurizedData.printSchema()
-    featurizedData.show()
+    featurizedData.show(20,false)
 
 
     // Scale my features
-    //val scaler = new StandardScaler()
-    //                     .setInputCol("features")
-    //                       .setOutputCol("scaled_features")
-    //val scalerModel = scaler.fit(featurizedData)
-    //val scaledData = scalerModel.transform(featurizedData)
-    // Trains a k-means model
+    val scaler = new MinMaxScaler()
+                         .setInputCol("features")
+                           .setOutputCol("scaled_features")
+    val scalerModel = scaler.fit(featurizedData)
+    val scaledData = scalerModel.transform(featurizedData)
+    scaledData.printSchema()
+    scaledData.show(20,false)
 
+    // Trains a k-means model
     val kmeans = new KMeans()
-      .setK(2)
+      .setK(20)
       .setFeaturesCol("features")
       .setPredictionCol("clusterId")
-    val model = kmeans.fit(featurizedData)
+    val model = kmeans.fit(scaledData)
 
 
     val predictedCluster = model.transform(featurizedData)
