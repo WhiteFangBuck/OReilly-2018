@@ -32,12 +32,14 @@ object ProblemOneTrainingSplit {
     val data = spark.read.format("libsvm").load("data/validation/sample_linear_regression_data.txt")
 
     data.printSchema()
-    data.show()
+    data.show(20,false)
 
     /**
       * Split into training and testing
      */
     val Array(training, test) = data.randomSplit(Array(0.9, 0.1), seed = 12345)
+    training.printSchema()
+    training.show(20,false)
 
 
     /**
@@ -52,9 +54,9 @@ object ProblemOneTrainingSplit {
       * For Intercept
       */
     val paramGrid = new ParamGridBuilder()
-      .addGrid(lr.regParam, Array(0.1, 0.01))
-      .addGrid(lr.fitIntercept)
-      .addGrid(lr.elasticNetParam, Array(0.0, 0.5, 1.0))
+      .addGrid(lr.regParam, Array(0.1, 0.01, 1))
+      .addGrid(lr.fitIntercept, Array(true, false))
+      .addGrid(lr.elasticNetParam, Array(0.0, 0.25, 0.5, 0.75))
       .build()
 
     /**
@@ -76,9 +78,12 @@ object ProblemOneTrainingSplit {
     /**
       * Print out the predictions on the test
       */
-    model.transform(test)
+    val result = model.transform(test)
       .select("features", "label", "prediction")
-      .show()
+      result.printSchema()
+      result.show(20,false)
+
+    println(model.bestModel)
 
     spark.stop()
   }
