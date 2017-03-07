@@ -90,7 +90,7 @@ object ProblemTwoCV {
       * Create the parameter builder using various number of features and different values for the regularizer
       */
     val paramGrid = new ParamGridBuilder()
-      .addGrid(hashingTF.numFeatures, Array(1, 10, 100, 1000))
+      .addGrid(hashingTF.numFeatures, Array(10, 100, 1000))
       .addGrid(lr.regParam, Array(0.1, 0.01))
       .build()
 
@@ -117,7 +117,7 @@ object ProblemTwoCV {
      (111100005L,"ad-animal"),
      (111100006L,"The airplane flew low"),
      (111100008L,"ad-supplement"),
-     (111100009L,"athletic performance bone density cardio circulatory support immune support joint support vitamin mineral weight loss product horse total health "),
+     (111100009L,"circulatory support immune support joint support vitamin mineral weight loss product horse total health "),
      (1111000010L,"ad-jerry ad-bruckheimer ad-chase ad-premier ad-sept ad-th ad-clip ad-bruckheimer ad-chase page found")
      ))toDF("id", "text")
 
