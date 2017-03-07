@@ -83,8 +83,6 @@ object ProblemOneTrainingSplit {
       result.printSchema()
       result.show(20,false)
 
-    println(model.bestModel)
-
     spark.stop()
   }
 }
