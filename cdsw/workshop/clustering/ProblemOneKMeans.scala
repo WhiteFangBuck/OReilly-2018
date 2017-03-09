@@ -9,7 +9,7 @@ val session = org.apache.spark.sql.SparkSession.builder()
       .getOrCreate()
 
 // Create the DataFrame using csv method
-val dataset = "data/kmeans/flightinfo/flights_nofeatures.csv"
+val dataset = "/data/kmeans/flightinfo/flights_nofeatures.csv"
 val inputData = session.read
         .option("header","true")
         .option("inferSchema","true").csv(dataset)
