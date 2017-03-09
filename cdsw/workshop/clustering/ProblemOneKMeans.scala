@@ -3,8 +3,6 @@ import org.apache.spark.ml.clustering.KMeans
 import org.apache.spark.ml.feature.{MinMaxScaler, StandardScaler, VectorAssembler}
 import org.apache.spark.sql.functions._
 
-
-
 val session = org.apache.spark.sql.SparkSession.builder()
       .master("local[4]")
       .appName("ProblemOneKMeans")
