@@ -16,14 +16,14 @@
  */
 
 // scalastyle:off println
-package org.cloudera.workshop
+package com.cloudera.workshop.solutions
 
 // $example on$
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.classification.RandomForestClassifier
 import org.apache.spark.ml.evaluation.BinaryClassificationEvaluator
-import org.apache.spark.ml.feature.{LabeledPoint, StringIndexer, VectorAssembler}
+import org.apache.spark.ml.feature.{StringIndexer, VectorAssembler}
 import org.apache.spark.mllib.evaluation.MulticlassMetrics
 import org.apache.spark.sql.types._
 

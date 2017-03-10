@@ -16,7 +16,7 @@
  */
 
 // scalastyle:off println
-package org.cloudera.workshop
+package com.cloudera.workshop.solutions
 
 // $example on$
 

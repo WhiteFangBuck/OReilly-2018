@@ -1,12 +1,11 @@
-package com.cloudera.workshop.exercises
+package com.cloudera.workshop.solutions
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.evaluation.RegressionEvaluator
 import org.apache.spark.ml.feature.{VectorAssembler, VectorIndexer}
-import org.apache.spark.ml.regression.{GBTRegressor, LinearRegression}
+import org.apache.spark.ml.regression.GBTRegressor
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
-import org.apache.spark.sql.types.{DoubleType, StringType, StructField, StructType}
 
 /**
   * Created by jayant on 3/6/17.
@@ -75,7 +74,7 @@ object BikeSharingAnalysis {
     predictions.printSchema()
 
     // Select (prediction, true label) and compute test error.
-    predictions.select("prediction", "count", "features_vector_index").show(5)
+    predictions.select("prediction", "count", "features_vector_index").show(50)
 
     val evaluator = new RegressionEvaluator()
       .setLabelCol("count")
