@@ -54,7 +54,6 @@ val trainValidationSplit = new TrainValidationSplit()
   .setEstimator(lr)
   .setEvaluator(new RegressionEvaluator)
   .setEstimatorParamMaps(paramGrid)
-  // 80% of the data will be used for training and the remaining 20% for validation.
   .setTrainRatio(0.8)
 
 /**
