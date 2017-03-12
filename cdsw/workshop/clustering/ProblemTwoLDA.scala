@@ -4,7 +4,6 @@
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.clustering.LDA
 import org.apache.spark.ml.feature.{CountVectorizer, NGram, RegexTokenizer, StopWordsRemover}
-import org.apache.spark.sql.SparkSession
 
 /**
   * Created by vsingh on 3/3/17.
