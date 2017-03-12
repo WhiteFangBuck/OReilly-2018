@@ -1,4 +1,4 @@
-package com.cloudera.workshop.solutions
+package com.cloudera.workshop.solutions.clustering
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.clustering.LDA
@@ -16,8 +16,8 @@ object LDASolution {
     Logger.getLogger("org").setLevel(Level.OFF)
     Logger.getLogger("akka").setLevel(Level.OFF)
 
-    var inputDir = "data/topicmodeling/newsgroup_20/"
-    var stopWordFile = "data/topicmodeling/stopwords.txt"
+    var inputDir = "data/books/all/"
+    var stopWordFile = "data/stopwords.txt"
 
     if(args.length > 1) {
       inputDir = args(0)

@@ -1,4 +1,4 @@
-package org.cloudera.workshop
+package com.cloudera.workshop.solutions.validation
 
 import org.apache.spark.ml.Pipeline
 import org.apache.spark.ml.classification.LogisticRegression

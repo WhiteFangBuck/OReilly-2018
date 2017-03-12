@@ -1,4 +1,4 @@
-package org.cloudera.workshop
+package com.cloudera.workshop.solutions.extractor
 
 import org.apache.spark.ml.feature._
 import org.apache.spark.sql.SparkSession

@@ -1,4 +1,4 @@
-package org.cloudera.workshop
+package com.cloudera.workshop.solutions.transformer
 
 import org.apache.spark.ml.attribute.Attribute
 import org.apache.spark.ml.feature._

@@ -1,4 +1,4 @@
-package org.cloudera.workshop
+package com.cloudera.workshop.solutions.regression
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.Pipeline
@@ -15,6 +15,7 @@ object regressionsol {
 
   /**
     * Case class is one of mapping incoming data onto the DataFrame columns
+ *
     * @param id
     * @param price
     * @param lotsize

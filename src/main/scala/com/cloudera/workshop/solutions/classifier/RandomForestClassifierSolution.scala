@@ -1,4 +1,4 @@
-package com.cloudera.workshop.solutions
+package com.cloudera.workshop.solutions.classifier
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.Pipeline
