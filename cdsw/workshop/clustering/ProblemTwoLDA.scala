@@ -2,6 +2,7 @@
   * Created by vsingh on 3/11/17.
   */
 import org.apache.log4j.{Level, Logger}
+import org.apache.spark
 import org.apache.spark.ml.clustering.LDA
 import org.apache.spark.ml.feature.{CountVectorizer, NGram, RegexTokenizer, StopWordsRemover}
 

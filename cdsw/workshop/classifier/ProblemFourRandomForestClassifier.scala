@@ -7,7 +7,6 @@ import org.apache.spark.ml.Pipeline
 import org.apache.spark.ml.classification.{RandomForestClassificationModel, RandomForestClassifier}
 import org.apache.spark.ml.evaluation.MulticlassClassificationEvaluator
 import org.apache.spark.ml.feature._
-import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 
 /**
@@ -18,7 +17,7 @@ import org.apache.spark.sql.functions._
 Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
-var inputDir = "data/labeledTrainData.tsv"
+var inputDir = "data/moviereviews.tsv"
 var stopWordFile = "data/stopwords.txt"
 
 val vocabSize: Int = 10000
