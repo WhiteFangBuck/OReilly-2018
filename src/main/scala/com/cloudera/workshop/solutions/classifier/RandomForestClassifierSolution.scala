@@ -18,7 +18,7 @@ object RandomForestClassifierSolution {
     Logger.getLogger("org").setLevel(Level.OFF)
     Logger.getLogger("akka").setLevel(Level.OFF)
 
-    var inputDir = "data/labeledTrainData.tsv"
+    var inputDir = "data/moviereviews.tsv"
     var stopWordFile = "data/stopwords.txt"
 
     val vocabSize: Int = 10000
