@@ -2,7 +2,6 @@
   * Created by vsingh on 3/11/17.
   */
 import org.apache.log4j.{Level, Logger}
-import org.apache.spark
 import org.apache.spark.ml.clustering.LDA
 import org.apache.spark.ml.feature.{CountVectorizer, NGram, RegexTokenizer, StopWordsRemover}
 
@@ -13,10 +12,8 @@ import org.apache.spark.ml.feature.{CountVectorizer, NGram, RegexTokenizer, Stop
 Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
-var inputDir = "data/newsgroup_20/"
-var stopWordFile = "data/stopwords.txt"
-
-import spark.implicits._
+var inputDir = "/data/newsgroup_20/"
+var stopWordFile = "/data/stopwords.txt"
 
 /**
   * There are three hyperparameters here
@@ -34,9 +31,11 @@ val vocabSize: Int = 10000
   * Find a way to read all the files and attach an id to the files read.
   */
 
-val rawTextRDD = spark.sparkContext.wholeTextFiles(inputDir).map(_._2)
-val docDF = rawTextRDD
-      .zipWithIndex.toDF("text", "docId")
+val sqlContext = new SQLContext(sc)
+import sqlContext.implicits._
+
+val rawTextRDD = sc.wholeTextFiles(inputDir).map(_._2)
+val docDF = rawTextRDD.zipWithIndex.toDF("text", "docId")
 
 /**
   * Use RegEx Tokenizer to tokenize the words using several parameters, such as
