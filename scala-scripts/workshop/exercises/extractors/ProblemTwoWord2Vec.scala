@@ -1,15 +1,7 @@
-package org.cloudera.workshop 
 
-import org.apache.spark.sql.SparkSession
 
-object ProblemTwoWord2Vec {
 
-  def main(args: Array[String]): Unit = {
 
-    val spark = SparkSession
-      .builder
-      .appName("ProblemTwoWord2Vec")
-      .getOrCreate()
 
     /**
       * Read in the data to generate and display the word2vec model
@@ -28,7 +20,5 @@ object ProblemTwoWord2Vec {
       * Generate the word2vec model
       */
 
-  }
-}
 
 // scalastyle:on println

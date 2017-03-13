@@ -15,7 +15,6 @@
  * limitations under the License.
  */
 
-package com.cloudera.workshop
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
@@ -35,7 +34,6 @@ package com.cloudera.workshop
  */
 
 import org.apache.log4j.{Level, Logger}
-import org.apache.spark.sql._
 /**
   * Infer the cluster topics on a set of 20 newsgroup data.
   *
@@ -44,26 +42,13 @@ import org.apache.spark.sql._
   *
   *
   */
-object ProblemTwoLDA {
 
-	def main (args: Array[String]) {
 
     Logger.getLogger("org").setLevel(Level.OFF)
     Logger.getLogger("akka").setLevel(Level.OFF)
 
-    var inputDir = "data/newsgroup_20/"
-    var stopWordFile = "data/stopwords.txt"
-
-    if(args.length > 1) {
-      inputDir = args(0)
-      stopWordFile = args(1)
-    }
-    
-    val spark = SparkSession
-      .builder
-      .appName("ProblemTwoLDA")
-      .master("local")
-      .getOrCreate()
+    var inputDir = "/data/newsgroup_20/"
+    var stopWordFile = "/data/stopwords.txt"
 
     /**
       * There are three hyperparameters here
@@ -112,5 +97,3 @@ object ProblemTwoLDA {
       * Print out the Word to Topic probabilities
       */
 
-  }
-}

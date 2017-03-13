@@ -1,19 +1,11 @@
-package com.cloudera.workshop
 
 import org.apache.spark.ml.feature.{RegexTokenizer, Tokenizer}
 import org.apache.spark.sql.functions._
 
 import org.apache.spark.sql.SparkSession
 
-object ProblemThree_Tokenizer {
 
 
-  def main(args: Array[String]): Unit = {
-
-    val spark = SparkSession
-      .builder
-      .appName("ProblemThree_Tokenizer")
-      .getOrCreate()
 
     val data = Seq(
       (0, " It was a bright cold day in April, and the clocks were striking thirteen."),
@@ -43,7 +35,4 @@ object ProblemThree_Tokenizer {
     regexTokenized.select("sentence", "words")
         .withColumn("tokens", countTokens(col("words"))).show(false)
 
-    spark.stop()
-  }
-}
 // scalastyle:on println

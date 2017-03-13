@@ -1,15 +1,7 @@
-package org.cloudera.workshop
 
-import org.apache.spark.sql.SparkSession
 
-object ProblemOneCountVectorizer {
 
-  def main(args: Array[String]) {
 
-    val spark = SparkSession
-      .builder
-      .appName("ProblemOneCountVectorizer")
-      .getOrCreate()
 
     val sentenceData = spark.createDataFrame(Seq(
       (0.0, "It was a bright cold day in April, and the clocks were striking thirteen."),
@@ -29,7 +21,3 @@ object ProblemOneCountVectorizer {
       * alternatively, define CountVectorizerModel with a-priori vocabulary
       */
 
-    spark.stop()
-  }
-}
-// scalastyle:on println

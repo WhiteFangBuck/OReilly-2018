@@ -1,16 +1,4 @@
-package com.cloudera.workshop
 
-import org.apache.spark.sql.SparkSession
-
-object ProblemFour_StopwordsRemover {
-
-
-  def main(args: Array[String]): Unit = {
-
-    val spark = SparkSession
-      .builder
-      .appName("ProblemFour_StopwordsRemover")
-      .getOrCreate()
 
     //The Data
     val data = Seq(
@@ -26,7 +14,4 @@ object ProblemFour_StopwordsRemover {
       * Use the Input and output column specification
       * Print the resulting output.
       */
-    spark.stop()
-  }
-}
 // scalastyle:on println

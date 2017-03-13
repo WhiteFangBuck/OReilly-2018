@@ -1,16 +1,3 @@
-package com.cloudera.workshop
-
-import org.apache.spark.sql.SparkSession
-
-object ProblemOne_IndexToString {
-
-  def main(args: Array[String]) {
-
-    val spark = SparkSession
-      .builder
-      .appName("ProblemOne_IndexToString")
-      .getOrCreate()
-
     //Given the following data set, create a dataset with columns labelled as "id" and "category"\
 
     val data = Seq(
@@ -30,7 +17,4 @@ object ProblemOne_IndexToString {
 
     //Step 4: Convert it back to the original String.
 
-    spark.stop()
-  }
-}
 // scalastyle:on println

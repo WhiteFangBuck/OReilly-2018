@@ -1,15 +1,5 @@
-package org.cloudera.workshop
 
-import org.apache.spark.sql.SparkSession
 
-object ProblemThreeTFIDF {
-
-def main(args: Array[String]) {
-
-    val spark = SparkSession
-      .builder
-      .appName("ProblemThreeTFIDF")
-      .getOrCreate()
 
     val sentenceData = spark.createDataFrame(Seq(
       (0.0, "It was a bright cold day in April, and the clocks were striking thirteen."),
@@ -37,6 +27,3 @@ def main(args: Array[String]) {
      * Show the transformed data
      */
 
-    spark.stop()
-  }
-}
