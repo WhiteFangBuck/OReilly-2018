@@ -36,16 +36,21 @@ import org.apache.spark.ml.feature._
 
     /**
       * Work on CountVectorizer
+      *
+      * Experiment with changing the value of the vocabSize
+      * Experiment with changing the value of minDF
       */
 
     val cvModel: CountVectorizerModel = new CountVectorizer()
-      .setInputCol("words")
-      .setOutputCol("features")
-      .setVocabSize(3)
-      .setMinDF(2)
-      .fit(wordsData)
+     .setInputCol("words")
+     .setOutputCol("features")
+     .setVocabSize(40)
+     .setMinDF(1)
+     .fit(wordsData)
 
-    // alternatively, define CountVectorizerModel with a-priori vocabulary
+    /**
+     * alternatively, define CountVectorizerModel with a-priori vocabulary
+     */
     val cvm = new CountVectorizerModel(Array("a", "b", "c"))
       .setInputCol("words")
       .setOutputCol("features")
