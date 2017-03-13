@@ -28,6 +28,9 @@ import org.apache.spark.sql.SparkSession
 Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
+val sqlContext = new org.apache.spark.sql.SQLContext(sc)
+import sqlContext.implicits._
+
 // define the schema of input data
 val customSchema = StructType(Array(
       StructField("state", StringType, true),
@@ -115,7 +118,6 @@ val evaluator = new BinaryClassificationEvaluator()
 val accuracy = evaluator.evaluate(predict)
 println("Test Error = " + (1.0 - accuracy))
 
-import spark.implicits._
 
 // evaluate the model
 val predictionsAndLabels = predict.select("prediction", "churned_idx")
