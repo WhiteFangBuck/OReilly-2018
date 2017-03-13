@@ -56,7 +56,7 @@ val encoded = encoder.transform(indexed)
 /**
   * Combine above using VectorIndexer
   */
-val libSVMData = spark.read.format("libsvm").load("data/mllib/sample_libsvm_data.txt")
+val libSVMData = spark.read.format("libsvm").load("/data/mllib/sample_libsvm_data.txt")
 
 val vIndexer = new VectorIndexer()
       .setInputCol("features")
