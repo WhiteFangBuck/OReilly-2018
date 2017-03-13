@@ -30,6 +30,9 @@ import org.apache.spark.sql.SparkSession
 Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
+val sqlContext = new org.apache.spark.sql.SQLContext(sc)
+import sqlContext.implicits._
+
 val customSchema = StructType(Array(
       StructField("spam", StringType, true),
       StructField("message", StringType, true)
@@ -100,8 +103,6 @@ val evaluator = new BinaryClassificationEvaluator()
 
 val accuracy = evaluator.evaluate(predict)
 println("Test Error = " + (1.0 - accuracy))
-
-import spark.implicits._
 
 // compute confusion matrix
 val predictionsAndLabels = predict.select("prediction", "label")
