@@ -1,16 +1,7 @@
-package com.cloudera.workshop
 
 import org.apache.spark.ml.feature.VectorIndexer
 
 import org.apache.spark.sql.SparkSession
-
-object ProblemOneTwoVectorIndexer {
-
-  def main(args: Array[String]): Unit = {
-    val spark = SparkSession
-      .builder
-      .appName("ProblemOneTwoVectorIndexer")
-      .getOrCreate()
 
     //Either use the previous data or the libsvm data here
 
@@ -33,7 +24,4 @@ object ProblemOneTwoVectorIndexer {
     val indexedData = indexerModel.transform(data)
     indexedData.show()
 
-    spark.stop()
-  }
-}
 // scalastyle:on println
