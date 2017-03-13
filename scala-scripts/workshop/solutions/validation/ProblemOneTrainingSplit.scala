@@ -13,11 +13,13 @@ import org.apache.spark.sql.SparkSession
   * IMPORTANT: Uncomment the dataset below
   */
 
+var dataset = "UNCOMMENT_YOUR_DATASET"
+
 // If you are using spark-shell, uncomment this line
-//val dataset = "data/validation/sample_linear_regression_data.txt"
+// dataset = "data/validation/sample_linear_regression_data.txt"
 
 // If you are using CDSW, uncomment this line
-//val dataset = "/data/validation/sample_linear_regression_data.txt"
+// dataset = "/data/validation/sample_linear_regression_data.txt"
 
 val data = spark.read.format("libsvm").load(dataset)
 
