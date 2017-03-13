@@ -31,7 +31,7 @@ val vocabSize: Int = 10000
   * Find a way to read all the files and attach an id to the files read.
   */
 
-val sqlContext = new SQLContext(sc)
+val sqlContext = new org.apache.spark.sql.SQLContext(sc)
 import sqlContext.implicits._
 
 val rawTextRDD = sc.wholeTextFiles(inputDir).map(_._2)
