@@ -15,11 +15,6 @@
  * limitations under the License.
  */
 
-// scalastyle:off println
-package com.cloudera.workshop.solutions.classifier
-
-// $example on$
-
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.classification.LogisticRegression
 import org.apache.spark.ml.evaluation.BinaryClassificationEvaluator
