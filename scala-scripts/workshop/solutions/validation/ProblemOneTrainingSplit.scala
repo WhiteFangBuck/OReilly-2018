@@ -10,8 +10,16 @@ import org.apache.spark.sql.SparkSession
 
 /**
   * Load the data
+  * IMPORTANT: Uncomment the dataset below
   */
-val data = spark.read.format("libsvm").load("data/validation/sample_linear_regression_data.txt")
+
+// If you are using spark-shell, uncomment this line
+//val dataset = "data/validation/sample_linear_regression_data.txt"
+
+// If you are using CDSW, uncomment this line
+//val dataset = "/data/validation/sample_linear_regression_data.txt"
+
+val data = spark.read.format("libsvm").load(dataset)
 
 data.printSchema()
 data.show()

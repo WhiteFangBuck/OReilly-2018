@@ -17,8 +17,15 @@ import org.apache.spark.sql.types.{DoubleType, StringType, StructField, StructTy
 
 /**
   * This is your training data
+  * IMPORTANT: Uncomment the dataset below
   */
-val dataset = "data/validation/farm-ads.txt"
+
+// If you are using spark-shell, uncomment this line
+//val dataset = "data/validation/farm-ads.txt"
+
+// If you are using CDSW, uncomment this line
+//val dataset = "/data/validation/farm-ads.txt"
+
 val schema = StructType(Array(
   StructField("label", DoubleType, true),
   StructField("text", StringType, true)))
