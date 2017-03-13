@@ -104,8 +104,6 @@ val evaluator = new BinaryClassificationEvaluator()
 val accuracy = evaluator.evaluate(predict)
 println("Test Error = " + (1.0 - accuracy))
 
-import spark.implicits._
-
 // compute confusion matrix
 val predictionsAndLabels = predict.select("prediction", "label")
       .map(row => (row.getDouble(0), row.getDouble(1)))
