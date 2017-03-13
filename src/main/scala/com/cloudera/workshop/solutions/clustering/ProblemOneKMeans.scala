@@ -5,6 +5,10 @@ import org.apache.spark.ml.clustering.KMeans
 import org.apache.spark.ml.feature.{MinMaxScaler, VectorAssembler}
 import org.apache.spark.sql.functions._
 
+/**
+  * As simple K-Means clustering example
+  */
+
 object ProblemOneKMeans{
   Logger.getRootLogger.setLevel(Level.OFF)
   Logger.getLogger("org").setLevel(Level.OFF)
