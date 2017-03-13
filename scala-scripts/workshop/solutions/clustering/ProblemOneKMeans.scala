@@ -10,8 +10,15 @@ import org.apache.spark.sql.functions._
 
 /**
   * Create dataframe using csv method.
-  *
-  */val dataset = "data/kmeans/flightinfo/flights_nofeatures.csv"
+  * IMPORTANT: Uncomment the dataset below
+  */
+
+// If you are using spark-shell, uncomment this line
+//val dataset = "data/kmeans/flightinfo/flights_nofeatures.csv"
+
+// If you are using CDSW, uncomment this line
+//val dataset = "/data/kmeans/flightinfo/flights_nofeatures.csv"
+
 val inputData = spark.read
   .option("header","true")
   .option("inferSchema","true").csv(dataset)
