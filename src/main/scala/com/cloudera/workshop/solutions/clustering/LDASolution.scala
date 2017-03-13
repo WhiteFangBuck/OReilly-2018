@@ -1,9 +1,13 @@
-package com.cloudera.workshop.solutions.clustering
+package com.cloudera.workshop
+
+import com.cloudera.workshop.SnowballStemmer
+import com.cloudera.workshop.PorterStemmer
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.clustering.LDA
 import org.apache.spark.ml.feature.{CountVectorizer, NGram, RegexTokenizer, StopWordsRemover}
 import org.apache.spark.sql.SparkSession
+import org.apache.spark.sql.functions._
 
 /**
   * Created by vsingh on 3/3/17.
@@ -16,7 +20,7 @@ object LDASolution {
     Logger.getLogger("org").setLevel(Level.OFF)
     Logger.getLogger("akka").setLevel(Level.OFF)
 
-    var inputDir = "data/books/all/"
+    var inputDir = "data/newsgroup_20/"
     var stopWordFile = "data/stopwords.txt"
 
     if(args.length > 1) {
@@ -37,7 +41,7 @@ object LDASolution {
       */
 
     val numTopics: Int = 10
-    val maxIterations: Int = 100
+    val maxIterations: Int = 200
     val vocabSize: Int = 10000
 
     /**
@@ -67,6 +71,8 @@ object LDASolution {
       .setOutputCol("words")
       .transform(docDF)
 
+
+
     /**
       * Use stop words to remove or add the words from the list
       * These words will be used for filtering out the words not needed
@@ -80,14 +86,19 @@ object LDASolution {
       .setOutputCol("filtered")
       .transform(tokens)
 
+
+    def stemMe = udf((a: Seq[String]) => a.map(x=>com.cloudera.workshop.PorterStemmer.stem(x)))
+    val stemmedTokens = filteredTokens.withColumn("stemmed", stemMe(col("filtered")))
+
     /**
       * Optionally use NGrams to form the feature vectors
       */
 
     val ngram = new NGram()
-      .setInputCol("filtered")
+      .setN(1)
+      .setInputCol("stemmed")
       .setOutputCol("ngrams")
-      .transform(filteredTokens)
+      .transform(stemmedTokens)
 
     /**
       * Use CountVectorizer to generate the numeric vectors
@@ -125,7 +136,7 @@ object LDASolution {
     println(s"Training time (sec)\t$elapsed")
     println(s"==========")
 
-    val topicIndices = ldaModel.describeTopics(maxTermsPerTopic = 10).coalesce(1)
+    val topicIndices = ldaModel.describeTopics(maxTermsPerTopic = 20).coalesce(1)
     val vocabArray = cvModel.vocabulary
 
     for(i <- topicIndices) { println(s"Topic ${i(0)}")

@@ -1,5 +1,6 @@
 package com.cloudera.workshop.solutions.extractor
 
+import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.feature._
 import org.apache.spark.sql.SparkSession
 
@@ -7,8 +8,13 @@ object extractorssol {
 
 
   def main(args: Array[String]) {
+
+    Logger.getLogger("org").setLevel(Level.OFF)
+    Logger.getLogger("akka").setLevel(Level.OFF)
+
     val spark = SparkSession
       .builder
+      .master("local")
       .appName("TfIdfExample")
       .getOrCreate()
 
@@ -44,18 +50,24 @@ object extractorssol {
     val rescaledData = idfModel.transform(featurizedData)
     rescaledData.select("label", "features").show()
 
+
     /**
       * Work on CountVectorizer
+      *
+      * Experiment with changing the value of the vocabSize
+      * Experiment with changing the value of minDF
       */
 
     val cvModel: CountVectorizerModel = new CountVectorizer()
       .setInputCol("words")
       .setOutputCol("features")
-      .setVocabSize(3)
-      .setMinDF(2)
+      .setVocabSize(40)
+      .setMinDF(1)
       .fit(wordsData)
 
-    // alternatively, define CountVectorizerModel with a-priori vocabulary
+    /**
+      * alternatively, define CountVectorizerModel with a-priori vocabulary
+      */
     val cvm = new CountVectorizerModel(Array("a", "b", "c"))
       .setInputCol("words")
       .setOutputCol("features")

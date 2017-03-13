@@ -18,13 +18,16 @@ object ProblemOneCountVectorizer {
     )).toDF("label", "sentence")
 
     /**
-      *  Fit a CountVectorizer Model from the given corpus
-       */
-
-    /**
-      * Try this by defining a-priori vocabulary
+      * Work on CountVectorizer
+      *
+      * Experiment with changing the value of the vocabSize
+      * Experiment with changing the value of minDF
       */
 
+
+    /**
+      * alternatively, define CountVectorizerModel with a-priori vocabulary
+      */
 
     spark.stop()
   }

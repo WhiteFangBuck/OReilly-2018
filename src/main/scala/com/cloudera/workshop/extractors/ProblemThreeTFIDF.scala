@@ -21,23 +21,22 @@ def main(args: Array[String]) {
     * Tokenize the words
     */
 
-  /**
-    * Use HashingTF and/or CountVectorizer to generate the IDF
-    *
-    * HashingTF: This is a transformer that takes a set of terms and converts those sets into fixed-length feature vectors.
-    *
-    * CountVectorizer: Converts text documents to vectors of term documents.
+   /**
+     * Use HashingTF and/or CountVectorizer to generate the IDF
+     *
+     * HashingTF: This is a transformer that takes a set of terms and converts those sets into fixed-length feature vectors.
+     *
+     * CountVectorizer: Converts text documents to vectors of term documents.
      */
 
-  /**
-    * Generate the IDF Model
-    */
+   /**
+     * Generate the IDF Model
+     */
 
-  /**
-    * Show the transformed data
-    */
+   /**
+     * Show the transformed data
+     */
 
     spark.stop()
   }
 }
-// scalastyle:on println

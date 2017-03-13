@@ -1,9 +1,10 @@
-import com.cloudera.workshop.SnowballStemmer
+package com.cloudera.workshop
 
-import org.apache.spark.sql.types.{DataType, StringType}
-import org.apache.spark.ml.util.Identifiable
-import org.apache.spark.ml.param.{Param, ParamMap}
+
 import org.apache.spark.ml.UnaryTransformer
+import org.apache.spark.ml.param.{Param, ParamMap}
+import org.apache.spark.ml.util.Identifiable
+import org.apache.spark.sql.types.{DataType, StringType}
 
 class Stemmer(override val uid: String) extends UnaryTransformer[String, String, Stemmer] {
 
