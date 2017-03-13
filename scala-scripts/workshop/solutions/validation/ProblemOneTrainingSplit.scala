@@ -1,12 +1,8 @@
-import org.apache.spark.sql.SparkSession
+import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.evaluation.RegressionEvaluator
 import org.apache.spark.ml.regression.LinearRegression
 import org.apache.spark.ml.tuning.{ParamGridBuilder, TrainValidationSplit}
-
-/**
- * A simple example demonstrating model selection using TrainValidationSplit.
- *
- */
+import org.apache.spark.sql.SparkSession
 
 /**
   * Use the sample Linear Regression Data to demonstrate Model Selection
@@ -15,18 +11,17 @@ import org.apache.spark.ml.tuning.{ParamGridBuilder, TrainValidationSplit}
 /**
   * Load the data
   */
-val data = spark.read.format("libsvm").load("/data/validation/sample_linear_regression_data.txt")
+val data = spark.read.format("libsvm").load("data/validation/sample_linear_regression_data.txt")
 
 data.printSchema()
-data.show(20,false)
+data.show()
 
 /**
   * Split into training and testing
   */
 val Array(training, test) = data.randomSplit(Array(0.9, 0.1), seed = 12345)
 training.printSchema()
-training.show(20,false)
-
+training.show()
 
 /**
   * Set the number of iterations
@@ -65,5 +60,5 @@ val model = trainValidationSplit.fit(training)
   */
 val result = model.transform(test)
   .select("features", "label", "prediction")
-  result.printSchema()
-  result.show(20,false)
+result.printSchema()
+result.show()
