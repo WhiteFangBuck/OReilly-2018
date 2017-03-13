@@ -10,7 +10,7 @@ import com.cloudera.workshop.Among;
   * It implements the stemming algorithm defined by a snowball script.
   */
 
-public class englishStemmer extends org.tartarus.snowball.SnowballStemmer {
+public class englishStemmer extends com.cloudera.workshop.SnowballStemmer {
 
     private static final long serialVersionUID = 1L;
 
