@@ -16,7 +16,7 @@
  */
 
 // scalastyle:off println
-package com.cloudera.workshop.solutions.regression
+package com.cloudera.workshop.solutions.classifier
 
 // $example on$
 
