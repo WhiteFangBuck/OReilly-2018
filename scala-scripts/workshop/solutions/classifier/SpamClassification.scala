@@ -30,6 +30,9 @@ import org.apache.spark.sql.SparkSession
 Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
+val sqlContext = new org.apache.spark.sql.SQLContext(sc)
+import sqlContext.implicits._
+
 val customSchema = StructType(Array(
       StructField("spam", StringType, true),
       StructField("message", StringType, true)
