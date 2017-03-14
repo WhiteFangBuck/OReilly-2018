@@ -1,88 +1,61 @@
-package com.cloudera.workshop
-
 import org.apache.log4j.{Level, Logger}
-import org.apache.spark.sql.SparkSession
 import org.apache.spark.ml.evaluation.RegressionEvaluator
 import org.apache.spark.ml.regression.LinearRegression
 import org.apache.spark.ml.tuning.{ParamGridBuilder, TrainValidationSplit}
+import org.apache.spark.sql.SparkSession
+
+Logger.getRootLogger.setLevel(Level.OFF)
+Logger.getLogger("org").setLevel(Level.OFF)
+Logger.getLogger("akka").setLevel(Level.OFF)
 
 /**
- * A simple example demonstrating model selection using TrainValidationSplit.
- *
- */
-object ProblemOneTrainingSplit {
-  Logger.getRootLogger.setLevel(Level.OFF)
-  Logger.getLogger("org").setLevel(Level.OFF)
-  Logger.getLogger("akka").setLevel(Level.OFF)
+  * Use the sample Linear Regression Data to demonstrate Model Selection
+  * IMPORTANT: Uncomment the dataset below
+  */
 
-  def main(args: Array[String]): Unit = {
-    val spark = SparkSession
-      .builder
-      .master("local[2]")
-      .appName("ProblemOneTrainingSplit")
-      .getOrCreate()
+var dataset = "UNCOMMENT_YOUR_DATASET"
 
-    /**
-      * Use the sample Linear Regression Data to demonstrate Model Selection
-      */
+// If you are using spark-shell, uncomment this line
+// dataset = "data/validation/sample_linear_regression_data.txt"
 
-    /**
-      * Load the data
-     */
-    val data = spark.read.format("libsvm").load("data/validation/sample_linear_regression_data.txt")
+// If you are using CDSW, uncomment this line
+// dataset = "/data/validation/sample_linear_regression_data.txt"
 
-    data.printSchema()
-    data.show(20,false)
-
-    /**
-      * Split into training and testing
-     */
-    val Array(training, test) = data.randomSplit(Array(0.9, 0.1), seed = 12345)
-    training.printSchema()
-    training.show(20,false)
+/**
+  * Load the data
+  */
+val data = spark.read.format("libsvm").load(dataset)
 
 
-    /**
-      * Set the number of iterations
-      */
-    val lr = new LinearRegression()
-      .setMaxIter(10)
+/**
+  * Split into training and testing
+  */
+val Array(training, test) = data.randomSplit(Array(0.9, 0.1), seed = 12345)
+training.printSchema()
+training.show()
 
-    /**
-      * Set the parametric grid builder
-      * For Regularizer
-      * For Intercept
-      */
-    val paramGrid = new ParamGridBuilder()
-      .addGrid(lr.regParam, Array(0.1, 0.01, 1))
-      .addGrid(lr.fitIntercept, Array(true, false))
-      .addGrid(lr.elasticNetParam, Array(0.0, 0.25, 0.5, 0.75))
-      .build()
+/**
+  * Initialize LinearRegression and
+  * Set the number of iterations
+  */
 
-    /**
-      * Do the TrainValidation model initiation
-      * 80-20 split
-      */
-    val trainValidationSplit = new TrainValidationSplit()
-      .setEstimator(lr)
-      .setEvaluator(new RegressionEvaluator)
-      .setEstimatorParamMaps(paramGrid)
-      // 80% of the data will be used for training and the remaining 20% for validation.
-      .setTrainRatio(0.8)
 
-    /**
-      * Generate the model on the training data
-      */
-    val model = trainValidationSplit.fit(training)
+/**
+  * Set the parametric grid builder
+  * For Regularizer
+  * For Intercept
+  */
 
-    /**
-      * Print out the predictions on the test
-      */
-    val result = model.transform(test)
-      .select("features", "label", "prediction")
-      result.printSchema()
-      result.show(20,false)
+/**
+  * Do the TrainValidation model initiation
+  * 80-20 split
+  */
 
-    spark.stop()
-  }
-}
+
+/**
+  * Generate the model on the training data
+  */
+
+/**
+  * Print out the predictions on the test
+  */

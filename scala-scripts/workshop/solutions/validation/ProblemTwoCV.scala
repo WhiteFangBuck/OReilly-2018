@@ -1,27 +1,40 @@
-import org.apache.spark.sql.SparkSession
+import org.apache.log4j.{Level, Logger}
 import org.apache.spark.ml.Pipeline
 import org.apache.spark.ml.classification.LogisticRegression
 import org.apache.spark.ml.evaluation.BinaryClassificationEvaluator
 import org.apache.spark.ml.feature.{HashingTF, IDF, Tokenizer}
 import org.apache.spark.ml.linalg.Vector
 import org.apache.spark.ml.tuning.{CrossValidator, ParamGridBuilder}
-import org.apache.spark.sql.Row
-import org.apache.spark.sql.types.{DoubleType, StringType, StructField, StructType}
+import org.apache.spark.sql.{Row, SparkSession}
 import org.apache.spark.sql.functions._
+import org.apache.spark.sql.types.{DoubleType, StringType, StructField, StructType}
+
+Logger.getRootLogger.setLevel(Level.OFF)
+Logger.getLogger("org").setLevel(Level.OFF)
+Logger.getLogger("akka").setLevel(Level.OFF)
 
 /**
- * A simple example demonstrating model selection using CrossValidator.
- * This example also demonstrates how Pipelines are Estimators.
- *
- */
+  * A simple example demonstrating model selection using CrossValidator.
+  * This example also demonstrates how Pipelines are Estimators.
+  *
+  */
 
 /**
   * This is your training data
+  * IMPORTANT: Uncomment the dataset below
   */
-  val dataset = "data/validation/farm-ads.txt"
-  val schema = StructType(Array(
-StructField("label", DoubleType, true),
-StructField("text", StringType, true)))
+
+var dataset = "UNCOMMENT_YOUR_DATASET"
+
+// If you are using spark-shell, uncomment this line
+// dataset = "data/validation/farm-ads.txt"
+
+// If you are using CDSW, uncomment this line
+// dataset = "/data/validation/farm-ads.txt"
+
+val schema = StructType(Array(
+  StructField("label", DoubleType, true),
+  StructField("text", StringType, true)))
 
 val originalDF = spark.read
   .format("csv")
@@ -56,8 +69,8 @@ val hashingTF = new HashingTF()
   * Apply IDF
   */
 val idf = new IDF()
-   .setInputCol("rawFeatures")
-   .setOutputCol("features")
+  .setInputCol("rawFeatures")
+  .setOutputCol("features")
 /**
   * Initialize a logistic regression model
   */
@@ -98,12 +111,12 @@ val cvModel = cv.fit(trainingDF)
   * Sample Test DataSet
   */
 val test = spark.createDataFrame(Seq(
- (111100005L,"ad-animal"),
- (111100006L,"The airplane flew low"),
- (111100008L,"ad-supplement"),
- (111100009L,"circulatory support immune support joint support vitamin mineral weight loss product horse total health "),
- (1111000010L,"ad-jerry ad-bruckheimer ad-chase ad-premier ad-sept ad-th ad-clip ad-bruckheimer ad-chase page found")
- ))toDF("id", "text")
+  (111100005L,"ad-animal"),
+  (111100006L,"The airplane flew low"),
+  (111100008L,"ad-supplement"),
+  (111100009L,"circulatory support immune support joint support vitamin mineral weight loss product horse total health "),
+  (1111000010L,"ad-jerry ad-bruckheimer ad-chase ad-premier ad-sept ad-th ad-clip ad-bruckheimer ad-chase page found")
+))toDF("id", "text")
 
 /**
   * Make predictions on the test documents
@@ -112,4 +125,4 @@ cvModel.transform(test)
   .select("id", "text", "probability", "prediction")
   .collect()
   .foreach { case Row(id: Long, text: String, prob: Vector, prediction: Double) =>
-println(s"($id, $text) --> prob=$prob, prediction=$prediction")
+println(s"($id, $text) --> prob=$prob, prediction=$prediction")}

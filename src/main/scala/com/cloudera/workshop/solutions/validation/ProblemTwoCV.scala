@@ -128,8 +128,8 @@ object ProblemTwoCV {
       .collect()
       .foreach { case Row(id: Long, text: String, prob: Vector, prediction: Double) =>
         println(s"($id, $text) --> prob=$prob, prediction=$prediction")
-        spark.stop()
       }
+    spark.stop()
   }
 }
 // scalastyle:on println

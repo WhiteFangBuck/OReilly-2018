@@ -32,14 +32,14 @@ object ProblemOneTrainingSplit {
     val data = spark.read.format("libsvm").load("data/validation/sample_linear_regression_data.txt")
 
     data.printSchema()
-    data.show(20,false)
+    data.show()
 
     /**
       * Split into training and testing
      */
     val Array(training, test) = data.randomSplit(Array(0.9, 0.1), seed = 12345)
     training.printSchema()
-    training.show(20,false)
+    training.show()
 
 
     /**
@@ -67,7 +67,6 @@ object ProblemOneTrainingSplit {
       .setEstimator(lr)
       .setEvaluator(new RegressionEvaluator)
       .setEstimatorParamMaps(paramGrid)
-      // 80% of the data will be used for training and the remaining 20% for validation.
       .setTrainRatio(0.8)
 
     /**
@@ -81,7 +80,7 @@ object ProblemOneTrainingSplit {
     val result = model.transform(test)
       .select("features", "label", "prediction")
       result.printSchema()
-      result.show(20,false)
+      result.show()
 
     spark.stop()
   }
