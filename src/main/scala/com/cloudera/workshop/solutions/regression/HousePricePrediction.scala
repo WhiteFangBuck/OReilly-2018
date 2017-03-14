@@ -10,7 +10,7 @@ import org.apache.spark.mllib.evaluation.RegressionMetrics
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions.{abs, col}
 
-object regressionsol {
+object HousePricePrediction {
 
 
   /**

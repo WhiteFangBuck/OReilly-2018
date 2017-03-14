@@ -114,7 +114,7 @@ object TelcoChurnPrediction {
       .setFeaturesCol("features")
       .setNumTrees(30)
 
-    // Fit the model
+    // Build the model
     val rfModel = rf.fit(trainingData)
     val str = rfModel.toDebugString
     println(str)

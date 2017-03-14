@@ -50,8 +50,8 @@ object SpamClassification {
 
     ))
 
+    // read in the data
     val ds = spark.read.option("inferSchema", "false").option("delimiter", "\t").schema(customSchema).csv("data/SMSSpamCollection.tsv")
-
     ds.printSchema()
 
     ds.show(8)
@@ -98,7 +98,7 @@ object SpamClassification {
       .setLabelCol("label")
       .setFeaturesCol("features")
 
-    // Fit the model
+    // build the model
     val lrModel = lr.fit(trainingData)
 
     val str = lrModel.toString()
