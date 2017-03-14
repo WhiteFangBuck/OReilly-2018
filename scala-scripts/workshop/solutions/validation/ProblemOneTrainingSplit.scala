@@ -4,6 +4,10 @@ import org.apache.spark.ml.regression.LinearRegression
 import org.apache.spark.ml.tuning.{ParamGridBuilder, TrainValidationSplit}
 import org.apache.spark.sql.SparkSession
 
+Logger.getRootLogger.setLevel(Level.OFF)
+Logger.getLogger("org").setLevel(Level.OFF)
+Logger.getLogger("akka").setLevel(Level.OFF)
+
 /**
   * Use the sample Linear Regression Data to demonstrate Model Selection
   */

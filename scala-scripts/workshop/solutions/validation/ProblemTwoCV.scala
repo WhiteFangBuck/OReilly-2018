@@ -9,6 +9,10 @@ import org.apache.spark.sql.{Row, SparkSession}
 import org.apache.spark.sql.functions._
 import org.apache.spark.sql.types.{DoubleType, StringType, StructField, StructType}
 
+Logger.getRootLogger.setLevel(Level.OFF)
+Logger.getLogger("org").setLevel(Level.OFF)
+Logger.getLogger("akka").setLevel(Level.OFF)
+
 /**
   * A simple example demonstrating model selection using CrossValidator.
   * This example also demonstrates how Pipelines are Estimators.
