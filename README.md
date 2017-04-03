@@ -38,6 +38,9 @@ Add the spark bin directory to Path : ...\spark-2.1.0-bin-hadoop2.7\bin
 - move it to c:\hadoop\bin
 - set HADOOP_HOME in your environment variables
     - HADOOP_HOME = C:\hadoop
+    - set PATH=%HADOOP_HOME%\bin;%PATH%
+    - Create c:\tmp\hive directory.
+    - winutils.exe chmod -R 777 \tmp\hive
 - run from command prompt:
     - C:\hadoop\bin\winutils.exe chmod 777 /tmp/hive
 - run spark-shell from command prompt with extra conf parameter
