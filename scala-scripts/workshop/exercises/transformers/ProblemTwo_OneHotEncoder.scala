@@ -1,3 +1,6 @@
+    import org.apache.spark.ml.feature.{OneHotEncoder, StringIndexer}
+    
+
 
     val data = Seq(
       (0, "a"),

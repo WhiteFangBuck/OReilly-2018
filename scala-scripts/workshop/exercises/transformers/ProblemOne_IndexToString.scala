@@ -1,3 +1,5 @@
+    import org.apache.spark.ml.feature.{IndexToString, StringIndexer}
+
     //Given the following data set, create a dataset with columns labelled as "id" and "category"\
 
     val data = Seq(

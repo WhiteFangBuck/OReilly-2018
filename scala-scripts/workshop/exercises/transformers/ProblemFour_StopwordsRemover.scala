@@ -1,4 +1,4 @@
-
+    import org.apache.spark.ml.feature.StopWordsRemover
 
     //The Data
     val data = Seq(
