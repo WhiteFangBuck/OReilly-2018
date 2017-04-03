@@ -31,6 +31,8 @@ export PATH=$PATH:/Users/path_to_downloaded_spark/spark-2.1.0-bin-hadoop2.7/bin
 Unzip spark-2.1.0-bin-hadoop2.7.tgz
 
 Add the spark bin directory to Path : ...\spark-2.1.0-bin-hadoop2.7\bin
+set SPARK_HOME=<PATH_TO_SPARK>
+set PATH=%SPARK_HOME%/bin;%PATH%
 
 ### Set up winutils.exe on Windows (not needed on mac)
 
