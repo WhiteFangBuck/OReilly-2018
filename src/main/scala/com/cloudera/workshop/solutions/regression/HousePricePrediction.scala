@@ -43,9 +43,9 @@ object HousePricePrediction {
     /**
       * Read the input data
       */
-    var input = "data/Housing.csv"
+    var dataset = "data/Housing.csv"
     if (args.length > 0) {
-      input = args(0)
+      dataset = args(0)
     }
 
     val spark = SparkSession
@@ -60,7 +60,7 @@ object HousePricePrediction {
       * Create the data frame
       */
 
-    val data = spark.sparkContext.textFile(input)
+    val data = spark.sparkContext.textFile(dataset)
       .map(_.split(","))
       .map( x => ( X(
         x(0), x(1).toDouble, x(2).toDouble, x(3).toDouble, x(4).toDouble, x(5).toDouble,

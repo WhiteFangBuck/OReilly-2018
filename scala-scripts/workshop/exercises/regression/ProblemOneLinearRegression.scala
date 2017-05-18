@@ -38,8 +38,6 @@ package org.cloudera.workshop
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql._
 
-object ProblemOneLinearRegression {
-
   /**
     * Case class is one of mapping incoming data onto the DataFrame columns
     * @param id
@@ -61,7 +59,6 @@ object ProblemOneLinearRegression {
                 bathrms: Double,stories: Double, driveway: String,recroom: String,
                 fullbase: String, gashw: String, airco: String, garagepl: Double, prefarea: String)
 
- def main (args: Array[String]) {
 
    Logger.getLogger("org").setLevel(Level.OFF)
    Logger.getLogger("akka").setLevel(Level.OFF)
@@ -69,10 +66,13 @@ object ProblemOneLinearRegression {
    /**
      * Read the input data
      */
-   var input = "data/Housing.csv"
-   if (args.length > 0) {
-     input = args(0)
-   }
+   var dataset = "UNCOMMENT_YOUR_DATASET"
+
+   // If you are using spark-shell, uncomment this line
+   // dataset = "data/Housing.csv"
+
+   // If you are using CDSW, uncomment this line
+   // dataset = "/data/Housing.csv"
 
    val spark = SparkSession
       .builder
@@ -139,8 +139,3 @@ object ProblemOneLinearRegression {
      * Fit the model and print out the result
      */
 
-
-   spark.stop()
- }
-
-}

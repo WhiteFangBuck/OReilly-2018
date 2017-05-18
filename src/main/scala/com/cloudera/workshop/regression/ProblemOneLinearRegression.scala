@@ -69,9 +69,9 @@ object ProblemOneLinearRegression {
    /**
      * Read the input data
      */
-   var input = "data/Housing.csv"
+   var dataset = "data/Housing.csv"
    if (args.length > 0) {
-     input = args(0)
+     dataset = args(0)
    }
 
    val spark = SparkSession
