@@ -51,7 +51,7 @@ object HousePricePrediction {
     val spark = SparkSession
       .builder
       .appName("regressionsol")
-      .master("local")
+      .master("local[4]")
       .getOrCreate()
 
     import spark.implicits._
@@ -66,6 +66,8 @@ object HousePricePrediction {
         x(0), x(1).toDouble, x(2).toDouble, x(3).toDouble, x(4).toDouble, x(5).toDouble,
         x(6), x(7), x(8), x(9), x(10), x(11).toDouble, x(12) )))
       .toDF()
+
+    data.show(20)
 
     /**
       * Define and Identify the Categorical variables
@@ -108,7 +110,7 @@ object HousePricePrediction {
     val lr = new LinearRegression()
       .setLabelCol("price")
       .setFeaturesCol("features")
-      .setMaxIter(1000)
+      .setMaxIter(100)
       .setSolver("l-bfgs")
     // .setRegParam(0.2)
     //  .setFitIntercept(true)
@@ -118,7 +120,7 @@ object HousePricePrediction {
       */
 
     val paramGrid = new ParamGridBuilder()
-      .addGrid(lr.regParam, Array(0.1, 0.01, 0.001, 0.0001, 1.0))
+      .addGrid(lr.regParam, Array(0.1, 0.01, 1.0))
       .addGrid(lr.fitIntercept)
       .addGrid(lr.elasticNetParam, Array(0.0, 1.0))
       .build()
@@ -161,13 +163,21 @@ object HousePricePrediction {
       * Fit the model and print out the result
       */
 
+
     val model = cv.fit {
       training
     }
 
-    val holdout = model.transform(test).select("prediction", "price").orderBy(abs(col("prediction")-col("price")))
-    holdout.show
-    val rm = new RegressionMetrics(holdout.rdd.map(x => (x(0).asInstanceOf[Double], x(1).asInstanceOf[Double])))
+    val holdout = model.transform(test)
+    holdout.show(20)
+
+    val prediction = holdout.select("prediction", "price").orderBy(abs(col("prediction")-col("price")))
+    prediction.show(20)
+
+
+    val rm = new RegressionMetrics(prediction.rdd.map{
+      x =>  (x(0).asInstanceOf[Double], x(1).asInstanceOf[Double])
+    })
     println(s"RMSE = ${rm.rootMeanSquaredError}")
     println(s"R-squared = ${rm.r2}")
 
