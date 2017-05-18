@@ -110,20 +110,9 @@ object HousePricePrediction {
     val lr = new LinearRegression()
       .setLabelCol("price")
       .setFeaturesCol("features")
+       .setRegParam(0.1)
       .setMaxIter(100)
       .setSolver("l-bfgs")
-    // .setRegParam(0.2)
-    //  .setFitIntercept(true)
-
-    /**
-      * Using cross validation and parameter grid for model tuning
-      */
-
-    val paramGrid = new ParamGridBuilder()
-      .addGrid(lr.regParam, Array(0.1, 0.01, 1.0))
-      .addGrid(lr.fitIntercept)
-      .addGrid(lr.elasticNetParam, Array(0.0, 1.0))
-      .build()
 
     /**
       * Gather the steps and create the pipeline
@@ -136,35 +125,15 @@ object HousePricePrediction {
       .setStages(steps)
 
     /**
-      * Initialize the Cross Validator for model tuning
+      * Split the data into training and test
       */
-
-    val cv = new CrossValidator()
-      .setEstimator(pipeline)
-      .setEvaluator(new RegressionEvaluator()
-        .setLabelCol("price") )
-      .setEstimatorParamMaps(paramGrid)
-      .setNumFolds(5)
-
-    /** val tvs = new TrainValidationSplit()
-      * .setEstimator( pipeline )
-      * .setEvaluator( new RegressionEvaluator()
-      * .setLabelCol("price") )
-      * .setEstimatorParamMaps(paramGrid)
-      * .setTrainRatio(0.75)*/
-
-    /**
-      * Split the training and testing data
-      */
-
     val Array(training, test) = data.randomSplit(Array(0.75, 0.25), seed = 12345)
 
     /**
       * Fit the model and print out the result
       */
 
-
-    val model = cv.fit {
+    val model = pipeline.fit {
       training
     }
 

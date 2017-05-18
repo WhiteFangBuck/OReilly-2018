@@ -27,39 +27,39 @@ Logger.getLogger("akka").setLevel(Level.OFF)
     * IMPORTANT: Uncomment the dataset below
 */
 
-  var dataset = "UNCOMMENT_YOUR_DATASET"
+var dataset = "UNCOMMENT_YOUR_DATASET"
 
-  // If you are using spark-shell, uncomment this line
-  // dataset = "data/Housing.csv"
+// If you are using spark-shell, uncomment this line
+// dataset = "data/Housing.csv"
 
-  // If you are using CDSW, uncomment this line
-  // dataset = "/data/Housing.csv"
+// If you are using CDSW, uncomment this line
+// dataset = "/data/Housing.csv"
 
-  import spark.implicits._
+import spark.implicits._
 
   /**
     * Create the data frame
     */
 
-  val data = spark.sparkContext.textFile(dataset)
+val data = spark.sparkContext.textFile(dataset)
     .map(_.split(","))
     .map( x => ( X(
       x(0), x(1).toDouble, x(2).toDouble, x(3).toDouble, x(4).toDouble, x(5).toDouble,
       x(6), x(7), x(8), x(9), x(10), x(11).toDouble, x(12) )))
     .toDF()
 
-  data.show(20)
+data.show(20)
 
-  /**
+/**
     * Define and Identify the Categorical variables
     */
-  val categoricalVariables = Array("driveway","recroom", "fullbase", "gashw", "airco", "prefarea")
+val categoricalVariables = Array("driveway","recroom", "fullbase", "gashw", "airco", "prefarea")
 
-  /**
+/**
     * Initialize the Categorical Varaibles as first state of the pipeline
-    */
+  */
 
-  val categoricalIndexers: Array[org.apache.spark.ml.PipelineStage] =
+val categoricalIndexers: Array[org.apache.spark.ml.PipelineStage] =
   categoricalVariables.map(i => new StringIndexer()
     .setInputCol(i).setOutputCol(i+"Index"))
 
@@ -67,15 +67,15 @@ Logger.getLogger("akka").setLevel(Level.OFF)
     * Initialize the OneHotEncoder as another pipeline stage
     */
 
-  val categoricalEncoders: Array[org.apache.spark.ml.PipelineStage] =
+val categoricalEncoders: Array[org.apache.spark.ml.PipelineStage] =
   categoricalVariables.map(e => new OneHotEncoder()
     .setInputCol(e + "Index").setOutputCol(e + "Vec"))
 
-  /**
+/**
     * Put all the feature columns of the categorical variables together
     */
 
-  val assembler = new VectorAssembler()
+val assembler = new VectorAssembler()
     .setInputCols( Array(
       "lotsize", "bedrooms", "bathrms", "stories",
       "garagepl","drivewayVec", "recroomVec", "fullbaseVec",
@@ -88,79 +88,45 @@ Logger.getLogger("akka").setLevel(Level.OFF)
     */
 
 
-  val lr = new LinearRegression()
+val lr = new LinearRegression()
     .setLabelCol("price")
     .setFeaturesCol("features")
+    .setRegParam(0.1)
     .setMaxIter(100)
     .setSolver("l-bfgs")
-  // .setRegParam(0.2)
-  //  .setFitIntercept(true)
 
-  /**
-    * Using cross validation and parameter grid for model tuning
-    */
+/**
+  * Gather the steps and create the pipeline
+  */
+val steps = categoricalIndexers ++
+  categoricalEncoders ++
+  Array(assembler, lr)
 
-  val paramGrid = new ParamGridBuilder()
-    .addGrid(lr.regParam, Array(0.1, 0.01, 1.0))
-    .addGrid(lr.fitIntercept)
-    .addGrid(lr.elasticNetParam, Array(0.0, 1.0))
-    .build()
+val pipeline = new Pipeline()
+  .setStages(steps)
 
-  /**
-    * Gather the steps and create the pipeline
-    */
-  val steps = categoricalIndexers ++
-    categoricalEncoders ++
-    Array(assembler, lr)
+/**
+  * Split the data into training and test
+  */
+val Array(training, test) = data.randomSplit(Array(0.75, 0.25), seed = 12345)
 
-  val pipeline = new Pipeline()
-    .setStages(steps)
+/**
+  * Fit the model and print out the result
+  */
 
-  /**
-    * Initialize the Cross Validator for model tuning
-    */
+val model = pipeline.fit {
+  training
+}
 
-  val cv = new CrossValidator()
-    .setEstimator(pipeline)
-    .setEvaluator(new RegressionEvaluator()
-      .setLabelCol("price") )
-    .setEstimatorParamMaps(paramGrid)
-    .setNumFolds(5)
+val holdout = model.transform(test)
+holdout.show(20)
 
-  /** val tvs = new TrainValidationSplit()
-    * .setEstimator( pipeline )
-    * .setEvaluator( new RegressionEvaluator()
-    * .setLabelCol("price") )
-    * .setEstimatorParamMaps(paramGrid)
-    * .setTrainRatio(0.75)*/
-
-  /**
-    * Split the training and testing data
-    */
-
-  val Array(training, test) = data.randomSplit(Array(0.75, 0.25), seed = 12345)
-
-  /**
-    * Fit the model and print out the result
-    */
+val prediction = holdout.select("prediction", "price").orderBy(abs(col("prediction")-col("price")))
+prediction.show(20)
 
 
-  val model = cv.fit {
-    training
-  }
-
-  val holdout = model.transform(test)
-  holdout.show(20)
-
-  val prediction = holdout.select("prediction", "price").orderBy(abs(col("prediction")-col("price")))
-  prediction.show(20)
-
-
-  val rm = new RegressionMetrics(prediction.rdd.map{
-    x =>  (x(0).asInstanceOf[Double], x(1).asInstanceOf[Double])
-  })
-  println(s"RMSE = ${rm.rootMeanSquaredError}")
-  println(s"R-squared = ${rm.r2}")
-
-
-
+val rm = new RegressionMetrics(prediction.rdd.map{
+  x =>  (x(0).asInstanceOf[Double], x(1).asInstanceOf[Double])
+})
+println(s"RMSE = ${rm.rootMeanSquaredError}")
+println(s"R-squared = ${rm.r2}")

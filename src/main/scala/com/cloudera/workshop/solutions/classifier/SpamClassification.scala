@@ -41,7 +41,7 @@ object SpamClassification {
     val spark = SparkSession
       .builder
       .appName("SpamExample")
-      .master("local")
+      .master("local[4]")
       .getOrCreate()
 
     val customSchema = StructType(Array(
@@ -62,33 +62,35 @@ object SpamClassification {
       .setOutputCol("label")
     val indexed = indexer.fit(ds).transform(ds)
 
-    indexed.show()
+    indexed.show(8)
 
     // tokenize
     val tokenizer = new Tokenizer().setInputCol("message").setOutputCol("tokens")
     val tokdata = tokenizer.transform(indexed)
 
-    tokdata.show()
+    tokdata.show(8)
 
     // tf
     val hashingTF = new HashingTF()
       .setInputCol("tokens").setOutputCol("tf")//.setNumFeatures(20)
     val tfdata = hashingTF.transform(tokdata)
 
-    tfdata.show()
+    tfdata.show(8)
 
     // idf
     val idf = new IDF().setInputCol("tf").setOutputCol("idf")
     val idfModel = idf.fit(tfdata)
     val idfdata = idfModel.transform(tfdata)
 
-    idfdata.show()
+    idfdata.show(8)
 
     // assembler
     val assembler = new VectorAssembler()
       .setInputCols(Array("idf"))
       .setOutputCol("features")
     val assemdata = assembler.transform(idfdata)
+
+    assemdata.show(8)
 
     // split
     val Array(trainingData, testData) = assemdata.randomSplit(Array(0.7, 0.3), 1000)
@@ -101,12 +103,9 @@ object SpamClassification {
     // build the model
     val lrModel = lr.fit(trainingData)
 
-    val str = lrModel.toString()
-    println(str)
-
     // predict
     val predict = lrModel.transform(testData)
-    predict.show(100)
+    predict.show(10)
 
     // evaluate
     val evaluator = new BinaryClassificationEvaluator()
