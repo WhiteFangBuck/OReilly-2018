@@ -16,11 +16,11 @@ Download Spark 2.1.0 from here : http://spark.apache.org/downloads.html
 
 Direct Download link : http://d3kbcqa49mib13.cloudfront.net/spark-2.1.0-bin-hadoop2.7.tgz
 
-### Install Spark 2.1.0 on Mac
+### Install Spark 2.1.0 on Mac/Linux
 
 tar -zxvf spark-2.1.0-bin-hadoop2.7.tgz
 
-export PATH=$PATH:/Users/path_to_downloaded_spark/spark-2.1.0-bin-hadoop2.7/bin
+export PATH=$PATH:/<path_to_downloaded_spark>/spark-2.1.0-bin-hadoop2.7/bin
 
 ### Running spark-shell on mac
 
