@@ -24,16 +24,9 @@ Logger.getLogger("akka").setLevel(Level.OFF)
 
 /**
     * Create dataframe using csv method.
-    * IMPORTANT: Uncomment the dataset below
 */
 
-var dataset = "UNCOMMENT_YOUR_DATASET"
-
-// If you are using spark-shell, uncomment this line
-// dataset = "data/Housing.csv"
-
-// If you are using CDSW, uncomment this line
-// dataset = "/data/Housing.csv"
+var dataset =  "data/Housing.csv"
 
 import spark.implicits._
 
