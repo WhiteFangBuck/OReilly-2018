@@ -22,17 +22,9 @@ Logger.getLogger("akka").setLevel(Level.OFF)
 
 /**
   * This is your training data
-  * IMPORTANT: Uncomment the dataset below
   */
 
-var dataset = "UNCOMMENT_YOUR_DATASET"
-
-// If you are using spark-shell, uncomment this line
-// dataset = "data/validation/farm-ads.txt"
-
-// If you are using CDSW, uncomment this line
-// dataset = "/data/validation/farm-ads.txt"
-
+val dataset = "data/validation/farm-ads.txt"
 
 val schema = StructType(Array(
   StructField("label", DoubleType, true),
