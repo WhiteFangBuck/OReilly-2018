@@ -14,9 +14,7 @@ Logger.getLogger("akka").setLevel(Level.OFF)
 
 /**
   * Load the data
-  * IMPORTANT: Uncomment the dataset below
   */
-
 val dataset = "data/validation/sample_linear_regression_data.txt"
 
 val data = spark.read.format("libsvm").load(dataset)
