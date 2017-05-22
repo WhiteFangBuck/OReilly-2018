@@ -66,13 +66,7 @@ import org.apache.spark.sql._
    /**
      * Read the input data
      */
-   var dataset = "UNCOMMENT_YOUR_DATASET"
-
-   // If you are using spark-shell, uncomment this line
-   // dataset = "data/Housing.csv"
-
-   // If you are using CDSW, uncomment this line
-   // dataset = "/data/Housing.csv"
+   var dataset = "data/Housing.csv"
 
    val spark = SparkSession
       .builder
