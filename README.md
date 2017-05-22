@@ -1,4 +1,4 @@
-# Strata-2017-SAN-JOSE
+# Strata-2017-LONDON
 
 This tutorial can either be run in spark-shell or in an IDE (IntelliJ or Scala IDE for Eclipse)
 
@@ -31,8 +31,6 @@ export PATH=$PATH:/Users/path_to_downloaded_spark/spark-2.1.0-bin-hadoop2.7/bin
 Unzip spark-2.1.0-bin-hadoop2.7.tgz
 
 Add the spark bin directory to Path : ...\spark-2.1.0-bin-hadoop2.7\bin
-- set SPARK_HOME=<PATH_TO_SPARK>
-- set PATH=%SPARK_HOME%/bin;%PATH%
 
 ### Set up winutils.exe on Windows (not needed on mac)
 
@@ -40,13 +38,10 @@ Add the spark bin directory to Path : ...\spark-2.1.0-bin-hadoop2.7\bin
 - move it to c:\hadoop\bin
 - set HADOOP_HOME in your environment variables
     - HADOOP_HOME = C:\hadoop
-    - set PATH=%HADOOP_HOME%\bin;%PATH%
-    - Create c:\tmp\hive directory.
-    - winutils.exe chmod -R 777 \tmp\hive
 - run from command prompt:
     - C:\hadoop\bin\winutils.exe chmod 777 /tmp/hive
 - run spark-shell from command prompt with extra conf parameter
-    - spark-shell --driver-memory 2G --executor-memory 3G --executor-cores 2 --conf spark.sql.warehouse.dir=file:///c:/tmp/spark-warehouse
+    - spark-shell --driver-memory 2G --executor-memory 3G --executor-cores 2 -conf spark.sql.warehouse.dir=file:///c:/tmp/spark-warehouse
 
 
 ### Pasting code in spark-shell
