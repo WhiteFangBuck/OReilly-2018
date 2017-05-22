@@ -14,7 +14,7 @@ Java/JDK 1.7+ has to be installed on the laptop before proceeding with the steps
 
 Download Spark 2.1.0 from here : http://spark.apache.org/downloads.html
 
-Direct Download link : http://d3kbcqa49mib13.cloudfront.net/spark-2.1.0-bin-hadoop2.7.tgz
+Direct Download link : http://mirrors.ukfast.co.uk/sites/ftp.apache.org/spark/spark-2.1.1/spark-2.1.1-bin-hadoop2.7.tgz
 
 ### Install Spark 2.1.0 on Mac/Linux
 
