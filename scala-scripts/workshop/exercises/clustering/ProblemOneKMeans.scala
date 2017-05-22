@@ -17,12 +17,7 @@ Logger.getLogger("akka").setLevel(Level.OFF)
   * IMPORTANT: Uncomment the dataset below
   */
 
-var dataset = "UNCOMMENT_YOUR_DATASET"
-// If you are using spark-shell, uncomment this line
-// dataset = "data/kmeans/flightinfo/flights_nofeatures.csv"
-
-// If you are using CDSW, uncomment this line
-// dataset = "/data/kmeans/flightinfo/flights_nofeatures.csv"
+val dataset = "data/kmeans/flightinfo/flights_nofeatures.csv"
 
 val inputData = spark.read
   .option("header","true")
