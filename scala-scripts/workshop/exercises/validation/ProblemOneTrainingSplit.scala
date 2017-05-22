@@ -10,16 +10,9 @@ Logger.getLogger("akka").setLevel(Level.OFF)
 
 /**
   * Use the sample Linear Regression Data to demonstrate Model Selection
-  * IMPORTANT: Uncomment the dataset below
   */
 
-var dataset = "UNCOMMENT_YOUR_DATASET"
-
-// If you are using spark-shell, uncomment this line
-// dataset = "data/validation/sample_linear_regression_data.txt"
-
-// If you are using CDSW, uncomment this line
-// dataset = "/data/validation/sample_linear_regression_data.txt"
+val dataset = dataset = "data/validation/sample_linear_regression_data.txt"
 
 /**
   * Load the data
