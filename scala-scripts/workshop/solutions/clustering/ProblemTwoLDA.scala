@@ -12,8 +12,8 @@ import org.apache.spark.ml.feature.{CountVectorizer, NGram, RegexTokenizer, Stop
 Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
-var inputDir = "/data/newsgroup_20/"
-var stopWordFile = "/data/stopwords.txt"
+var inputDir = "data/newsgroup_20/"
+var stopWordFile = "data/stopwords.txt"
 
 /**
   * There are three hyperparameters here
