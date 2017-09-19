@@ -15,7 +15,7 @@ Logger.getLogger("akka").setLevel(Level.OFF)
 /**
   * Load the data
   */
-val dataset = "data/validation/sample_linear_regression_data.txt"
+val dataset = "/data/validation/sample_linear_regression_data.txt"
 
 val data = spark.read.format("libsvm").load(dataset)
 
@@ -40,21 +40,21 @@ val lr = new LinearRegression()
   * For Regularizer
   * For Intercept
   */
-val paramGrid = new ParamGridBuilder()
-  .addGrid(lr.regParam, Array(0.1, 0.01, 1))
-  .addGrid(lr.fitIntercept, Array(true, false))
-  .addGrid(lr.elasticNetParam, Array(0.0, 0.25, 0.5, 0.75))
-  .build()
+val paramGrid = new ParamGridBuilder().
+  addGrid(lr.regParam, Array(0.1, 0.01, 1)).
+  addGrid(lr.fitIntercept, Array(true, false)).
+  addGrid(lr.elasticNetParam, Array(0.0, 0.25, 0.5, 0.75)).
+  build()
 
 /**
   * Do the TrainValidation model initiation
   * 80-20 split
   */
-val trainValidationSplit = new TrainValidationSplit()
-  .setEstimator(lr)
-  .setEvaluator(new RegressionEvaluator)
-  .setEstimatorParamMaps(paramGrid)
-  .setTrainRatio(0.8)
+val trainValidationSplit = new TrainValidationSplit().
+  setEstimator(lr).
+  setEvaluator(new RegressionEvaluator).
+  setEstimatorParamMaps(paramGrid).
+  setTrainRatio(0.8)
 
 /**
   * Generate the model on the training data
@@ -64,7 +64,8 @@ val model = trainValidationSplit.fit(training)
 /**
   * Print out the predictions on the test
   */
-val result = model.transform(test)
-  .select("features", "label", "prediction")
+valresult = model.transform(test).
+  select("features", "label", "prediction")
+
 result.printSchema()
 result.show()
