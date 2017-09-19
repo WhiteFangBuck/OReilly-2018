@@ -24,17 +24,17 @@ Logger.getLogger("akka").setLevel(Level.OFF)
   * This is your training data
   */
 
-val dataset = "data/validation/farm-ads.txt"
+val dataset = "/data/validation/farm-ads.txt"
 
 val schema = StructType(Array(
   StructField("label", DoubleType, true),
   StructField("text", StringType, true)))
 
-val originalDF = spark.read
-  .format("csv")
-  .option("header","false")
-  .schema(schema)
-  .load(dataset)
+val originalDF = spark.read.
+  format("csv").
+  option("header","false").
+  schema(schema).
+  load(dataset)
 
 
 val trainingDF = originalDF.withColumn("id",
