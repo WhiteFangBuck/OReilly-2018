@@ -1,3 +1,4 @@
+
 /**
   * Created by vsingh on 3/11/17.
   */
@@ -12,8 +13,8 @@ import org.apache.spark.ml.feature.{CountVectorizer, NGram, RegexTokenizer, Stop
 Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
-var inputDir = "data/newsgroup_20/"
-var stopWordFile = "data/stopwords.txt"
+var inputDir = "/data/newsgroup_20/"
+var stopWordFile = "/data/stopwords.txt"
 
 /**
   * There are three hyperparameters here
@@ -31,10 +32,13 @@ val vocabSize: Int = 10000
   * Find a way to read all the files and attach an id to the files read.
   */
 
-import spark.implicits._
+val sqlContext = new org.apache.spark.sql.SQLContext(sc)
+import sqlContext.implicits._
 
 val rawTextRDD = sc.wholeTextFiles(inputDir).map(_._2)
-val docDF = rawTextRDD.zipWithIndex.toDF("text", "docId")
+val docDF = rawTextRDD.
+            zipWithIndex.
+            toDF("text", "docId")
 
 /**
   * Use RegEx Tokenizer to tokenize the words using several parameters, such as
@@ -43,13 +47,13 @@ val docDF = rawTextRDD.zipWithIndex.toDF("text", "docId")
   * Tokenization criteria
   * SetGaps or not
   */
-val tokens = new RegexTokenizer()
-      .setGaps(false)
-      .setPattern("\\w+")
-      .setMinTokenLength(4)
-      .setInputCol("text")
-      .setOutputCol("words")
-      .transform(docDF)
+val tokens = new RegexTokenizer().
+      setGaps(false). 
+      setPattern("\\w+"). 
+      setMinTokenLength(4). 
+      setInputCol("text"). 
+      setOutputCol("words"). 
+      transform(docDF) 
 
 /**
   * Use stop words to remove or add the words from the list
@@ -57,45 +61,45 @@ val tokens = new RegexTokenizer()
   */
 
 val stopwords = spark.sparkContext.textFile(stopWordFile).collect
-val filteredTokens = new StopWordsRemover()
-      .setStopWords(stopwords)
-      .setCaseSensitive(false)
-      .setInputCol("words")
-      .setOutputCol("filtered")
-      .transform(tokens)
+val filteredTokens = new StopWordsRemover().
+      setStopWords(stopwords).
+      setCaseSensitive(false).
+      setInputCol("words").
+      setOutputCol("filtered").
+      transform(tokens)
 
 /**
   * Optionally use NGrams to form the feature vectors
   */
 
-val ngram = new NGram()
-      .setInputCol("filtered")
-      .setOutputCol("ngrams")
-      .transform(filteredTokens)
+val ngram = new NGram().
+      setInputCol("filtered").
+      setOutputCol("ngrams").
+      transform(filteredTokens)
 
 /**
   * Use CountVectorizer to generate the numeric vectors
   */
 
-val cvModel = new CountVectorizer()
-      .setInputCol("ngrams")
-      .setOutputCol("features")
-      .setVocabSize(vocabSize)
-      .fit(ngram)
+val cvModel = new CountVectorizer().
+      setInputCol("ngrams").
+      setOutputCol("features").
+      setVocabSize(vocabSize).
+      fit(ngram)
 
-val countVectors = cvModel
-      .transform(ngram)
-      .select("docId", "features")
+val countVectors = cvModel.
+      transform(ngram).
+      select("docId", "features")
 
 /**
   * Initialize the LDA
   * Either use EM optimizer or online optimizer.
   */
 
-val lda = new LDA()
-  .setOptimizer("online")
-  .setK(numTopics)
-  .setMaxIter(maxIterations)
+val lda = new LDA().
+  setOptimizer("online").
+  setK(numTopics).
+  setMaxIter(maxIterations)
 
  /**
    * Print out the Word to Topic probabilities
