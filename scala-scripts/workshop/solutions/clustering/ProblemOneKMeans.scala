@@ -16,11 +16,11 @@ Logger.getLogger("akka").setLevel(Level.OFF)
   * Create dataframe using csv method.
   */
 
-val dataset = "data/kmeans/flightinfo/flights_nofeatures.csv"
+val dataset = "/data/kmeans/flightinfo/flights_nofeatures.csv"
 
-val inputData = spark.read
-  .option("header","true")
-  .option("inferSchema","true").csv(dataset)
+val inputData = spark.read.
+  option("header","true").
+  option("inferSchema","true").csv(dataset)
 
 inputData.printSchema()
 inputData.show()
@@ -35,9 +35,10 @@ val isSat = udf {(x:String) => if (x.toLowerCase.equals("saturday")) 1 else 0}
 val isSun = udf {(x: String) => if (x.toLowerCase.equals("sunday")) 1 else 0}
 val isMon = udf {(x: String) => if (x.toLowerCase.equals("monday")) 1 else 0}
 
-val transformedDay = inputData.withColumn("Saturday", isSat(inputData("Day")))
-  .withColumn("Sunday", isSun(inputData("Day")))
-  .withColumn("Monday", isMon(inputData("Day")))
+val transformedDay = inputData.withColumn("Saturday", isSat(inputData("Day"))).
+  withColumn("Sunday", isSun(inputData("Day"))).
+  withColumn("Monday", isMon(inputData("Day")))
+
 transformedDay.printSchema()
 transformedDay.show()
 
@@ -66,8 +67,8 @@ val  toInt = udf {(s: String) =>
   s.toInt
 }
 
-val transformedTime = transformedDay.withColumn ("dateFract",dayFract(transformedDay("Arrival Time")))
-  .withColumn("Grade",toInt(transformedDay("PayGrade")))
+val transformedTime = transformedDay.withColumn ("dateFract",dayFract(transformedDay("Arrival Time"))).
+   withColumn("Grade",toInt(transformedDay("PayGrade")))
 transformedTime.printSchema()
 transformedTime.show()
 
@@ -76,9 +77,9 @@ transformedTime.show()
   * From relevant columns
   *
   */
-val assembler = new VectorAssembler()
-  .setInputCols(Array("Saturday","Sunday","Monday","dateFract","Grade"))
-  .setOutputCol("features")
+val assembler = new VectorAssembler().
+  setInputCols(Array("Saturday","Sunday","Monday","dateFract","Grade")).
+  setOutputCol("features")
 
 val featurizedData = assembler.transform(transformedTime)
 featurizedData.printSchema()
@@ -87,21 +88,22 @@ featurizedData.show()
 /**
   * Scale my features using MinMaxScaler
   */
-val scaler = new MinMaxScaler()
-  .setInputCol("features")
-  .setOutputCol("scaled_features")
+val scaler = new MinMaxScaler().
+  setInputCol("features").
+  setOutputCol("scaled_features")
 val scalerModel = scaler.fit(featurizedData)
 val scaledData = scalerModel.transform(featurizedData)
+
 scaledData.printSchema()
 scaledData.show()
 
 /**
   * Trains a k-means model
   */
-val kmeans = new KMeans()
-  .setK(20)
-  .setFeaturesCol("scaled_features")
-  .setPredictionCol("clusterId")
+val kmeans = new KMeans().
+  setK(20).
+  setFeaturesCol("scaled_features").
+  setPredictionCol("clusterId")
 val model = kmeans.fit(scaledData)
 
 /**
