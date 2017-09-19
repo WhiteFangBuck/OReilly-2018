@@ -66,13 +66,8 @@ import org.apache.spark.sql._
    /**
      * Read the input data
      */
-   var dataset = "data/Housing.csv"
+   var dataset = "/data/Housing.csv"
 
-   val spark = SparkSession
-      .builder
-      .appName("ProblemOneLinearRegression")
-      .master("local")
-      .getOrCreate()
 
    /**
      * Create the data frame
