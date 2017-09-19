@@ -23,18 +23,18 @@ Logger.getLogger("akka").setLevel(Level.OFF)
   * This is your training data
   */
 
-val dataset = "data/validation/farm-ads.txt"
+val dataset = "/data/validation/farm-ads.txt"
 
 
 val schema = StructType(Array(
   StructField("label", DoubleType, true),
   StructField("text", StringType, true)))
 
-val originalDF = spark.read
-  .format("csv")
-  .option("header","false")
-  .schema(schema)
-  .load(dataset)
+val originalDF = spark.read.
+  format("csv").
+  option("header","false").
+  schema(schema).
+  load(dataset)
 
 
 val trainingDF = originalDF.withColumn("id",
@@ -48,53 +48,52 @@ trainingDF.show()
   * Tokenize the \"text"\ column
   * Start of the pipeline
   */
-val tokenizer = new Tokenizer()
-  .setInputCol("text")
-  .setOutputCol("words")
+val tokenizer = new Tokenizer().
+  setInputCol("text").
+  setOutputCol("words")
 
 /**
   * Use the HashingTF on Tokenizer output
   */
-val hashingTF = new HashingTF()
-  .setInputCol(tokenizer.getOutputCol)
-  .setOutputCol("rawFeatures")
+val hashingTF = new HashingTF().
+  setInputCol(tokenizer.getOutputCol).
+  setOutputCol("rawFeatures")
 
 /**
   * Apply IDF
   */
-val idf = new IDF()
-  .setInputCol("rawFeatures")
-  .setOutputCol("features")
+val idf = new IDF().
+  setInputCol("rawFeatures").
+  setOutputCol("features")
 /**
   * Initialize a logistic regression model
   */
-val lr = new LogisticRegression()
-  .setMaxIter(10)
+val lr = new LogisticRegression().setMaxIter(10)
 
 /**
   * Initialize the pipeline using previous three nodes
   */
-val pipeline = new Pipeline()
-  .setStages(Array(tokenizer, hashingTF, idf, lr))
+val pipeline = new Pipeline().
+  setStages(Array(tokenizer, hashingTF, idf, lr))
 
 /**
   * Create the parameter builder using various number of features and different values for the regularizer
   */
-val paramGrid = new ParamGridBuilder()
-  .addGrid(hashingTF.numFeatures, Array(10, 100, 1000))
-  .addGrid(lr.regParam, Array(0.1, 0.01))
-  .build()
+val paramGrid = new ParamGridBuilder().
+  addGrid(hashingTF.numFeatures, Array(10, 100, 1000)).
+  addGrid(lr.regParam, Array(0.1, 0.01)).
+  build()
 
 /**
   * Initiate a CrossValidator
   * Treate the pipeline as an estimator and a BinaryClassificationEvaluator as testor.
   * NumberofFolds are 2+.
   */
-val cv = new CrossValidator()
-  .setEstimator(pipeline)
-  .setEvaluator(new BinaryClassificationEvaluator)
-  .setEstimatorParamMaps(paramGrid)
-  .setNumFolds(2) // Use 3+ in practice
+val cv = new CrossValidator().
+  setEstimator(pipeline).
+  setEvaluator(new BinaryClassificationEvaluator).
+  setEstimatorParamMaps(paramGrid).
+  setNumFolds(2) // Use 3+ in practice
 
 /**
   * Run cross validation
@@ -115,8 +114,8 @@ val test = spark.createDataFrame(Seq(
 /**
   * Make predictions on the test documents
   */
-cvModel.transform(test)
-  .select("id", "text", "probability", "prediction")
-  .collect()
-  .foreach { case Row(id: Long, text: String, prob: Vector, prediction: Double) =>
+cvModel.transform(test).
+  select("id", "text", "probability", "prediction").
+  collect().
+  foreach { case Row(id: Long, text: String, prob: Vector, prediction: Double) =>
 println(s"($id, $text) --> prob=$prob, prediction=$prediction")}
