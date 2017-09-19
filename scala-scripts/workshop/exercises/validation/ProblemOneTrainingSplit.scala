@@ -12,7 +12,7 @@ Logger.getLogger("akka").setLevel(Level.OFF)
   * Use the sample Linear Regression Data to demonstrate Model Selection
   */
 
-val dataset = dataset = "data/validation/sample_linear_regression_data.txt"
+val dataset = "/data/validation/sample_linear_regression_data.txt"
 
 /**
   * Load the data
