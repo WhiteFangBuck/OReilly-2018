@@ -13,7 +13,7 @@ Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
 // read in the data into a DataFrame
-val ds = spark.read.option("inferSchema", "true").option("header", "true").csv("data/bike_sharing_sample_dataset.csv")
+val ds = spark.read.option("inferSchema", "true").option("header", "true").csv("/data/bike_sharing_sample_dataset.csv")
 ds.printSchema()
 
 // convert date
@@ -27,11 +27,11 @@ newds = newds.select(col("*"), dayofmonth(newds.col("datetime")).alias("datetime
 newds = newds.select(col("*"), hour(newds.col("datetime")).alias("datetime_hour"))
 
 // vector assembler
-val assembler = new VectorAssembler()
-      .setInputCols(Array("season", "holiday", "workingday", "weather",
+val assembler = new VectorAssembler().
+      setInputCols(Array("season", "holiday", "workingday", "weather",
         "humidity", "windspeed", "temp", "atemp",
-        "datetime_year", "datetime_month", "datetime_dayofmonth", "datetime_hour"))
-      .setOutputCol("features")
+        "datetime_year", "datetime_month", "datetime_dayofmonth", "datetime_hour")).
+      setOutputCol("features")
 
 newds = assembler.transform(newds)
 newds.printSchema()
@@ -50,10 +50,10 @@ trainingData.printSchema()
 trainingData.show(10)
 
 // Train a GBT model.
-val gbt = new GBTRegressor()
-      .setLabelCol("count")
-      .setFeaturesCol("features_vector_index")
-      .setMaxIter(10)
+val gbt = new GBTRegressor().
+      setLabelCol("count").
+      setFeaturesCol("features_vector_index").
+      setMaxIter(10)
 
 // train model
 val gbtModel = gbt.fit(trainingData)
@@ -65,10 +65,11 @@ predictions.printSchema()
 // Select (prediction, true label) and compute test error.
 predictions.select("prediction", "count", "features_vector_index").show(50)
 
-val evaluator = new RegressionEvaluator()
-      .setLabelCol("count")
-      .setPredictionCol("prediction")
-      .setMetricName("rmse")
+val evaluator = new RegressionEvaluator().
+      setLabelCol("count").
+      setPredictionCol("prediction").
+      setMetricName("rmse")
+
 val rmse = evaluator.evaluate(predictions)
 println("Root Mean Squared Error (RMSE) on test data = " + rmse)
 
