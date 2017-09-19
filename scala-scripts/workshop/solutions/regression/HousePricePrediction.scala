@@ -26,7 +26,7 @@ Logger.getLogger("akka").setLevel(Level.OFF)
     * Create dataframe using csv method.
 */
 
-var dataset =  "data/Housing.csv"
+var dataset =  "/data/Housing.csv"
 
 import spark.implicits._
 
@@ -34,12 +34,12 @@ import spark.implicits._
     * Create the data frame
     */
 
-val data = spark.sparkContext.textFile(dataset)
-    .map(_.split(","))
-    .map( x => ( X(
+val data = spark.sparkContext.textFile(dataset).
+    map(_.split(",")).
+    map( x => ( X(
       x(0), x(1).toDouble, x(2).toDouble, x(3).toDouble, x(4).toDouble, x(5).toDouble,
-      x(6), x(7), x(8), x(9), x(10), x(11).toDouble, x(12) )))
-    .toDF()
+      x(6), x(7), x(8), x(9), x(10), x(11).toDouble, x(12) ))).
+    toDF()
 
 data.show(20)
 
@@ -53,27 +53,27 @@ val categoricalVariables = Array("driveway","recroom", "fullbase", "gashw", "air
   */
 
 val categoricalIndexers: Array[org.apache.spark.ml.PipelineStage] =
-  categoricalVariables.map(i => new StringIndexer()
-    .setInputCol(i).setOutputCol(i+"Index"))
+  categoricalVariables.map(i => new StringIndexer().
+    setInputCol(i).setOutputCol(i+"Index"))
 
   /**
     * Initialize the OneHotEncoder as another pipeline stage
     */
 
 val categoricalEncoders: Array[org.apache.spark.ml.PipelineStage] =
-  categoricalVariables.map(e => new OneHotEncoder()
-    .setInputCol(e + "Index").setOutputCol(e + "Vec"))
+  categoricalVariables.map(e => new OneHotEncoder().
+    setInputCol(e + "Index").setOutputCol(e + "Vec"))
 
 /**
     * Put all the feature columns of the categorical variables together
     */
 
-val assembler = new VectorAssembler()
-    .setInputCols( Array(
+val assembler = new VectorAssembler().
+    setInputCols( Array(
       "lotsize", "bedrooms", "bathrms", "stories",
       "garagepl","drivewayVec", "recroomVec", "fullbaseVec",
-      "gashwVec","aircoVec", "prefareaVec"))
-    .setOutputCol("features")
+      "gashwVec","aircoVec", "prefareaVec")).
+    setOutputCol("features")
 
   /**
     * Initialize the instance for LinearRegression using your choice of solver and number of iterations
@@ -81,12 +81,12 @@ val assembler = new VectorAssembler()
     */
 
 
-val lr = new LinearRegression()
-    .setLabelCol("price")
-    .setFeaturesCol("features")
-    .setRegParam(0.1)
-    .setMaxIter(100)
-    .setSolver("l-bfgs")
+val lr = new LinearRegression().
+    setLabelCol("price").
+    setFeaturesCol("features").
+    setRegParam(0.1).
+    setMaxIter(100).
+    setSolver("l-bfgs")
 
 /**
   * Gather the steps and create the pipeline
@@ -95,8 +95,7 @@ val steps = categoricalIndexers ++
   categoricalEncoders ++
   Array(assembler, lr)
 
-val pipeline = new Pipeline()
-  .setStages(steps)
+val pipeline = new Pipeline().setStages(steps)
 
 /**
   * Split the data into training and test
