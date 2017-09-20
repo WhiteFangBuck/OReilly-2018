@@ -87,8 +87,10 @@ val cvModel = new CountVectorizer().
       setVocabSize(vocabSize).
       fit(ngram)
 
+val ngramNum = 2
 val countVectors = cvModel.
       transform(ngram).
+      setN(ngramNum).
       select("docId", "features")
 
 /**
@@ -113,7 +115,7 @@ val lda = new LDA().
  println(s"Training time (sec)\t$elapsed")
  println(s"==========")
 
- val topicIndices = ldaModel.describeTopics(maxTermsPerTopic = 10).coalesce(1)
+ val topicIndices = ldaModel.describeTopics(maxTermsPerTopic = 10).coalesce(1).collect
  val vocabArray = cvModel.vocabulary
 
  for(i <- topicIndices) { println(s"Topic ${i(0)}")
