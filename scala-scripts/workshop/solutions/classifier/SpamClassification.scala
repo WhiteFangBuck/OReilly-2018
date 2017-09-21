@@ -30,8 +30,8 @@ import org.apache.spark.sql.SparkSession
 Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
-val sqlContext = new org.apache.spark.sql.SQLContext(sc)
-import sqlContext.implicits._
+//val sqlContext = new org.apache.spark.sql.SQLContext(sc)
+//import sqlContext.implicits._
 
 val customSchema = StructType(Array(
       StructField("spam", StringType, true),
@@ -39,16 +39,16 @@ val customSchema = StructType(Array(
 
     ))
 
-val ds = spark.read.option("inferSchema", "false").option("delimiter", "\t").schema(customSchema).csv("data/SMSSpamCollection.tsv")
+val ds = spark.read.option("inferSchema", "false").option("delimiter", "\t").schema(customSchema).csv("/data/SMSSpamCollection.tsv")
 
 ds.printSchema()
 
 ds.show(8)
 
 // string indexer
-val indexer = new StringIndexer()
-      .setInputCol("spam")
-      .setOutputCol("label")
+val indexer = new StringIndexer().
+      setInputCol("spam").
+      setOutputCol("label")
 val indexed = indexer.fit(ds).transform(ds)
 
 indexed.show()
@@ -60,8 +60,8 @@ val tokdata = tokenizer.transform(indexed)
 tokdata.show()
 
 // tf
-val hashingTF = new HashingTF()
-      .setInputCol("tokens").setOutputCol("tf")//.setNumFeatures(20)
+val hashingTF = new HashingTF().
+      setInputCol("tokens").setOutputCol("tf")//.setNumFeatures(20)
 val tfdata = hashingTF.transform(tokdata)
 
 tfdata.show()
@@ -74,18 +74,18 @@ val idfdata = idfModel.transform(tfdata)
 idfdata.show()
 
 // assembler
-val assembler = new VectorAssembler()
-      .setInputCols(Array("idf"))
-      .setOutputCol("features")
+val assembler = new VectorAssembler().
+      setInputCols(Array("idf")).
+      setOutputCol("features")
 val assemdata = assembler.transform(idfdata)
 
 // split
 val Array(trainingData, testData) = assemdata.randomSplit(Array(0.7, 0.3), 1000)
 
 // lr
-val lr = new LogisticRegression()
-      .setLabelCol("label")
-      .setFeaturesCol("features")
+val lr = new LogisticRegression().
+      setLabelCol("label").
+      setFeaturesCol("features")
 
 // Fit the model
 val lrModel = lr.fit(trainingData)
@@ -98,15 +98,15 @@ val predict = lrModel.transform(testData)
 predict.show(100)
 
 // evaluate
-val evaluator = new BinaryClassificationEvaluator()
-      .setRawPredictionCol("prediction")
+val evaluator = new BinaryClassificationEvaluator().
+      setRawPredictionCol("prediction")
 
 val accuracy = evaluator.evaluate(predict)
 println("Test Error = " + (1.0 - accuracy))
 
 // compute confusion matrix
-val predictionsAndLabels = predict.select("prediction", "label")
-      .map(row => (row.getDouble(0), row.getDouble(1)))
+val predictionsAndLabels = predict.select("prediction", "label").
+      map(row => (row.getDouble(0), row.getDouble(1)))
 
 val metrics = new MulticlassMetrics(predictionsAndLabels.rdd)
 println("\nConfusion matrix:")
