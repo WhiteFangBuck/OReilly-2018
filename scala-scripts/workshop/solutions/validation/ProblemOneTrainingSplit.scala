@@ -32,7 +32,7 @@ training.show()
 /**
   * Set the number of iterations
   */
-val lr = new LinearRegression().setMaxIter(10)
+val lr = new LinearRegression()
 
 /**
   * Set the parametric grid builder
