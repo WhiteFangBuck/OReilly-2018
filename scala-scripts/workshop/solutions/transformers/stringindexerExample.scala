@@ -1,5 +1,3 @@
-{{
-
 import org.apache.spark.ml.attribute.Attribute
 import org.apache.spark.ml.feature._
 import org.apache.spark.sql.functions.{col, udf}
@@ -16,10 +14,10 @@ val df = spark.createDataFrame(Seq(
 /**
   * StringIndexer Example
   */
-val indexer = new StringIndexer()
-      .setInputCol("category")
-      .setOutputCol("categoryIndex")
-      .fit(df)
+val indexer = new StringIndexer().
+      setInputCol("category").
+      setOutputCol("categoryIndex").
+      fit(df)
 
  val indexed = indexer.transform(df)
 
@@ -31,4 +29,3 @@ val indexer = new StringIndexer()
     println(s"StringIndexer will store labels in output column metadata: " +
       s"${Attribute.fromStructField(inputColSchema).toString}\n")
       
- }}
