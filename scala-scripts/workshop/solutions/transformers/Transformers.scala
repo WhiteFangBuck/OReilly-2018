@@ -15,10 +15,10 @@ val df = spark.createDataFrame(Seq(
 /**
   * StringIndexer Example
   */
-val indexer = new StringIndexer()
-      .setInputCol("category")
-      .setOutputCol("categoryIndex")
-      .fit(df)
+val indexer = new StringIndexer().
+      setInputCol("category").
+      setOutputCol("categoryIndex").
+      fit(df)
 
  val indexed = indexer.transform(df)
 
@@ -34,9 +34,9 @@ val indexer = new StringIndexer()
    * IndexToString Example
    */
 
- val converter = new IndexToString()
-      .setInputCol("categoryIndex")
-      .setOutputCol("originalCategory")
+ val converter = new IndexToString().
+      setInputCol("categoryIndex").
+      setOutputCol("originalCategory")
 
  val converted = converter.transform(indexed)
 
@@ -44,9 +44,9 @@ val indexer = new StringIndexer()
       s"column '${converter.getOutputCol}' using labels in metadata")
     converted.select("id", "categoryIndex", "originalCategory").show()
 
- val encoder = new OneHotEncoder()
-      .setInputCol("categoryIndex")
-      .setOutputCol("categoryVec")
+ val encoder = new OneHotEncoder().
+      setInputCol("categoryIndex").
+      setOutputCol("categoryVec")
 
 
 val encoded = encoder.transform(indexed)
@@ -58,10 +58,10 @@ val encoded = encoder.transform(indexed)
   */
 val libSVMData = spark.read.format("libsvm").load("/data/mllib/sample_libsvm_data.txt")
 
-val vIndexer = new VectorIndexer()
-      .setInputCol("features")
-      .setOutputCol("indexed")
-      .setMaxCategories(10)
+val vIndexer = new VectorIndexer().
+      setInputCol("features").
+      setOutputCol("indexed").
+      setMaxCategories(10)
 
 val indexerModel = vIndexer.fit(libSVMData)
 
@@ -86,27 +86,27 @@ val data = Seq(
 val sentenceDataFrame = spark.createDataFrame(data).toDF("id", "sentence")
 
 val tokenizer = new Tokenizer().setInputCol("sentence").setOutputCol("words")
-val regexTokenizer = new RegexTokenizer()
-      .setInputCol("sentence")
-      .setOutputCol("words")
-      .setPattern("\\W") // alternatively .setPattern("\\w+").setGaps(false)
+val regexTokenizer = new RegexTokenizer().
+      setInputCol("sentence").
+      setOutputCol("words").
+      setPattern("\\W") // alternatively .setPattern("\\w+").setGaps(false)
 
 val countTokens = udf { (words: Seq[String]) => words.length }
 
 val tokenized = tokenizer.transform(sentenceDataFrame)
-    tokenized.select("sentence", "words")
-      .withColumn("tokens", countTokens(col("words"))).show(false)
+    tokenized.select("sentence", "words").
+      withColumn("tokens", countTokens(col("words"))).show(false)
 
 val regexTokenized = regexTokenizer.transform(sentenceDataFrame)
-    regexTokenized.select("sentence", "words")
-      .withColumn("tokens", countTokens(col("words"))).show(false)
+    regexTokenized.select("sentence", "words").
+      withColumn("tokens", countTokens(col("words"))).show(false)
 
 /**
   * StopWords Removal Example
   */
 
-val remover = new StopWordsRemover()
-      .setInputCol("words")
-      .setOutputCol("filtered")
+val remover = new StopWordsRemover().
+      setInputCol("words").
+      setOutputCol("filtered")
 
 remover.transform(regexTokenized).show(false)
