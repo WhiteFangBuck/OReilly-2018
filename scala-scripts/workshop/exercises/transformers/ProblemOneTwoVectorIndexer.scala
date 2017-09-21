@@ -7,12 +7,12 @@ import org.apache.spark.sql.SparkSession
 
     //Init and use a Vector Indexer which combines StringIndexer and OneHotEncoder.
 
-    val data = spark.read.format("libsvm").load("data/mllib/sample_libsvm_data.txt")
+    val data = spark.read.format("libsvm").load("/data/mllib/sample_libsvm_data.txt")
 
-    val indexer = new VectorIndexer()
-      .setInputCol("features")
-      .setOutputCol("indexed")
-      .setMaxCategories(10)
+    val indexer = new VectorIndexer().
+      setInputCol("features").
+      setOutputCol("indexed").
+      setMaxCategories(10)
 
     val indexerModel = indexer.fit(data)
 
