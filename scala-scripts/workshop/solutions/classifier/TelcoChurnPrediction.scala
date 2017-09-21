@@ -129,6 +129,3 @@ val predictionsAndLabels = predict.select("prediction", "churned_idx").
 val metrics = new MulticlassMetrics(predictionsAndLabels.rdd)
 println("\nConfusion matrix:")
 println(metrics.confusionMatrix)
-
-
-
