@@ -1,4 +1,3 @@
-{{
 import org.apache.spark.ml.feature._
 
     /**
@@ -11,6 +10,21 @@ import org.apache.spark.ml.feature._
       (1.0, "It was love at first sight.")
     )).toDF("label", "sentence")
 
+  /**
+  * Use RegEx Tokenizer to tokenize the words using several parameters, such as
+  *
+  * Token Length
+  * Tokenization criteria
+  * SetGaps or not
+  */
+   val wordsData = new RegexTokenizer().
+      setGaps(false). 
+      setPattern("\\w+"). 
+      setMinTokenLength(4). 
+      setInputCol("sentence"). 
+      setOutputCol("words"). 
+      transform(sentenceData) 
+  
     /**
       * Work on CountVectorizer
       *
@@ -18,19 +32,20 @@ import org.apache.spark.ml.feature._
       * Experiment with changing the value of minDF
       */
 
-    val cvModel: CountVectorizerModel = new CountVectorizer()
-      .setInputCol("words")
-      .setOutputCol("features")
-      .setVocabSize(40)
-      .setMinDF(1)
-      .fit(wordsData)
+    val cvModel: CountVectorizerModel = new CountVectorizer().
+      setInputCol("words").
+      setOutputCol("features").
+      setVocabSize(40).
+      setMinDF(1).
+      fit(wordsData)
+      
+    cvModel.transform(wordsData).show(10)
 
    /**
    * alternatively, define CountVectorizerModel with a-priori vocabulary
    */
-    val cvm = new CountVectorizerModel(Array("a", "b", "c"))
-      .setInputCol("words")
-      .setOutputCol("features")
+    val cvm = new CountVectorizerModel(Array("a", "b", "c")).
+      setInputCol("words").
+      setOutputCol("features")
 
     cvModel.transform(wordsData).show(false)
-    }}
