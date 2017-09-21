@@ -17,11 +17,11 @@ Logger.getLogger("akka").setLevel(Level.OFF)
   * IMPORTANT: Uncomment the dataset below
   */
 
-val dataset = "data/kmeans/flightinfo/flights_nofeatures.csv"
+val dataset = "/data/kmeans/flightinfo/flights_nofeatures.csv"
 
-val inputData = spark.read
-  .option("header","true")
-  .option("inferSchema","true").csv(dataset)
+val inputData = spark.read.
+  option("header","true").
+  option("inferSchema","true").csv(dataset)
 
 
 
