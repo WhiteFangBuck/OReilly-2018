@@ -1,4 +1,3 @@
-{{
 
 import org.apache.spark.ml.attribute.Attribute
 import org.apache.spark.ml.feature._
@@ -16,10 +15,10 @@ val df = spark.createDataFrame(Seq(
 /**
   * StringIndexer Example
   */
-val indexer = new StringIndexer()
-      .setInputCol("category")
-      .setOutputCol("categoryIndex")
-      .fit(df)
+val indexer = new StringIndexer().
+      setInputCol("category").
+      setOutputCol("categoryIndex").
+      fit(df)
 
  val indexed = indexer.transform(df)
 
@@ -35,9 +34,9 @@ val indexer = new StringIndexer()
    * IndexToString Example
    */
 
- val converter = new IndexToString()
-      .setInputCol("categoryIndex")
-      .setOutputCol("originalCategory")
+ val converter = new IndexToString().
+      setInputCol("categoryIndex").
+      setOutputCol("originalCategory")
 
  val converted = converter.transform(indexed)
 
@@ -45,12 +44,11 @@ val indexer = new StringIndexer()
       s"column '${converter.getOutputCol}' using labels in metadata")
     converted.select("id", "categoryIndex", "originalCategory").show()
 
- val encoder = new OneHotEncoder()
-      .setInputCol("categoryIndex")
-      .setOutputCol("categoryVec")
+ val encoder = new OneHotEncoder().
+      setInputCol("categoryIndex").
+      setOutputCol("categoryVec")
 
 
 val encoded = encoder.transform(indexed)
     encoded.show()
     
-    }}
