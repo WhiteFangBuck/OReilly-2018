@@ -17,14 +17,14 @@ import org.apache.spark.sql.functions._
 Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
-var inputDir = "data/moviereviews.tsv"
-var stopWordFile = "data/stopwords.txt"
+var inputDir = "/data/moviereviews.tsv"
+var stopWordFile = "/data/stopwords.txt"
 
 val vocabSize: Int = 10000
 
-val df = spark.read.option("header", "true")
-    .option("sep", "\t")
-    .csv(inputDir)
+val df = spark.read.option("header", "true").
+    option("sep", "\t").
+    csv(inputDir)
 
  /**
    * Clean the HTML Data
@@ -42,13 +42,13 @@ val df = spark.read.option("header", "true")
    * Tokenization criteria
    * SetGaps or not
    */
-  val tokens = new RegexTokenizer()
-      .setGaps(false)
-      .setPattern("\\w+")
-      .setMinTokenLength(4)
-      .setInputCol("cleanedReview")
-      .setOutputCol("words")
-      .transform(cleanDF)
+  val tokens = new RegexTokenizer().
+      setGaps(false).
+      setPattern("\\w+").
+      setMinTokenLength(4).
+      setInputCol("cleanedReview").
+      setOutputCol("words").
+      transform(cleanDF)
 
   /**
     * Use stop words to remove or add the words from the list
@@ -56,71 +56,71 @@ val df = spark.read.option("header", "true")
     */
 
   val stopwords = spark.sparkContext.textFile(stopWordFile).collect
-  val filteredTokens = new StopWordsRemover()
-      .setStopWords(stopwords)
-      .setCaseSensitive(false)
-      .setInputCol("words")
-      .setOutputCol("filtered")
-      .transform(tokens)
+  val filteredTokens = new StopWordsRemover().
+      setStopWords(stopwords).
+      setCaseSensitive(false).
+      setInputCol("words").
+      setOutputCol("filtered").
+      transform(tokens)
 
   /**
     * Optionally use NGrams to form the feature vectors
     */
 
-    /* val ngram = new NGram()
-      .setInputCol("filtered")
-      .setOutputCol("ngrams")
-      .transform(filteredTokens)
+    /* val ngram = new NGram().
+      setInputCol("filtered").
+      setOutputCol("ngrams").
+      transform(filteredTokens)
 */
   /**
     * Use CountVectorizer to generate the numeric vectors
     */
 
-  val cvModel = new CountVectorizer()
-      .setInputCol("filtered")
-      .setOutputCol("features")
-      .setVocabSize(vocabSize)
-      .fit(filteredTokens)
+  val cvModel = new CountVectorizer().
+      setInputCol("filtered").
+      setOutputCol("features").
+      setVocabSize(vocabSize).
+      fit(filteredTokens)
 
-  val countVectors = cvModel
-      .transform(filteredTokens)
-      .select("id", "sentiment", "features")
+  val countVectors = cvModel.
+      transform(filteredTokens).
+      select("id", "sentiment", "features")
 
   /**
     * Index labels, adding metadata to the label column.
     * // Fit on whole dataset to include all labels in index.
     */
-  val labelIndexer = new StringIndexer()
-      .setInputCol("sentiment")
-      .setOutputCol("indexedLabel")
-      .fit(countVectors)
+  val labelIndexer = new StringIndexer().
+      setInputCol("sentiment").
+      setOutputCol("indexedLabel").
+      fit(countVectors)
 
-  val featureIndexer = new VectorIndexer()
-      .setInputCol("features")
-      .setOutputCol("indexedFeatures")
-      .setMaxCategories(4)
-      .fit(countVectors)
+  val featureIndexer = new VectorIndexer().
+      setInputCol("features").
+      setOutputCol("indexedFeatures").
+      setMaxCategories(4).
+      fit(countVectors)
 
   /**
     * Split the data into training and test sets (30% held out for testing)
     */
   val Array(trainingData, testData) = countVectors.randomSplit(Array(0.7, 0.3))
 
-  val rf = new RandomForestClassifier()
-      .setLabelCol("indexedLabel")
-      .setFeaturesCol("indexedFeatures")
-      .setNumTrees(200)
+  val rf = new RandomForestClassifier().
+      setLabelCol("indexedLabel").
+      setFeaturesCol("indexedFeatures").
+      setNumTrees(200)
 
-  val labelConverter = new IndexToString()
-      .setInputCol("prediction")
-      .setOutputCol("predictedLabel")
-      .setLabels(labelIndexer.labels)
+  val labelConverter = new IndexToString().
+      setInputCol("prediction").
+      setOutputCol("predictedLabel").
+      setLabels(labelIndexer.labels)
 
   /**
     * Use the pipeline to fit in the stages
     */
-  val pipeline = new Pipeline()
-      .setStages(Array(labelIndexer, featureIndexer, rf, labelConverter))
+  val pipeline = new Pipeline().
+      setStages(Array(labelIndexer, featureIndexer, rf, labelConverter))
 
   /**
     * Train model. This also runs the indexers.
@@ -141,10 +141,11 @@ val df = spark.read.option("header", "true")
     * Select (prediction, true label) and compute test error
     */
 
-  val evaluator = new MulticlassClassificationEvaluator()
-      .setLabelCol("indexedLabel")
-      .setPredictionCol("prediction")
-      .setMetricName("accuracy")
+  val evaluator = new MulticlassClassificationEvaluator().
+      setLabelCol("indexedLabel").
+      setPredictionCol("prediction").
+      setMetriName("accuracy")
+  
   val accuracy = evaluator.evaluate(predictions)
 
 
