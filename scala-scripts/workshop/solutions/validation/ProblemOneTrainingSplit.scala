@@ -63,7 +63,7 @@ val model = trainValidationSplit.fit(training)
 /**
   * Print out the predictions on the test
   */
-valresult = model.transform(test).
+val result = model.transform(test).
   select("features", "label", "prediction")
 
 result.printSchema()
