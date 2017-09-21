@@ -144,7 +144,7 @@ val df = spark.read.option("header", "true").
   val evaluator = new MulticlassClassificationEvaluator().
       setLabelCol("indexedLabel").
       setPredictionCol("prediction").
-      setMetriName("accuracy")
+      setMetricName("accuracy")
   
   val accuracy = evaluator.evaluate(predictions)
 
