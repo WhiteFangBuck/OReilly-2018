@@ -72,9 +72,12 @@ val filteredTokens = new StopWordsRemover().
   * Optionally use NGrams to form the feature vectors
   */
 
+val ngramNum = 4
+
 val ngram = new NGram().
       setInputCol("filtered").
       setOutputCol("ngrams").
+      setN(ngramNum).
       transform(filteredTokens)
 
 /**
@@ -87,10 +90,8 @@ val cvModel = new CountVectorizer().
       setVocabSize(vocabSize).
       fit(ngram)
 
-val ngramNum = 2
 val countVectors = cvModel.
       transform(ngram).
-      setN(ngramNum).
       select("docId", "features")
 
 /**
@@ -124,5 +125,3 @@ val lda = new LDA().
       a.map(vocabArray(_)).zip(b).foreach { case (term, weight) => println(s"$term\t$weight") }
       println(s"==================")
  }
-
-
