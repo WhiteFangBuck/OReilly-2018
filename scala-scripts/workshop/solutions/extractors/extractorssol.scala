@@ -23,8 +23,8 @@ import org.apache.spark.ml.feature._
       * Demonstrate this with CountVectorizer as well
       */
 
-    val hashingTF = new HashingTF()
-      .setInputCol("words").setOutputCol("rawFeatures").setNumFeatures(20)
+    val hashingTF = new HashingTF().
+      setInputCol("words").setOutputCol("rawFeatures").setNumFeatures(20)
 
     val featurizedData = hashingTF.transform(wordsData)
 
@@ -41,19 +41,19 @@ import org.apache.spark.ml.feature._
       * Experiment with changing the value of minDF
       */
 
-    val cvModel: CountVectorizerModel = new CountVectorizer()
-      .setInputCol("words")
-      .setOutputCol("features")
-      .setVocabSize(40)
-      .setMinDF(1)
-      .fit(wordsData)
+    val cvModel: CountVectorizerModel = new CountVectorizer().
+      setInputCol("words").
+      setOutputCol("features").
+      setVocabSize(40).
+      setMinDF(1).
+      fit(wordsData)
 
    /**
    * alternatively, define CountVectorizerModel with a-priori vocabulary
    */
-    val cvm = new CountVectorizerModel(Array("a", "b", "c"))
-      .setInputCol("words")
-      .setOutputCol("features")
+    val cvm = new CountVectorizerModel(Array("a", "b", "c")).
+      setInputCol("words").
+      setOutputCol("features")
 
     cvModel.transform(wordsData).show(false)
 
