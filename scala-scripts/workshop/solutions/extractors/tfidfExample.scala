@@ -1,4 +1,3 @@
-{{
 import org.apache.spark.ml.feature._
 
 
@@ -16,21 +15,27 @@ import org.apache.spark.ml.feature._
       * First solution - TF-IDF
       */
 
-    val tokenizer = new Tokenizer().setInputCol("sentence").setOutputCol("words")
+    val tokenizer = new Tokenizer().
+          setInputCol("sentence").
+          setOutputCol("words")
+    
     val wordsData = tokenizer.transform(sentenceData)
 
     /**
       * Demonstrate this with CountVectorizer as well
       */
 
-    val hashingTF = new HashingTF()
-      .setInputCol("words").setOutputCol("rawFeatures").setNumFeatures(20)
+    val hashingTF = new HashingTF().
+         setInputCol("words").
+         setOutputCol("rawFeatures").
+         setNumFeatures(20)
 
     val featurizedData = hashingTF.transform(wordsData)
 
-    val idf = new IDF().setInputCol("rawFeatures").setOutputCol("features")
-    val idfModel = idf.fit(featurizedData)
+    val idf = new IDF().setInputCol("rawFeatures").
+         setOutputCol("features")
+   
+  val idfModel = idf.fit(featurizedData)
 
     val rescaledData = idfModel.transform(featurizedData)
     rescaledData.select("label", "features").show()
-    }}
