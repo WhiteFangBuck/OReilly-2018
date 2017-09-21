@@ -20,19 +20,19 @@ import org.apache.spark.sql.SparkSession
     )).toDF("id", "sentence")
 
     val tokenizer = new Tokenizer().setInputCol("sentence").setOutputCol("words")
-    val regexTokenizer = new RegexTokenizer()
-      .setInputCol("sentence")
-      .setOutputCol("words")
-      .setPattern("\\W") // alternatively .setPattern("\\w+").setGaps(false)
+    val regexTokenizer = new RegexTokenizer().
+      setInputCol("sentence").
+      setOutputCol("words").
+      setPattern("\\W") // alternatively .setPattern("\\w+").setGaps(false)
 
     val countTokens = udf { (words: Seq[String]) => words.length }
 
     val tokenized = tokenizer.transform(sentenceDataFrame)
-    tokenized.select("sentence", "words")
-        .withColumn("tokens", countTokens(col("words"))).show(false)
+    tokenized.select("sentence", "words").
+        withColumn("tokens", countTokens(col("words"))).show(false)
 
     val regexTokenized = regexTokenizer.transform(sentenceDataFrame)
-    regexTokenized.select("sentence", "words")
-        .withColumn("tokens", countTokens(col("words"))).show(false)
+    regexTokenized.select("sentence", "words").
+        withColumn("tokens", countTokens(col("words"))).show(false)
 
 // scalastyle:on println
