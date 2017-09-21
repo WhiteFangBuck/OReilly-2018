@@ -28,8 +28,6 @@ Logger.getLogger("akka").setLevel(Level.OFF)
 
 var dataset =  "/data/Housing.csv"
 
-import spark.implicits._
-
   /**
     * Create the data frame
     */
@@ -91,9 +89,7 @@ val lr = new LinearRegression().
 /**
   * Gather the steps and create the pipeline
   */
-val steps = categoricalIndexers ++
-  categoricalEncoders ++
-  Array(assembler, lr)
+val steps = categoricalIndexers ++ categoricalEncoders ++ Array(assembler, lr)
 
 val pipeline = new Pipeline().setStages(steps)
 
