@@ -28,8 +28,8 @@ import org.apache.spark.sql.SparkSession
 Logger.getLogger("org").setLevel(Level.OFF)
 Logger.getLogger("akka").setLevel(Level.OFF)
 
-val sqlContext = new org.apache.spark.sql.SQLContext(sc)
-import sqlContext.implicits._
+//val sqlContext = new org.apache.spark.sql.SQLContext(sc)
+//import sqlContext.implicits._
 
 // define the schema of input data
 val customSchema = StructType(Array(
@@ -64,30 +64,32 @@ val customSchema = StructType(Array(
     ))
 
 // read in the data into a DataFrame
-val ds = spark.read.option("inferSchema", "false").schema(customSchema).csv("data/churn.all")
+val ds = spark.read.option("inferSchema", "false").schema(customSchema).csv("/data/churn.all")
 ds.printSchema()
 
 // index the intl_plan column
-val indexer = new StringIndexer()
-      .setInputCol("intl_plan")
-      .setOutputCol("intl_plan_idx")
+val indexer = new StringIndexer().
+      setInputCol("intl_plan").
+      setOutputCol("intl_plan_idx")
+  
 val indexed = indexer.fit(ds).transform(ds)
 
 indexed.printSchema()
 
 // index the churned column
-val churn = new StringIndexer()
-      .setInputCol("churned")
-      .setOutputCol("churned_idx")
+val churn = new StringIndexer().
+      setInputCol("churned").
+      setOutputCol("churned_idx")
+  
 val churned = churn.fit(indexed).transform(indexed)
 
 // vector assembler
-val assembler = new VectorAssembler()
-      .setInputCols(Array("account_length", "intl_plan_idx", "number_vmail_messages", "total_day_minutes",
+val assembler = new VectorAssembler().
+      setInputCols(Array("account_length", "intl_plan_idx", "number_vmail_messages", "total_day_minutes",
         "total_day_calls", "total_day_charge", "total_eve_minutes", "total_eve_calls",
         "total_night_minutes", "total_night_calls", "total_night_charge", "total_intl_minutes",
-        "total_intl_calls", "total_intl_charge", "number_customer_service_calls"))
-      .setOutputCol("features")
+        "total_intl_calls", "total_intl_charge", "number_customer_service_calls")).
+      setOutputCol("features")
 
 val assemdata = assembler.transform(churned)
 assemdata.printSchema()
@@ -96,10 +98,10 @@ assemdata.printSchema()
 val Array(trainingData, testData) = assemdata.randomSplit(Array(0.7, 0.3), 1000)
 
 // Train a RandomForest model.
-val rf = new RandomForestClassifier()
-      .setLabelCol("churned_idx")
-      .setFeaturesCol("features")
-      .setNumTrees(30)
+val rf = new RandomForestClassifier().
+      setLabelCol("churned_idx").
+      setFeaturesCol("features").
+      setNumTrees(30)
 
 // Fit the model
 val rfModel = rf.fit(trainingData)
@@ -111,17 +113,17 @@ val predict = rfModel.transform(testData)
 predict.select("churned", "prediction").show(1000)
 
 // evaluate the results
-val evaluator = new BinaryClassificationEvaluator()
-      .setLabelCol("churned_idx")
-      .setRawPredictionCol("prediction")
+val evaluator = new BinaryClassificationEvaluator().
+      setLabelCol("churned_idx").
+      setRawPredictionCol("prediction")
 
 val accuracy = evaluator.evaluate(predict)
 println("Test Error = " + (1.0 - accuracy))
 
 
 // evaluate the model
-val predictionsAndLabels = predict.select("prediction", "churned_idx")
-      .map(row => (row.getDouble(0), row.getDouble(1)))
+val predictionsAndLabels = predict.select("prediction", "churned_idx").
+      map(row => (row.getDouble(0), row.getDouble(1)))
 
 // compute confusion matrix
 val metrics = new MulticlassMetrics(predictionsAndLabels.rdd)
