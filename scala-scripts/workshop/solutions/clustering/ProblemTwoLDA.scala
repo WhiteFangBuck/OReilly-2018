@@ -37,8 +37,13 @@ val vocabSize: Int = 10000
 
 val rawTextRDD = sc.wholeTextFiles(inputDir).map(_._2)
 val docDF = rawTextRDD.
-            zipWithIndex.
-            toDF("text", "docId")
+            toDF("text")
+
+/**
+ *val docDF = rawTextRDD.
+ *          zipWithIndex.
+ *           toDF("text", "docId")
+ **/
 
 /**
   * Use RegEx Tokenizer to tokenize the words using several parameters, such as
@@ -92,7 +97,7 @@ val cvModel = new CountVectorizer().
 
 val countVectors = cvModel.
       transform(ngram).
-      select("docId", "features")
+      select("features")
 
 /**
   * Initialize the LDA
