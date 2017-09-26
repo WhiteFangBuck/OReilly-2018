@@ -83,13 +83,22 @@ Nice to have
 
 
 hadoop fs -copyToLocal  /strata-nyc/transferlearning.tgz .
+
+
 tar -zxvf transferlearning.tgz
+
 pip install tensorflow  
+
 pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.3.0-cp27-none-linux_x86_64.whl
+
 pip install numpy scipy
+
 pip install scikit-learn
+
 pip install pillow
+
 pip install h5py
+
 pip install keras
 
 
