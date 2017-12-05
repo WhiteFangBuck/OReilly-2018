@@ -1,4 +1,4 @@
-# Strata-2017-NYC
+# Strata-2017-Singapore
 
 This tutorial can either be run in spark-shell or in an IDE (IntelliJ or Scala IDE for Eclipse)
 
