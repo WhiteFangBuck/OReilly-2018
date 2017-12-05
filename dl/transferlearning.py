@@ -85,8 +85,8 @@ def plot_training(history):
  plt.title('Training and validation loss')
  plt.show()
   
-train_dir="/home/cdsw/sample_set/train_dir"
-val_dir="/home/cdsw/sample_set/val_dir"
+train_dir="/usr/local/strata/sample_set/train_dir"
+val_dir="/usr/local/strata/sample_set/val_dir"
 
 nb_train_samples = get_nb_files(train_dir)
 nb_classes = len(glob.glob(train_dir + "/*"))
@@ -159,15 +159,3 @@ print elapsed
 """Ref: http://bit.ly/2i4ZraH"""
 
                       
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-
-                           
-                           
