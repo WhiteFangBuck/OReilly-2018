@@ -45,7 +45,7 @@ def plot_preds(image, preds):
 """ Load any of the pre-built 
     models and see if your image is 
     classified accurately"""
-model = load_model("/home/cdsw/pretrained_models/model_50_epochs")
+model = load_model("/user/local/strata/pretrained_models/model_50_epochs")
 
 response = requests.get("http://bit.ly/2h5hOIB")
 img = Image.open(BytesIO(response.content))
