@@ -10,13 +10,13 @@ Java/JDK 1.8+ has to be installed on the laptop before proceeding with the steps
 
 ## Running in spark-shell
 
-### Download Spark 2.3.0
+### Download Spark 2.3.1
 
-Download Spark 2.3.0 from here : http://spark.apache.org/downloads.html
+Download Spark 2.3.1 from here : http://spark.apache.org/downloads.html
 
 Direct Download link : https://www.apache.org/dyn/closer.lua/spark/spark-2.3.1/spark-2.3.1-bin-hadoop2.7.tgz
 
-### Install Spark 2.2.0 on Mac/Linux
+### Install Spark 2.3.1 on Mac/Linux
 
 tar -zxvf spark-2.3.1-bin-hadoop2.7.tgz
 
