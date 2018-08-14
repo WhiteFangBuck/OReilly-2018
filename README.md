@@ -34,7 +34,7 @@ Add the spark bin directory to Path : ...\spark-2.3.1-bin-hadoop2.7\bin
 
 ### Set up winutils.exe on Windows (not needed on mac)
 
-- download winutils.exe from https://github.com/steveloughran/winutils/tree/master/hadoop-2.6.0/bin
+- download winutils.exe from https://github.com/steveloughran/winutils/tree/master/hadoop-2.7.1/bin
 - move it to c:\hadoop\bin
 - set HADOOP_HOME in your environment variables
     - HADOOP_HOME = C:\hadoop
