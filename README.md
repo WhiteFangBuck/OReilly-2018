@@ -6,31 +6,31 @@ Below are the steps for the setup.
 
 ## Pre-requisites for Installation
 
-Java/JDK 1.7+ has to be installed on the laptop before proceeding with the steps below.
+Java/JDK 1.8+ has to be installed on the laptop before proceeding with the steps below.
 
 ## Running in spark-shell
 
-### Download Spark 2.1.0
+### Download Spark 2.3.0
 
-Download Spark 2.1.0 from here : http://spark.apache.org/downloads.html
+Download Spark 2.3.0 from here : http://spark.apache.org/downloads.html
 
-Direct Download link : http://mirrors.ukfast.co.uk/sites/ftp.apache.org/spark/spark-2.1.1/spark-2.1.1-bin-hadoop2.7.tgz
+Direct Download link : https://www.apache.org/dyn/closer.lua/spark/spark-2.3.1/spark-2.3.1-bin-hadoop2.7.tgz
 
-### Install Spark 2.1.0 on Mac/Linux
+### Install Spark 2.2.0 on Mac/Linux
 
-tar -zxvf spark-2.1.0-bin-hadoop2.7.tgz
+tar -zxvf spark-2.3.1-bin-hadoop2.7.tgz
 
-export PATH=$PATH:/<path_to_downloaded_spark>/spark-2.1.0-bin-hadoop2.7/bin
+export PATH=$PATH:/<path_to_downloaded_spark>/spark-2.3.1-bin-hadoop2.7/bin
 
 ### Running spark-shell on mac
 
 - spark-shell
 
-### Install Spark 2.1.0 on Windows
+### Install Spark 2.3.1 on Windows
 
-Unzip spark-2.1.0-bin-hadoop2.7.tgz
+Unzip spark-2.3.1-bin-hadoop2.7.tgz
 
-Add the spark bin directory to Path : ...\spark-2.1.0-bin-hadoop2.7\bin
+Add the spark bin directory to Path : ...\spark-2.3.1-bin-hadoop2.7\bin
 
 ### Set up winutils.exe on Windows (not needed on mac)
 
@@ -72,9 +72,9 @@ You can either use IntelliJ or Scala IDE for Eclipse.
 
 Have the following downloaded before the session
 
-- JDK installed (> 1.7.x)
+- JDK installed (> 1.8.x)
 - Spark binaries
-- https://github.com/WhiteFangBuck/strata-sanjose-2017
+- https://github.com/WhiteFangBuck/OReilly-2018
 
 
 ## Git
